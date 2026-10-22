@@ -334,3 +334,150 @@ https://www.dnoticias.pt/2026/4/16/488509-jpp-reafirma-que-a-habitacao-e-hoje-o-
 **F64** — Incentivos à fixação no interior: Santander Salto, *Incentivos para morar no interior de Portugal* (atualizado a 11-06-2026), sobre o programa Emprego Interior MAIS; Resolução do Conselho de Ministros n.º 16/2020 (programa Chave na Mão / mobilidade habitacional). Secundária + primária ●●○
 https://www.santander.pt/salto/incentivos-para-morar-no-interior-de-portugal
 https://portugal2020.pt/wp-content/uploads/rcm16_2020-1.pdf
+
+## 12. Fichas de soluções — 1.º lote
+
+### S07 — Renda a custo
+
+<a id="f65"></a>
+**F65** — Irlanda, *cost rental*: Law Society Gazette, *Home completions head towards 40,000 — economist* (set. 2026, cita estudo da Deloitte: ≈ 2.350 casas de renda a custo em 2025); Irish Examiner, *Delivery of cost-rental homes for Cork's 'squeezed middle' set to plummet*; Oireachtas, pergunta parlamentar de 15-02-2024 (entregas de 2021). Secundária ●●○
+https://www.lawsociety.ie/gazette/top-stories/2026/september/home-completions-head-towards-40000--economist/
+https://www.irishexaminer.com/news/munster/arid-41901406.html
+https://www.oireachtas.ie/ga/debates/question/2024-02-15/75/
+
+<a id="f66"></a>
+**F66** — Áustria, associações de habitação de lucro limitado (LPHA): Housing Europe, *Price dampening effect of limited-profit housing* (2025); resumo do estudo WIFO *The economic impacts of Limited-Profit Housing Associations* (encomendado com a federação do setor); CIRIEC, *Limited Profit Housing Associations in Austria* (2022). Primária (estudos) mas **parcialmente interessada** ●●○
+https://housingeurope.eu/wp-content/uploads/2025/01/Housing%20Europe%20-%20Price%20dampening%20effect%20of%20limited-profit%20housing.pdf
+https://www.housinginternational.coop/wp-content/uploads/2022/07/Summary-WIFO-study_The-economic-impacts-of-limited-profit-housing-associations.pdf
+https://www.housinginternational.coop/wp-content/uploads/2022/07/CIRIEC-WORKING-PAPER_Limited-Profit-Housing-Associations-in-Austria_May2022-1.pdf
+
+<a id="f67"></a>
+**F67** — Dinamarca, habitação *almen* e Landsbyggefonden: BL (federação da habitação não lucrativa), parecer de 19-01-2026; IT University of Copenhagen, *Governing and financing affordable housing at the intersection of…*; Altinget (crítica ao uso político do fundo). Primária + interessada + secundária ●●○
+https://bl.dk/media/ghxm520l/20260119-hoeringssvar-hoering-af-eu-specialudvalg_den-europaeiske-plan-for-oekonomisk-overkommelige-boliger.pdf
+https://pure.itu.dk/da/publications/governing-and-financing-affordable-housing-at-the-intersection-of/
+https://www.altinget.dk/by/artikel/arkitekt-landsbyggefonden-blev-skabt-som-lejernes-eget-sikkerhedsnet-nu-er-den-i-praksis-blevet-statens-politiske-pengekasse
+
+### S10 — Política de solos
+
+<a id="f68"></a>
+**F68** — Países Baixos, política ativa de solos: Scottish Land Commission, *Housing land allocation, assembly and delivery — lessons from Europe*; Green European Journal, *Land policy in practice: a tale of two Dutch cities*; estudo sobre pequenos municípios neerlandeses (*"We don't do it, unless."*). Primária (estudos) + secundária ●●○
+https://www.landcommission.gov.scot/downloads/5fbcd4926b083_HOUSING%20LAND%20ALLOCATION,%20ASSEMBLY%20AND%20DELIVERY%20-%20LESSONS%20FROM%20EUROPE.pdf
+https://www.greeneuropeanjournal.eu/land-policy-in-practice-a-tale-of-two-dutch-cities/
+https://search.fid-benelux.de/Record/base-26835646
+
+<a id="f69"></a>
+**F69** — Munique, SoBoN (*Sozialgerechte Bodennutzung*): comunicação FIG 2022 (Fittkau); Immobilien Zeitung, *The city of Munich and its developers agree on a new SoBoN*. Secundária / técnica ●●○
+https://www.fig.net/resources/proceedings/fig_proceedings/fig2022/papers/ts09e/TS09E_fittkau_11528.pdf
+https://www.iz.de/translatednews/news/-the-city-of-munich-and-its-developers-agree-on-a-new-sobon-640311
+
+<a id="f70"></a>
+**F70** — Ulm, política de reserva de solos: apresentação de Ulrich Soldner (Cidade de Ulm, 2021); submissão de Thiemo Fetzer ao Governo do Reino Unido (2023). Primária (municipal) + académica ●●○
+https://housingrightswatch.org/sites/default/files/2.%20English%20-Bodenpolitik%20der%20Stadt%20Ulm%20-%20Ulrich%20Soldner.pdf
+https://assets.publishing.service.gov.uk/media/65427e301f1a600010360c1d/Professor_Thiemo_Fetzer__-_Publication_Version.pdf
+
+<a id="f71"></a>
+**F71** — Singapura: Sock Yong Phang (Singapore Management University), apresentação de 2024 sobre política de habitação e solos. Académica ●●○
+https://dbedt.hawaii.gov/hhfdc/files/2024/09/Phang-HHFDC-Sep-13-2024.pdf
+
+<a id="f72"></a>
+**F72** — Viena, categoria de zonamento "habitação subsidiada" (*Widmungskategorie geförderter Wohnbau*, em vigor desde 01-03-2019): Urban Initiative / Portico, *Cost rent and land banking — Vienna*; IBA Wien, *Widmungskategorie geförderter Wohnbau: eine Zwischenbilanz*. Secundária ●●○
+https://portico.urban-initiative.eu/urban-practices/cost-rent-and-land-banking-vienna-8723
+https://www.iba-wien.at/en/veranstaltungen/uebersicht/past-event-detail/event/widmungskategorie-gefoerderter-wohnbau-eine-zwischenbilanz-urban-future-talk-02
+
+<a id="f73"></a>
+**F73** — Portugal, direito de superfície para habitação acessível (Portaria n.º 69-A/2024, ao abrigo da Lei 56/2023): Cuatrecasas, *Regulamentação: arrendamento acessível e habitação a custos controlados*; Renascença, *Câmara de Lisboa quer ceder terrenos a privados para construção de 1.500 casas…* (18-07-2022). Secundária ●●○
+https://www.cuatrecasas.com/pt/portugal/imobiliario/art/regulamentacao-arrendamento-acessivel-e-habitacao-custos-controlados-1
+https://rr.pt/noticia/pais/2022/07/18/camara-de-lisboa-quer-ceder-terrenos-a-privados-para-construcao-de-1500-casas-de-habitacao-acessivel/292736/
+
+### S12 — Imposto sobre casas vazias
+
+<a id="f74"></a>
+**F74** — Cidade de Vancouver, *2025 Empty Homes Tax Annual Report* e comunicado de dezembro de 2025. Primária (governo local) ●●●
+https://vancouver.ca/files/cov/2025-empty-homes-tax-annual-report.pdf
+https://vancouver.ca/news-calendar/eht-drives-housing-vacancies-record-low-dec-2025.aspx
+
+<a id="f75"></a>
+**F75** — Segú, M. (2020), *The impact of taxing vacancy on housing markets: Evidence from France*, *Journal of Public Economics*, 185, 104079. DOI: 10.1016/j.jpubeco.2019.104079. Primária ●●●
+https://ideas.repec.org/a/eee/pubeco/v185y2020ics0047272719301409.html
+
+<a id="f76"></a>
+**F76** — Portugal, IMI agravado para prédios devolutos (art. 112.º do CIMI): idealista, *IMI de casas devolutas: taxa paga a triplicar nestes 24 municípios*; idealista, *Só 22 autarquias agravam IMI…*; idealista, *Mais de 8.000 proprietários de casas devolutas recebem fatura a triplicar*; Deloitte, decisão CAAD sobre zonas de pressão urbanística. Secundária ●●○
+https://www.idealista.pt/news/node/51546
+https://www.idealista.pt/news/node/35616
+https://www.idealista.pt/news/node/36182
+https://www.deloitte.com/pt/pt/services/tax/perspectives/taxlab/agravamento-imi-predios-devolutos-zonas-pressao-urbanistica-caad.html
+
+### S16 — Regulação do alojamento local
+
+<a id="f77"></a>
+**F77** — Garcia-López, M.-À.; Jofre-Monseny, J.; Martínez-Mazza, R.; Segú, M. (2020), *Do short-term rental platforms affect housing markets? Evidence from Airbnb in Barcelona*, *Journal of Urban Economics*, 119, 103278. DOI: 10.1016/j.jue.2020.103278. Primária ●●●
+https://ddd.uab.cat/record/237144
+
+<a id="f78"></a>
+**F78** — Koster, H.; van Ommeren, J.; Volkhausen, N., *Short-term rentals and the housing market: Quasi-experimental evidence from Airbnb in Los Angeles* (CPB / VU Amsterdam; publicado no *Journal of Urban Economics*, 2021). Primária ●●● — valores citados a partir de versões de trabalho
+https://cpb.nl/seminar-short-term-rentals-and-housing-market-quasi-experimental-evidence-airbnb-los-angeles
+
+<a id="f79"></a>
+**F79** — Barcelona, fim das licenças de apartamentos turísticos em 2028 e acórdão do Tribunal Constitucional espanhol (2025): Catalan News, *Barcelona mayor welcomes Constitutional Court ruling on tourist apartment restrictions*. Secundária ●●○
+https://www.catalannews.com/society-science/item/barcelona-mayor-welcomes-constitutional-court-ruling-on-tourist-apartment-restrictions
+
+<a id="f80"></a>
+**F80** — Nova Iorque, *Local Law 18* (2023): Hospitality Net / Airbnb, *NYC's rules one year later: Higher prices for travelers, no housing impact* (**interessada ●○○**); BiggerPockets, sobre estudo de 2025 relativo ao efeito nos preços dos hotéis (secundária ●○○).
+https://www.hospitalitynet.org/news/4123549.html
+https://www.biggerpockets.com/blog/short-term-rental-bans-in-new-york-only-made-hotels-more-expensive
+
+<a id="f81"></a>
+**F81** — Portugal, Decreto-Lei n.º 76/2024, de 23 de outubro (alterações ao regime do alojamento local): texto no Portal das Finanças; Cuatrecasas, *Alterações ao regime do alojamento local*. Primária + secundária ●●●
+https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Decreto_Lei_76_2024.pdf
+https://www.cuatrecasas.com/pt/portugal/imobiliario/art/alteracoes-ao-regime-do-alojamento-local-1
+
+### S19 — Limites às rendas
+
+<a id="f82"></a>
+**F82** — Kholodilin, K. A. (2024), *Rent control effects through the lens of empirical research: An almost complete review of the literature*, *Journal of Housing Economics*, 63, 101983. DOI: 10.1016/j.jhe.2024.101983. Contagens de estudos via resumo do IEA. Primária ●●●
+https://www.diw.de/de/diw_01.c.893635.de/publikationen/externe_referierte_aufsaetze/2024_0000/rent_control_effects_through_the_lens_of_empirical_research__an_almost_complete_review_of_the_literature.html
+https://iea.org.uk/review-rent-control-effects-through-the-lens-of-empirical-research-an-almost-complete-review-of-the-literature-by-konstantin-kholodilin/
+
+<a id="f83"></a>
+**F83** — Diamond, R.; McQuade, T.; Qian, F. (2019), *The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco*, *American Economic Review*, 109(9), 3365–3394 (versão de trabalho: NBER w24181). Primária ●●●
+https://www.nber.org/papers/w24181.pdf
+
+<a id="f84"></a>
+**F84** — Hahn, A.; Kholodilin, K.; Waltl, S.; Fongoni, M. (2024), *Forward to the Past: Short-Term Effects of the Rent Freeze in Berlin*, *Management Science*. Primária ●●●
+https://www.diw.de/de/diw_01.c.873005.de/publikationen/externe_referierte_aufsaetze/2024_0003/forward_to_the_past__short-term_effects_of_the_rent_freeze_in_berlin.html
+
+<a id="f85"></a>
+**F85** — DIW Berlin, *Die Mietpreisbremse wirkt bisher nicht* (Wochenbericht 22/2016) e projeto de avaliação para o Ministério da Justiça alemão. Primária ●●○
+https://www.diw.de/de/diw_01.c.535255.de/publikationen/wochenberichte/2016_22_1/die_mietpreisbremse_wirkt_bisher_nicht.html
+
+<a id="f86"></a>
+**F86** — ESRI (Irlanda), *Exploring rent pressure zones: Ireland's recent rent control regime* (mar. 2025); Irish Times, *Rent pressure zones 'effective' in controlling rents but have triggered fall-off in supply* (27-03-2025); Housing Agency, revisão das RPZ (2025). Primária + secundária ●●●
+https://esri.ie/publications/exploring-rent-pressure-zones-irelands-recent-rent-control-regime
+https://www.irishtimes.com/business/economy/2025/03/27/rent-pressure-zones-effective-in-controlling-rents-but-have-triggered-fall-off-in-supply-says-esri/
+https://www.housingagency.ie/sites/default/files/2025-06/Final%20Review%20RPZ%20and%20Policy%20Options%20for%20Rent%20Controls%20in%20PRS.pdf
+
+### S25 — Apoios à compra
+
+<a id="f87"></a>
+**F87** — Carozzi, F.; Hilber, C.; Yu, X. (2024), *On the economic impacts of mortgage credit expansion policies: evidence from Help to Buy*, *Journal of Urban Economics*, 139, 103611. DOI: 10.1016/j.jue.2023.103611 (acesso aberto). Primária ●●●
+https://eprints.lse.ac.uk/120627
+
+<a id="f88"></a>
+**F88** — AHURI (Austrália), *Do first homebuyer assistance programs work? Australian and international case studies*, Final Report 381 (2022). Primária ●●●
+https://www.ahuri.edu.au/sites/default/files/documents/2022-07/PES-FR381-Do-first-homebuyer-assistance-programs-work-Australian-and-international-case-studies.pdf
+
+<a id="f89"></a>
+**F89** — Clemente-Casinhas, L.; Vale, S. (ISCTE-IUL), *Exemption or illusion? The impact of a youth tax policy on house asking prices in Portugal*, *Real Estate Economics*. Relatado por Renascença (06-01-2026) e idealista. Primária ●●● — números citados via imprensa ●●○
+https://rr.pt/especial/pais/2026/01/06/beneficio-fiscal-para-jovens-comprarem-casa-foi-absorvido-pelo-aumento-dos-precos-em-poucos-meses/454144/
+https://www.idealista.pt/news/node/73198
+https://ciencia.iscte-iul.pt/publications/assessing-the-impact-of-youth-tax-exemptions-on-housing-prices-evidence-from-portugal/107860
+
+<a id="f90"></a>
+**F90** — Renascença, *Isenção de IMT beneficiou 70 mil jovens e garantia pública 23 mil* (07-01-2026); idealista, *Isenção de IMT Jovem pesa 146 milhões nas contas públicas em 2025*. Secundária ●●○
+https://rr.pt/noticia/economia/2026/01/07/isencao-de-imt-beneficiou-70-mil-jovens-e-garantia-publica-23-mil/454301/
+https://www.idealista.pt/news/taxonomy/term/14603
+
+<a id="f91"></a>
+**F91** — Programa de Arrendamento Acessível: idealista, *Programa de Arrendamento Acessível em balanço: 20 contratos em dois meses* (2019); idealista, *PAA: Governo vai lançar campanha publicitária para promover rendas acessíveis*. Secundária ●●○
+https://www.idealista.pt/news/node/40728
+https://www.idealista.pt/news/node/43897
