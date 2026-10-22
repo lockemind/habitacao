@@ -43,7 +43,7 @@ Reúne dados, estudos e experiências de outros países sobre a crise da habita�
 | S2 | [Catálogo de opções (lista longa)](solucoes/02-catalogo-de-opcoes.md) | ✅ proposta para validação |
 | S3 | Fichas de evidência por opção — [1.º lote](solucoes/README.md#fichas-disponíveis-1º-lote) e [2.º lote](solucoes/README.md#fichas-disponíveis-2º-lote) | 🔄 12 de 33 |
 | S4 | [Avaliação comparada](solucoes/03-avaliacao-comparada.md) | 🔄 preliminar (12 opções) |
-| S5 | Pacotes e cenários | ⏳ |
+| S5 | [Pacotes e cenários](solucoes/04-pacotes-e-cenarios.md) | 🔄 preliminar |
 | S6 | Consulta pública | ⏳ |
 
 ## Referências

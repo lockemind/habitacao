@@ -213,7 +213,7 @@ Algumas opções aparecem bem colocadas em **mais de um perfil**: **S12** (casas
 
 ## 8. Próximo passo
 
-Esta avaliação prepara a etapa **S5 — Pacotes e cenários**: combinar opções complementares em pacotes coerentes, por horizonte temporal e tipo de território, e explicitar os conflitos que cada pacote implica.
+Esta avaliação prepara a etapa **[S5 — Pacotes e cenários](04-pacotes-e-cenarios.md)**: combinar opções complementares em pacotes coerentes, por horizonte temporal e tipo de território, e explicitar os conflitos que cada pacote implica.
 
 ---
 
