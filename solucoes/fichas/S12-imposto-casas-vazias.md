@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S16 Regulação do AL](S16-regulacao-alojamento-local.md)
 
 **Eixo:** 3 — Usar melhor as casas que já existem · **Causas:** oferta (stock subaproveitado) · **Territórios:** A, B, C · **Objetivos:** O2, O1
-**Força da evidência:** **B** — uma avaliação causal rigorosa (França) e dados administrativos consistentes (Vancouver) · **Estado:** rascunho para revisão
+**Força da evidência:** **B** — uma avaliação causal rigorosa (França) e dados administrativos consistentes (Vancouver) · **Estado:** revista (v2)
 
 ---
 
@@ -37,6 +37,14 @@ Um imposto, ou um agravamento de um imposto existente, sobre casas que ficam **v
 - **Fiscalização:** sem cadastro fiável de ocupação (consumos de água e eletricidade, domicílios fiscais), há fuga.
 - **Receita decrescente:** se funciona, cobra cada vez menos (Vancouver observou queda de receita à medida que a vacância descia) [F74](../../referencias/fontes.md#f74).
 
+### Argumentos em confronto
+
+| Quem defende argumenta que… | Quem critica argumenta que… |
+|---|---|
+| Uma casa vazia numa zona de carência desperdiça um bem escasso | O proprietário tem o direito de dispor da sua casa |
+| Há evidência causal de que reduz a vacância | Muitas casas estão vazias por razões alheias à vontade do dono (heranças, obras, falta de meios) |
+| A receita pode financiar habitação | É difícil de fiscalizar e gera custos administrativos e litígios |
+
 ---
 
 ## 4. Já existe em Portugal?
@@ -54,7 +62,7 @@ Um imposto, ou um agravamento de um imposto existente, sobre casas que ficam **v
 
 ## 5. Transferibilidade para Portugal
 
-- O **instrumento já existe**; o problema é de **aplicação**: poucos municípios o usam, a identificação é difícil e as multas são baixas face aos ganhos esperados com a valorização.
+- O **instrumento já existe**; o problema parece ser de **aplicação** (juízo interpretativo): poucos municípios o usam, a identificação é difícil e as multas são baixas face aos ganhos esperados com a valorização.
 - O modelo francês (imposto **nacional** aplicado automaticamente em zonas tensas) e o de Vancouver (**autodeclaração obrigatória**) respondem precisamente a esses dois problemas.
 - Uma grande parte da vacância portuguesa está **fora das zonas de pressão** (interior) ou presa em **heranças**; aí o imposto não é a ferramenta certa.
 

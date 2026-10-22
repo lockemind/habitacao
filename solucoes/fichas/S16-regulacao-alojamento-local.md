@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S12 Casas vazias](S12-imposto-casas-vazias.md)
 
 **Eixo:** 3 — Usar melhor as casas que já existem · **Causas:** turismo e AL · **Territórios:** A, C · **Objetivos:** O1, O2
-**Força da evidência:** **B** — vários estudos causais sobre o efeito do AL nos preços (incluindo em Portugal) e um sobre o efeito de restrições; pouca evidência independente sobre as proibições mais recentes · **Estado:** rascunho para revisão
+**Força da evidência:** **B** — vários estudos causais sobre o efeito do AL nos preços (incluindo em Portugal) e um sobre o efeito de restrições; pouca evidência independente sobre as proibições mais recentes · **Estado:** revista (v2)
 
 ---
 
@@ -58,6 +58,14 @@ Antes de avaliar a regulação, importa saber **quanto pesa o AL**. Três estudo
 - **Turismo mais caro e transferência para hotéis** (Nova Iorque) [F80](../../referencias/fontes.md#f80).
 - **Impacto no rendimento das famílias** que vivem do AL e na reabilitação dos centros: o estudo técnico português sobre Lisboa avalia precisamente este efeito no licenciamento de obras [F29](../../referencias/fontes.md#f29).
 - **Fiscalização:** sem registo obrigatório nas plataformas, as regras são contornadas.
+
+### Argumentos em confronto
+
+| Quem defende a regulação argumenta que… | Quem a critica argumenta que… |
+|---|---|
+| O AL retira casas à habitação nas zonas mais pressionadas e transforma os bairros | O AL ajudou a reabilitar centros degradados e é fonte de rendimento para muitas famílias |
+| Há evidência causal de efeito nos preços locais | O efeito médio é pequeno; o problema principal é a falta de oferta |
+| O turismo tem de ser compatível com a vida dos residentes | As restrições encarecem o alojamento turístico e beneficiam os hotéis (Nova Iorque) |
 
 ---
 

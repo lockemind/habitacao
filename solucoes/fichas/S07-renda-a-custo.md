@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S10 Política de solos](S10-politica-de-solos.md), [S19 Limites às rendas](S19-limites-as-rendas.md)
 
 **Eixo:** 2 — Setor público, cooperativo e sem fins lucrativos · **Causas:** oferta, arrendamento · **Territórios:** A, B, C, D · **Objetivos:** O3, O1, O4
-**Força da evidência:** **C** — longa experiência institucional (Áustria, Dinamarca), mas poucas avaliações causais independentes do efeito nos preços · **Estado:** rascunho para revisão
+**Força da evidência:** **C** — longa experiência institucional (Áustria, Dinamarca), mas poucas avaliações causais independentes do efeito nos preços · **Estado:** revista (v2)
 
 ---
 
@@ -45,6 +45,15 @@ Duas ideias distinguem este modelo da habitação social tradicional:
 - **Quem entra?** Com procura muito superior à oferta, as listas de espera e os critérios de acesso tornam-se decisivos.
 
 **Avaliação causal:** não se encontrou nenhuma avaliação quasi-experimental independente do efeito do setor sobre as rendas de mercado. A evidência é sobretudo **comparativa e institucional**.
+
+### Argumentos em confronto
+
+| Quem defende argumenta que… | Quem critica argumenta que… |
+|---|---|
+| Cria uma alternativa permanente ao mercado para a classe média | Exige muito dinheiro público durante décadas antes de ter escala |
+| Depois de pagas, as casas financiam novas casas (Dinamarca) | A gestão pública pode gerar listas de espera, favoritismo e degradação |
+| Um setor grande trava as rendas de mercado por concorrência (Áustria) | A estimativa desse efeito vem de estudos ligados ao próprio setor |
+| Dá segurança de longo prazo aos inquilinos | Compete com a construção privada pelos mesmos terrenos e trabalhadores |
 
 ---
 

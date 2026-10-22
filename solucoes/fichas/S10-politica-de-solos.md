@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S07 Renda a custo](S07-renda-a-custo.md)
 
 **Eixo:** 2 — Setor público, cooperativo e sem fins lucrativos · **Causas:** oferta · **Territórios:** A, B, C, D · **Objetivos:** O3, O2, O1
-**Força da evidência:** **C** — casos longos e bem documentados, sem avaliações causais comparativas · **Estado:** rascunho para revisão
+**Força da evidência:** **C** — casos longos e bem documentados, sem avaliações causais comparativas · **Estado:** revista (v2)
 
 ---
 
@@ -41,9 +41,17 @@ O **terreno** é muitas vezes a parte mais cara de uma casa nas cidades, e o seu
 - **Risco financeiro:** quando os preços caem, o município fica com terrenos que valem menos do que pagou. Foi o que aconteceu nos Países Baixos depois de 2008 [F68](../../referencias/fontes.md#f68).
 - **Exige dinheiro e capacidade técnica** que muitos municípios não têm [F68](../../referencias/fontes.md#f68).
 - **Contrapartidas excessivas podem travar a construção** ou ser repercutidas no preço das restantes casas (crítica feita a Munique) [F69](../../referencias/fontes.md#f69).
-- **Singapura não é transferível:** o modelo assenta em expropriação com pouca possibilidade de contestação, incompatível com o quadro constitucional português.
+- **Singapura não é transferível** (juízo interpretativo): o modelo assenta em expropriação com pouca possibilidade de contestação, incompatível com o quadro constitucional português.
 
 **Avaliação causal:** não se encontrou nenhum estudo que compare de forma rigorosa cidades com e sem política ativa de solos.
+
+### Argumentos em confronto
+
+| Quem defende argumenta que… | Quem critica argumenta que… |
+|---|---|
+| As mais-valias criadas por decisões públicas devem reverter, em parte, para a comunidade | Interfere com o direito de propriedade e com expectativas legítimas dos proprietários |
+| Baixar o custo do terreno é condição para haver habitação acessível | Comprar terreno é um risco financeiro para os municípios (Países Baixos após 2008) |
+| Permite planear a cidade a longo prazo | Contrapartidas excessivas podem travar a construção ou subir os preços das restantes casas (crítica a Munique) |
 
 ---
 
@@ -60,7 +68,7 @@ O **terreno** é muitas vezes a parte mais cara de uma casa nas cidades, e o seu
 
 - **A favor:** o direito de superfície já existe e está regulado; o Estado, as autarquias e outras entidades públicas têm terrenos e edifícios dispersos; a figura de cedência urbanística existe.
 - **Contra:** comprar terreno hoje, com preços em máximos, é caro e arriscado; os municípios têm pouca capacidade técnica e financeira; o art. 62.º da Constituição protege a propriedade privada, o que limita as formas mais agressivas.
-- **Momento:** a lição de Ulm é que a política de solos funciona melhor **antes** da pressão de preços. Em Portugal, isso aponta para as **cidades médias** (território D), onde os preços estão a acelerar mas ainda são moderados ([11](../../diagnostico/11-retrato-territorial.md)).
+- **Momento** (juízo interpretativo): a lição de Ulm parece ser que a política de solos funciona melhor **antes** da pressão de preços. Em Portugal, isso aponta para as **cidades médias** (território D), onde os preços estão a acelerar mas ainda são moderados ([11](../../diagnostico/11-retrato-territorial.md)).
 
 ---
 
