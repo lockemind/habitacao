@@ -65,7 +65,44 @@ Objetivos (de [S1](01-objetivos-e-criterios.md)): **O1** acessibilidade · **O2*
 | S25a Manter apoios | B | — | ≈ 146 M€/ano (IMT) + garantias | Médio–alto | Alta | Alta | — |
 | S25b Condicionar/retirar | B | Imediato | **Poupança** | Médio | Alta | Alta | — |
 
-\* Classificação derivada do texto das fichas.
+\* Nível de risco agora indicado explicitamente em cada ficha (critério C6).
+
+---
+
+## 3b. Matriz 2b — Ordens de grandeza
+
+*Resumo dos blocos "Ordem de grandeza" de cada ficha. Estimativas **ilustrativas**, com os pressupostos indicados abaixo; servem para comparar escalas, não para orçamentar.*
+
+| Opção | Casas abrangidas ou criadas | Custo público | Horizonte |
+|---|---|---|---|
+| S01 Licenciamento | Antecipa parte da fila de ≈ 49 mil fogos licenciados/ano; efeito líquido não estimável | Baixo | 1–3 anos |
+| S02 Densidade | ≈ 10–12 mil casas/ano no distrito de Lisboa, *se* repetisse Auckland | Baixo (+ infraestruturas) | 3–6 anos |
+| S06 Construção pública | 59 mil até 2030 (meta); 180 mil para chegar a 5% | 9–15 mil M€ (meta); 27–45 mil M€ (5%) | 3–10 anos |
+| S07 Renda a custo | ≈ 4–5 mil casas/ano (ritmo irlandês ajustado); renda ≈ 25–30% abaixo do mercado | ≈ 15–35 mil €/casa com modelo de crédito; 150–250 mil € com subvenção total | 3–30 anos |
+| S08 Cooperativas | Dezenas a centenas de casas (pilotos) | Crédito até 80% + terreno | 5–15 anos |
+| S10 Política de solos | > 4.000 imóveis públicos identificados; a obra é ≤ 30% do preço em Lisboa | Médio–alto (comprar); nulo (ceder) | 5–20 anos |
+| S12 Casas vazias | ≈ 15–20 mil casas postas em uso, *se* repetisse o efeito francês | Receita | 1–3 anos |
+| S13 Estado intermediário | Centenas a poucos milhares/ano | Até ≈ 13 mil €/casa/ano | Meses |
+| S16 Regulação do AL | Universo ≈ 90–126 mil registos; −2 a −3% nos preços locais | Baixo | Meses–2 anos |
+| S18 Contratos longos | Universo ≈ 923 mil arrendamentos; ≈ 4% usam hoje o incentivo | Baixo–médio | 1–5 anos |
+| S19 Limites às rendas | Universo ≈ 923 mil arrendamentos; ≈ 20 €/mês a menos por ano numa renda de 900 € | Baixo | Imediato |
+| S25 Apoios à compra | ≈ 70 mil (IMT) e ≈ 23 mil (garantia) beneficiários | ≈ 146 M€/ano (IMT) + garantias até ≥ 1.550 M€ | — |
+
+**O que esta tabela acrescenta:** as medidas de **custo baixo** (S01, S02, S12, S16, S18, S19) mexem com dezenas de milhares de casas ou com o mercado inteiro, mas o seu efeito líquido na acessibilidade é incerto. As medidas **estruturais** (S06, S07) custam milhares de milhões, mas o custo **público** muda muito consoante o modelo de financiamento: com crédito de longo prazo reembolsado pelas rendas (S07), o mesmo dinheiro público pode financiar **≈ 4 a 15 vezes mais casas** do que com subvenção total (150–250 mil € ÷ 15–35 mil €; cálculo a partir dos intervalos acima).
+
+<a id="pressupostos-comuns"></a>
+### Pressupostos comuns
+
+| Pressuposto | Valor usado | Base |
+|---|---|---|
+| Custo de obra | 950–1.500 €/m² | [F115](../referencias/fontes.md#f115) |
+| Área de referência | T2 com ≈ 95 m² brutos (limite da habitação a custos controlados) | Portaria 65/2019 e revisão de 2025 |
+| Custo total por casa nova, zonas de pressão (obra + terreno + projeto + licenças) | **150–250 mil €** | **Pressuposto próprio**; verificação: apoio público na Irlanda até 150–175 mil €/casa [F116](../referencias/fontes.md#f116); PRR ≈ 84 mil €/casa, incluindo reabilitação e financiamento parcial [F48](../referencias/fontes.md#f48) |
+| Parque habitacional | ≈ 6 milhões de alojamentos (1 p.p. ≈ 60 mil casas) | Censos 2021 [F18](../referencias/fontes.md#f18) |
+| Casas arrendadas | ≈ 923 mil | Censos 2021 [F118](../referencias/fontes.md#f118) |
+| População | ≈ 11,4 milhões (fim de 2025) | INE [F36](../referencias/fontes.md#f36) |
+
+Quem quiser refazer os cálculos com outros pressupostos pode fazê-lo a partir desta tabela.
 
 ---
 
@@ -167,10 +204,10 @@ Algumas opções aparecem bem colocadas em **mais de um perfil**: **S12** (casas
 | Não somar critérios evita impor pesos | Classificações como "Médio" escondem incerteza; seria útil indicar **intervalos** |
 | A matriz territorial mostra lacunas (interior) | Algumas classificações tiveram de ser **derivadas** do texto (risco); as fichas devem passar a classificá-las explicitamente |
 
-**Alterações propostas ao método:**
-1. Acrescentar ao [modelo de ficha](fichas/_modelo.md) um campo **"Ordem de grandeza"** (casas abrangidas, custo por casa, horizonte) e a classificação explícita do **risco**.
-2. Rever as 12 fichas existentes para incluir esse campo antes da versão final desta avaliação.
-3. Na versão final (33 opções), acrescentar as **dependências** de forma sistemática (matriz opção × opção).
+**Alterações ao método:**
+1. ✅ Campo **"Ordem de grandeza"** e nível de **risco** explícito acrescentados ao [modelo de ficha](fichas/_modelo.md) e às 12 fichas existentes (ver [Matriz 2b](#3b-matriz-2b--ordens-de-grandeza)).
+2. ⏳ Na versão final (33 opções), acrescentar as **dependências** de forma sistemática (matriz opção × opção).
+3. ⏳ Substituir pressupostos próprios por dados oficiais quando disponíveis (custo por casa do IHRU, prazos de licenciamento).
 
 ---
 
