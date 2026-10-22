@@ -20,8 +20,8 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 
 | ID | Opção | Em que consiste | Causas | Territ. | Objetivos | Exemplos a investigar |
 |---|---|---|---|---|---|---|
-| S01 | **Licenciamento rápido e previsível** | Prazos curtos e vinculativos, deferimento tácito, processos digitais, menos pareceres | Of | A–D | O2 | Simplex Urbanístico (PT, 2024) |
-| S02 | **Mais densidade onde há transportes** | Permitir mais habitação por lote, sobretudo junto a estações e eixos de transporte | Of | A, B, D | O2, O1 | Auckland (Nova Zelândia, reforma do zonamento de 2016); Japão (zonamento nacional permissivo); Califórnia |
+| [S01](fichas/S01-licenciamento.md) | **Licenciamento rápido e previsível** · 📄 ficha · evidência **A/C** | Prazos curtos e vinculativos, deferimento tácito, processos digitais, menos pareceres | Of | A–D | O2 | Simplex Urbanístico (PT, 2024) |
+| [S02](fichas/S02-densidade-junto-a-transportes.md) | **Mais densidade onde há transportes** · 📄 ficha · evidência **B** | Permitir mais habitação por lote, sobretudo junto a estações e eixos de transporte | Of | A, B, D | O2, O1 | Auckland (Nova Zelândia, reforma do zonamento de 2016); Japão (zonamento nacional permissivo); Califórnia |
 | S03 | **Incentivos fiscais à construção acessível** | IVA reduzido, benefícios em IRS/IRC condicionados a preços ou rendas limitados | Of | A–D | O2 | Pacote fiscal PT 2026 [F46](../referencias/fontes.md#f46); EUA (*Low-Income Housing Tax Credit*) |
 | S04 | **Construção industrializada e mão de obra** | Construção modular/pré-fabricada, formação profissional, imigração laboral para a construção | Of | todos | O2 | Suécia; Países Baixos |
 | S05 | **Construção para arrendamento com contrapartidas** | Investidores institucionais constroem para arrendar, com rendas e duração condicionadas | Of, Ar | A, B, D | O2, O4 | Contratos de Investimento para Arrendamento (PT 2026) [F46](../referencias/fontes.md#f46); Alemanha; Reino Unido |
@@ -30,9 +30,9 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 
 | ID | Opção | Em que consiste | Causas | Territ. | Objetivos | Exemplos a investigar |
 |---|---|---|---|---|---|---|
-| S06 | **Construção pública em grande escala** | Estado e autarquias constroem habitação para um leque largo de rendimentos, incluindo a classe média | Of | A–D | O3, O1, O2 | Viena [F54](../referencias/fontes.md#f54); Singapura |
+| [S06](fichas/S06-construcao-publica.md) | **Construção pública em grande escala** · 📄 ficha · evidência **C** | Estado e autarquias constroem habitação para um leque largo de rendimentos, incluindo a classe média | Of | A–D | O3, O1, O2 | Viena [F54](../referencias/fontes.md#f54); Singapura |
 | [S07](fichas/S07-renda-a-custo.md) | **Renda a custo (*cost rental*)** · 📄 ficha · evidência **C** | Rendas fixadas para cobrir o custo de construção e manutenção, sem lucro; parque que se autofinancia | Of, Ar | A–D | O3, O1, O4 | Irlanda (desde 2021); Dinamarca; Áustria (associações de lucro limitado) |
-| S08 | **Cooperativas de habitação** | Moradores constroem e gerem em conjunto, com terreno e crédito apoiados | Of | A–E | O3, O4 | Zurique; Uruguai; Dinamarca; cooperativas portuguesas pós-1974 |
+| [S08](fichas/S08-cooperativas.md) | **Cooperativas de habitação** · 📄 ficha · evidência **C/D** | Moradores constroem e gerem em conjunto, com terreno e crédito apoiados | Of | A–E | O3, O4 | Zurique; Uruguai; Dinamarca; cooperativas portuguesas pós-1974 |
 | S09 | **Financiamento estável e próprio** | Fundo ou banco público dedicado, com receitas regulares (ex.: contribuição sobre salários, fundo rotativo) | Of | todos | O3 | Áustria (0,5% dos salários [F54](../referencias/fontes.md#f54)); Dinamarca (fundo nacional); Finlândia |
 | [S10](fichas/S10-politica-de-solos.md) | **Política de solos públicos** · 📄 ficha · evidência **C** | O Estado compra ou mantém terrenos, cede em direito de superfície, recupera parte das mais-valias urbanísticas | Of | A–D | O3, O2 | Países Baixos; Viena; Singapura; Ulm e Munique (Alemanha) |
 | S11 | **Quotas de habitação acessível** | Novos empreendimentos de certa dimensão reservam uma % para rendas ou preços acessíveis | Of | A, B, C | O1, O3 | Barcelona (regra dos 30%); Munique; Inglaterra |
@@ -42,7 +42,7 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 | ID | Opção | Em que consiste | Causas | Territ. | Objetivos | Exemplos a investigar |
 |---|---|---|---|---|---|---|
 | [S12](fichas/S12-imposto-casas-vazias.md) | **Imposto sobre casas vazias** · 📄 ficha · evidência **B** | Tributação crescente de imóveis desocupados há longo tempo | Of | A, B, C | O2, O1 | Vancouver (Canadá); França; IMI agravado para devolutos (PT) |
-| S13 | **O Estado como intermediário do arrendamento** | Entidade pública arrenda casas privadas com garantia de pagamento e obras, e subarrenda a preço acessível | Of, Ar | todos | O1, O4, O3 | Bélgica (agências imobiliárias sociais); França; "Arrendar para Subarrendar" (PT) |
+| [S13](fichas/S13-estado-intermediario.md) | **O Estado como intermediário do arrendamento** · 📄 ficha · evidência **D** | Entidade pública arrenda casas privadas com garantia de pagamento e obras, e subarrenda a preço acessível | Of, Ar | todos | O1, O4, O3 | Bélgica (agências imobiliárias sociais); França; "Arrendar para Subarrendar" (PT) |
 | S14 | **Reabilitação em troca de renda acessível** | Apoio a obras de devolutos com obrigação de arrendar a preço limitado por X anos | Of | A, C, D, E | O2, O1 | Programas portugueses de reabilitação; Espanha |
 | S15 | **Desbloquear heranças e propriedade incerta** | Procedimentos rápidos para heranças indivisas, cadastro completo, venda forçada de ruínas | Of | D, E | O2 | Cadastro BUPi (PT) |
 | [S16](fichas/S16-regulacao-alojamento-local.md) | **Regulação do alojamento local** · 📄 ficha · evidência **B** | Quotas por zona, limites de dias por ano, licenças temporárias, fiscalização | AL | A, C | O1, O2 | Barcelona; Amesterdão; Nova Iorque; zonas de contenção de Lisboa [F29](../referencias/fontes.md#f29) |
@@ -52,7 +52,7 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 
 | ID | Opção | Em que consiste | Causas | Territ. | Objetivos | Exemplos a investigar |
 |---|---|---|---|---|---|---|
-| S18 | **Contratos longos com atualização previsível** | Contratos sem termo ou longos, com aumentos ligados a um índice | Ar | todos | O4 | Alemanha; Suécia; Irlanda |
+| [S18](fichas/S18-contratos-longos.md) | **Contratos longos com atualização previsível** · 📄 ficha · evidência **C** | Contratos sem termo ou longos, com aumentos ligados a um índice | Ar | todos | O4 | Alemanha; Suécia; Irlanda |
 | [S19](fichas/S19-limites-as-rendas.md) | **Limites às rendas** · 📄 ficha · evidência **A** | Tetos ou travões à subida das rendas em zonas de pressão | Ar | A, C | O1, O4 | Catalunha [F55](../referencias/fontes.md#f55); Berlim (anulado em 2021); Escócia (2022–2024); congelamento português [F42](../referencias/fontes.md#f42) |
 | S20 | **Seguro e garantia de renda + justiça rápida** | Garantia pública de pagamento ao senhorio e resolução rápida de litígios, com proteção social em caso de despejo | Ar | todos | O4, O2 | França; revisão do NRAU 2026 [F44](../referencias/fontes.md#f44) |
 | S21 | **Subsídio de renda dirigido** | Apoio em dinheiro aos inquilinos de baixo rendimento | Ar | todos | O1, O5 | França; Alemanha; Finlândia |
@@ -109,7 +109,7 @@ Sugere-se começar pelas opções que **(a)** respondem à causa principal, **(b
 | Lote | Opções | Porquê |
 |---|---|---|
 | **1.º lote** ✅ | [S07](fichas/S07-renda-a-custo.md) renda a custo · [S10](fichas/S10-politica-de-solos.md) política de solos · [S12](fichas/S12-imposto-casas-vazias.md) imposto sobre casas vazias · [S16](fichas/S16-regulacao-alojamento-local.md) regulação do AL · [S19](fichas/S19-limites-as-rendas.md) limites às rendas · [S25](fichas/S25-apoios-a-compra.md) apoios à compra (manter, ajustar ou retirar) | Grandes debates em Portugal e boa evidência internacional |
-| 2.º lote | S01 licenciamento · S02 densidade · S06 construção pública · S08 cooperativas · S13 Estado intermediário · S18 contratos longos | Oferta e arrendamento estável |
+| **2.º lote** ✅ | [S01](fichas/S01-licenciamento.md) licenciamento · [S02](fichas/S02-densidade-junto-a-transportes.md) densidade · [S06](fichas/S06-construcao-publica.md) construção pública · [S08](fichas/S08-cooperativas.md) cooperativas · [S13](fichas/S13-estado-intermediario.md) Estado intermediário · [S18](fichas/S18-contratos-longos.md) contratos longos | Oferta e arrendamento estável |
 | 3.º lote | restantes | — |
 
 ---
