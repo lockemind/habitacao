@@ -434,7 +434,7 @@ https://www.cuatrecasas.com/pt/portugal/imobiliario/art/alteracoes-ao-regime-do-
 ### S19 — Limites às rendas
 
 <a id="f82"></a>
-**F82** — Kholodilin, K. A. (2024), *Rent control effects through the lens of empirical research: An almost complete review of the literature*, *Journal of Housing Economics*, 63, 101983. DOI: 10.1016/j.jhe.2024.101983. Contagens de estudos via resumo do IEA. Primária ●●●
+**F82** — Kholodilin, K. A. (2024), *Rent control effects through the lens of empirical research: An almost complete review of the literature*, *Journal of Housing Economics*, 63, 101983. DOI: 10.1016/j.jhe.2024.101983. Primária ●●●. **Nota:** as contagens de estudos citadas nas fichas vêm de um resumo do *Institute of Economic Affairs* (IEA), um *think tank* britânico de orientação liberal; devem ser confirmadas nas tabelas do artigo.
 https://www.diw.de/de/diw_01.c.893635.de/publikationen/externe_referierte_aufsaetze/2024_0000/rent_control_effects_through_the_lens_of_empirical_research__an_almost_complete_review_of_the_literature.html
 https://iea.org.uk/review-rent-control-effects-through-the-lens-of-empirical-research-an-almost-complete-review-of-the-literature-by-konstantin-kholodilin/
 
@@ -481,3 +481,23 @@ https://www.idealista.pt/news/taxonomy/term/14603
 **F91** — Programa de Arrendamento Acessível: idealista, *Programa de Arrendamento Acessível em balanço: 20 contratos em dois meses* (2019); idealista, *PAA: Governo vai lançar campanha publicitária para promover rendas acessíveis*. Secundária ●●○
 https://www.idealista.pt/news/node/40728
 https://www.idealista.pt/news/node/43897
+
+## 13. Revisão editorial do 1.º lote
+
+<a id="f92"></a>
+**F92** — Breidenbach, P.; Eilers, L.; Fries, J. (2022), *Temporal Dynamics of Rent Regulations — The Case of the German Rent Control*, *Regional Science and Urban Economics*, 92, 103737. Primária ●●●
+https://www.rwi-essen.de/en/rwi/team/person/publications/detail/temporal-dynamics-of-rent-regulations-the-case-4664
+
+<a id="f93"></a>
+**F93** — Urban Displacement Project / UC Berkeley IGS, *Research Brief: Tenant Protections* (2022), resumo do estudo de Hwang et al. sobre estabilização de rendas e proteção contra despejos na Área da Baía de São Francisco. Primária (resumo de investigação) ●●○
+https://www.urbandisplacement.org/wp-content/uploads/2022/03/IGS_2_Tenant-Protections_Brief_03.01.22.pdf
+
+<a id="f94"></a>
+**F94** — Rutgers Bloustein School, *Some Studies Challenge Long-Held Views on Rent Control* (resumo de revisão de Pastor et al.). Secundária ●○○ — usada apenas para mostrar que existe literatura divergente; não verificada no original.
+https://bloustein.rutgers.edu/?p=65247
+
+<a id="f95"></a>
+**F95** — Banco de Portugal, medida macroprudencial sobre crédito à habitação (LTV máximo de 90% para habitação própria permanente, desde 2018) e relatório de acompanhamento de 2025: idealista, *Compra da primeira casa: um em cada quatro créditos financiado a 90%*; Observador, *Garantia pública para jovens… defende Banco de Portugal*. Primária (via imprensa) ●●○
+https://www.idealista.pt/news/node/74694
+https://observador.pt/especiais/garantia-publica-para-jovens-pode-atrasar-mais-governo-deve-pedir-opiniao-ao-bce-antes-de-avancar-defende-banco-de-portugal/
+https://www.bportugal.pt/sites/default/files/anexos/cartas-circulares/484394095_1.docx.pdf
