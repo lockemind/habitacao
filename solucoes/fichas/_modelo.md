@@ -23,6 +23,10 @@
 ## 1. Em que consiste
 Descrição simples, sem jargão. Que problema do [diagnóstico](../../diagnostico/09-causas-e-debates.md) resolve?
 
+**Ordem de grandeza** (estimativa, mesmo que grosseira; indicar a base de cálculo):
+| Casas abrangidas ou criadas | Custo público por casa ou total | Horizonte |
+|---|---|---|
+
 ## 2. Onde foi testada
 | País / cidade | Período | Desenho da medida | Resultado principal | Tipo de avaliação | Fonte |
 |---|---|---|---|---|---|
@@ -51,7 +55,7 @@ Diferenças de contexto (mercado, instituições, finanças públicas, Constitui
 | C3 Prazo | | |
 | C4 Custo orçamental | | |
 | C5 Distribuição (ganhadores/perdedores) | | |
-| C6 Riscos | | |
+| C6 Riscos (Baixo / Médio / Alto) | | |
 | C7 Viabilidade jurídica | | |
 | C8 Capacidade de execução | | |
 | C9 Transferibilidade | | |
