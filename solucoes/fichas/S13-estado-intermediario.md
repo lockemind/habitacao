@@ -20,6 +20,18 @@ O proprietário aceita uma renda **abaixo do mercado** em troca de **segurança 
 
 **Problema a que responde:** casas vazias ou fora do mercado por desconfiança dos proprietários ([02](../../diagnostico/02-oferta-e-construcao.md#4-casas-que-existem-mas-não-estão-a-ser-usadas), [05](../../diagnostico/05-arrendamento-e-historia-legal.md)); falta de oferta acessível rápida.
 
+
+### Ordem de grandeza
+
+*Estimativa ilustrativa, com base em [pressupostos comuns](../03-avaliacao-comparada.md#pressupostos-comuns). Indica a escala, não é uma previsão.*
+
+| | Estimativa | Base de cálculo |
+|---|---|---|
+| Escala observada em Portugal | 320 contratos no arranque (2023) | [F111](../../referencias/fontes.md#f111) |
+| Custo público por casa | Despesa autorizada de 28,8 M€ para 2023–2030 ÷ 320 ≈ **até 13 mil €/casa/ano** (teto orçamental, não despesa executada) | [F111](../../referencias/fontes.md#f111); cálculo próprio |
+| Escala possível | Centenas a poucos milhares de casas/ano; escala maior não demonstrada | — |
+| Horizonte | Meses | — |
+
 ---
 
 ## 2. Onde foi testada
@@ -80,7 +92,7 @@ Alta quanto ao modelo; o que falhou em Portugal foi a **execução**. **Juízo i
 | C3 Prazo | **Curto** (meses) | Usa casas existentes |
 | C4 Custo orçamental | Médio | Diferença de renda, garantias, gestão, benefícios fiscais |
 | C5 Distribuição | Ganham inquilinos colocados e proprietários com renda garantida; contribuintes pagam a diferença | |
-| C6 Riscos | Incumprimento; baixa adesão; execução administrativa | |
+| C6 Riscos (nível: **Médio**) | Incumprimento; baixa adesão; execução administrativa | |
 | C7 Viabilidade jurídica | Alta | |
 | C8 Capacidade de execução | Baixa no modelo central (experiência portuguesa) | |
 | C9 Transferibilidade | Alta | |

@@ -18,6 +18,21 @@ Duas ideias distinguem este modelo da habitação social tradicional:
 
 **Problema a que responde:** a ausência de uma alternativa ao mercado para a classe média ([02 — habitação pública ≈ 2%](../../diagnostico/02-oferta-e-construcao.md#5-habitação-pública-cerca-de-2)) e a renda de mercado muito acima dos salários ([01](../../diagnostico/01-precos-e-acessibilidade.md)).
 
+
+### Ordem de grandeza
+
+*Estimativa ilustrativa, com base em [pressupostos comuns](../03-avaliacao-comparada.md#pressupostos-comuns). Indica a escala, não é uma previsão.*
+
+| | Estimativa | Base de cálculo |
+|---|---|---|
+| Desconto de renda observado | Irlanda: **≈ 30%** abaixo do mercado; Áustria: ≈ 25% | [F116](../../referencias/fontes.md#f116), [F66](../../referencias/fontes.md#f66) |
+| Ritmo de referência | Irlanda: ≈ 2.350 casas em 2025 (≈ 5,4 milhões de habitantes) → equivalente português ≈ **4–5 mil/ano** | [F65](../../referencias/fontes.md#f65); cálculo próprio |
+| Custo total por casa | 150–250 mil € nas zonas de pressão | Pressupostos comuns |
+| Custo **público** por casa | Depende do financiamento: com subvenção total, o custo inteiro; com modelo dinamarquês (autarquia ≈ 10–14%, resto crédito reembolsado pelas rendas), **≈ 15–35 mil €** mais garantias | [F67](../../referencias/fontes.md#f67); cálculo próprio |
+| Horizonte | Primeiras casas em 3–5 anos; escala em 10–30 anos | — |
+
+*A diferença entre custo total e custo público é a questão central desta opção: com crédito longo e barato, o Estado não precisa de pagar a casa inteira.*
+
 ---
 
 ## 2. Onde foi testada
@@ -86,7 +101,7 @@ Duas ideias distinguem este modelo da habitação social tradicional:
 | C3 Prazo | Longo (10–30 anos para escala) | Primeiras casas em 3–5 anos |
 | C4 Custo orçamental | Alto no início; tende para neutro | Investimento inicial e garantias; o parque reembolsa-se |
 | C5 Distribuição | Ganham classe média e jovens que entrem; quem não entra não beneficia | Critérios de acesso decisivos |
-| C6 Riscos | Lentidão; captura política do fundo; listas de espera | |
+| C6 Riscos (nível: **Médio**) | Lentidão; captura política do fundo; listas de espera | |
 | C7 Viabilidade jurídica | Alta | Compatível com art. 65.º; direito europeu aceita habitação acessível como serviço de interesse económico geral (a confirmar) |
 | C8 Capacidade de execução | Baixa hoje | Faltam entidades gestoras e mão de obra |
 | C9 Transferibilidade | Média | Modelo exige instituições que Portugal não tem |

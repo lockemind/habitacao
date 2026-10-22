@@ -17,6 +17,20 @@ O **terreno** é muitas vezes a parte mais cara de uma casa nas cidades, e o seu
 
 **Problema a que responde:** custos de construção e de terreno que tornam a habitação acessível inviável ([02](../../diagnostico/02-oferta-e-construcao.md#3-porque-se-constrói-pouco)); é também a condição para que [S07 — renda a custo](S07-renda-a-custo.md) funcione.
 
+
+### Ordem de grandeza
+
+*Estimativa ilustrativa, com base em [pressupostos comuns](../03-avaliacao-comparada.md#pressupostos-comuns). Indica a escala, não é uma previsão.*
+
+| | Estimativa | Base de cálculo |
+|---|---|---|
+| Peso do terreno no preço (Lisboa) | Preço mediano no município ≈ 5.080 €/m² vs. custo de obra 950–1.500 €/m²: a obra é **≤ 30%** do preço; o resto é terreno, impostos, margens e custos indiretos | [F60](../../referencias/fontes.md#f60), [F115](../../referencias/fontes.md#f115); cálculo próprio |
+| Património público identificado | > 4.000 imóveis públicos (terrenos e edifícios) com potencial habitacional identificados desde 2020; sem inventário completo | [F119](../../referencias/fontes.md#f119) |
+| Custo público | Médio a alto para comprar; nulo para ceder o que já é público | — |
+| Horizonte | 5–20 anos | — |
+
+*Nas zonas de pressão, reduzir o custo do terreno pode ter mais efeito no preço final do que reduzir o custo da obra.*
+
 ---
 
 ## 2. Onde foi testada
@@ -81,7 +95,7 @@ O **terreno** é muitas vezes a parte mais cara de uma casa nas cidades, e o seu
 | C3 Prazo | Longo | Compra de terreno e planeamento: 5–20 anos |
 | C4 Custo orçamental | Médio a alto, mas com ativo em troca | O terreno fica no património público |
 | C5 Distribuição | Transfere mais-valias de proprietários de terreno para a comunidade | Proprietários de terreno perdem expectativas de ganho |
-| C6 Riscos | Perdas se os preços caírem; travão à construção se as contrapartidas forem excessivas | Caso neerlandês pós-2008 |
+| C6 Riscos (nível: **Médio**) | Perdas se os preços caírem; travão à construção se as contrapartidas forem excessivas | Caso neerlandês pós-2008 |
 | C7 Viabilidade jurídica | Média | Direito de superfície e cedências: sim; zonamento com teto de preço: a estudar face ao art. 62.º |
 | C8 Capacidade de execução | Baixa a média | Exige equipas técnicas e inventário de solo público |
 | C9 Transferibilidade | Média (Ulm, Viena, Munique); nula (Singapura) | |

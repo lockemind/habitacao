@@ -20,6 +20,20 @@ Esta ficha compara cinco caminhos: **manter**, **sujeitar a condição de recurs
 |---|---|
 | Desde 2018, o Banco de Portugal limita o crédito a **90% do valor** da casa. Um jovem precisa de pelo menos **10% de entrada mais impostos e custos**, o que, com os preços atuais, exige dezenas de milhares de euros de poupança [F95](../../referencias/fontes.md#f95). A garantia pública permite financiar até 100%: 85% dos créditos com garantia tiveram LTV de 100% [F95](../../referencias/fontes.md#f95) | Num mercado com pouca oferta, mais procura apoiada traduz-se em **preços mais altos**; o FMI e o Banco de Portugal alertam para o efeito nos preços e para o risco financeiro [F38](../../referencias/fontes.md#f38) |
 
+
+### Ordem de grandeza
+
+*Estimativa ilustrativa, com base em [pressupostos comuns](../03-avaliacao-comparada.md#pressupostos-comuns). Indica a escala, não é uma previsão.*
+
+| | Estimativa | Base de cálculo |
+|---|---|---|
+| Beneficiários | ≈ 70 mil jovens (isenção de IMT) e ≈ 23 mil (garantia), até início de 2026 | [F90](../../referencias/fontes.md#f90) |
+| Custo da isenção de IMT | ≈ 146 M€ em 2025; ≈ 3.900 € por beneficiário em 2024 (62 M€ ÷ 16 mil) | [F90](../../referencias/fontes.md#f90); cálculo próprio |
+| Exposição da garantia | Teto de 1.550 M€ (set. 2025), reforçado em 2026 | [F40](../../referencias/fontes.md#f40) |
+| Comparação | 146 M€/ano ≈ 600–1.000 casas de construção pública por ano, ou ≈ 4–10 mil casas de renda a custo com modelo de crédito | Pressupostos comuns; cálculo próprio |
+
+*A comparação serve para mostrar o custo de oportunidade, não para recomendar a troca: os objetivos das medidas são diferentes.*
+
 ---
 
 ## 2. Onde foi testada

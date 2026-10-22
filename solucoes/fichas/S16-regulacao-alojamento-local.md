@@ -19,6 +19,19 @@ Limitar o número de casas usadas para alojamento turístico de curta duração 
 
 **Problema a que responde:** o AL tem um efeito forte e localizado nos preços dos centros históricos e das zonas turísticas ([03](../../diagnostico/03-procura-turismo-estrangeiros.md#1-turismo-e-alojamento-local-al)).
 
+
+### Ordem de grandeza
+
+*Estimativa ilustrativa, com base em [pressupostos comuns](../03-avaliacao-comparada.md#pressupostos-comuns). Indica a escala, não é uma previsão.*
+
+| | Estimativa | Base de cálculo |
+|---|---|---|
+| Universo | ≈ 126 mil registos de AL no fim de 2025; ≈ 90 mil após a limpeza de registos inativos | [F117](../../referencias/fontes.md#f117) |
+| Efeito nos preços | Cada 1 p.p. de AL no parque local ≈ +3,7% no preço; restrições fortes em Los Angeles: −2 a −3% em preços e rendas | [F27](../../referencias/fontes.md#f27), [F78](../../referencias/fontes.md#f78) |
+| Casas devolvidas à habitação | Não estimável: depende de quantas passam a arrendamento de longa duração | — |
+| Custo público | Baixo (fiscalização) | — |
+| Horizonte | Meses a 2 anos | — |
+
 ---
 
 ## 2. O que diz a evidência sobre o efeito do AL
@@ -91,7 +104,7 @@ O modelo atual é **municipal e flexível**. A sua eficácia depende de cada câ
 | C3 Prazo | Curto | Efeito no número de AL é rápido |
 | C4 Custo orçamental | Baixo | Fiscalização; perda de receita fiscal do AL |
 | C5 Distribuição | Ganham residentes e inquilinos das zonas turísticas; perdem proprietários de AL e parte do comércio turístico | |
-| C6 Riscos | Casas libertadas não vão para habitação permanente; turismo mais caro; menos reabilitação | |
+| C6 Riscos (nível: **Médio**) | Casas libertadas não vão para habitação permanente; turismo mais caro; menos reabilitação | |
 | C7 Viabilidade jurídica | Alta | Quadro legal municipal já existe; jurisprudência espanhola favorável |
 | C8 Capacidade de execução | Média | Depende de dados das plataformas e de fiscalização |
 | C9 Transferibilidade | Alta | Contextos turísticos comparáveis (Barcelona) |

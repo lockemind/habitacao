@@ -19,6 +19,18 @@ Distingue-se de [S19 — limites às rendas](S19-limites-as-rendas.md) porque **
 
 **Problema a que responde:** arrendamento curto e inseguro, que obriga famílias a mudar de casa com frequência e expõe-nas a aumentos súbitos na renovação ([05](../../diagnostico/05-arrendamento-e-historia-legal.md#2-um-mercado-segmentado), [07](../../diagnostico/07-impactos-sociais.md)).
 
+
+### Ordem de grandeza
+
+*Estimativa ilustrativa, com base em [pressupostos comuns](../03-avaliacao-comparada.md#pressupostos-comuns). Indica a escala, não é uma previsão.*
+
+| | Estimativa | Base de cálculo |
+|---|---|---|
+| Universo | ≈ 923 mil casas arrendadas (22,3% das residências habituais; 29,2% na AML) | Censos 2021 [F118](../../referencias/fontes.md#f118) |
+| Uso atual do incentivo | ≈ 33.800 contratos com IRS reduzido por duração ≈ **4%** do universo (datas diferentes; ordem de grandeza) | [F114](../../referencias/fontes.md#f114); cálculo próprio |
+| Custo público | Baixo (lei) a médio (receita fiscal perdida, não estimada) | — |
+| Horizonte | 1–5 anos (à medida que os contratos se renovam) | — |
+
 ---
 
 ## 2. Onde foi testada
@@ -81,7 +93,7 @@ Distingue-se de [S19 — limites às rendas](S19-limites-as-rendas.md) porque **
 | C3 Prazo | Curto (lei) a médio (mudança de práticas) | |
 | C4 Custo orçamental | Baixo (regulação) a médio (se por benefícios fiscais) | |
 | C5 Distribuição | Ganham inquilinos atuais e futuros; senhorios perdem flexibilidade | |
-| C6 Riscos | Rendas iniciais mais altas; seleção de inquilinos; menos oferta | |
+| C6 Riscos (nível: **Médio**) | Rendas iniciais mais altas; seleção de inquilinos; menos oferta | |
 | C7 Viabilidade jurídica | Alta | Já existe enquadramento |
 | C8 Capacidade de execução | Média | Depende da justiça e da fiscalização |
 | C9 Transferibilidade | Média | Mercados com histórias muito diferentes |

@@ -20,6 +20,19 @@
 
 **Problema a que responde:** subidas de renda de quase 10% ao ano em novos contratos, rendas muito acima dos salários e insegurança de quem arrenda ([01](../../diagnostico/01-precos-e-acessibilidade.md#2-rendas), [05](../../diagnostico/05-arrendamento-e-historia-legal.md), [07](../../diagnostico/07-impactos-sociais.md)).
 
+
+### Ordem de grandeza
+
+*Estimativa ilustrativa, com base em [pressupostos comuns](../03-avaliacao-comparada.md#pressupostos-comuns). Indica a escala, não é uma previsão.*
+
+| | Estimativa | Base de cálculo |
+|---|---|---|
+| Universo | ≈ 923 mil casas arrendadas; dos quais ≈ 255 mil com rendas antigas (estimativa de parte interessada) | [F118](../../referencias/fontes.md#f118), [F43](../../referencias/fontes.md#f43) |
+| Efeito na renda (Irlanda) | Subidas de ≈ 1,3–1,7%/ano em vez de 3,5–4%: numa renda de 900 €, ≈ **20 €/mês a menos por ano** de contrato | [F86](../../referencias/fontes.md#f86); cálculo próprio |
+| Efeito na oferta (Catalunha) | Novos contratos −36% em quatro anos (descritivo) | [F55](../../referencias/fontes.md#f55) |
+| Custo público | Baixo (fiscalização) | — |
+| Horizonte | Imediato (rendas); 2–5 anos (oferta) | — |
+
 ---
 
 ## 2. Onde foi testada (seleção)
@@ -106,7 +119,7 @@ A revisão de Kholodilin (2024) identifica efeitos secundários consistentes [F8
 | C3 Prazo | Imediato nas rendas; efeitos na oferta a médio prazo | |
 | C4 Custo orçamental | Baixo | Custos de fiscalização |
 | C5 Distribuição | Ganham inquilinos atuais, sobretudo de menor rendimento quando bem dirigido; perdem senhorios e quem procura casa | Na Alemanha, o benefício foi para zonas de rendimento alto |
-| C6 Riscos | Queda da oferta, degradação, mercado paralelo, fuga para regimes não regulados | Documentados em vários países |
+| C6 Riscos (nível: **Alto**) | Queda da oferta, degradação, mercado paralelo, fuga para regimes não regulados | Documentados em vários países |
 | C7 Viabilidade jurídica | Média | Depende da intensidade e da proporcionalidade |
 | C8 Capacidade de execução | Média | Exige registo de rendas e fiscalização (na Irlanda, incumprimento > 1/5) |
 | C9 Transferibilidade | Média a alta | Efeitos consistentes entre países, mas muitos estudos são de contextos americanos |

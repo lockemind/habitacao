@@ -25,6 +25,18 @@ Tornar o processo de aprovação de construção mais **rápido, previsível e b
 
 Ligação ao diagnóstico: construção ≈ 70% abaixo de 2000 e licenciamento lento entre as causas apontadas ([02](../../diagnostico/02-oferta-e-construcao.md#3-porque-se-constrói-pouco)).
 
+
+### Ordem de grandeza
+
+*Estimativa ilustrativa, com base em [pressupostos comuns](../03-avaliacao-comparada.md#pressupostos-comuns). Indica a escala, não é uma previsão.*
+
+| | Estimativa | Base de cálculo |
+|---|---|---|
+| Casas afetadas | Fila de ≈ 49 mil fogos licenciados/ano; ≈ 30 mil concluídos | INE 2025 [F21](../../referencias/fontes.md#f21) |
+| Efeito líquido | Antecipa casas já em preparação; o aumento permanente da oferta **não é estimável** com os dados disponíveis | Sem estatística de prazos por município |
+| Custo público | Baixo: dezenas de milhões €/ano em técnicos e sistemas (pressuposto) | — |
+| Horizonte | 1–3 anos | — |
+
 ---
 
 ## 2. Onde foi testada
@@ -82,7 +94,7 @@ Alta quanto ao princípio (é uma reforma administrativa nacional). O que não s
 | C3 Prazo | Curto a médio (1–3 anos) | Os projetos já em fila podem avançar mais depressa |
 | C4 Custo orçamental | Baixo a médio | Contratação de técnicos, sistemas digitais |
 | C5 Distribuição | Ganham promotores e futuros compradores/inquilinos; podem perder vizinhos e o controlo público | |
-| C6 Riscos | Obras com problemas; litígios; perda de qualidade urbana | |
+| C6 Riscos (nível: **Médio**) | Obras com problemas; litígios; perda de qualidade urbana | |
 | C7 Viabilidade jurídica | Alta | Competência legislativa nacional |
 | C8 Capacidade de execução | **Decisiva** e desigual entre municípios | |
 | C9 Transferibilidade | Alta | |

@@ -15,6 +15,20 @@ Em inglês chama-se *upzoning*.
 
 **Problema a que responde:** pouca construção nova ([02](../../diagnostico/02-oferta-e-construcao.md)) e periferias em crescimento rápido sem a densidade nem os transportes adequados ([11 — tipo B](../../diagnostico/11-retrato-territorial.md#b-áreas-metropolitanas-periferias-sintra-amadora-vfx-seixal-almada-gondomar)).
 
+
+### Ordem de grandeza
+
+*Estimativa ilustrativa, com base em [pressupostos comuns](../03-avaliacao-comparada.md#pressupostos-comuns). Indica a escala, não é uma previsão.*
+
+| | Estimativa | Base de cálculo |
+|---|---|---|
+| Referência internacional | Auckland: alojamentos +11,9% em 5 anos (2018–2023), contra +5,4% de população; ≈ 1% do parque por ano atribuível à reforma (≈ 26.900 licenças adicionais em 5 anos, segundo uma fonte secundária; a confirmar no artigo) | [F120](../../referencias/fontes.md#f120), [F99](../../referencias/fontes.md#f99) |
+| Transposto para o distrito de Lisboa | ≈ 1% de ≈ 1,19 milhões de alojamentos ≈ **10–12 mil casas/ano** adicionais, *se* o efeito de Auckland se repetisse | [F121](../../referencias/fontes.md#f121); cálculo próprio |
+| Custo público | Baixo (revisão de planos); custos de infraestruturas e serviços não estimados | — |
+| Horizonte | 3–6 anos | — |
+
+*O efeito de Auckland resultou de uma reforma a toda a cidade; mudanças pontuais teriam efeito muito menor ([F102](../../referencias/fontes.md#f102)).*
+
 ---
 
 ## 2. Onde foi testada
@@ -76,7 +90,7 @@ Os índices de construção são definidos nos **Planos Diretores Municipais (PD
 | C3 Prazo | Médio (3–6 anos) | Mudança de planos + construção |
 | C4 Custo orçamental | Baixo | Revisão de planos |
 | C5 Distribuição | Ganham proprietários de terreno nas zonas abrangidas e futuros residentes; podem perder residentes atuais (obras, mudança do bairro) | |
-| C6 Riscos | Especulação fundiária sem construção; pressão em serviços; perda de património | |
+| C6 Riscos (nível: **Médio**) | Especulação fundiária sem construção; pressão em serviços; perda de património | |
 | C7 Viabilidade jurídica | Alta | Revisão de PDM |
 | C8 Capacidade de execução | Média | Processos de revisão de PDM são lentos |
 | C9 Transferibilidade | Média | Sistemas de ordenamento diferentes |

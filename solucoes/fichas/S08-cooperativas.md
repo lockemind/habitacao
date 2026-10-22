@@ -19,6 +19,19 @@ O Estado costuma apoiar com **terreno** (cedido ou barato), **crédito** e **ben
 
 **Problema a que responde:** falta de alternativas entre o mercado e a habitação social; insegurança do arrendamento ([02](../../diagnostico/02-oferta-e-construcao.md), [05](../../diagnostico/05-arrendamento-e-historia-legal.md)).
 
+
+### Ordem de grandeza
+
+*Estimativa ilustrativa, com base em [pressupostos comuns](../03-avaliacao-comparada.md#pressupostos-comuns). Indica a escala, não é uma previsão.*
+
+| | Estimativa | Base de cálculo |
+|---|---|---|
+| Desconto de renda (Zurique) | ≈ 20–40% abaixo do mercado (fontes secundárias) | [F106](../../referencias/fontes.md#f106) |
+| Peso possível | Zurique: 18% (cooperativas) a 27% (não lucrativo) após um século | [F106](../../referencias/fontes.md#f106) |
+| Escala realista em Portugal no curto prazo | Projetos-piloto de dezenas a centenas de casas; não há base para estimar mais | Setor enfraquecido ([F108](../../referencias/fontes.md#f108)) |
+| Custo público | IHRU pode financiar até 80% do custo de construção (empréstimo, não subsídio) + terreno | [F108](../../referencias/fontes.md#f108) |
+| Horizonte | 5–15 anos | — |
+
 ---
 
 ## 2. Onde foi testada
@@ -80,7 +93,7 @@ Sim: há enquadramento legal, uma federação (FENACHE) e cooperativas ativas, e
 | C3 Prazo | Médio a longo | |
 | C4 Custo orçamental | Médio | Terreno e crédito bonificado |
 | C5 Distribuição | Ganham os membros; risco de excluir quem tem menos capacidade de organização | |
-| C6 Riscos | Lentidão; captura por grupos organizados; venda posterior a preço de mercado | |
+| C6 Riscos (nível: **Médio**) | Lentidão; captura por grupos organizados; venda posterior a preço de mercado | |
 | C7 Viabilidade jurídica | Alta | Enquadramento existente |
 | C8 Capacidade de execução | Baixa hoje | Setor enfraquecido |
 | C9 Transferibilidade | Média | |

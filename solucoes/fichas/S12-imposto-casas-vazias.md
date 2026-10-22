@@ -13,6 +13,18 @@ Um imposto, ou um agravamento de um imposto existente, sobre casas que ficam **v
 
 **Problema a que responde:** os Censos 2021 contaram **723 mil casas vagas**, das quais **136 mil fora do mercado** nas áreas metropolitanas de Lisboa e Porto ([02](../../diagnostico/02-oferta-e-construcao.md#4-casas-que-existem-mas-não-estão-a-ser-usadas)).
 
+
+### Ordem de grandeza
+
+*Estimativa ilustrativa, com base em [pressupostos comuns](../03-avaliacao-comparada.md#pressupostos-comuns). Indica a escala, não é uma previsão.*
+
+| | Estimativa | Base de cálculo |
+|---|---|---|
+| Universo | ≈ 136 mil casas vazias **fora do mercado** nas áreas metropolitanas de Lisboa e Porto | Censos 2021 [F18](../../referencias/fontes.md#f18) |
+| Efeito possível | −13% de vacância (efeito francês) ≈ **15–20 mil casas** em uso, *se* o efeito se transferir | [F75](../../referencias/fontes.md#f75); cálculo próprio |
+| Receita | Positiva e decrescente; não estimada (depende das taxas municipais) | — |
+| Horizonte | 1–3 anos | — |
+
 ---
 
 ## 2. Onde foi testada
@@ -77,7 +89,7 @@ Um imposto, ou um agravamento de um imposto existente, sobre casas que ficam **v
 | C3 Prazo | Curto (1–3 anos) | Os proprietários reagem rapidamente |
 | C4 Custo orçamental | Gera receita (decrescente) | Custos de fiscalização |
 | C5 Distribuição | Paga quem mantém casas vazias em zonas de pressão | Atenção a herdeiros sem meios para obras |
-| C6 Riscos | Penalizar quem não consegue usar a casa; contencioso; fuga por ocupação fictícia | |
+| C6 Riscos (nível: **Baixo–médio**) | Penalizar quem não consegue usar a casa; contencioso; fuga por ocupação fictícia | |
 | C7 Viabilidade jurídica | Alta | Já existe no CIMI (art. 112.º) |
 | C8 Capacidade de execução | Média | Exige dados de ocupação; autodeclaração pode simplificar |
 | C9 Transferibilidade | Alta | Instrumento simples, já parcialmente em vigor |

@@ -13,6 +13,20 @@ O Estado e as autarquias **constroem diretamente** grandes quantidades de habita
 
 **Problema a que responde:** habitação pública ≈ 2% do parque e défice de ≈ 300 mil casas ([02](../../diagnostico/02-oferta-e-construcao.md#5-habitação-pública-cerca-de-2)).
 
+
+### Ordem de grandeza
+
+*Estimativa ilustrativa, com base em [pressupostos comuns](../03-avaliacao-comparada.md#pressupostos-comuns). Indica a escala, não é uma previsão.*
+
+| | Estimativa | Base de cálculo |
+|---|---|---|
+| Meta em vigor | 59 mil casas até 2030 | [06](../../diagnostico/06-politicas-publicas.md#prr-e-1-direito) |
+| Custo da meta | 59 mil × 150–250 mil € ≈ **9–15 mil M€** se fosse toda construção nova em zonas de pressão (menos com reabilitação; o PRR ronda 84 mil €/casa) | Pressupostos comuns; [F48](../../referencias/fontes.md#f48) |
+| Para chegar a 5% do parque | + ≈ 180 mil casas ≈ **27–45 mil M€** | Cálculo próprio |
+| Efeito líquido na oferta | Entre ⅓ e 1 casa por cada casa pública, consoante o excesso de procura | [F103](../../referencias/fontes.md#f103) |
+| Escala histórica | Suécia: ≈ 100 mil casas/ano para ≈ 8 milhões de habitantes | [F104](../../referencias/fontes.md#f104) |
+| Horizonte | 3–10 anos | — |
+
 ---
 
 ## 2. Onde foi testada
@@ -73,7 +87,7 @@ Sim, em pequena escala: 1.º Direito/PRR (26 mil casas até 2026, ≈ 68% em fev
 | C3 Prazo | Médio a longo (3–10 anos) | |
 | C4 Custo orçamental | **Alto** | Construção, terreno, manutenção |
 | C5 Distribuição | Ganham os que recebem casa; contribuintes pagam | Critérios de acesso decisivos |
-| C6 Riscos | Segregação, atrasos, má manutenção, substituição do privado | |
+| C6 Riscos (nível: **Médio–alto**) | Segregação, atrasos, má manutenção, substituição do privado | |
 | C7 Viabilidade jurídica | Alta | Art. 65.º da Constituição |
 | C8 Capacidade de execução | Baixa a média | Atrasos do PRR; falta de mão de obra |
 | C9 Transferibilidade | Média | |
