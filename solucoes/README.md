@@ -25,7 +25,7 @@ O objetivo não é defender um programa político. É dar a quem participa na co
 | **S1** | Definir objetivos mensuráveis e critérios de avaliação | [01 — Objetivos e critérios](01-objetivos-e-criterios.md) | ✅ proposta para validação |
 | **S2** | Lista longa de opções, ligadas às causas e aos territórios | [02 — Catálogo de opções](02-catalogo-de-opcoes.md) | ✅ proposta para validação |
 | **S3** | Uma **ficha de evidência** por opção: onde foi testada, resultados, avaliações, transferibilidade para Portugal | [modelo](fichas/_modelo.md) | 🔄 2 lotes feitos (12 de 33) |
-| **S4** | Avaliação comparada de todas as opções com os mesmos critérios | `03-avaliacao-comparada.md` | ⏳ por fazer |
+| **S4** | Avaliação comparada de todas as opções com os mesmos critérios | [03 — Avaliação comparada](03-avaliacao-comparada.md) | 🔄 versão preliminar (12 opções) |
 | **S5** | Combinar opções em **pacotes coerentes** por horizonte temporal e tipo de território | `04-pacotes-e-cenarios.md` | ⏳ por fazer |
 | **S6** | Preparar a **consulta pública**: perguntas, escolhas em aberto, forma de participação | `05-consulta-publica.md` | ⏳ por fazer |
 
