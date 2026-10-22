@@ -64,7 +64,7 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 |---|---|---|---|---|---|---|
 | S23 | **Reforma do IMI e do IMT** | Menos imposto na compra (IMT), mais na posse (IMI), atualização dos valores patrimoniais | Of, Es | todos | O2, O6 | Recomendação da OCDE [F11](../referencias/fontes.md#f11); Austrália (Território da Capital) |
 | S24 | **Limites a compradores não residentes** | Proibição ou imposto adicional sobre compras por não residentes | Es | A, C | O1 | Canadá; Nova Zelândia; agravamento do IMT (PT) [F59](../referencias/fontes.md#f59) |
-| [S25](fichas/S25-apoios-a-compra.md) | **Rever os apoios à compra** · 📄 ficha · evidência **B** | Condicionar a garantia pública e a isenção de IMT a limites de rendimento, ou substituí-las | Ap | todos | O1, O6 | Recomendação do FMI [F38](../referencias/fontes.md#f38); Reino Unido (*Help to Buy*) |
+| [S25](fichas/S25-apoios-a-compra.md) | **Apoios à compra: manter, ajustar ou retirar** · 📄 ficha · evidência **B** | Manter, condicionar a limites de rendimento, ligar à construção nova, reorientar ou retirar a garantia pública e a isenção de IMT | Ap | todos | O1, O6 | Recomendação do FMI [F38](../referencias/fontes.md#f38); Reino Unido (*Help to Buy*) |
 | S26 | **Regras prudenciais no crédito** | Limites ao valor financiado e à taxa de esforço | Cr | todos | O6 | Banco de Portugal [F38](../referencias/fontes.md#f38) |
 
 ## Eixo 6 — Pessoas mais vulneráveis
@@ -108,7 +108,7 @@ Sugere-se começar pelas opções que **(a)** respondem à causa principal, **(b
 
 | Lote | Opções | Porquê |
 |---|---|---|
-| **1.º lote** ✅ | [S07](fichas/S07-renda-a-custo.md) renda a custo · [S10](fichas/S10-politica-de-solos.md) política de solos · [S12](fichas/S12-imposto-casas-vazias.md) imposto sobre casas vazias · [S16](fichas/S16-regulacao-alojamento-local.md) regulação do AL · [S19](fichas/S19-limites-as-rendas.md) limites às rendas · [S25](fichas/S25-apoios-a-compra.md) apoios à compra | Grandes debates em Portugal e boa evidência internacional |
+| **1.º lote** ✅ | [S07](fichas/S07-renda-a-custo.md) renda a custo · [S10](fichas/S10-politica-de-solos.md) política de solos · [S12](fichas/S12-imposto-casas-vazias.md) imposto sobre casas vazias · [S16](fichas/S16-regulacao-alojamento-local.md) regulação do AL · [S19](fichas/S19-limites-as-rendas.md) limites às rendas · [S25](fichas/S25-apoios-a-compra.md) apoios à compra (manter, ajustar ou retirar) | Grandes debates em Portugal e boa evidência internacional |
 | 2.º lote | S01 licenciamento · S02 densidade · S06 construção pública · S08 cooperativas · S13 Estado intermediário · S18 contratos longos | Oferta e arrendamento estável |
 | 3.º lote | restantes | — |
 

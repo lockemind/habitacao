@@ -71,4 +71,6 @@ Resolvida em [03](../diagnostico/03-procura-turismo-estrangeiros.md#2-compradore
 - **S12:** multiplicadores exatos do IMI agravado em zonas de pressão urbanística (CIMI, art. 112.º); lista atual de municípios que o aplicam.
 - **S16:** resultados do estudo técnico sobre zonas de contenção de Lisboa (Tema Económico n.º 128); aplicação do regulamento europeu sobre partilha de dados das plataformas.
 - **S19:** confirmar as contagens da revisão de Kholodilin nas tabelas do artigo; reforma das zonas de pressão irlandesas de 2025–2026.
-- **S25:** efeitos do *Help to Buy* fora de Londres; avaliação da garantia pública (separada da isenção de IMT).
+- **S25:** efeitos do *Help to Buy* fora de Londres; **não existe avaliação do efeito da garantia pública nos preços** (separada da isenção de IMT).
+- **S19:** verificar no original a revisão de Pastor et al. [F94] (literatura divergente sobre efeitos na construção).
+- **Geral:** revisão externa das fichas por pessoas com posições diferentes antes da consulta pública.

@@ -33,14 +33,16 @@ Cada etapa só avança depois de a anterior estar revista.
 
 ### Fichas disponíveis (1.º lote)
 
+Revistas quanto a equilíbrio e rigor: ver o [registo da revisão editorial](revisao-editorial-lote-1.md).
+
 | Ficha | Evidência | Em síntese |
 |---|---|---|
 | [S07 — Renda a custo](fichas/S07-renda-a-custo.md) | C | Funciona na Áustria e na Dinamarca (≈ 17–20% do parque, rendas ≈ ¼ abaixo do mercado), mas exige décadas, terreno e financiamento estável |
 | [S10 — Política de solos](fichas/S10-politica-de-solos.md) | C | Ulm, Países Baixos, Munique e Viena mostram que controlar o terreno baixa o custo; risco financeiro se os preços caírem; prioridade às cidades médias |
 | [S12 — Imposto sobre casas vazias](fichas/S12-imposto-casas-vazias.md) | B | Reduz a vacância de longa duração (−13% em França; Vancouver em mínimos); já existe em Portugal mas poucos municípios o aplicam |
 | [S16 — Regulação do AL](fichas/S16-regulacao-alojamento-local.md) | B | O AL sobe preços sobretudo onde se concentra; restringi-lo baixa preços e rendas em poucos pontos percentuais, com forte efeito local |
-| [S19 — Limites às rendas](fichas/S19-limites-as-rendas.md) | A | Protegem quem já arrenda, mas reduzem a oferta e a qualidade de forma consistente; conflito entre segurança e acesso |
-| [S25 — Apoios à compra](fichas/S25-apoios-a-compra.md) | B | Em Portugal, a isenção de IMT para jovens foi absorvida pelos preços em 3–15 meses; evidência idêntica no Reino Unido e na Austrália |
+| [S19 — Limites às rendas](fichas/S19-limites-as-rendas.md) | A / B | Abrandam as rendas e dão estabilidade a quem já arrenda (sobretudo de menor rendimento), mas reduzem a oferta e a qualidade de forma consistente; conflito entre segurança e acesso |
+| [S25 — Apoios à compra: manter, ajustar ou retirar](fichas/S25-apoios-a-compra.md) | B | Respondem à falta de poupança para a entrada (crédito limitado a 90%), mas a isenção de IMT foi absorvida pelos preços em 3–15 meses; a garantia pública não foi avaliada |
 
 ---
 
