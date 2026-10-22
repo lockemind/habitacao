@@ -54,8 +54,8 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 |---|---|---|---|---|---|---|
 | [S18](fichas/S18-contratos-longos.md) | **Contratos longos com atualização previsível** · 📄 ficha · evidência **C** | Contratos sem termo ou longos, com aumentos ligados a um índice | Ar | todos | O4 | Alemanha; Suécia; Irlanda |
 | [S19](fichas/S19-limites-as-rendas.md) | **Limites às rendas** · 📄 ficha · evidência **A** | Tetos ou travões à subida das rendas em zonas de pressão | Ar | A, C | O1, O4 | Catalunha [F55](../referencias/fontes.md#f55); Berlim (anulado em 2021); Escócia (2022–2024); congelamento português [F42](../referencias/fontes.md#f42) |
-| S20 | **Seguro e garantia de renda + justiça rápida** | Garantia pública de pagamento ao senhorio e resolução rápida de litígios, com proteção social em caso de despejo | Ar | todos | O4, O2 | França; revisão do NRAU 2026 [F44](../referencias/fontes.md#f44) |
-| S21 | **Subsídio de renda dirigido** | Apoio em dinheiro aos inquilinos de baixo rendimento | Ar | todos | O1, O5 | França; Alemanha; Finlândia |
+| [S20](fichas/S20-garantia-de-renda-e-justica.md) | **Seguro e garantia de renda + justiça rápida** · 📄 ficha · evidência **C/D** | Garantia pública de pagamento ao senhorio e resolução rápida de litígios, com proteção social em caso de despejo | Ar | todos | O4, O2 | França; revisão do NRAU 2026 [F44](../referencias/fontes.md#f44) |
+| [S21](fichas/S21-subsidio-de-renda.md) | **Subsídio de renda dirigido** · 📄 ficha · evidência **A/B** | Apoio em dinheiro aos inquilinos de baixo rendimento | Ar | todos | O1, O5 | França; Alemanha; Finlândia |
 | S22 | **Residências para estudantes e trabalhadores deslocados** | Alojamento dedicado para quem se desloca para estudar ou trabalhar | Pr | C, D, E | O1 | Plano nacional de alojamento estudantil (PT) |
 
 ## Eixo 5 — Procura, fiscalidade e crédito
@@ -71,8 +71,8 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 
 | ID | Opção | Em que consiste | Causas | Territ. | Objetivos | Exemplos a investigar |
 |---|---|---|---|---|---|---|
-| S27 | **Habitação Primeiro (*Housing First*)** | Dar casa permanente primeiro, com apoio social depois, a pessoas em situação de sem-abrigo | — | A, B | O5 | Finlândia; ENIPSSA (PT) [F51](../referencias/fontes.md#f51) |
-| S28 | **Habitação para trabalhadores essenciais** | Casas reservadas para professores, profissionais de saúde, forças de segurança | Pr, AL | C, E | O1 | Reino Unido; Ibiza (Espanha) |
+| [S27](fichas/S27-habitacao-primeiro.md) | **Habitação Primeiro (*Housing First*)** · 📄 ficha · evidência **A** | Dar casa permanente primeiro, com apoio social depois, a pessoas em situação de sem-abrigo | — | A, B | O5 | Finlândia; ENIPSSA (PT) [F51](../referencias/fontes.md#f51) |
+| [S28](fichas/S28-trabalhadores-essenciais.md) | **Habitação para trabalhadores essenciais** · 📄 ficha · evidência **D** | Casas reservadas para professores, profissionais de saúde, forças de segurança | Pr, AL | C, E | O1 | Reino Unido; Ibiza (Espanha) |
 | S29 | **Combate à habitação indigna e sobrelotação** | Inspeção, sanções a senhorios abusivos, realojamento | Pr | A, B, C | O5 | Programa 1.º Direito (PT) [F48](../referencias/fontes.md#f48) |
 
 ## Eixo 7 — Território e governação
@@ -80,8 +80,8 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 | ID | Opção | Em que consiste | Causas | Territ. | Objetivos | Exemplos a investigar |
 |---|---|---|---|---|---|---|
 | S30 | **Planeamento metropolitano integrado** | Habitação planeada em conjunto com transportes à escala das áreas metropolitanas | Of | A, B | O2 | A investigar |
-| S31 | **Taxa turística afetada à habitação** | Parte da receita do turismo financia habitação local | AL | A, C | O3 | Proposta discutida no Funchal [F63](../referencias/fontes.md#f63); a investigar |
-| S32 | **Interior: reabilitar + emprego** | Recuperar casas vagas para arrendamento público, articulado com incentivos à fixação | Of | E | O2 | Emprego Interior MAIS [F64](../referencias/fontes.md#f64) |
+| [S31](fichas/S31-taxa-turistica.md) | **Taxa turística afetada à habitação** · 📄 ficha · evidência **D** | Parte da receita do turismo financia habitação local | AL | A, C | O3 | Proposta discutida no Funchal [F63](../referencias/fontes.md#f63); a investigar |
+| [S32](fichas/S32-interior.md) | **Interior: reabilitar + emprego** · 📄 ficha · evidência **D** | Recuperar casas vagas para arrendamento público, articulado com incentivos à fixação | Of | E | O2 | Emprego Interior MAIS [F64](../referencias/fontes.md#f64) |
 | S33 | **Dados públicos sobre habitação** | Registo de rendas, de casas vazias e de AL, com dados abertos e atualizados | todas | todos | todos | Lacunas identificadas em [questões em aberto](../referencias/questoes-em-aberto.md) |
 
 ---
@@ -110,7 +110,8 @@ Sugere-se começar pelas opções que **(a)** respondem à causa principal, **(b
 |---|---|---|
 | **1.º lote** ✅ | [S07](fichas/S07-renda-a-custo.md) renda a custo · [S10](fichas/S10-politica-de-solos.md) política de solos · [S12](fichas/S12-imposto-casas-vazias.md) imposto sobre casas vazias · [S16](fichas/S16-regulacao-alojamento-local.md) regulação do AL · [S19](fichas/S19-limites-as-rendas.md) limites às rendas · [S25](fichas/S25-apoios-a-compra.md) apoios à compra (manter, ajustar ou retirar) | Grandes debates em Portugal e boa evidência internacional |
 | **2.º lote** ✅ | [S01](fichas/S01-licenciamento.md) licenciamento · [S02](fichas/S02-densidade-junto-a-transportes.md) densidade · [S06](fichas/S06-construcao-publica.md) construção pública · [S08](fichas/S08-cooperativas.md) cooperativas · [S13](fichas/S13-estado-intermediario.md) Estado intermediário · [S18](fichas/S18-contratos-longos.md) contratos longos | Oferta e arrendamento estável |
-| 3.º lote | restantes | — |
+| **3.º lote** ✅ | [S20](fichas/S20-garantia-de-renda-e-justica.md) garantia e justiça rápida · [S21](fichas/S21-subsidio-de-renda.md) subsídio de renda · [S27](fichas/S27-habitacao-primeiro.md) Habitação Primeiro · [S28](fichas/S28-trabalhadores-essenciais.md) trabalhadores essenciais · [S31](fichas/S31-taxa-turistica.md) taxa turística · [S32](fichas/S32-interior.md) interior | Lacunas dos pacotes (S5): proteção imediata, territórios turísticos e interior |
+| 4.º lote | restantes (15) | — |
 
 ---
 
