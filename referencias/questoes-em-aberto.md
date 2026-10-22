@@ -74,3 +74,12 @@ Resolvida em [03](../diagnostico/03-procura-turismo-estrangeiros.md#2-compradore
 - **S25:** efeitos do *Help to Buy* fora de Londres; **não existe avaliação do efeito da garantia pública nos preços** (separada da isenção de IMT).
 - **S19:** verificar no original a revisão de Pastor et al. [F94] (literatura divergente sobre efeitos na construção).
 - **Geral:** revisão externa das fichas por pessoas com posições diferentes antes da consulta pública.
+
+<a id="q13"></a>
+### Q13 — Pontos a verificar nas fichas do 2.º lote
+- **S01:** não existe estatística pública de prazos de licenciamento por município; estado da plataforma PEPU e da Proposta de Lei 48/XVII (revisão do RJUE).
+- **S02:** versão publicada do estudo de Auckland sobre rendas (intervalos variam entre versões); índices de construção dos PDM junto a estações nas áreas metropolitanas.
+- **S06:** avaliações dos efeitos sociais dos bairros do PER; estudos europeus sobre substituição de construção privada pela pública.
+- **S08:** número atual de cooperativas e de fogos cooperativos em Portugal (FENACHE, INE, IHRU); estudo primário sobre rendas das cooperativas de Zurique.
+- **S13:** número de casas geridas pelas agências imobiliárias sociais belgas; balanço final do "Arrendar para Subarrendar"; programas municipais equivalentes.
+- **S18:** durações mínimas e regras de renovação em vigor no NRAU; escalões atuais de IRS por duração (art. 72.º CIRS); relatório final (vaga 3) da avaliação RentBetter na Escócia.

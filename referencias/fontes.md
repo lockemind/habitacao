@@ -501,3 +501,116 @@ https://bloustein.rutgers.edu/?p=65247
 https://www.idealista.pt/news/node/74694
 https://observador.pt/especiais/garantia-publica-para-jovens-pode-atrasar-mais-governo-deve-pedir-opiniao-ao-bce-antes-de-avancar-defende-banco-de-portugal/
 https://www.bportugal.pt/sites/default/files/anexos/cartas-circulares/484394095_1.docx.pdf
+
+## 14. Fichas de soluções — 2.º lote
+
+### S01 — Licenciamento
+
+<a id="f96"></a>
+**F96** — Simplex Urbanístico (Decreto-Lei n.º 10/2024, de 8 de janeiro) e balanço: Cuatrecasas, *Guide to the Urban Development Simplex*; Imojuris, *Especialistas questionam a oportunidade da revisão* (balanço de dois anos, fev. 2026); Imojuris, *Revisão do licenciamento urbanístico gera alguma incerteza* (Proposta de Lei 48/XVII). Secundária ●●○
+https://cuatrecasas.com/en/latam/real-estate/art/guide-to-the-urban-development-simplex
+https://imojuris.vidaimobiliaria.com/actualidade/noticias/Especialistas-questionam-a-oportunidade-da-revisao/
+https://imojuris.vidaimobiliaria.com/actualidade/noticias/Revisao-do-licenciamento-urbanistico-gera-alguma-i/
+
+<a id="f97"></a>
+**F97** — Prazos de licenciamento em Portugal: Observador, *Mais Habitação 2* (opinião: 6 meses a 4 anos) ●○○; Jornal de Negócios, entrevista ao vereador do Urbanismo de Lisboa ("90% dos procedimentos vêm mal instruídos") ●●○; idealista, *Licenciamentos em Lisboa: há mais de 3.100 projetos em espera* ●●○; idealista, *Licenciamentos urbanísticos: municípios "chumbam" propostas do Governo* ●●○.
+https://observador.pt/opiniao/mais-habitacao-2/
+https://www.jornaldenegocios.pt/podcast/urbanidades/detalhe/demora-nos-licenciamentos-90-dos-procedimentos-vem-mal-instruidos-diz-vasco-moreira-rato
+https://www.idealista.pt/news/node/50931
+https://www.idealista.pt/news/node/73863
+
+<a id="f98"></a>
+**F98** — Gyourko, J. & Molloy, R. (2015), *Regulation and Housing Supply*, in *Handbook of Regional and Urban Economics*, vol. 5, cap. 19 (NBER WP 20536); Molloy, R. (2020), *The effect of housing supply regulation on housing affordability: A review*, *Regional Science and Urban Economics*. Primária (revisões de literatura) ●●●
+https://ideas.repec.org/h/eee/regchp/5-1289.html
+
+### S02 — Densidade
+
+<a id="f99"></a>
+**F99** — Greenaway-McGrevy, R. & Phillips, P. C. B. (2023), *The impact of upzoning on housing construction in Auckland*, *Journal of Urban Economics*, 136. Primária ●●●
+https://www.eresearch.auckland.ac.nz/project/the-impact-of-upzoing-on-housing-construction-in-auckland/
+https://cowles.yale.edu/sites/default/files/2022-08/d2330_0.pdf
+
+<a id="f100"></a>
+**F100** — Greenaway-McGrevy, R. & So, Y., *Can Zoning Reform Reduce Housing Costs? Evidence from Rents in Auckland*, University of Auckland Economic Policy Centre, Working Paper 16 (versão 2023/2024). Primária (documento de trabalho, não revisto por pares) ●●○
+https://cdn.auckland.ac.nz/assets/business/about/our-research/research-institutes-and-centres/Economic-Policy-Centre--EPC-/WP016%203.pdf
+
+<a id="f101"></a>
+**F101** — Asquith, B.; Mast, E.; Reed, D. (2023), *Local Effects of Large New Apartment Buildings in Low-Income Areas*, *Review of Economics and Statistics*, 105(2), 359–375. Primária ●●●
+https://ideas.repec.org/a/tpr/restat/v105y2023i2p359-375.html
+
+<a id="f102"></a>
+**F102** — Freemark, Y. (2019), *Upzoning Chicago: Impacts of a Zoning Reform on Property Values and Housing Construction*, *Urban Affairs Review*. Relatado por Bloomberg CityLab e ProBuilder. Primária ●●● (via imprensa ●●○)
+https://www.bloomberg.com/news/articles/2019-02-05/why-that-new-zoning-study-shouldn-t-deter-yimbys
+https://probuilder.com/new-study-complicates-zoning-reform
+
+### S06 — Construção pública
+
+<a id="f103"></a>
+**F103** — Sinai, T. & Waldfogel, J. (2005), *Do low-income housing subsidies increase the occupied housing stock?*, *Journal of Public Economics* (versão de trabalho: NBER w8709). Primária ●●●
+https://www.nber.org/papers/w8709
+
+<a id="f104"></a>
+**F104** — Suécia, *Miljonprogrammet* (1965–1974): capítulo em Springer (*The Million Programme…*); *Sociologisk Forskning*, *Swedish cities now belong to the most segregated in Europe* (2017). Primária (académica) ●●○
+https://link.springer.com/chapter/10.1007/978-3-319-92813-5_16
+https://sociologiskforskning.se/sf/en/article/view/18224
+
+<a id="f105"></a>
+**F105** — Programa Especial de Realojamento (PER, 1993): Câmara Municipal de Lisboa, *PER — 30 anos*; Observador/Lusa, *Passados 24 anos, PER tem cerca de 2.800 famílias à espera de casa* (15-04-2017); Decreto-Lei n.º 271/2003. Primária + secundária ●●○
+https://informacoeseservicos.lisboa.pt/per-30-anos/sobre-o-per
+https://observador.pt/2017/04/15/passados-24-anos-programa-especial-de-realojamento-tem-cerca-de-2-800-familias-a-espera-de-casa/
+https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834
+
+### S08 — Cooperativas
+
+<a id="f106"></a>
+**F106** — Zurique, cooperativas de habitação: The Guardian, *Switzerland's Zurich housing cooperatives…* (23-10-2025); SWI swissinfo.ch, *Communities fight the property bubble effect*; City of Sydney, *The Third Way: a cooperative affordable rental model for Sydney*. Secundária ●●○
+https://www.theguardian.com/commentisfree/2025/oct/23/switzerland-zurich-housing-cooperatives-europe-housing-crisis
+https://www.swissinfo.ch/eng/demographics/communities-fight-the-property-bubble-effect/38086336
+https://www.cityofsydney.nsw.gov.au/-/media/corporate/files/projects/vision-setting/alternative-housing-ideas/the-third-way_a-cooperative-affordable-rental-model-for-sydney.pdf
+
+<a id="f107"></a>
+**F107** — Uruguai, FUCVAM (cooperativas de ajuda mútua, Lei Nacional de Habitação n.º 13.728 de 1968): World Habitat, *Informe Cooperación Sur-Sur FUCVAM*; HIC-AL, *Guía de cooperativas FUCVAM* (2025). Secundária / interessada ●○○
+https://world-habitat.org/wp-content/uploads/2016/03/Informe-Cooperacion-Sur-Sur-FUCVAM-WEB-9MB.pdf
+https://hic-al.org/wp-content/uploads/2025/11/Guia-de-cooperativas-FUCVAM.pdf
+
+<a id="f108"></a>
+**F108** — Cooperativas de habitação em Portugal: idealista, *Cooperativas de habitação em Portugal: de onde vêm e para onde vão?* (2026); dNoticias, *Cooperativas de habitação serão resposta à crise* (01-03-2025); CASES, *Cooperativas de habitação económica*. Secundária ●●○
+https://www.idealista.pt/news/node/76382
+https://www.dnoticias.pt/2025/3/1/440077-cooperativas-de-habitacao-serao-resposta-a-crise/
+https://cases.pt/wp-content/uploads/2016/11/Cooperativas_-de_-habitacao_economica.pdf
+
+### S13 — O Estado como intermediário
+
+<a id="f109"></a>
+**F109** — Bélgica, agências imobiliárias sociais: Housing Europe, perfil da Bélgica (2025–2026); apresentação de 2015 sobre as *sociale verhuurkantoren* da Flandres. Secundária ●●○
+https://www.housingeurope.eu/wp-content/uploads/2025/10/belgium_the_state_of_housing_in_the_eu_2025_digital.pdf
+https://webarchiv.lib.cas.cz:443/wayback/20160611000328/http://seb.soc.cas.cz/images/tiskovky/socialni_bydleni_2015/decker_ks.pdf
+
+<a id="f110"></a>
+**F110** — França, intermediação locativa (Solibail, Louer abordable / Loc'avantages): Ministério da Transição Ecológica, *Dispositifs d'intermédiation locative*; ANIL, *L'intermédiation locative*; Assembleia Nacional, pergunta escrita n.º 6541 (XVI legislatura). Primária ●●○
+https://www.ecologie.gouv.fr/politiques-publiques/dispositifs-dintermediation-locative
+https://www.anil.org/votre-projet/vous-etes-proprietaire/bailleur/lintermediation-locative/
+https://questions.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE6541.pdf
+
+<a id="f111"></a>
+**F111** — Programa "Arrendar para Subarrendar" (IHRU, 2023): idealista, *Governo arrenda 320 casas para subarrendar entre 250 e 900 euros*; DECO Proteste, *Programa Arrendar para Subarrendar: funciona?* (fev. 2025). Secundária ●●○
+https://www.idealista.pt/news/node/58755
+https://www.deco.proteste.pt/familia-consumo/orcamento-familiar/noticias/programa-arrendar-subarrendar-funciona
+
+### S18 — Contratos longos
+
+<a id="f112"></a>
+**F112** — Escócia, *Private Residential Tenancy* (2017): programa de avaliação RentBetter (Indigo House / Nationwide Foundation); Scottish Parliament SPICe, *Evaluating and monitoring Scottish private rented housing legislation* (2018); Scottish Housing News, Prof. Douglas Robertson. Primária (avaliação independente) ●●○
+https://nationwidefoundation.org.uk/?p=4536
+https://www.parliament.scot/chamber-and-committees/research-prepared-for-parliament/research-briefings/2018/11/14/sb-1877/evaluating-and-monitoring-scottish-private-rented-housing-legislation/private-residential-tenancy
+https://www.scottishhousingnews.com/articles/professor-douglas-robertson-scotlands-re-regulated-private-rented-sector
+
+<a id="f113"></a>
+**F113** — Alemanha, contratos sem termo, *Indexmiete* e *Staffelmiete* (BGB §§ 557a, 557b, 558): IW Köln, *Kurzbericht 2025 — Indexmieten*; Global Property Guide, *Germany Rental Laws*. Primária (instituto económico) + secundária ●●○
+https://www.iwkoeln.de/fileadmin/user_upload/Studien/Kurzberichte/PDF/2025/IW-Kurzbericht_2025-Indexmieten.pdf
+https://www.globalpropertyguide.com/europe/germany/Landlord-and-Tenant
+
+<a id="f114"></a>
+**F114** — Portugal, benefícios fiscais a contratos de longa duração (art. 72.º do CIRS; Leis 3/2019 e 119/2019): DECO Proteste, *Arrendamento de longa duração: quais as vantagens fiscais?* (dez. 2025); idealista, *Arrendar casa em Portugal: há 33.800 contratos com desconto no IRS*. Secundária ●●○
+https://www.deco.proteste.pt/investe/patrimonio/impostos/artigos/2025/12/arrendamento-longa-duracao-quais-vantagens-fiscais
+https://www.idealista.pt/news/node/57206
