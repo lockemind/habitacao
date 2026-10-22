@@ -1,8 +1,8 @@
-# S4 — Avaliação comparada (versão preliminar: 12 opções)
+# S4 — Avaliação comparada (versão preliminar: 18 opções)
 
 > Parte de [Soluções: método e roteiro](README.md) · Anterior: [S2 — Catálogo](02-catalogo-de-opcoes.md) · Base: [fichas do 1.º e 2.º lotes](README.md#fichas-disponíveis-1º-lote) · Critérios: [S1](01-objetivos-e-criterios.md)
 
-**Estado:** versão preliminar, feita com as 12 opções que já têm ficha (de 33). Serve para **testar o método** antes de completar o catálogo. As conclusões podem mudar quando entrarem as restantes opções.
+**Estado:** versão preliminar, feita com as 18 opções que já têm ficha (de 33; o 3.º lote acrescentou S20, S21, S27, S28, S31 e S32). Serve para **testar o método** antes de completar o catálogo. As conclusões podem mudar quando entrarem as restantes opções.
 
 ---
 
@@ -42,6 +42,12 @@ Objetivos (de [S1](01-objetivos-e-criterios.md)): **O1** acessibilidade · **O2*
 | [S16 Regulação do AL](fichas/S16-regulacao-alojamento-local.md) | + (local) | + (local) | 0 | 0 | 0 | 0 | Forte nos centros e zonas turísticas; pequeno a nível nacional |
 | [S18 Contratos longos](fichas/S18-contratos-longos.md) | 0 | − ? | 0 | ++ | 0 | 0 | Risco para a oferta não medido |
 | [S19 Limites às rendas](fichas/S19-limites-as-rendas.md) | ± | − | 0 | ++ | 0 | 0 | Ganham inquilinos atuais; perde quem procura casa |
+| [S20 Garantia de renda e justiça rápida](fichas/S20-garantia-de-renda-e-justica.md) | 0 | + ? | 0 | + | 0 | 0 | Efeito na oferta não avaliado |
+| [S21 Subsídio de renda](fichas/S21-subsidio-de-renda.md) | ± | 0 | 0 | + | + | 0 | Parte pode ser captada pelos senhorios |
+| [S27 Habitação Primeiro](fichas/S27-habitacao-primeiro.md) | 0 | 0 | 0 | 0 | ++ | 0 | Depende de haver casas disponíveis |
+| [S28 Trabalhadores essenciais](fichas/S28-trabalhadores-essenciais.md) | + (local) | 0 | 0 | 0 | 0 | 0 | Escala mínima até agora |
+| [S31 Taxa turística para habitação](fichas/S31-taxa-turistica.md) | 0 | 0 | + | 0 | 0 | 0 | Financiamento; efeito depende do uso |
+| [S32 Interior: reabilitar + emprego](fichas/S32-interior.md) | + (local) | + (local) | 0 | 0 | 0 | 0 | Casa sem emprego não fixa pessoas |
 | [S25a Manter apoios à compra](fichas/S25-apoios-a-compra.md) | ± | 0 | 0 | 0 | 0 | − | Ajuda quem compra; sobe preços para todos |
 | [S25b Condicionar ou retirar](fichas/S25-apoios-a-compra.md) | ± | 0 | 0 | 0 | 0 | + | Menos pressão nos preços; jovens sem poupança perdem acesso |
 
@@ -62,6 +68,12 @@ Objetivos (de [S1](01-objetivos-e-criterios.md)): **O1** acessibilidade · **O2*
 | S16 Regulação do AL | B | Curto | Baixo | Médio | Alta | Média | Alta |
 | S18 Contratos longos | C | Curto–médio | Baixo–médio | Médio | Alta | Média | Média |
 | S19 Limites às rendas | A / B | Imediato | Baixo | **Alto** | Média | Média | Média–alta |
+| S20 Garantia e justiça rápida | C / D | Curto | Baixo | Baixo–médio | Alta | Média | Alta |
+| S21 Subsídio de renda | A / B | Curto | Médio, recorrente | Médio | Alta | Alta | Alta |
+| S27 Habitação Primeiro | **A** | Curto–médio | Médio | Baixo–médio | Alta | Média | Alta |
+| S28 Trabalhadores essenciais | D | Curto–médio | Médio | Baixo–médio | Alta | Média | Alta |
+| S31 Taxa turística | D | Curto | Neutro (realocação) | Baixo | Alta | Média | Alta |
+| S32 Interior | D | Médio | Médio | Médio | Média | **Baixa** | Média |
 | S25a Manter apoios | B | — | ≈ 146 M€/ano (IMT) + garantias | Médio–alto | Alta | Alta | — |
 | S25b Condicionar/retirar | B | Imediato | **Poupança** | Médio | Alta | Alta | — |
 
@@ -86,6 +98,12 @@ Objetivos (de [S1](01-objetivos-e-criterios.md)): **O1** acessibilidade · **O2*
 | S16 Regulação do AL | Universo ≈ 90–126 mil registos; −2 a −3% nos preços locais | Baixo | Meses–2 anos |
 | S18 Contratos longos | Universo ≈ 923 mil arrendamentos; ≈ 4% usam hoje o incentivo | Baixo–médio | 1–5 anos |
 | S19 Limites às rendas | Universo ≈ 923 mil arrendamentos; ≈ 20 €/mês a menos por ano numa renda de 900 € | Baixo | Imediato |
+| S20 Garantia e justiça rápida | Garantir 100 mil contratos | ≈ 13 M€/ano antes de recuperações | 1–2 anos |
+| S21 Subsídio de renda | 100 mil agregados | ≈ 210 M€/ano | Meses |
+| S27 Habitação Primeiro | ≈ 9.400 pessoas sem teto | ≈ 95–140 M€/ano brutos, parcialmente compensados | 1–5 anos |
+| S28 Trabalhadores essenciais | Experiência atual: 15 casas | ≈ 200 mil €/casa construída | Meses–5 anos |
+| S31 Taxa turística | ≈ 100–230 casas/ano (subvenção) ou ≈ 700–2.300 (crédito) | Neutro (≈ 25–35 M€/ano realocados) | 3–5 anos |
+| S32 Interior | Não estimável | Médio | 2–10 anos |
 | S25 Apoios à compra | ≈ 70 mil (IMT) e ≈ 23 mil (garantia) beneficiários | ≈ 146 M€/ano (IMT) + garantias até ≥ 1.550 M€ | — |
 
 **O que esta tabela acrescenta:** as medidas de **custo baixo** (S01, S02, S12, S16, S18, S19) mexem com dezenas de milhares de casas ou com o mercado inteiro, mas o seu efeito líquido na acessibilidade é incerto. As medidas **estruturais** (S06, S07) custam milhares de milhões, mas o custo **público** muda muito consoante o modelo de financiamento: com crédito de longo prazo reembolsado pelas rendas (S07), o mesmo dinheiro público pode financiar **≈ 4 a 15 vezes mais casas** do que com subvenção total (150–250 mil € ÷ 15–35 mil €; cálculo a partir dos intervalos acima).
@@ -123,6 +141,12 @@ Tipos de território de [11 — Retrato territorial](../diagnostico/11-retrato-t
 | S16 Regulação do AL | ●● | ○ | ●● | ○ | ○ |
 | S18 Contratos longos | ● | ● | ● | ● | ● |
 | S19 Limites às rendas | ● | ○ | ● | ○ | ○ |
+| S20 Garantia e justiça rápida | ● | ● | ● | ● | ● |
+| S21 Subsídio de renda | ● | ● | ● | ● | ● |
+| S27 Habitação Primeiro | ●● | ● | ○ | ○ | ○ |
+| S28 Trabalhadores essenciais | ● | ○ | ●● | ○ | ● |
+| S31 Taxa turística | ● | ○ | ●● | ○ | ○ |
+| S32 Interior | ○ | ○ | ○ | ○ | ●● |
 | S25 Apoios à compra | ● | ● | ● | ● | ● |
 
 ● relevante · ●● especialmente relevante · ○ pouco relevante
@@ -147,7 +171,7 @@ Tipos de território de [11 — Retrato territorial](../diagnostico/11-retrato-t
 
 | Evidência forte (A/B) | Evidência fraca (C/D) |
 |---|---|
-| S12, S16, S19, S25, S02, S01 (efeito geral) | S06, S07, S08, S10, S13, S18 |
+| S12, S16, S19, S25, S02, S01 (efeito geral), S21, S27 | S06, S07, S08, S10, S13, S18, S20, S28, S31, S32 |
 
 As medidas **estruturais** (setor público e não lucrativo, solos) têm evidência sobretudo descritiva: funcionaram em Viena, na Dinamarca ou em Zurique, mas não há estudos que isolem o seu efeito. As medidas de **regulação e fiscalidade**, mais fáceis de estudar, têm evidência forte mas efeitos mais limitados. Isto **não significa** que as estruturais funcionem pior; significa que a sua avaliação é mais difícil e que, se adotadas, devem ter **avaliação incorporada desde o início**.
 
@@ -177,7 +201,7 @@ As opções com maior potencial estrutural (S06, S07, S08, S10, S13) têm **capa
 
 ### 5.6 O interior está mal servido
 
-Só S08, S13, S18 e S25 são relevantes no **interior (E)**, e nenhuma foi pensada para ele. A opção dirigida a este território (S32 — reabilitar + emprego) ainda não tem ficha.
+O 3.º lote acrescentou a primeira opção pensada para o **interior (E)**, [S32](fichas/S32-interior.md), mas com evidência **D**: os programas de casas baratas no Japão e em Itália atraíram sobretudo segundas habitações. O interior continua a ser o território com **menos evidência** sobre o que funciona.
 
 ---
 
@@ -199,7 +223,7 @@ Algumas opções aparecem bem colocadas em **mais de um perfil**: **S12** (casas
 
 | O que funcionou | O que precisa de melhorar |
 |---|---|
-| Ver as 12 opções lado a lado revela padrões que as fichas isoladas não mostram (5.1–5.6) | **Falta ordem de grandeza.** "Impacto médio" não diz quantas casas nem quanto custa por casa. As próximas fichas devem incluir uma estimativa (casas/ano, custo/casa), mesmo que grosseira |
+| Ver as opções lado a lado revela padrões que as fichas isoladas não mostram (5.1–5.6) | **Falta ordem de grandeza.** "Impacto médio" não diz quantas casas nem quanto custa por casa. As próximas fichas devem incluir uma estimativa (casas/ano, custo/casa), mesmo que grosseira |
 | Os conflitos entre objetivos ficam visíveis (S19, S25a) | **C5 (distribuição)** não cabe numa célula; mantém-se só nas fichas |
 | Não somar critérios evita impor pesos | Classificações como "Médio" escondem incerteza; seria útil indicar **intervalos** |
 | A matriz territorial mostra lacunas (interior) | Algumas classificações tiveram de ser **derivadas** do texto (risco); as fichas devem passar a classificá-las explicitamente |
@@ -217,4 +241,4 @@ Esta avaliação prepara a etapa **[S5 — Pacotes e cenários](04-pacotes-e-cen
 
 ---
 
-Base: fichas [S01](fichas/S01-licenciamento.md), [S02](fichas/S02-densidade-junto-a-transportes.md), [S06](fichas/S06-construcao-publica.md), [S07](fichas/S07-renda-a-custo.md), [S08](fichas/S08-cooperativas.md), [S10](fichas/S10-politica-de-solos.md), [S12](fichas/S12-imposto-casas-vazias.md), [S13](fichas/S13-estado-intermediario.md), [S16](fichas/S16-regulacao-alojamento-local.md), [S18](fichas/S18-contratos-longos.md), [S19](fichas/S19-limites-as-rendas.md), [S25](fichas/S25-apoios-a-compra.md)
+Base: fichas [S01](fichas/S01-licenciamento.md), [S02](fichas/S02-densidade-junto-a-transportes.md), [S06](fichas/S06-construcao-publica.md), [S07](fichas/S07-renda-a-custo.md), [S08](fichas/S08-cooperativas.md), [S10](fichas/S10-politica-de-solos.md), [S12](fichas/S12-imposto-casas-vazias.md), [S13](fichas/S13-estado-intermediario.md), [S16](fichas/S16-regulacao-alojamento-local.md), [S18](fichas/S18-contratos-longos.md), [S19](fichas/S19-limites-as-rendas.md), [S25](fichas/S25-apoios-a-compra.md), [S20](fichas/S20-garantia-de-renda-e-justica.md), [S21](fichas/S21-subsidio-de-renda.md), [S27](fichas/S27-habitacao-primeiro.md), [S28](fichas/S28-trabalhadores-essenciais.md), [S31](fichas/S31-taxa-turistica.md), [S32](fichas/S32-interior.md)
