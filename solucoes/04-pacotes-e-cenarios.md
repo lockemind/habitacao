@@ -2,7 +2,7 @@
 
 > Parte de [Soluções: método e roteiro](README.md) · Anterior: [S4 — Avaliação comparada](03-avaliacao-comparada.md) · Seguinte: S6 — Consulta pública
 
-**Estado:** versão preliminar, construída com as **12 opções que têm ficha** (de 33). Opções ainda sem ficha aparecem assinaladas com ⚪ e não têm números próprios.
+**Estado:** versão preliminar, construída com as **18 opções que têm ficha** (de 33). Opções ainda sem ficha aparecem assinaladas com ⚪ e não têm números próprios.
 
 ---
 
@@ -93,7 +93,7 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 | Horizonte | Medidas |
 |---|---|
 | 0–2 anos | [S10](fichas/S10-politica-de-solos.md) bancos de solos nas cidades médias e quotas em grandes operações · criar a entidade e o fundo rotativo de [S07](fichas/S07-renda-a-custo.md) · [S13](fichas/S13-estado-intermediario.md) agências locais · [S25b](fichas/S25-apoios-a-compra.md) reorientar a verba dos apoios à compra para S07 |
-| 2–5 anos | [S06](fichas/S06-construcao-publica.md) programa plurianual de conjuntos dispersos e para vários rendimentos · [S08](fichas/S08-cooperativas.md) cooperativas de uso em terreno público · [S18](fichas/S18-contratos-longos.md) contrato sem termo como regra, com ⚪ S20 garantia e justiça rápida |
+| 2–5 anos | [S06](fichas/S06-construcao-publica.md) programa plurianual de conjuntos dispersos e para vários rendimentos · [S08](fichas/S08-cooperativas.md) cooperativas de uso em terreno público · [S18](fichas/S18-contratos-longos.md) contrato sem termo como regra, com [S20 garantia e justiça rápida](fichas/S20-garantia-de-renda-e-justica.md) |
 | 5–15 anos | Crescimento do setor de renda a custo, financiado pelo fundo rotativo |
 
 **Metas ilustrativas:**
@@ -133,7 +133,7 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 
 | Horizonte | Medidas |
 |---|---|
-| 0–2 anos | [S19](fichas/S19-limites-as-rendas.md) **variante 2**: teto temporário (3 anos) às atualizações em contratos existentes nas zonas de pressão, com **isenção para construção nova** e avaliação obrigatória · [S16](fichas/S16-regulacao-alojamento-local.md) critério nacional mínimo de contenção do AL · [S18](fichas/S18-contratos-longos.md) contrato sem termo · [S25b](fichas/S25-apoios-a-compra.md) reorientar a verba para ⚪ S21 subsídio de renda dirigido · ⚪ S27 Habitação Primeiro |
+| 0–2 anos | [S19](fichas/S19-limites-as-rendas.md) **variante 2**: teto temporário (3 anos) às atualizações em contratos existentes nas zonas de pressão, com **isenção para construção nova** e avaliação obrigatória · [S16](fichas/S16-regulacao-alojamento-local.md) critério nacional mínimo de contenção do AL · [S18](fichas/S18-contratos-longos.md) contrato sem termo · [S25b](fichas/S25-apoios-a-compra.md) reorientar a verba para [S21 subsídio de renda dirigido](fichas/S21-subsidio-de-renda.md) · [S27 Habitação Primeiro](fichas/S27-habitacao-primeiro.md) |
 | 2–5 anos | Avaliar e decidir se os tetos terminam, se ajustam ou se mantêm |
 | 5–15 anos | Depende do que for combinado do lado da oferta |
 
@@ -143,10 +143,10 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 |---|---|---|
 | O4 Segurança | Atualizações nos contratos existentes ≤ inflação nas zonas de pressão | Irlanda: ≈ 1,3–1,7%/ano em vez de 3,5–4% |
 | O1 Acessibilidade (inquilinos atuais) | ≈ 20 €/mês a menos por ano de contrato numa renda de 900 € | [S19](fichas/S19-limites-as-rendas.md) |
-| O5 Sem-abrigo | Inverter a subida até 2028 | ⚪ S27 (sem ficha) |
+| O5 Sem-abrigo | Inverter a subida até 2028; casa para as ≈ 9.400 pessoas sem teto | [S27](fichas/S27-habitacao-primeiro.md) (evidência A) |
 | O2 Oferta | **Risco de queda** no arrendamento privado | Catalunha: −36% de novos contratos; Irlanda: queda da oferta |
 
-**Custo público:** **baixo** para a regulação; o subsídio de renda dirigido (⚪ S21) não está estimado. A verba de S25b (≈ 146 M€/ano) seria uma fonte possível.
+**Custo público:** **baixo** para a regulação; o subsídio de renda dirigido custa ≈ 210 M€/ano por cada 100 mil agregados ([S21](fichas/S21-subsidio-de-renda.md)), e a Habitação Primeiro ≈ 95–140 M€/ano brutos para cobrir as pessoas sem teto ([S27](fichas/S27-habitacao-primeiro.md)), parcialmente compensados por poupanças noutros serviços. A verba de S25b (≈ 146 M€/ano) seria uma fonte possível.
 
 | Ganham | Perdem |
 |---|---|
@@ -168,10 +168,10 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 | **O2 Oferta** | ++ | + | − (risco) |
 | **O3 Setor não lucrativo** | 0 | ++ | 0 |
 | **O4 Segurança** | + (incentivos) | ++ | ++ |
-| **O5 Sem-abrigo** | 0 | + | + (⚪ S27) |
+| **O5 Sem-abrigo** | 0 | + | ++ (S27) |
 | **O6 Estabilidade financeira** | + | + | 0 |
 | **Primeiros efeitos** | 2–5 anos | 5–10 anos | Meses |
-| **Custo público** | Baixo ou poupança | **≈ 0,7–1,9 mil M€/ano** (modelo de crédito) | Baixo (+ subsídio de renda) |
+| **Custo público** | Baixo ou poupança | **≈ 0,7–1,9 mil M€/ano** (modelo de crédito) | Baixo na regulação; ≈ 0,3–0,35 mil M€/ano com S21 (100 mil agregados) e S27 |
 | **Evidência dominante** | A/B | C | A (riscos) / B (benefícios) |
 | **Capacidade de execução exigida** | Média | **Alta** | Média |
 | **Risco principal** | Oferta só no segmento alto | Não conseguir executar | Queda da oferta de arrendamento |
@@ -194,15 +194,15 @@ Os pacotes **não são exclusivos**. A tabela mostra onde se reforçam e onde ch
 
 ## 6. Leitura territorial
 
-| Território | Base comum | A | B | C | Lacuna |
+| Território | Base comum | A | B | C | Opções específicas (⚪ = sem ficha) |
 |---|---|---|---|---|---|
 | **A** Centros metropolitanos | N1–N6 | S02, S25b | S07, S06, S10 (quotas) | S19, S16 forte | — |
 | **B** Periferias | N1–N6 | **S02** (eixos ferroviários) | S06, S07 | S19 parcial | ⚪ S30 planeamento metropolitano |
-| **C** Turísticos (Algarve, Madeira, Açores) | N1–N6 | S16 | S06, S07, S08 | S16 forte, S19 | ⚪ S28 trabalhadores essenciais, ⚪ S31 taxa turística |
+| **C** Turísticos (Algarve, Madeira, Açores) | N1–N6 | S16 | S06, S07, S08 | S16 forte, S19 | [S28 trabalhadores essenciais](fichas/S28-trabalhadores-essenciais.md), [S31 taxa turística](fichas/S31-taxa-turistica.md) |
 | **D** Cidades médias | N1–N6 | S02 | **S10 bancos de solos** (antes da subida de preços) | — | ⚪ S22 residências de estudantes |
-| **E** Interior | N1, N2, N4 | — | S08, S13 | — | ⚪ **S32 reabilitar + emprego** — nenhum pacote responde bem ao interior |
+| **E** Interior | N1, N2, N4 | — | S08, S13 | — | [S32](fichas/S32-interior.md) reabilitar + emprego (evidência D: começar por pilotos) |
 
-O **interior** e os **territórios turísticos** dependem de opções que ainda não têm ficha. É a principal lacuna desta versão.
+Com o 3.º lote, os **territórios turísticos** passam a ter opções próprias ([S28](fichas/S28-trabalhadores-essenciais.md), [S31](fichas/S31-taxa-turistica.md)) e o **interior** a sua primeira ([S32](fichas/S32-interior.md)), mas todas com evidência fraca (D). Para estes territórios, a abordagem mais prudente parece ser **pilotos com avaliação** (base comum, N6).
 
 ---
 
@@ -218,7 +218,7 @@ O **interior** e os **territórios turísticos** dependem de opções que ainda 
 
 ## 8. Limitações
 
-- Construído com **12 de 33 opções**. Opções importantes (⚪ S20, S21, S27, S28, S30, S31, S32, S33) entram sem ficha nem números.
+- Construído com **18 de 33 opções**. Opções ainda sem ficha (⚪ S22, S30, S33 e outras) entram sem números.
 - Os números são **ilustrativos**, com pressupostos próprios (custo por casa) e transposições de efeitos medidos noutros países.
 - Os pacotes são **arquétipos**. Na prática, qualquer programa político combinará elementos de vários.
 - Os efeitos **macroeconómicos** (juros, crescimento, migração) não são modelados e podem alterar todas as metas.
