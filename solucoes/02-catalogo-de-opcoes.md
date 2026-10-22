@@ -31,21 +31,21 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 | ID | Opção | Em que consiste | Causas | Territ. | Objetivos | Exemplos a investigar |
 |---|---|---|---|---|---|---|
 | S06 | **Construção pública em grande escala** | Estado e autarquias constroem habitação para um leque largo de rendimentos, incluindo a classe média | Of | A–D | O3, O1, O2 | Viena [F54](../referencias/fontes.md#f54); Singapura |
-| S07 | **Renda a custo (*cost rental*)** | Rendas fixadas para cobrir o custo de construção e manutenção, sem lucro; parque que se autofinancia | Of, Ar | A–D | O3, O1, O4 | Irlanda (desde 2021); Dinamarca; Áustria (associações de lucro limitado) |
+| [S07](fichas/S07-renda-a-custo.md) | **Renda a custo (*cost rental*)** · 📄 ficha · evidência **C** | Rendas fixadas para cobrir o custo de construção e manutenção, sem lucro; parque que se autofinancia | Of, Ar | A–D | O3, O1, O4 | Irlanda (desde 2021); Dinamarca; Áustria (associações de lucro limitado) |
 | S08 | **Cooperativas de habitação** | Moradores constroem e gerem em conjunto, com terreno e crédito apoiados | Of | A–E | O3, O4 | Zurique; Uruguai; Dinamarca; cooperativas portuguesas pós-1974 |
 | S09 | **Financiamento estável e próprio** | Fundo ou banco público dedicado, com receitas regulares (ex.: contribuição sobre salários, fundo rotativo) | Of | todos | O3 | Áustria (0,5% dos salários [F54](../referencias/fontes.md#f54)); Dinamarca (fundo nacional); Finlândia |
-| S10 | **Política de solos públicos** | O Estado compra ou mantém terrenos, cede em direito de superfície, recupera parte das mais-valias urbanísticas | Of | A–D | O3, O2 | Países Baixos; Viena; Singapura; Ulm e Munique (Alemanha) |
+| [S10](fichas/S10-politica-de-solos.md) | **Política de solos públicos** · 📄 ficha · evidência **C** | O Estado compra ou mantém terrenos, cede em direito de superfície, recupera parte das mais-valias urbanísticas | Of | A–D | O3, O2 | Países Baixos; Viena; Singapura; Ulm e Munique (Alemanha) |
 | S11 | **Quotas de habitação acessível** | Novos empreendimentos de certa dimensão reservam uma % para rendas ou preços acessíveis | Of | A, B, C | O1, O3 | Barcelona (regra dos 30%); Munique; Inglaterra |
 
 ## Eixo 3 — Usar melhor as casas que já existem
 
 | ID | Opção | Em que consiste | Causas | Territ. | Objetivos | Exemplos a investigar |
 |---|---|---|---|---|---|---|
-| S12 | **Imposto sobre casas vazias** | Tributação crescente de imóveis desocupados há longo tempo | Of | A, B, C | O2, O1 | Vancouver (Canadá); França; IMI agravado para devolutos (PT) |
+| [S12](fichas/S12-imposto-casas-vazias.md) | **Imposto sobre casas vazias** · 📄 ficha · evidência **B** | Tributação crescente de imóveis desocupados há longo tempo | Of | A, B, C | O2, O1 | Vancouver (Canadá); França; IMI agravado para devolutos (PT) |
 | S13 | **O Estado como intermediário do arrendamento** | Entidade pública arrenda casas privadas com garantia de pagamento e obras, e subarrenda a preço acessível | Of, Ar | todos | O1, O4, O3 | Bélgica (agências imobiliárias sociais); França; "Arrendar para Subarrendar" (PT) |
 | S14 | **Reabilitação em troca de renda acessível** | Apoio a obras de devolutos com obrigação de arrendar a preço limitado por X anos | Of | A, C, D, E | O2, O1 | Programas portugueses de reabilitação; Espanha |
 | S15 | **Desbloquear heranças e propriedade incerta** | Procedimentos rápidos para heranças indivisas, cadastro completo, venda forçada de ruínas | Of | D, E | O2 | Cadastro BUPi (PT) |
-| S16 | **Regulação do alojamento local** | Quotas por zona, limites de dias por ano, licenças temporárias, fiscalização | AL | A, C | O1, O2 | Barcelona; Amesterdão; Nova Iorque; zonas de contenção de Lisboa [F29](../referencias/fontes.md#f29) |
+| [S16](fichas/S16-regulacao-alojamento-local.md) | **Regulação do alojamento local** · 📄 ficha · evidência **B** | Quotas por zona, limites de dias por ano, licenças temporárias, fiscalização | AL | A, C | O1, O2 | Barcelona; Amesterdão; Nova Iorque; zonas de contenção de Lisboa [F29](../referencias/fontes.md#f29) |
 | S17 | **Mobilidade e casas sub-ocupadas** | Facilitar a troca para casas mais pequenas (idosos em casas grandes, permutas de habitação social) | Of | A, B | O2 | A investigar |
 
 ## Eixo 4 — Arrendamento estável e justo
@@ -53,7 +53,7 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 | ID | Opção | Em que consiste | Causas | Territ. | Objetivos | Exemplos a investigar |
 |---|---|---|---|---|---|---|
 | S18 | **Contratos longos com atualização previsível** | Contratos sem termo ou longos, com aumentos ligados a um índice | Ar | todos | O4 | Alemanha; Suécia; Irlanda |
-| S19 | **Limites às rendas** | Tetos ou travões à subida das rendas em zonas de pressão | Ar | A, C | O1, O4 | Catalunha [F55](../referencias/fontes.md#f55); Berlim (anulado em 2021); Escócia (2022–2024); congelamento português [F42](../referencias/fontes.md#f42) |
+| [S19](fichas/S19-limites-as-rendas.md) | **Limites às rendas** · 📄 ficha · evidência **A** | Tetos ou travões à subida das rendas em zonas de pressão | Ar | A, C | O1, O4 | Catalunha [F55](../referencias/fontes.md#f55); Berlim (anulado em 2021); Escócia (2022–2024); congelamento português [F42](../referencias/fontes.md#f42) |
 | S20 | **Seguro e garantia de renda + justiça rápida** | Garantia pública de pagamento ao senhorio e resolução rápida de litígios, com proteção social em caso de despejo | Ar | todos | O4, O2 | França; revisão do NRAU 2026 [F44](../referencias/fontes.md#f44) |
 | S21 | **Subsídio de renda dirigido** | Apoio em dinheiro aos inquilinos de baixo rendimento | Ar | todos | O1, O5 | França; Alemanha; Finlândia |
 | S22 | **Residências para estudantes e trabalhadores deslocados** | Alojamento dedicado para quem se desloca para estudar ou trabalhar | Pr | C, D, E | O1 | Plano nacional de alojamento estudantil (PT) |
@@ -64,7 +64,7 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 |---|---|---|---|---|---|---|
 | S23 | **Reforma do IMI e do IMT** | Menos imposto na compra (IMT), mais na posse (IMI), atualização dos valores patrimoniais | Of, Es | todos | O2, O6 | Recomendação da OCDE [F11](../referencias/fontes.md#f11); Austrália (Território da Capital) |
 | S24 | **Limites a compradores não residentes** | Proibição ou imposto adicional sobre compras por não residentes | Es | A, C | O1 | Canadá; Nova Zelândia; agravamento do IMT (PT) [F59](../referencias/fontes.md#f59) |
-| S25 | **Rever os apoios à compra** | Condicionar a garantia pública e a isenção de IMT a limites de rendimento, ou substituí-las | Ap | todos | O1, O6 | Recomendação do FMI [F38](../referencias/fontes.md#f38); Reino Unido (*Help to Buy*) |
+| [S25](fichas/S25-apoios-a-compra.md) | **Rever os apoios à compra** · 📄 ficha · evidência **B** | Condicionar a garantia pública e a isenção de IMT a limites de rendimento, ou substituí-las | Ap | todos | O1, O6 | Recomendação do FMI [F38](../referencias/fontes.md#f38); Reino Unido (*Help to Buy*) |
 | S26 | **Regras prudenciais no crédito** | Limites ao valor financiado e à taxa de esforço | Cr | todos | O6 | Banco de Portugal [F38](../referencias/fontes.md#f38) |
 
 ## Eixo 6 — Pessoas mais vulneráveis
@@ -108,7 +108,7 @@ Sugere-se começar pelas opções que **(a)** respondem à causa principal, **(b
 
 | Lote | Opções | Porquê |
 |---|---|---|
-| **1.º lote** | S07 renda a custo · S10 política de solos · S12 imposto sobre casas vazias · S16 regulação do AL · S19 limites às rendas · S25 apoios à compra | Grandes debates em Portugal e boa evidência internacional |
+| **1.º lote** ✅ | [S07](fichas/S07-renda-a-custo.md) renda a custo · [S10](fichas/S10-politica-de-solos.md) política de solos · [S12](fichas/S12-imposto-casas-vazias.md) imposto sobre casas vazias · [S16](fichas/S16-regulacao-alojamento-local.md) regulação do AL · [S19](fichas/S19-limites-as-rendas.md) limites às rendas · [S25](fichas/S25-apoios-a-compra.md) apoios à compra | Grandes debates em Portugal e boa evidência internacional |
 | 2.º lote | S01 licenciamento · S02 densidade · S06 construção pública · S08 cooperativas · S13 Estado intermediário · S18 contratos longos | Oferta e arrendamento estável |
 | 3.º lote | restantes | — |
 
