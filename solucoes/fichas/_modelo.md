@@ -4,6 +4,15 @@
 
 *Copiar este modelo para `fichas/SXX-nome-curto.md` ao preparar cada ficha.*
 
+**Lista de verificação editorial** (aplicar antes de dar uma ficha como revista):
+- [ ] O título descreve a opção sem pressupor a resposta (ex.: "manter, ajustar ou retirar", não "rever")
+- [ ] O problema é descrito tal como o veem **defensores e críticos**
+- [ ] Há evidência **a favor e contra**, ou explica-se porque não existe
+- [ ] Fontes interessadas ou ideologicamente posicionadas estão identificadas
+- [ ] Juízos próprios estão assinalados como tal
+- [ ] As limitações da evidência estão explícitas
+- [ ] As questões para a consulta pública separam **factos** de **escolhas de valores**
+
 ---
 
 # SXX — Nome da opção
@@ -19,9 +28,14 @@ Descrição simples, sem jargão. Que problema do [diagnóstico](../../diagnosti
 |---|---|---|---|---|---|
 
 ## 3. O que diz a evidência
-- Efeitos pretendidos: aconteceram?
-- Efeitos não pretendidos ou perversos
-- Pontos de consenso e de controvérsia entre investigadores
+- O que a evidência mostra **a favor** (efeitos pretendidos que aconteceram)
+- O que a evidência mostra **contra** (efeitos não pretendidos ou perversos)
+- **Limitações** da evidência (o que os estudos não medem, contextos diferentes)
+- Juízos próprios sempre assinalados como "juízo interpretativo"
+
+### Argumentos em confronto
+| Quem defende argumenta que… | Quem critica argumenta que… |
+|---|---|
 
 ## 4. Já existe em Portugal?
 Medidas parecidas, como correram, porque falharam ou resultaram.
