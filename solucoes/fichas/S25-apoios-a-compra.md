@@ -1,19 +1,24 @@
-# S25 — Rever os apoios à compra
+# S25 — Apoios à compra da primeira casa: manter, ajustar ou retirar
 
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Diagnóstico: [04 — Crédito](../../diagnostico/04-credito-e-financas.md#2-garantia-pública-para-jovens-e-isenção-de-imt)
 
 **Eixo:** 5 — Procura, fiscalidade e crédito · **Causas:** apoios à procura · **Territórios:** todos · **Objetivos:** O1, O6
-**Força da evidência:** **B** — avaliações causais no Reino Unido e em Portugal, evidência consistente na Austrália · **Estado:** rascunho para revisão
+**Força da evidência:** **B** — avaliações causais em Portugal (isenção de IMT) e no Reino Unido, evidência consistente na Austrália; **sem avaliação** da garantia pública portuguesa · **Estado:** revista (v2)
+**Nota editorial:** decisão política em curso (a garantia pública termina no fim de 2026). A ficha apresenta as razões de quem defende e de quem critica os apoios.
 
 ---
 
 ## 1. Em que consiste
 
-Os apoios à compra ajudam famílias (normalmente jovens) a comprar a primeira casa: subsídios, isenções de impostos, garantias públicas ou empréstimos do Estado para a entrada.
+Os apoios à compra ajudam famílias, normalmente jovens, a comprar a primeira casa: subsídios, isenções de impostos, garantias públicas ou empréstimos do Estado para a entrada. Em Portugal existem dois desde 2024: a **isenção de IMT e Imposto do Selo** e a **garantia pública** para jovens até 35 anos ([04](../../diagnostico/04-credito-e-financas.md#2-garantia-pública-para-jovens-e-isenção-de-imt)).
 
-A opção S25 é **rever** estes apoios: mantê-los, limitá-los a quem precisa (condição de recursos), ligá-los a casas novas, ou substituí-los por outras formas de apoio.
+Esta ficha compara cinco caminhos: **manter**, **sujeitar a condição de recursos**, **ligar à construção nova**, **reorientar a verba** ou **retirar**.
 
-**Problema a que responde:** o FMI e o Banco de Portugal consideram que os apoios atuais **alimentaram a procura e os preços** num mercado sem oferta ([04](../../diagnostico/04-credito-e-financas.md#2-garantia-pública-para-jovens-e-isenção-de-imt), [09](../../diagnostico/09-causas-e-debates.md#4-apoios-à-procura)).
+### Os dois diagnósticos em confronto
+
+| O problema que os apoios querem resolver | O problema que os críticos apontam |
+|---|---|
+| Desde 2018, o Banco de Portugal limita o crédito a **90% do valor** da casa. Um jovem precisa de pelo menos **10% de entrada mais impostos e custos**, o que, com os preços atuais, exige dezenas de milhares de euros de poupança [F95](../../referencias/fontes.md#f95). A garantia pública permite financiar até 100%: 85% dos créditos com garantia tiveram LTV de 100% [F95](../../referencias/fontes.md#f95) | Num mercado com pouca oferta, mais procura apoiada traduz-se em **preços mais altos**; o FMI e o Banco de Portugal alertam para o efeito nos preços e para o risco financeiro [F38](../../referencias/fontes.md#f38) |
 
 ---
 
@@ -22,86 +27,92 @@ A opção S25 é **rever** estes apoios: mantê-los, limitá-los a quem precisa 
 | País | Medida | Resultado principal | Avaliação | Fonte |
 |---|---|---|---|---|
 | **Portugal** (2024–) | **Isenção de IMT e Imposto do Selo** para jovens até 35 anos na 1.ª habitação | Preços pedidos **subiram 0,26%** no mês seguinte ao anúncio; o benefício foi **absorvido pelos preços em 3–4 meses** nas casas mais baratas e em **até 15 meses** nas mais caras; nas áreas metropolitanas, a subida afetou **todos os compradores** | Causal (Portugal vs. Espanha como controlo, anúncios 2023–2024), publicado em *Real Estate Economics* | [F89](../../referencias/fontes.md#f89) |
-| **Reino Unido** (*Help to Buy*, 2013–2023) | Empréstimo público para a entrada na compra de casas novas | Em **Londres**, **subiu os preços** mais do que o valor do próprio subsídio e **não aumentou a construção**; os autores ligam isto à oferta muito rígida de Londres | Causal (descontinuidades nas fronteiras) | [F87](../../referencias/fontes.md#f87) |
-| **Austrália** | Subsídios à primeira compra (*First Home Owner Grant* e outros) | A maior parte do benefício é **capitalizada nos preços** onde a oferta é lenta; parte do apoio acaba nos vendedores. A magnitude é discutida | Revisão de evidência (AHURI) | [F88](../../referencias/fontes.md#f88) |
+| **Portugal** (2024–) | **Garantia pública** até 15% do empréstimo | Créditos com LTV acima de 90% passaram de 0,1% (2024) para **19%** do novo crédito à habitação (2025). **Efeito nos preços não avaliado** | Dados de supervisão | [F95](../../referencias/fontes.md#f95) |
+| **Reino Unido** (*Help to Buy*, 2013–2023) | Empréstimo público para a entrada na compra de **casas novas** | Em **Londres**, **subiu os preços** mais do que o valor do próprio subsídio e **não aumentou a construção**; os autores ligam isto à oferta muito rígida de Londres | Causal (descontinuidades nas fronteiras) | [F87](../../referencias/fontes.md#f87) |
+| **Austrália** | Subsídios à primeira compra | A maior parte do benefício é **capitalizada nos preços** onde a oferta é lenta. A **magnitude é discutida** | Revisão de evidência (AHURI) | [F88](../../referencias/fontes.md#f88) |
 
 ---
 
 ## 3. O que diz a evidência
 
-**Convergência forte:** onde a **oferta é rígida**, os apoios à procura transformam-se **em grande parte em preços mais altos** [F87](../../referencias/fontes.md#f87), [F88](../../referencias/fontes.md#f88), [F89](../../referencias/fontes.md#f89).
+### Convergência
 
-- O estudo português conclui que a isenção foi **"duplamente contraproducente"**: o benefício para os jovens desapareceu em poucos meses, e a subida de preços prejudicou os outros compradores [F89](../../referencias/fontes.md#f89).
-- O *Help to Buy* fora de Londres, onde a oferta responde melhor, teve resultados diferentes (mais construção); estes resultados não foram verificados nesta investigação.
+Os três países chegam à mesma conclusão: onde a **oferta é rígida**, os apoios à procura transformam-se **em grande parte em preços mais altos**, e parte do benefício acaba nos **vendedores** [F87](../../referencias/fontes.md#f87), [F88](../../referencias/fontes.md#f88), [F89](../../referencias/fontes.md#f89). Os autores do estudo português chamam à isenção de IMT "duplamente contraproducente" [F89](../../referencias/fontes.md#f89).
 
-**Os argumentos a favor dos apoios:**
-- Ajudam famílias sem poupança a **entrar** no mercado e a deixar de pagar renda.
-- Têm forte **adesão**: em Portugal, cerca de **70 mil jovens** beneficiaram da isenção de IMT e **23 mil** da garantia pública até ao início de 2026 [F90](../../referencias/fontes.md#f90).
-- O Governo defende que o problema é a oferta e não os apoios [F39](../../referencias/fontes.md#f39).
+### Limitações da evidência
 
-**Os riscos:**
-- **Custo fiscal**: a isenção de IMT custou ≈ **146 M€** em 2025 [F90](../../referencias/fontes.md#f90).
-- **Risco financeiro**: com a garantia pública, jovens financiam até 100% do valor, o que os expõe a uma eventual correção de preços. O Banco de Portugal desceu a taxa de esforço máxima para 45% [F38](../../referencias/fontes.md#f38).
-- **Regressividade**: sem limite de rendimento, beneficia também jovens com rendimentos altos e casas mais caras.
+- O estudo português mede **preços pedidos em anúncios**, não preços de venda efetivos, e cobre apenas a **isenção de IMT**, não a garantia pública [F89](../../referencias/fontes.md#f89).
+- **A garantia pública não foi avaliada.** A sua lógica é diferente da isenção: não dá dinheiro, resolve a falta de entrada. O efeito nos preços pode ser diferente.
+- Quem comprou **nos primeiros meses** terá beneficiado antes de os preços absorverem a isenção (inferência a partir de [F89](../../referencias/fontes.md#f89)).
+- O *Help to Buy* fora de Londres, onde a oferta responde melhor, terá tido resultados diferentes; não verificado nesta investigação ([Q12](../../referencias/questoes-em-aberto.md#q12)).
 
 ---
 
-## 4. Já existe em Portugal?
+## 4. Argumentos em confronto
 
-Sim: isenção de IMT/Imposto do Selo (total até ≈ 317 mil €; parcial até ≈ 633 mil €) e garantia pública até 15% do empréstimo, para contratos até ao fim de **2026** ([04](../../diagnostico/04-credito-e-financas.md#2-garantia-pública-para-jovens-e-isenção-de-imt), [F89](../../referencias/fontes.md#f89)).
+| Quem defende os apoios argumenta que… | Quem os critica argumenta que… |
+|---|---|
+| Sem eles, só compra casa quem tem família com poupanças: os apoios **reduzem a desigualdade de partida** | Sem limite de rendimento, beneficiam também jovens com rendimentos altos e casas caras |
+| O arrendamento também é caro e inseguro; comprar dá **estabilidade e património** para a velhice | Parte do apoio acaba nos vendedores e os preços sobem para todos |
+| A adesão mostra que respondem a uma necessidade real: ≈ **70 mil** jovens beneficiaram da isenção de IMT e ≈ **23 mil** da garantia [F90](../../referencias/fontes.md#f90) | Custo de ≈ **146 M€** em 2025, só no IMT, que poderia financiar oferta [F90](../../referencias/fontes.md#f90) |
+| O problema dos preços é a falta de oferta, não os apoios (posição do Governo) [F39](../../referencias/fontes.md#f39) | Financiar 100% expõe jovens e bancos a uma correção de preços (FMI, Banco de Portugal) [F38](../../referencias/fontes.md#f38) |
+
+---
+
+## 5. Situação em Portugal
+
+- Isenção de IMT/Imposto do Selo: total até ≈ 317 mil €; parcial até ≈ 633 mil €; sem limite de rendimento [F89](../../referencias/fontes.md#f89).
+- Garantia pública até 15% do empréstimo, para contratos assinados **até ao fim de 2026** ([04](../../diagnostico/04-credito-e-financas.md#2-garantia-pública-para-jovens-e-isenção-de-imt)).
 
 | Posição | Proposta | Fonte |
 |---|---|---|
-| FMI (2026) | Eliminar, ou sujeitar a condição de recursos | [F38](../../referencias/fontes.md#f38) |
-| Banco de Portugal | Alerta para o risco; aperta regras de crédito | [F38](../../referencias/fontes.md#f38) |
 | Governo | Manter | [F39](../../referencias/fontes.md#f39) |
-| Estudo ISCTE | Benefício absorvido pelos preços | [F89](../../referencias/fontes.md#f89) |
+| FMI (2026) | Eliminar, ou sujeitar a condição de recursos | [F38](../../referencias/fontes.md#f38) |
+| Banco de Portugal | Alerta para o risco; desceu a taxa de esforço máxima para 45% | [F38](../../referencias/fontes.md#f38) |
+| Investigadores do ISCTE | O benefício da isenção de IMT foi absorvido pelos preços | [F89](../../referencias/fontes.md#f89) |
 
-**Decisão iminente:** a garantia pública aplica-se a contratos assinados **até ao fim de 2026**. A sua prorrogação, alteração ou fim é uma decisão dos próximos meses.
-
----
-
-## 5. Transferibilidade para Portugal
-
-Não é preciso transferir: **a evidência já é portuguesa** [F89](../../referencias/fontes.md#f89), e coincide com a do Reino Unido e da Austrália. O fator decisivo é a **rigidez da oferta**, que em Portugal é elevada ([02](../../diagnostico/02-oferta-e-construcao.md)).
+**Decisão próxima:** a prorrogação, alteração ou fim da garantia pública é uma decisão dos próximos meses.
 
 ---
 
-## 6. Avaliação pelos critérios
+## 6. Transferibilidade
 
-*Avalia-se aqui a opção de **rever** os apoios (condição de recursos ou substituição), face à situação atual.*
-
-| Critério | Avaliação | Justificação |
-|---|---|---|
-| C1 Impacto esperado | Médio | Retira pressão sobre os preços; liberta receita para medidas do lado da oferta |
-| C2 Força da evidência | B | Causal em Portugal e no Reino Unido |
-| C3 Prazo | Imediato | Decisão até ao fim de 2026 |
-| C4 Custo orçamental | **Poupança** (≈ 146 M€/ano só no IMT, se eliminada) | |
-| C5 Distribuição | Perdem jovens compradores no curto prazo; ganham todos os compradores (preços menos pressionados) e o Estado | Com condição de recursos, mantém-se o apoio aos jovens de rendimento baixo |
-| C6 Riscos | Queda temporária das compras por jovens; custo político | |
-| C7 Viabilidade jurídica | Alta | Política fiscal ordinária |
-| C8 Capacidade de execução | Alta | |
-| C9 Transferibilidade | — | Evidência portuguesa |
-| C10 Territórios | Todos; efeito nos preços mais forte em A e B | |
+A evidência sobre a isenção de IMT **já é portuguesa** [F89](../../referencias/fontes.md#f89) e coincide com a do Reino Unido e da Austrália. O fator decisivo em todos os casos é a **rigidez da oferta**, que em Portugal é elevada ([02](../../diagnostico/02-oferta-e-construcao.md)). Para a garantia pública não há evidência direta.
 
 ---
 
-## 7. Variantes possíveis em Portugal
+## 7. Avaliação das variantes
 
-1. **Manter** os apoios tal como estão (posição do Governo).
-2. **Condição de recursos:** apoio apenas abaixo de um limite de rendimento e de preço da casa.
-3. **Ligar à oferta nova:** apoio só para casas **novas** ou reabilitadas, para estimular construção em vez de concorrer pelo stock existente (o *Help to Buy* fazia isto, com maus resultados em Londres).
-4. **Reorientar a verba** para medidas do lado da oferta (por exemplo, [S07](S07-renda-a-custo.md)) ou para apoio ao arrendamento.
-5. **Eliminar** gradualmente, com anúncio antecipado (posição do FMI).
+*Comparação qualitativa. "Preços" refere-se à pressão sobre os preços face à situação atual.*
+
+| Variante | Preços | Custo orçamental | Quem ganha | Quem perde | Riscos | Evidência |
+|---|---|---|---|---|---|---|
+| **1. Manter** | Mantém a pressão | ≈ 146 M€/ano (IMT) + garantias | Jovens compradores, sobretudo nos primeiros meses; vendedores | Compradores não apoiados; contribuintes | Endividamento a 100%; correção de preços | B (IMT); sem avaliação (garantia) |
+| **2. Condição de recursos** | Reduz a pressão | Menor | Jovens de rendimento baixo e médio | Jovens de rendimento alto | Efeito de fronteira no limite de rendimento | D (teórica) |
+| **3. Só para casas novas** | Pode estimular construção onde a oferta responde | Variável | Compradores de casa nova; promotores | Quem procura casa usada | Em mercados rígidos, sobe preços sem mais construção (Londres) | B (Reino Unido) |
+| **4. Reorientar a verba** para oferta ou arrendamento | Reduz a pressão no curto prazo; mais oferta a prazo | Neutro (realocação) | Inquilinos; futuros compradores | Jovens que iriam comprar agora | Efeito lento | Depende da medida (ver [S07](S07-renda-a-custo.md)) |
+| **5. Retirar gradualmente** | Reduz a pressão | Poupança | Contribuintes; compradores não apoiados | Jovens sem poupança para a entrada | Corrida às compras antes do fim; queda das compras por jovens | B (inferência a partir de F87–F89) |
+
+### Critérios gerais (todas as variantes)
+
+| Critério | Avaliação |
+|---|---|
+| C2 Força da evidência | B para a isenção de IMT; ausente para a garantia pública |
+| C3 Prazo | Imediato: decisão até ao fim de 2026 |
+| C7 Viabilidade jurídica | Alta: política fiscal e financeira ordinária |
+| C8 Capacidade de execução | Alta: os instrumentos já existem |
+| C10 Territórios | Todos; efeito nos preços mais forte nas áreas metropolitanas (A, B) |
 
 ---
 
 ## 8. Questões para a consulta pública
 
-- É justo que um apoio público acabe, em grande parte, nos **vendedores** das casas?
-- Se se mantiverem, os apoios devem ter **limite de rendimento**?
+- **Ser proprietário** deve ser um objetivo da política pública de habitação, ou o objetivo é ter casa, em propriedade ou arrendada?
+- É aceitável que parte de um apoio público acabe nos **vendedores** das casas?
+- Se os apoios se mantiverem, devem ter **limite de rendimento**?
 - A verba deve ser usada para **apoiar a compra** ou para **aumentar a oferta**?
+- Antes de decidir sobre a garantia pública, deve ser feita uma **avaliação independente** do seu efeito?
 
 ---
 
-Fontes: [F38](../../referencias/fontes.md#f38), [F39](../../referencias/fontes.md#f39), [F87](../../referencias/fontes.md#f87), [F88](../../referencias/fontes.md#f88), [F89](../../referencias/fontes.md#f89), [F90](../../referencias/fontes.md#f90)
+Fontes: [F38](../../referencias/fontes.md#f38), [F39](../../referencias/fontes.md#f39), [F87](../../referencias/fontes.md#f87), [F88](../../referencias/fontes.md#f88), [F89](../../referencias/fontes.md#f89), [F90](../../referencias/fontes.md#f90), [F95](../../referencias/fontes.md#f95)
