@@ -83,3 +83,11 @@ Resolvida em [03](../diagnostico/03-procura-turismo-estrangeiros.md#2-compradore
 - **S08:** número atual de cooperativas e de fogos cooperativos em Portugal (FENACHE, INE, IHRU); estudo primário sobre rendas das cooperativas de Zurique.
 - **S13:** número de casas geridas pelas agências imobiliárias sociais belgas; balanço final do "Arrendar para Subarrendar"; programas municipais equivalentes.
 - **S18:** durações mínimas e regras de renovação em vigor no NRAU; escalões atuais de IRS por duração (art. 72.º CIRS); relatório final (vaga 3) da avaliação RentBetter na Escócia.
+
+<a id="q14"></a>
+### Q14 — Ordens de grandeza: dados a substituir por fontes oficiais
+- **Custo por casa** em habitação pública e a custos controlados (IHRU; valor de referência da revisão de 2025 da Portaria 65/2019). Hoje usa-se um pressuposto próprio de 150–250 mil € — ver [pressupostos comuns](../solucoes/03-avaliacao-comparada.md#pressupostos-comuns).
+- **Peso do terreno** no custo da habitação nova por região.
+- **Número total de contratos de arrendamento** registados na Autoridade Tributária (para dimensionar S18 e S19).
+- **Alojamentos familiares** na AML e na AMP (Censos 2021), em vez do distrito de Lisboa.
+- Confirmar no artigo de Greenaway-McGrevy & Phillips o número de licenças adicionais atribuíveis à reforma de Auckland.

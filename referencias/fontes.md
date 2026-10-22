@@ -614,3 +614,40 @@ https://www.globalpropertyguide.com/europe/germany/Landlord-and-Tenant
 **F114** — Portugal, benefícios fiscais a contratos de longa duração (art. 72.º do CIRS; Leis 3/2019 e 119/2019): DECO Proteste, *Arrendamento de longa duração: quais as vantagens fiscais?* (dez. 2025); idealista, *Arrendar casa em Portugal: há 33.800 contratos com desconto no IRS*. Secundária ●●○
 https://www.deco.proteste.pt/investe/patrimonio/impostos/artigos/2025/12/arrendamento-longa-duracao-quais-vantagens-fiscais
 https://www.idealista.pt/news/node/57206
+
+## 15. Ordens de grandeza
+
+<a id="f115"></a>
+**F115** — Custos de construção: Santander Salto, *Custo do metro quadrado para construir casa* (2026: 950–1.500 €/m² em construção tradicional; valor fiscal de 570 €/m² em 2026, Portaria n.º 471/2025/1); idealista, *Custos de construção de habitação nova sobem 4% em 2025* (INE, ICCHN). Secundária ●●○
+https://www.santander.pt/salto/custo-metro-quadrado-para-construir-casa
+https://www.idealista.pt/news/etiquetas/ine?page=1
+
+<a id="f116"></a>
+**F116** — Irlanda, *cost rental*: gov.ie, *Cost Rental homes* (CREL até 55% do custo de capital; apoios até 150–175 mil € por casa); ESRI, *Pricing and affordability of Ireland's new Cost Rental housing tenure: A microdata exploration* (abr. 2026: desconto médio de 29,9% face ao mercado). Primária ●●●
+https://www.gov.ie/en/service/32911-cost-rental-homes
+https://www.esri.ie/node/10790
+
+<a id="f117"></a>
+**F117** — Número de registos de alojamento local: ECO, *40 mil alojamentos locais vão "desaparecer" dos registos em Portugal* (24-10-2025); idealista, *AL em Portugal: municípios já encerraram 10.324 estabelecimentos* (2026). Secundária ●●○
+https://eco.sapo.pt/2025/10/24/40-mil-alojamentos-locais-vao-desaparecer-dos-registos-em-portugal/
+https://www.idealista.pt/news/node/75957
+
+<a id="f118"></a>
+**F118** — Censos 2021, arrendamento: idealista, *Número de casas aumenta, mas a "ritmo bastante inferior"* e *Arrendar casa: quase 30% das rendas é superior a 400 euros*, a citar o INE (922,9 mil alojamentos arrendados, 22,3% das residências habituais; 29,2% na AML). Secundária ●●○
+https://www.idealista.pt/news/node/50160
+https://www.idealista.pt/news/node/50185
+
+<a id="f119"></a>
+**F119** — Imóveis públicos com aptidão habitacional: Decreto-Lei n.º 82/2020 (inventário pelo IHRU); idealista, *18 municípios vão gerir imóveis do Estado para dar casas acessíveis*; Observador, *Os devolutos do Estado resolviam num mês metade dos casos de emergência habitacional*. Primária + secundária ●●○
+https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2020-144454579
+https://www.idealista.pt/news/node/58782
+https://observador.pt/especiais/os-devolutos-do-estado-resolviam-num-mes-metade-dos-casos-de-emergencia-habitacional/
+
+<a id="f120"></a>
+**F120** — Auckland, parque habitacional: Auckland Council, *2023 Census confirms Auckland gains more new homes* (+11,9% de alojamentos entre 2018 e 2023, contra +5,4% de população); Figure.NZ (alojamentos ocupados: 498.789 em 2018). Primária ●●●
+https://aucklandcouncil.govt.nz/about-auckland-council/Documents/2023-census-confirms-auckland-gains-more-new-homes.pdf
+https://figure.nz/chart/75kAWMkflyEFzrBi
+
+<a id="f121"></a>
+**F121** — Distrito de Lisboa, alojamentos familiares (Censos 2021: 1.189.142): EAPN, *Habita* (ebook, 2024). Secundária ●●○
+https://www.eapn.pt/wp-content/uploads/2024/04/EAPN_ebook_Habita017-1.pdf
