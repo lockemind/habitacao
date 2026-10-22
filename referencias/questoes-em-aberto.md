@@ -91,3 +91,12 @@ Resolvida em [03](../diagnostico/03-procura-turismo-estrangeiros.md#2-compradore
 - **Número total de contratos de arrendamento** registados na Autoridade Tributária (para dimensionar S18 e S19).
 - **Alojamentos familiares** na AML e na AMP (Censos 2021), em vez do distrito de Lisboa.
 - Confirmar no artigo de Greenaway-McGrevy & Phillips o número de licenças adicionais atribuíveis à reforma de Auckland.
+
+<a id="q15"></a>
+### Q15 — Pontos a verificar nas fichas do 3.º lote
+- **S20:** estatísticas atuais sobre despejos (número, duração, motivos) — os dados encontrados são de 2016–2017; nome e funcionamento atual do Balcão do Arrendamento; existência de avaliações da garantia Visale.
+- **S21:** número atual de beneficiários e custo do Porta 65 Jovem e do apoio extraordinário à renda (2023–2026).
+- **S27:** metas de *Housing First* na ENIPSSA 2025–2030; capacidade atual dos projetos portugueses; avaliações independentes; confirmar no estudo original a poupança finlandesa por pessoa (9.600 € vs. 15.000 €).
+- **S28:** número de lugares por preencher nos serviços públicos por falta de habitação (Algarve, Lisboa, Madeira, Açores).
+- **S31:** destino atual da receita da taxa turística nos principais municípios; aplicação efetiva da consignação nas Baleares.
+- **S32:** balanço do Emprego Interior MAIS e de outros incentivos à fixação; custos médios de reabilitação de casas devolutas no interior.

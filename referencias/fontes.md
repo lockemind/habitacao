@@ -651,3 +651,89 @@ https://figure.nz/chart/75kAWMkflyEFzrBi
 <a id="f121"></a>
 **F121** — Distrito de Lisboa, alojamentos familiares (Censos 2021: 1.189.142): EAPN, *Habita* (ebook, 2024). Secundária ●●○
 https://www.eapn.pt/wp-content/uploads/2024/04/EAPN_ebook_Habita017-1.pdf
+
+## 16. Fichas de soluções — 3.º lote
+
+### S27 — Habitação Primeiro
+
+<a id="f122"></a>
+**F122** — Finlândia, *Housing First* e Y-Foundation: Global News, *Quebec looks to Finland's successful approach to homelessness*; Fortune, *How to end homelessness: Finland's solution* (12-07-2022); Scandinavia Standard (comentário sobre a subida recente). Secundária ●●○
+https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model
+https://fortune.com/europe/2022/07/12/how-to-end-homelessness-finland-solution-housing-first
+https://www.scandinaviastandard.com/m-how-did-a-country-keep-homelessness-near-0-08-per-cent-roughly-a-third-of-the-equivalent-figure-in-the-united-states-finland-gave-people-the-flat-first/
+
+<a id="f123"></a>
+**F123** — Canadá, ensaio aleatório *At Home / Chez Soi*: Mental Health Commission of Canada, *Final Report — Executive Summary*; resultados do local de Toronto (*BMJ Open*, 2016); análise de custo-efetividade (Latimer et al., 2020). Primária ●●●
+https://mentalhealthcommission.ca/wp-content/uploads/2021/09/At2520Home2520Final2520Report2520-2520Exec2520Summary2520-2520ENG_0.pdf
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5030577
+https://escholarship.mcgill.ca/downloads/8g84mr94j
+
+<a id="f124"></a>
+**F124** — *Housing First* em Portugal: FEANTSA, apresentação de Cordeiro na conferência de investigação de 2024 (Casas Primeiro / AEIPS; 13 projetos em 10 cidades); Sábado, *Câmara de Lisboa vai abrir concurso para financiar mais 200 habitações para sem-abrigo*; EDC, *Experiência destacada 41 — Lisboa*. Primária (académica) + secundária ●●○
+https://feantsaresearch.org/public/user/Observatory/2024/Research_Conference_2024/PPTs/WS8_Cordeiro.pdf
+https://www.sabado.pt/portugal/detalhe/camara-de-lisboa-vai-abrir-concurso-para-financiar-mais-200-habitacoes-para-sem-abrigo
+https://www.edcities.org/en/wp-content/uploads/sites/2/2021/09/Experiencia-destacada_41-Lisboa_eng.pdf
+
+### S21 — Subsídio de renda dirigido
+
+<a id="f125"></a>
+**F125** — Incidência dos subsídios de renda: Gibbons, S. & Manning, A. (2006), *The incidence of UK housing benefit: evidence from the 1990s reforms*, *Journal of Public Economics*; Institut des Politiques Publiques, *Note IPP n.º 18* (2015, síntese francesa); Eerola et al., *The incidence of housing allowances: quasi-experimental evidence* (VATT, Finlândia). Primária ●●●
+https://researchonline.lse.ac.uk/id/eprint/20011
+https://halshs.archives-ouvertes.fr/halshs-02539844v1/file/n18-notesIPP-june2015.pdf
+https://www.doria.fi/bitstream/handle/10024/185961/vatt-working-papers-149-the-incidence-of-housing-allowances--quasi-experimental-evidence.pdf
+
+<a id="f126"></a>
+**F126** — Porta 65 Jovem: idealista, *Porta 65 quer apoiar 22.000 jovens até 2026*; idealista, *Mais de 40% dos jovens candidatos ao Porta 65 sem apoio para arrendar casa*. Secundária ●●○
+https://www.idealista.pt/news/node/57425
+https://www.idealista.pt/news/node/31615
+
+### S20 — Garantia de renda e justiça rápida
+
+<a id="f127"></a>
+**F127** — França, garantia Visale (Action Logement): Action Logement, *Visale, 10 ans de confiance* (2 milhões de garantias em julho de 2026); Cafpi, *La Garantie Visale dépasse le million de contrats signés*. Primária (operador) ●●○
+https://www.actionlogement.fr/proprietaire-bailleur/actualites/visale-10-ans-de-confiance
+https://www.cafpi.fr/credit-immobilier/actualites/la-garantie-visale-depasse-le-million-de-contrats-signes
+
+<a id="f128"></a>
+**F128** — Portugal, Balcão Nacional do Arrendamento e duração dos despejos: idealista, *Balcão Nacional do Arrendamento faz despejos em três ou quatro meses*; idealista, *Despejar inquilinos em três meses continua a ser impossível*; DN, *Mais de doze mil pedidos de despejo registados em três anos*. Secundária ●●○ (dados de 2016–2017)
+https://www.idealista.pt/news/node/35286
+https://www.idealista.pt/news/node/32640
+https://www.dn.pt/arquivo/diario-de-noticias/mais-de-doze-mil-pedidos-de-despejo-registados-em-tres-anos-4969933.html
+
+### S28 — Trabalhadores essenciais
+
+<a id="f129"></a>
+**F129** — Habitação para trabalhadores essenciais: LSE, *Key worker housing and the post-crisis housing market*; Community Care, sobre o *Key Worker Living* (Reino Unido); Forbes España, *The new housing development for public sector employees in Ibiza*. Primária (académica) + secundária ●●○
+https://researchonline.lse.ac.uk/id/eprint/56103
+https://www.communitycare.co.uk/?p=54232
+https://forbes.es/en/balearic/979170/the-new-housing-development-for-public-sector-employees-in-ibiza/
+
+<a id="f130"></a>
+**F130** — Portugal, casas para professores e médicos deslocados: Postal do Algarve, *Só 15 dos 388 professores selecionados para 11 casas com renda acessível em Lisboa e Portimão* (2026); *Albufeira disponibiliza T2 para atrair médicos e assegurar urgência 24 horas*. Secundária ●●○
+https://postal.pt/nacional/so-15-dos-388-professores-selecionados-para-11-casas-com-renda-acessivel-em-lisboa-e-portimao/
+https://postal.pt/edicaopapel/albufeira-disponibiliza-t2-para-atrair-medicos-e-assegurar-urgencia-24-horas/
+
+### S31 — Taxa turística afetada à habitação
+
+<a id="f131"></a>
+**F131** — Taxa turística em Portugal: DN, *Municípios encaixam receita recorde de 92 milhões de euros em 2024 com taxa turística*; Jornal Económico (1.º semestre de 2025: > 65 M€ a nível nacional, 38,3 M€ em Lisboa); The Portugal News, *Tourist tax brings in 260 million for Lisbon* (acumulado 2016–2025). Secundária ●●○
+https://www.dn.pt/economia/municípios-encaixam-receita-recorde-de-92-milhões-de-euros-em-2024-com-taxa-turística
+https://jornaleconomico.sapo.pt/?p=1326687
+https://theportugalnews.com/news/2025-06-13/tourist-tax-brings-in-260-million-for-lisbon/98557
+
+<a id="f132"></a>
+**F132** — Taxas turísticas consignadas à habitação: Hotel Online, *Barcelona doubles tourism tax to one of highest in Europe to fund housing* (Catalunha, 2026: ¼ da receita para habitação); Majorca Daily Bulletin, *Balearic tourist tax revenue will go to housing policies* (12-10-2022). Secundária ●●○
+https://www.hotel-online.com/news/barcelona-doubles-tourism-tax-to-one-of-highest-in-europe-to-fund-housing-1
+https://amp.majorcadailybulletin.com/news/local/2022/10/12/106763/balearic-tourist-tax-revenue-will-housing-policies.html
+
+### S32 — Interior: reabilitar + emprego
+
+<a id="f133"></a>
+**F133** — Japão, *akiya banks*: Freie Universität Berlin, *No homes for newcomers? Vacant houses and the housing shortage in rural Japan* (2025); RICS, *Japan's empty homes*. Primária (académica) + secundária ●●○
+https://userblogs.fu-berlin.de/urban-rural-migration-japan/2025/04/04/no-homes-for-newcomers-vacant-houses-and-the-housing-shortage-in-rural-japan/
+https://ww3.rics.org/uk/en/modus/built-environment/homes-and-communities/japan-empty-homes.html
+
+<a id="f134"></a>
+**F134** — Itália, casas a 1 euro: Which?, *One euro house Italy*; University of Southampton, artigo sobre programas de casas a 1 euro e despovoamento rural. Secundária + académica ●●○
+https://www.which.co.uk/news/article/one-euro-house-italy-aR0nk5Y8AiKk
+https://eprints.soton.ac.uk/505938/
