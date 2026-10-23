@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S25 Apoios à compra](S25-apoios-a-compra.md), [S19 Limites às rendas](S19-limites-as-rendas.md)
 
 **Eixo:** 4 — Arrendamento estável e justo · **Causas:** arrendamento · **Territórios:** todos · **Objetivos:** O1, O5
-**Força da evidência:** **A/B** — estudos causais em França, no Reino Unido e na Finlândia, com resultados diferentes consoante o desenho · **Estado:** rascunho para revisão
+**Força da evidência:** **A/B** — estudos causais em França, no Reino Unido e na Finlândia, com resultados diferentes consoante o desenho · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -104,9 +104,13 @@ Alta: o instrumento existe. **Juízo interpretativo:** com oferta muito rígida,
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - O Estado deve apoiar **a renda** ou **a compra**, ou ambas?
 - Aceita-se um custo permanente sabendo que **parte pode acabar nos senhorios**?
 - O apoio deve existir **para todas as idades**, ou só para jovens (como o Porta 65)?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quanto dos apoios portugueses à renda acabou nas rendas pagas ([Q15](../../referencias/questoes-em-aberto.md#q15))?
 
 ---
 

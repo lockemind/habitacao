@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S16 Regulação do AL](S16-regulacao-alojamento-local.md), [S28 Trabalhadores essenciais](S28-trabalhadores-essenciais.md), [S07 Renda a custo](S07-renda-a-custo.md)
 
 **Eixo:** 7 — Território e governação · **Causas:** turismo e AL · **Territórios:** A, C · **Objetivos:** O3
-**Força da evidência:** **D** — medida recente noutros países, sem avaliação; é um instrumento de financiamento, cujo efeito depende do que se financia · **Estado:** rascunho para revisão
+**Força da evidência:** **D** — medida recente noutros países, sem avaliação; é um instrumento de financiamento, cujo efeito depende do que se financia · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -101,9 +101,12 @@ Alta: é uma decisão municipal ou legislativa simples. **Juízo interpretativo:
 
 ## 8. Questões para a consulta pública
 
-- Uma parte da taxa turística deve ir **obrigatoriamente** para habitação?
-- Que percentagem?
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
+- Uma parte da taxa turística deve ir **obrigatoriamente** para habitação? Que percentagem?
 - A taxa deve **subir** para financiar habitação?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Para que é usada hoje a receita da taxa turística nos principais municípios ([Q15](../../referencias/questoes-em-aberto.md#q15))?
 
 ---
 

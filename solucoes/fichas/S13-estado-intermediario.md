@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S12 Casas vazias](S12-imposto-casas-vazias.md), [S18 Contratos longos](S18-contratos-longos.md)
 
 **Eixo:** 3 — Usar melhor as casas que já existem · **Causas:** oferta, arrendamento · **Territórios:** todos · **Objetivos:** O1, O4, O3
-**Força da evidência:** **D** — modelos com décadas de funcionamento (Bélgica, França), mas não se encontraram avaliações de resultados; a experiência portuguesa foi curta e suspensa · **Estado:** rascunho para revisão
+**Força da evidência:** **D** — modelos com décadas de funcionamento (Bélgica, França), mas não se encontraram avaliações de resultados; a experiência portuguesa foi curta e suspensa · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -47,7 +47,7 @@ O proprietário aceita uma renda **abaixo do mercado** em troca de **segurança 
 ## 3. O que diz a evidência
 
 **A favor:**
-- É a forma **mais rápida** de criar oferta acessível: usa casas que já existem, sem obra nem licença.
+- Pode ser a forma **mais rápida** de criar oferta acessível, porque usa casas que já existem, sem obra nem licença (juízo interpretativo; não se encontraram dados de prazos).
 - Responde diretamente à **desconfiança** dos proprietários (rendas em atraso, despejos lentos), uma herança do congelamento de rendas ([05](../../diagnostico/05-arrendamento-e-historia-legal.md)).
 - **Custa menos ao Estado** do que construir, porque não compra o imóvel.
 
@@ -79,7 +79,7 @@ Sim, de forma limitada e atualmente **suspensa** ("Arrendar para Subarrendar") [
 
 ## 5. Transferibilidade
 
-Alta quanto ao modelo; o que falhou em Portugal foi a **execução**. **Juízo interpretativo:** o modelo belga, com entidades **locais e sem fins lucrativos** em vez de um organismo central, poderá adaptar-se melhor à capacidade municipal e associativa portuguesa.
+Alta quanto ao modelo. Segundo a análise da DECO, o programa português falhou sobretudo na **execução** [F111](../../referencias/fontes.md#f111). **Juízo interpretativo:** o modelo belga, com entidades **locais e sem fins lucrativos** em vez de um organismo central, poderá adaptar-se melhor à capacidade municipal e associativa portuguesa.
 
 ---
 
@@ -111,9 +111,13 @@ Alta quanto ao modelo; o que falhou em Portugal foi a **execução**. **Juízo i
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - O Estado deve **garantir rendas** a proprietários privados?
 - A gestão deve ser **central** (IHRU) ou **local** (municípios, associações)?
 - Que **benefícios** são aceitáveis para convencer proprietários a arrendar abaixo do mercado?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quantas casas mobilizou o "Arrendar para Subarrendar", a que custo, e porque foi suspenso ([Q13](../../referencias/questoes-em-aberto.md#q13))?
 
 ---
 

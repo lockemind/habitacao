@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S06 Construção pública](S06-construcao-publica.md), [S01 Licenciamento](S01-licenciamento.md)
 
 **Eixo:** 1 — Construir mais (através do mercado) · **Causas:** oferta · **Territórios:** todos · **Objetivos:** O2
-**Força da evidência:** **C** — a Suécia tem muita pré-fabricação, mas não há evidência de que tenha baixado custos; em Portugal há só projetos isolados · **Estado:** rascunho para revisão
+**Força da evidência:** **C** — a Suécia tem muita pré-fabricação, mas não há evidência de que tenha baixado custos; em Portugal há só projetos isolados · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -104,8 +104,12 @@ Parcialmente: projetos modulares de habitação pública (Oeiras, Vale de Cambra
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - O Estado deve **garantir encomendas** a fábricas de construção modular?
 - A imigração laboral para a construção deve ser facilitada, sabendo que aumenta a procura no curto prazo?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quanto custa, por casa, a construção modular em Portugal face à tradicional ([Q16](../../referencias/questoes-em-aberto.md#q16))?
 
 ---
 

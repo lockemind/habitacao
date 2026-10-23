@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S14 Reabilitação com renda acessível](S14-reabilitacao-com-renda-acessivel.md), [S12 Casas vazias](S12-imposto-casas-vazias.md), [S32 Interior](S32-interior.md)
 
 **Eixo:** 3 — Usar melhor as casas que já existem · **Causas:** oferta · **Territórios:** D, E (e centros históricos de A) · **Objetivos:** O2
-**Força da evidência:** **D** — estimativas do número de casas bloqueadas muito díspares; procedimentos estrangeiros (França) pouco usados e sem balanço · **Estado:** rascunho para revisão
+**Força da evidência:** **D** — estimativas do número de casas bloqueadas muito díspares; procedimentos estrangeiros (França) pouco usados e sem balanço · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -106,9 +106,12 @@ Parcialmente: BUPi; IMI agravado para devolutos ([S12](S12-imposto-casas-vazias.
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - Um herdeiro deve poder forçar a venda de uma casa herdada?
 - O Estado deve poder ficar com casas **abandonadas** há muitos anos sem dono conhecido?
-- **Facto a apurar:** quantas casas estão realmente paradas por heranças, e onde?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quantas casas estão realmente paradas por heranças, e onde ([Q16](../../referencias/questoes-em-aberto.md#q16))?
 
 ---
 

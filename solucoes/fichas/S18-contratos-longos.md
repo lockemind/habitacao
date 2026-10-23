@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S19 Limites às rendas](S19-limites-as-rendas.md), [S13 Estado intermediário](S13-estado-intermediario.md)
 
 **Eixo:** 4 — Arrendamento estável e justo · **Causas:** arrendamento · **Territórios:** todos · **Objetivos:** O4, O1
-**Força da evidência:** **C** — avaliação independente na Escócia (qualitativa e por inquérito) e modelos de longa duração na Alemanha; sem estudos causais encontrados · **Estado:** rascunho para revisão
+**Força da evidência:** **C** — avaliação independente na Escócia (qualitativa e por inquérito) e modelos de longa duração na Alemanha; sem estudos causais encontrados · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -13,7 +13,7 @@ Tornar o arrendamento **estável e previsível** para ambas as partes:
 
 - **contratos sem termo** ou de longa duração, em que o senhorio só pode terminar o contrato por motivos previstos na lei (incumprimento, venda, uso próprio, obras profundas);
 - **atualizações de renda previsíveis**, ligadas a um índice (inflação) ou a um calendário acordado à partida;
-- regras claras e **resolução rápida de litígios** (ver S20 no [catálogo](../02-catalogo-de-opcoes.md)).
+- regras claras e **resolução rápida de litígios** (ver [S20](S20-garantia-de-renda-e-justica.md)).
 
 Distingue-se de [S19 — limites às rendas](S19-limites-as-rendas.md) porque **não fixa o preço de entrada**: a renda inicial é livre; o que se regula é a **duração** e a **forma** de atualização.
 
@@ -55,7 +55,7 @@ Distingue-se de [S19 — limites às rendas](S19-limites-as-rendas.md) porque **
 - **Seleção mais exigente** de inquilinos, se terminar o contrato for difícil.
 - **Os inquilinos nem sempre conhecem os seus direitos** e raramente recorrem aos tribunais (Escócia) [F112](../../referencias/fontes.md#f112).
 
-**Limitações da evidência:** não se encontraram estudos causais sobre o efeito da duração dos contratos na oferta ou nas rendas. A evidência escocesa é de inquéritos; a alemã é sobretudo descritiva.
+**Limitações da evidência:** não se encontraram estudos causais sobre o efeito da duração dos contratos na oferta ou nas rendas. A evidência escocesa é de inquéritos; a alemã é sobretudo descritiva e vem em parte do IW Köln, instituto ligado às associações empresariais alemãs [F113](../../referencias/fontes.md#f113).
 
 ### Argumentos em confronto
 
@@ -112,9 +112,13 @@ Distingue-se de [S19 — limites às rendas](S19-limites-as-rendas.md) porque **
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - O contrato **sem termo** deve ser a regra, ou deve continuar a haver liberdade de escolher a duração?
 - Que **motivos** devem permitir ao senhorio terminar o contrato?
 - A estabilidade deve ser promovida por **lei** ou por **incentivos fiscais**?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Qual a duração média dos contratos de arrendamento em Portugal, e quantos são renovados?
 
 ---
 

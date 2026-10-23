@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S03 Incentivos fiscais](S03-incentivos-fiscais-a-construcao.md), [S18 Contratos longos](S18-contratos-longos.md), [S07 Renda a custo](S07-renda-a-custo.md)
 
 **Eixo:** 1 — Construir mais (através do mercado) · **Causas:** oferta, arrendamento · **Territórios:** A, B, D · **Objetivos:** O2, O4
-**Força da evidência:** **D** — não se encontraram avaliações de regimes semelhantes; o regime português começou em outubro de 2026 · **Estado:** rascunho para revisão
+**Força da evidência:** **D** — não se encontraram avaliações de regimes semelhantes; o regime português começou em outubro de 2026 · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -42,7 +42,7 @@ Investidores (fundos, seguradoras, promotores) constroem ou reabilitam prédios 
 
 **Contra / cautelas:**
 - O teto de **2.300 €/mês** não corresponde a rendas acessíveis para a maioria das famílias ([06](../../diagnostico/06-politicas-publicas.md#pacote-fiscal-2026)).
-- **Concentração:** grandes senhorios têm mais poder na fixação de rendas; o tema é politicamente sensível noutros países (por exemplo, Berlim).
+- **Concentração:** grandes senhorios podem ter mais poder na fixação de rendas (argumento teórico; não se encontraram estudos nesta investigação).
 - **Substituição:** parte do investimento aconteceria sem benefícios.
 - **Fiscalização:** um contrato de 25 anos exige acompanhamento contínuo pelo IHRU.
 
@@ -98,9 +98,12 @@ Já transposta. **Juízo interpretativo:** o efeito dependerá dos **tetos de re
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - Investidores institucionais devem ter benefícios fiscais para construir para arrendar? Com que contrapartidas?
 - Qual deve ser o teto de renda?
-- **Facto a apurar:** quantas casas e a que rendas vão os CIA produzir?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quantas casas e a que rendas vão os CIA produzir ([Q16](../../referencias/questoes-em-aberto.md#q16))?
 
 ---
 

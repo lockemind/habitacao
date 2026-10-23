@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S12 Casas vazias](S12-imposto-casas-vazias.md), [S13 Estado intermediário](S13-estado-intermediario.md), [S32 Interior](S32-interior.md), [S15 Heranças](S15-herancas-e-propriedade-incerta.md)
 
 **Eixo:** 3 — Usar melhor as casas que já existem · **Causas:** oferta · **Territórios:** A, C, D, E · **Objetivos:** O2, O1
-**Força da evidência:** **C** — programas portugueses com balanços descritivos parciais; sem avaliação de resultados · **Estado:** rascunho para revisão
+**Força da evidência:** **C** — programas portugueses com balanços descritivos parciais; sem avaliação de resultados · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -42,7 +42,7 @@ Apoiar a reabilitação de casas devolutas ou degradadas (crédito barato, subve
 **A favor:**
 - O custo público por casa é **muito mais baixo** do que na construção nova (≈ 38 mil € de investimento, em grande parte crédito, contra 150–250 mil €) e o crédito é reembolsado.
 - Usa casas que já existem, em bairros com serviços; tem valor patrimonial e ambiental.
-- O contraste entre os dois programas portugueses sugere que a procura existe: o IFRRU, sem condição de renda, teve muito mais adesão.
+- **Juízo interpretativo:** o contraste entre os dois programas sugere que há procura de crédito à reabilitação: o IFRRU, sem condição de renda, teve muito mais adesão (segundo um artigo de opinião).
 
 **Contra / cautelas:**
 - **Adesão baixa** quando a renda exigida fica muito abaixo do mercado: o proprietário prefere reabilitar sem condições ou vender [F145](../../referencias/fontes.md#f145).
@@ -101,8 +101,11 @@ Alta. **Juízo interpretativo:** a diferença de adesão entre os dois programas
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - O Estado deve financiar obras em casas privadas em troca de renda acessível? Por quantos anos?
-- **Facto a apurar:** quantas casas devolutas estão em estado de ser reabilitadas, e a que custo?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quantas casas devolutas estão em estado de ser reabilitadas, e a que custo ([Q16](../../referencias/questoes-em-aberto.md#q16))?
 
 ---
 

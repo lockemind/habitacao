@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S12 Casas vazias](S12-imposto-casas-vazias.md), [S17 Mobilidade](S17-mobilidade-e-casas-subocupadas.md), [S25 Apoios à compra](S25-apoios-a-compra.md), [S24 Não residentes](S24-compradores-nao-residentes.md)
 
 **Eixo:** 5 — Procura, fiscalidade e crédito · **Causas:** oferta, compradores estrangeiros · **Territórios:** todos · **Objetivos:** O2, O6
-**Força da evidência:** **B** — evidência causal de que os impostos sobre transações reduzem a mobilidade; a transição australiana (ACT) foi avaliada só por uma organização posicionada · **Estado:** rascunho para revisão
+**Força da evidência:** **B** — evidência causal de que os impostos sobre transações reduzem a mobilidade; a transição australiana (ACT) foi avaliada só por uma organização posicionada · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -104,8 +104,12 @@ Média. **Juízo interpretativo:** uma transição **gradual e anunciada** (como
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - É preferível pagar impostos **ao comprar** ou **todos os anos** enquanto se tem a casa?
 - Como proteger quem tem casa mas pouco rendimento?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quanto pesam o IMT e o IMI nas receitas de cada município ([Q16](../../referencias/questoes-em-aberto.md#q16))?
 
 ---
 

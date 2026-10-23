@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S28 Trabalhadores essenciais](S28-trabalhadores-essenciais.md), [S06 Construção pública](S06-construcao-publica.md), [S29 Habitação indigna](S29-habitacao-indigna-e-sobrelotacao.md)
 
 **Eixo:** 4 — Arrendamento estável e justo · **Causas:** procura interna e imigração · **Territórios:** A, C, D, E · **Objetivos:** O1
-**Força da evidência:** **C / D** — o plano português tem dados de execução, mas não de efeito nas rendas; os estudos internacionais sobre efeitos nas rendas locais são fracos · **Estado:** rascunho para revisão
+**Força da evidência:** **C / D** — o plano português tem dados de execução, mas não de efeito nas rendas; os estudos internacionais sobre efeitos nas rendas locais são fracos · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -98,8 +98,12 @@ Sim: PNAES (com PRR), residências privadas e alojamento de trabalhadores agríc
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - Os empregadores que dependem de trabalhadores deslocados devem **contribuir para o alojamento**?
-- **Facto a apurar:** as residências reduzem as rendas na cidade?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- As residências reduzem as rendas na cidade?
+- Quantos estudantes deslocados há, e quantos têm cama em residência ([Q16](../../referencias/questoes-em-aberto.md#q16))?
 
 ---
 

@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S13 Estado intermediário](S13-estado-intermediario.md), [S06 Construção pública](S06-construcao-publica.md)
 
 **Eixo:** 6 — Pessoas mais vulneráveis · **Causas:** — (resposta a uma consequência da crise) · **Territórios:** A, B · **Objetivos:** O5
-**Força da evidência:** **A** — ensaio aleatório de grande escala no Canadá e vários estudos internacionais; experiência nacional na Finlândia · **Estado:** rascunho para revisão
+**Força da evidência:** **A** — ensaios aleatórios no Canadá e em França, com resultados concordantes na estabilidade habitacional; experiência nacional na Finlândia · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -33,6 +33,7 @@ Dar a pessoas em situação de sem-abrigo uma **casa permanente, sem condições
 | Local | Período | Escala | Resultado principal | Avaliação | Fonte |
 |---|---|---|---|---|---|
 | **Canadá** (*At Home / Chez Soi*) | 2009–2013, 5 cidades | ≈ 2.000 participantes; ≈ 1.200 na análise de custos | Mais tempo em habitação estável (Toronto: **+46 pontos percentuais** de tempo alojado face ao grupo de controlo); melhorias em alguns indicadores de saúde; **compensação significativa de custos, mas não total** | **Ensaio aleatório controlado** | [F123](../../referencias/fontes.md#f123) |
+| **França** (*Un chez-soi d'abord*) | 2011–2016, 4 cidades | 703 participantes com doença mental grave | **Grande estabilidade no alojamento** aos 24 meses face ao grupo de controlo; também mediu urgências, internamentos, qualidade de vida e custos | **Ensaio aleatório controlado** | [F169](../../referencias/fontes.md#f169) |
 | **Finlândia** (Y-Foundation e Estado) | Desde 2008 | ≈ 18.700 casas para ≈ 26.500 pessoas (2023) | Sem-abrigo **reduzido para menos de metade** desde 2009; mas **subiu de novo em 2024–2025** (cortes sociais, custo da habitação) | Série nacional; sem grupo de controlo | [F122](../../referencias/fontes.md#f122) |
 | **Portugal** (Casas Primeiro, AEIPS e outros) | Desde 2009 | 13 projetos em 10 cidades, sobretudo em Lisboa | Reconhecido pela estratégia nacional como inovação social; resultados não encontrados | Sem avaliação encontrada | [F124](../../referencias/fontes.md#f124) |
 
@@ -51,7 +52,7 @@ Dar a pessoas em situação de sem-abrigo uma **casa permanente, sem condições
 - **Não previne:** a subida finlandesa de 2024–2025 mostra que, sem habitação acessível e proteção social, novas pessoas entram na situação de sem-abrigo [F122](../../referencias/fontes.md#f122).
 - **Efeitos noutras dimensões** (consumo de substâncias, emprego) são mais fracos do que na habitação.
 
-**Limitações da evidência:** o ensaio é canadiano; a experiência finlandesa não tem grupo de controlo; não se encontrou avaliação dos projetos portugueses.
+**Limitações da evidência:** os ensaios são do Canadá e de França, com pessoas com doença mental grave; os dados finlandeses vêm de imprensa e a explicação para a subida recente (cortes sociais, custo da habitação) vem de comentário, não de estudo; não se encontrou avaliação dos projetos portugueses.
 
 ### Argumentos em confronto
 
@@ -81,7 +82,7 @@ Alta quanto ao modelo de intervenção, que já é aplicado em Portugal. A difer
 | Critério | Avaliação | Justificação |
 |---|---|---|
 | C1 Impacto esperado | **Alto para O5**; nulo para os outros objetivos | |
-| C2 Força da evidência | A | Ensaio aleatório e experiência nacional |
+| C2 Força da evidência | A | Dois ensaios aleatórios e experiência nacional |
 | C3 Prazo | Curto a médio | Depende das casas disponíveis |
 | C4 Custo orçamental | Médio (≈ 95–140 M€/ano brutos para cobrir as pessoas sem teto), parcialmente compensado | |
 | C5 Distribuição | Ganham pessoas sem-abrigo e serviços de saúde e sociais; pagam os contribuintes | |
@@ -103,10 +104,14 @@ Alta quanto ao modelo de intervenção, que já é aplicado em Portugal. A difer
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - A casa deve ser dada **sem condições prévias**?
 - Aceita-se **reservar casas públicas** para pessoas sem-abrigo, quando há listas de espera longas?
 - O objetivo deve ser **eliminar a situação de sem teto** até uma data concreta?
 
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Que resultados tiveram os projetos portugueses de Habitação Primeiro, e quantas casas têm ([Q15](../../referencias/questoes-em-aberto.md#q15))?
+
 ---
 
-Fontes: [F51](../../referencias/fontes.md#f51), [F122](../../referencias/fontes.md#f122), [F123](../../referencias/fontes.md#f123), [F124](../../referencias/fontes.md#f124)
+Fontes: [F51](../../referencias/fontes.md#f51), [F122](../../referencias/fontes.md#f122), [F123](../../referencias/fontes.md#f123), [F124](../../referencias/fontes.md#f124), [F169](../../referencias/fontes.md#f169)

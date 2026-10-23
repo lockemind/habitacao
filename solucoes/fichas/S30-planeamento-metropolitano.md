@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S02 Densidade](S02-densidade-junto-a-transportes.md), [S10 Política de solos](S10-politica-de-solos.md), [S01 Licenciamento](S01-licenciamento.md)
 
 **Eixo:** 7 — Território e governação · **Causas:** oferta · **Territórios:** A, B · **Objetivos:** O2
-**Força da evidência:** **C** — Copenhaga e Paris são casos estudados, mas descritivos; não se encontraram avaliações quantitativas dos efeitos na habitação · **Estado:** rascunho para revisão
+**Força da evidência:** **C** — Copenhaga e Paris são casos estudados, mas descritivos; não se encontraram avaliações quantitativas dos efeitos na habitação · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -103,8 +103,12 @@ Média. **Juízo interpretativo:** uma versão menos exigente seria fixar **meta
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - Quem deve decidir onde se constrói: cada câmara ou a área metropolitana?
 - As câmaras que constroem mais devem receber mais financiamento?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quanto se construiu em cada concelho das áreas metropolitanas face às necessidades estimadas?
 
 ---
 

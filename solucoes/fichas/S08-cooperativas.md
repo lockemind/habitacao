@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S07 Renda a custo](S07-renda-a-custo.md), [S10 Política de solos](S10-politica-de-solos.md)
 
 **Eixo:** 2 — Setor público, cooperativo e sem fins lucrativos · **Causas:** oferta · **Territórios:** A–E · **Objetivos:** O3, O4, O1
-**Força da evidência:** **C/D** — casos de sucesso documentados (Zurique, Uruguai, Portugal pós-1974), mas fontes sobretudo descritivas ou ligadas ao próprio movimento; sem avaliação comparativa · **Estado:** rascunho para revisão
+**Força da evidência:** **C/D** — casos de sucesso documentados (Zurique, Uruguai, Portugal pós-1974), mas fontes sobretudo descritivas ou ligadas ao próprio movimento; sem avaliação comparativa · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -112,9 +112,13 @@ Sim: há enquadramento legal, uma federação (FENACHE) e cooperativas ativas, e
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - As casas cooperativas apoiadas pelo Estado devem poder ser **vendidas** a preço de mercado?
 - Que **condições de acesso** devem ter (rendimento, residência, sorteio)?
 - O Estado deve **reservar terrenos** para cooperativas?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quantas cooperativas de habitação estão ativas em Portugal e quantas casas gerem ([Q13](../../referencias/questoes-em-aberto.md#q13))?
 
 ---
 

@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S01 Licenciamento](S01-licenciamento.md), [S10 Política de solos](S10-politica-de-solos.md)
 
 **Eixo:** 1 — Construir mais · **Causas:** oferta · **Territórios:** A, B, D · **Objetivos:** O2, O1
-**Força da evidência:** **B** — avaliações causais em Auckland e nos EUA, com um estudo de Chicago em sentido contrário no curto prazo · **Estado:** rascunho para revisão
+**Força da evidência:** **B** — avaliações causais em Auckland e nos EUA, com um estudo de Chicago em sentido contrário no curto prazo · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -46,7 +46,7 @@ Em inglês chama-se *upzoning*.
 
 **A favor:**
 - Auckland é o caso mais citado: uma reforma grande, a nível de toda a cidade, **aumentou a construção** e, segundo um estudo ainda não publicado em revista, **baixou as rendas** face ao que seriam [F99](../../referencias/fontes.md#f99), [F100](../../referencias/fontes.md#f100).
-- Construir mais **baixa as rendas na vizinhança**, contrariando a ideia de que prédios novos atraem gentrificação e sobem as rendas à volta [F101](../../referencias/fontes.md#f101).
+- Nos EUA, grandes prédios novos em bairros de rendimento baixo **baixaram as rendas na vizinhança**, o que contraria a ideia de que atraem gentrificação e sobem as rendas à volta [F101](../../referencias/fontes.md#f101).
 
 **Contra / cautelas:**
 - **No curto prazo e em pequena escala, pode só subir o preço do terreno.** Em Chicago, nos primeiros cinco anos, os terrenos valorizaram sem mais construção [F102](../../referencias/fontes.md#f102). O próprio autor diz que o prazo pode ser curto demais para ver efeitos na oferta.
@@ -76,8 +76,8 @@ Os índices de construção são definidos nos **Planos Diretores Municipais (PD
 ## 5. Transferibilidade para Portugal
 
 - **A favor:** as periferias de Lisboa e Porto têm eixos ferroviários e de metro com muitos terrenos e edifícios de baixa densidade à volta; as cidades médias estão a crescer ([11](../../diagnostico/11-retrato-territorial.md)).
-- **Contra:** o ordenamento é municipal; uma reforma à escala de Auckland exigiria coordenação metropolitana (ver S30 no [catálogo](../02-catalogo-de-opcoes.md)); a falta de mão de obra pode limitar a resposta da construção.
-- **Juízo interpretativo:** a densificação parece ter mais potencial combinada com **política de solos** ([S10](S10-politica-de-solos.md)) e **quotas de habitação acessível** (S11), para que parte das mais-valias criadas pela mudança de regras reverta para a habitação acessível.
+- **Contra:** o ordenamento é municipal; uma reforma à escala de Auckland exigiria coordenação metropolitana (ver [S30](S30-planeamento-metropolitano.md)); a falta de mão de obra pode limitar a resposta da construção.
+- **Juízo interpretativo:** a densificação parece ter mais potencial combinada com **política de solos** ([S10](S10-politica-de-solos.md)) e **quotas de habitação acessível** ([S11](S11-quotas-de-habitacao-acessivel.md)), para que parte das mais-valias criadas pela mudança de regras reverta para a habitação acessível.
 
 ---
 
@@ -109,9 +109,13 @@ Os índices de construção são definidos nos **Planos Diretores Municipais (PD
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - Aceitaria **prédios mais altos** perto das estações do seu concelho, em troca de mais casas?
 - As mais-valias criadas pela mudança de regras devem **reverter para habitação acessível**?
 - A decisão deve ser de cada **município** ou das **áreas metropolitanas**?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Que índices de construção permitem hoje os PDM junto às estações, e quanto se constrói face ao permitido?
 
 ---
 

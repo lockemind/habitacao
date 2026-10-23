@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S13 Estado intermediário](S13-estado-intermediario.md), [S08 Cooperativas](S08-cooperativas.md), [S28 Trabalhadores essenciais](S28-trabalhadores-essenciais.md)
 
 **Eixo:** 7 — Território e governação · **Causas:** oferta (casas inabitáveis), despovoamento · **Territórios:** E · **Objetivos:** O2, O1
-**Força da evidência:** **D** — programas no Japão e em Itália sem avaliação de resultados, com indícios de efeito limitado; incentivos portugueses sem balanço público · **Estado:** rascunho para revisão
+**Força da evidência:** **D** — programas no Japão e em Itália sem avaliação de resultados, com indícios de efeito limitado; incentivos portugueses sem balanço público · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -105,9 +105,13 @@ Parcialmente: incentivos à fixação (Emprego Interior MAIS), programas antigos
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - A habitação no interior deve ser tratada como **política de habitação** ou como **política de coesão territorial**?
 - Que condições devem ter os apoios (residência permanente, emprego local, prazo mínimo)?
 - O Estado deve poder intervir em **casas abandonadas** de proprietários ausentes?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quantas pessoas se fixaram no interior com o Emprego Interior MAIS, e quanto custa reabilitar uma casa devoluta ([Q15](../../referencias/questoes-em-aberto.md#q15))?
 
 ---
 

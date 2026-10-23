@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S23 IMI e IMT](S23-reforma-imi-imt.md), [S13 Estado intermediário](S13-estado-intermediario.md)
 
 **Eixo:** 3 — Usar melhor as casas que já existem · **Causas:** oferta · **Territórios:** A, B · **Objetivos:** O2
-**Força da evidência:** **B / D** — há evidência causal de que os impostos sobre transações reduzem as mudanças de casa (B); o efeito de incentivos à mudança para casas mais pequenas não foi testado (D) · **Estado:** rascunho para revisão
+**Força da evidência:** **B / D** — há evidência causal de que os impostos sobre transações reduzem as mudanças de casa (B); o efeito de incentivos à mudança para casas mais pequenas não foi testado (D) · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -102,8 +102,11 @@ Não de forma sistemática. O IMT incide sobre todas as compras, incluindo a mud
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - O Estado deve **incentivar** quem vive em casas grandes a mudar? Como, sem pressionar?
-- **Facto a apurar:** quantas casas estão subocupadas, e por quem?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quantas casas estão subocupadas, e por quem ([Q16](../../referencias/questoes-em-aberto.md#q16))?
 
 ---
 

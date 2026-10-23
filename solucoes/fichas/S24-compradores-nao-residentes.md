@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S23 IMI e IMT](S23-reforma-imi-imt.md), [S16 Regulação do AL](S16-regulacao-alojamento-local.md), [S12 Casas vazias](S12-imposto-casas-vazias.md)
 
 **Eixo:** 5 — Procura, fiscalidade e crédito · **Causas:** compradores estrangeiros · **Territórios:** A, C · **Objetivos:** O1
-**Força da evidência:** **C** — no Canadá e na Nova Zelândia, as compras por estrangeiros caíram muito, mas o efeito nos preços foi pequeno ou temporário (análises descritivas; um estudo sobre a Colúmbia Britânica estima ≈ 5% temporário) · **Estado:** rascunho para revisão
+**Força da evidência:** **C** — no Canadá e na Nova Zelândia, as compras por estrangeiros caíram muito, mas o efeito nos preços foi pequeno ou temporário (análises descritivas; um estudo sobre a Colúmbia Britânica estima ≈ 5% temporário) · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -100,8 +100,11 @@ Já transposta na forma de imposto. **Juízo interpretativo:** com ≈ 5% de pes
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - Os não residentes devem pagar mais impostos para comprar casa? E para manter casas sem uso?
-- **Facto a apurar:** que efeito teve o IMT a 7,5% nas zonas mais procuradas?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Que efeito teve o IMT a 7,5% nas zonas mais procuradas ([Q16](../../referencias/questoes-em-aberto.md#q16))?
 
 ---
 

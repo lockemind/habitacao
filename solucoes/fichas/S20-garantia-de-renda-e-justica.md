@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S18 Contratos longos](S18-contratos-longos.md), [S13 Estado intermediário](S13-estado-intermediario.md)
 
 **Eixo:** 4 — Arrendamento estável e justo · **Causas:** arrendamento · **Territórios:** todos · **Objetivos:** O4, O2
-**Força da evidência:** **C/D** — o modelo francês tem grande escala, mas não se encontrou avaliação do seu efeito na oferta; dados portugueses sobre despejos antigos · **Estado:** rascunho para revisão
+**Força da evidência:** **C/D** — o modelo francês tem grande escala, mas não se encontrou avaliação do seu efeito na oferta; dados portugueses sobre despejos antigos · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -52,6 +52,8 @@ Duas peças complementares para reduzir o **medo dos proprietários** de arrenda
 - **Risco moral:** uma garantia pública pode reduzir o cuidado na seleção ou no pagamento; exige regras de recuperação das dívidas.
 - **Despejo rápido** sem rede de apoio pode aumentar o risco de sem-abrigo ([S27](S27-habitacao-primeiro.md)).
 - Os dados portugueses sobre despejos são de **2016–2017**; a situação atual não é conhecida.
+
+**Limitações da evidência:** os números da Visale vêm do próprio operador (Action Logement), que tem interesse em apresentar bons resultados; não se encontrou avaliação independente, nem estudos sobre o efeito na oferta de arrendamento [F127](../../referencias/fontes.md#f127).
 
 ### Argumentos em confronto
 
@@ -104,9 +106,14 @@ Alta: França tem um sistema jurídico próximo. **Juízo interpretativo:** a co
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - O Estado deve **garantir rendas** aos senhorios? Em troca de quê?
 - Quanto tempo deve demorar, no máximo, um despejo por falta de pagamento?
 - Que **proteção** deve ter um inquilino despejado?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quantos despejos há hoje, quanto demoram e por que motivos ([Q15](../../referencias/questoes-em-aberto.md#q15))?
+- A garantia francesa aumentou a oferta de arrendamento?
 
 ---
 

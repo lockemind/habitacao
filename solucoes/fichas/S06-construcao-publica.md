@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S07 Renda a custo](S07-renda-a-custo.md), [S10 Política de solos](S10-politica-de-solos.md), [S08 Cooperativas](S08-cooperativas.md)
 
 **Eixo:** 2 — Setor público, cooperativo e sem fins lucrativos · **Causas:** oferta · **Territórios:** A, B, C, D · **Objetivos:** O3, O2, O1
-**Força da evidência:** **C** — grandes programas históricos bem documentados, mas sem avaliação comparativa rigorosa; **B** quanto ao efeito de "substituição" da construção privada (estudos dos EUA) · **Estado:** rascunho para revisão
+**Força da evidência:** **C** — grandes programas históricos bem documentados, mas sem avaliação comparativa rigorosa; **B** quanto ao efeito de "substituição" da construção privada (estudos dos EUA) · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -47,7 +47,7 @@ O Estado e as autarquias **constroem diretamente** grandes quantidades de habita
 - Onde o setor público tem **grande peso e serve a classe média** (Viena), regula o mercado e evita o estigma [F54](../../referencias/fontes.md#f54).
 
 **Contra / cautelas:**
-- **Efeito de substituição:** nos EUA, cada casa subsidiada acrescenta apenas **⅓ a ½** de casa ao parque total, porque desloca construção privada que se faria de qualquer forma. A substituição é **menor nos mercados com grande excesso de procura** [F103](../../referencias/fontes.md#f103), como é hoje o caso português.
+- **Efeito de substituição:** nos EUA, cada casa subsidiada acrescenta apenas **⅓ a ½** de casa ao parque total, porque desloca construção privada que se faria de qualquer forma. A substituição é **menor nos mercados com grande excesso de procura** [F103](../../referencias/fontes.md#f103). **Juízo interpretativo:** o mercado português atual parece ser desse tipo, o que reduziria a substituição.
 - **Segregação:** grandes conjuntos monofuncionais, só para pobres e na periferia, tendem a concentrar desvantagens (Suécia; debate sobre os bairros do PER) [F104](../../referencias/fontes.md#f104).
 - **Execução:** em Portugal, o PRR ia em ≈ 68% da meta em fevereiro de 2026, e o PER teve execução desigual ([06](../../diagnostico/06-politicas-publicas.md#prr-e-1-direito), [F105](../../referencias/fontes.md#f105)).
 - **Compete com o privado** pelos mesmos terrenos e trabalhadores, num setor já com falta de mão de obra ([02](../../diagnostico/02-oferta-e-construcao.md)).
@@ -107,9 +107,14 @@ Sim, em pequena escala: 1.º Direito/PRR (26 mil casas até 2026, ≈ 68% em fev
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - A habitação pública deve ser **só para os mais carenciados** ou para **todos os rendimentos**?
 - Aceita-se mais **endividamento público** para construir habitação?
 - Construção **nova** ou **compra e reabilitação** de casas existentes?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quanto custa hoje, por casa, a habitação pública construída e reabilitada (IHRU) ([Q14](../../referencias/questoes-em-aberto.md#q14))?
+- Que efeitos sociais tiveram os bairros do PER?
 
 ---
 

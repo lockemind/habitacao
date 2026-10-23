@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S10 Política de solos](S10-politica-de-solos.md), [S02 Densidade](S02-densidade-junto-a-transportes.md), [S03 Incentivos fiscais](S03-incentivos-fiscais-a-construcao.md)
 
 **Eixo:** 2 — Setor público, cooperativo e sem fins lucrativos · **Causas:** oferta · **Territórios:** A, B, C · **Objetivos:** O1, O3
-**Força da evidência:** **B / C** — estudos quase-experimentais nos EUA (efeito pequeno nos preços, sem efeito claro na construção); em Barcelona, dados descritivos mostram resultados muito abaixo do previsto · **Estado:** rascunho para revisão
+**Força da evidência:** **B / C** — estudos quase-experimentais nos EUA (efeito pequeno nos preços, sem efeito claro na construção); em Barcelona, dados descritivos mostram resultados muito abaixo do previsto · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -102,9 +102,13 @@ Média. **Juízo interpretativo:** a combinação de Barcelona e dos EUA sugere 
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - Os novos empreendimentos devem reservar casas a preço acessível? Que percentagem?
 - O promotor deve receber **contrapartidas** (mais área de construção, licenciamento rápido)?
 - Aceita-se que os outros compradores paguem um pouco mais?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Que contrapartidas já negociam os municípios portugueses, e com que resultados ([Q16](../../referencias/questoes-em-aberto.md#q16))?
 
 ---
 

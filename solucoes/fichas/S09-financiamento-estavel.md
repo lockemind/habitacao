@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S07 Renda a custo](S07-renda-a-custo.md), [S06 Construção pública](S06-construcao-publica.md), [S08 Cooperativas](S08-cooperativas.md), [S31 Taxa turística](S31-taxa-turistica.md)
 
 **Eixo:** 2 — Setor público, cooperativo e sem fins lucrativos · **Causas:** oferta · **Territórios:** todos · **Objetivos:** O3, O2
-**Força da evidência:** **C** — Áustria e Dinamarca mantêm estes modelos há décadas, com parques acessíveis grandes, mas sem avaliações causais · **Estado:** rascunho para revisão
+**Força da evidência:** **C** — Áustria e Dinamarca mantêm estes modelos há décadas, com parques acessíveis grandes, mas sem avaliações causais · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -105,8 +105,12 @@ Não de forma estável. Houve financiamento por programas (PER, 1.º Direito, PR
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - A habitação acessível deve ter uma **receita própria e permanente**? Paga por quem?
 - Aceita-se esperar 10–20 anos para que um fundo rotativo ganhe escala?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quanto renderia cada fonte possível (contribuição sobre salários, IMT, taxa turística) ([Q16](../../referencias/questoes-em-aberto.md#q16))?
 
 ---
 

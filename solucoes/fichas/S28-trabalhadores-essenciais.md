@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S31 Taxa turística](S31-taxa-turistica.md), [S32 Interior](S32-interior.md), [S13 Estado intermediário](S13-estado-intermediario.md)
 
 **Eixo:** 6 — Pessoas mais vulneráveis · **Causas:** procura, turismo · **Territórios:** C, E (e A) · **Objetivos:** O1
-**Força da evidência:** **D** — programas no Reino Unido e em Ibiza documentados, sem avaliação de resultados; experiência portuguesa muito pequena · **Estado:** rascunho para revisão
+**Força da evidência:** **D** — programas no Reino Unido e em Ibiza documentados, sem avaliação de resultados; experiência portuguesa muito pequena · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -19,7 +19,7 @@ Casas reservadas, a renda acessível, para profissionais de **serviços público
 
 | | Estimativa | Base de cálculo |
 |---|---|---|
-| Experiência portuguesa recente | **15 casas para 388 professores selecionados** em Lisboa e Portimão (2026) | [F130](../../referencias/fontes.md#f130) |
+| Experiência portuguesa recente | 29 casas disponibilizadas a professores em Lisboa e Portimão; **388 candidatos, 15 selecionados para 11 apartamentos** (2023) | [F130](../../referencias/fontes.md#f130) |
 | Custo de referência (Ibiza) | 25 casas por 5,1 M€ ≈ **≈ 200 mil €/casa** (sem IVA) | [F129](../../referencias/fontes.md#f129); cálculo próprio |
 | Custo por casa em Portugal | 150–250 mil € (construção nova); menos com arrendamento para subarrendar ([S13](S13-estado-intermediario.md)) | Pressupostos comuns |
 | Escala necessária | Não estimada: não há dados sobre lugares por preencher por falta de casa | [Q15](../../referencias/questoes-em-aberto.md#q15) |
@@ -33,7 +33,7 @@ Casas reservadas, a renda acessível, para profissionais de **serviços público
 |---|---|---|---|---|
 | **Reino Unido** (*Key Worker Living*) | 2004–2010s | Empréstimos de capital até 50 mil £ para compra, e arrendamento acessível, para profissionais de educação, saúde e segurança em zonas caras | Execução desigual entre profissões; ressentimento de trabalhadores não elegíveis; casas continuaram inacessíveis em muitas cidades | [F129](../../referencias/fontes.md#f129) |
 | **Ibiza** (Baleares) | 2020s | 25 casas de renda acessível sobretudo para funcionários públicos, a ≈ 200 mil €/casa | Escassez de professores e profissionais de saúde; alguns fazem deslocações diárias de outras ilhas. Sem avaliação | [F129](../../referencias/fontes.md#f129) |
-| **Portugal** | 2023–2026 | Casas para professores deslocados (Lisboa, Portimão); apoio financeiro a professores colocados a > 70 km; câmaras que oferecem casas a médicos (Albufeira) | **15 casas para 388 professores selecionados**; respostas pontuais | [F130](../../referencias/fontes.md#f130) |
+| **Portugal** | 2023–2026 | Casas para professores deslocados (Lisboa, Portimão); apoio financeiro a professores colocados a > 70 km; câmaras que oferecem casas a médicos (Albufeira) | Programa para professores (2023): **388 candidatos, 15 selecionados, 11 apartamentos atribuídos** das 29 casas disponibilizadas; respostas pontuais | [F130](../../referencias/fontes.md#f130) |
 
 ---
 
@@ -69,7 +69,7 @@ Sim, de forma pontual: casas para professores deslocados (Lisboa, Portimão), ma
 
 ## 5. Transferibilidade
 
-Alta. **Juízo interpretativo:** a experiência portuguesa (15 casas para 388 selecionados) sugere que a limitação é a **escala**, não o modelo.
+Alta. **Juízo interpretativo:** a experiência portuguesa (388 candidatos para 29 casas, das quais só 11 foram atribuídas) sugere que a limitação é sobretudo a **escala**, mas também que o desenho (localização, tipologia, critérios) deve ser avaliado antes de alargar o programa.
 
 ---
 
@@ -101,9 +101,14 @@ Alta. **Juízo interpretativo:** a experiência portuguesa (15 casas para 388 se
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - Quem deve contar como **trabalhador essencial**?
 - É preferível dar **casa** ou **dinheiro** para a renda?
 - Os **empregadores privados** que dependem de trabalhadores deslocados (hotelaria, agricultura) devem contribuir?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quantos lugares nos serviços públicos ficam por preencher por falta de casa ([Q15](../../referencias/questoes-em-aberto.md#q15))?
+- Porque é que só 11 das 29 casas disponibilizadas a professores em 2023 foram atribuídas?
 
 ---
 

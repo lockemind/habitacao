@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S27 Habitação Primeiro](S27-habitacao-primeiro.md), [S22 Residências e deslocados](S22-residencias-estudantes-e-deslocados.md), [S06 Construção pública](S06-construcao-publica.md)
 
 **Eixo:** 6 — Pessoas mais vulneráveis · **Causas:** procura interna e imigração · **Territórios:** A, B, C · **Objetivos:** O5, O1
-**Força da evidência:** **C / D** — diagnóstico português sólido (INE, Eurostat); avaliações de licenciamento de senhorios feitas pelos próprios municípios ingleses · **Estado:** rascunho para revisão
+**Força da evidência:** **C / D** — diagnóstico português sólido (INE, Eurostat); avaliações de licenciamento de senhorios feitas pelos próprios municípios ingleses · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -105,9 +105,12 @@ Parcialmente: 1.º Direito e PRR [F48](../../referencias/fontes.md#f48); regras 
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - O Estado deve **licenciar** os senhorios em zonas com problemas?
 - Como fiscalizar sem deixar pessoas sem casa?
-- **Facto a apurar:** quantas famílias vivem hoje em condições indignas, por município?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quantas famílias vivem hoje em condições indignas, por município ([Q16](../../referencias/questoes-em-aberto.md#q16))?
 
 ---
 

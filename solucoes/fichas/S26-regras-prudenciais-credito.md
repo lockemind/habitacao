@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S25 Apoios à compra](S25-apoios-a-compra.md)
 
 **Eixo:** 5 — Procura, fiscalidade e crédito · **Causas:** crédito e juros · **Territórios:** todos · **Objetivos:** O6
-**Força da evidência:** **B** — literatura europeia consistente: os limites ao crédito reduzem o endividamento e moderam o crédito e os preços; efeitos redistributivos documentados · **Estado:** rascunho para revisão
+**Força da evidência:** **B** — literatura europeia consistente: os limites ao crédito reduzem o endividamento e moderam o crédito e os preços; efeitos redistributivos documentados · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -11,7 +11,7 @@
 
 Limites, fixados pelo Banco de Portugal, à forma como os bancos emprestam para comprar casa:
 
-- **LTV:** valor máximo do empréstimo face ao valor da casa (por exemplo, 90% para habitação própria);
+- **LTV:** valor máximo do empréstimo face ao valor da casa (90% para habitação própria permanente desde 2018 [F95](../../referencias/fontes.md#f95));
 - **DSTI:** taxa de esforço máxima (prestação face ao rendimento);
 - **Prazo máximo** do empréstimo.
 
@@ -102,9 +102,13 @@ Já em vigor. **Juízo interpretativo:** a principal escolha política é a **co
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - É mais importante **proteger as famílias do endividamento** ou **facilitar a compra** a quem tem pouca poupança?
-- A garantia pública a 100% é compatível com as regras prudenciais?
+- A garantia pública a 100% deve manter-se, sendo uma exceção às regras prudenciais?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quantos créditos com garantia pública ultrapassam o limite de 90%, e com que taxa de incumprimento?
 
 ---
 
-Fontes: [F40](../../referencias/fontes.md#f40), [F157](../../referencias/fontes.md#f157), [F158](../../referencias/fontes.md#f158)
+Fontes: [F40](../../referencias/fontes.md#f40), [F95](../../referencias/fontes.md#f95), [F157](../../referencias/fontes.md#f157), [F158](../../referencias/fontes.md#f158)

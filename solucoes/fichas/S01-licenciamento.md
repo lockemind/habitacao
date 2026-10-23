@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S02 Densidade](S02-densidade-junto-a-transportes.md), [S10 Política de solos](S10-politica-de-solos.md)
 
 **Eixo:** 1 — Construir mais · **Causas:** oferta · **Territórios:** A, B, C, D · **Objetivos:** O2
-**Força da evidência:** **A** sobre o efeito geral da regulação na oferta e nos preços (revisões de literatura) · **C** sobre reformas concretas de simplificação, incluindo a portuguesa (sem avaliação) · **Estado:** rascunho para revisão
+**Força da evidência:** **A** sobre o efeito geral da regulação na oferta e nos preços (revisões de literatura) · **C** sobre reformas concretas de simplificação, incluindo a portuguesa (sem avaliação) · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -21,7 +21,7 @@ Tornar o processo de aprovação de construção mais **rápido, previsível e b
 
 | Para promotores e Governo | Para municípios e alguns técnicos |
 |---|---|
-| A lei prevê poucas semanas, mas há processos que demoram **de seis meses a quatro anos** consoante o município [F97](../../referencias/fontes.md#f97). Em Lisboa chegaram a estar **mais de 3.100 projetos** à espera [F97](../../referencias/fontes.md#f97). A incerteza encarece e trava a construção | Segundo o vereador do Urbanismo de Lisboa, **"90% dos procedimentos vêm mal instruídos"**; um processo simples bem instruído demora cerca de quatro meses [F97](../../referencias/fontes.md#f97). Os municípios consideram "irrealistas" prazos mais curtos sem mais meios [F97](../../referencias/fontes.md#f97) |
+| A lei prevê poucas semanas, mas há processos que demoram **de seis meses a quatro anos** consoante o município, segundo um artigo de opinião [F97](../../referencias/fontes.md#f97). Em Lisboa chegaram a estar **mais de 3.100 projetos** à espera [F97](../../referencias/fontes.md#f97). A incerteza encarece e trava a construção | Segundo o vereador do Urbanismo de Lisboa, **"90% dos procedimentos vêm mal instruídos"**; um processo simples bem instruído demora cerca de quatro meses [F97](../../referencias/fontes.md#f97). Os municípios consideram "irrealistas" prazos mais curtos sem mais meios [F97](../../referencias/fontes.md#f97) |
 
 Ligação ao diagnóstico: construção ≈ 70% abaixo de 2000 e licenciamento lento entre as causas apontadas ([02](../../diagnostico/02-oferta-e-construcao.md#3-porque-se-constrói-pouco)).
 
@@ -56,7 +56,7 @@ Ligação ao diagnóstico: construção ≈ 70% abaixo de 2000 e licenciamento l
 - A incerteza (não saber se e quando um projeto é aprovado) é um custo em si: encarece o financiamento e afasta promotores mais pequenos.
 
 **Contra / cautelas:**
-- **Mais rápido não é sinónimo de mais casas acessíveis.** O licenciamento rápido aumenta a construção sobretudo onde é rentável, o que, nas zonas de pressão, tende a ser o segmento alto.
+- **Mais rápido não é sinónimo de mais casas acessíveis** (juízo interpretativo): é de esperar que o licenciamento rápido aumente a construção sobretudo onde é mais rentável, o que, nas zonas de pressão, tende a ser o segmento alto.
 - **Deferimento tácito** sem fiscalização pode levar a obras com erros ou ilegalidades descobertas tarde; a responsabilidade passa para os técnicos e para os compradores.
 - **O estrangulamento pode ser outro:** falta de técnicos municipais, processos mal instruídos, falta de mão de obra na construção ([02](../../diagnostico/02-oferta-e-construcao.md)). Mudar a lei sem mudar meios pode não acelerar nada.
 
@@ -114,9 +114,14 @@ Alta quanto ao princípio (é uma reforma administrativa nacional). O que não s
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - Que prazo é razoável para uma câmara decidir um projeto de habitação?
 - Aceita-se o **deferimento tácito**, com o risco de aprovar projetos com erros?
 - A simplificação deve **privilegiar a habitação acessível**?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quanto tempo demora hoje, em cada município, licenciar um projeto de habitação ([Q05](../../referencias/questoes-em-aberto.md#q05))?
+- O Simplex de 2024 encurtou os prazos?
 
 ---
 

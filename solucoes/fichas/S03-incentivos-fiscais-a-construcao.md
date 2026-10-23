@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · Fichas relacionadas: [S05 Construção para arrendamento](S05-construcao-para-arrendamento.md), [S01 Licenciamento](S01-licenciamento.md), [S11 Quotas](S11-quotas-de-habitacao-acessivel.md)
 
 **Eixo:** 1 — Construir mais (através do mercado) · **Causas:** oferta · **Territórios:** A–D · **Objetivos:** O2, O1
-**Força da evidência:** **B / C** — o crédito fiscal norte-americano (LIHTC) foi estudado com métodos causais, com resultados mistos; o IVA a 6% português é demasiado recente para avaliar · **Estado:** rascunho para revisão
+**Força da evidência:** **B / C** — o crédito fiscal norte-americano (LIHTC) foi estudado com métodos causais, com resultados mistos; o IVA a 6% português é demasiado recente para avaliar · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -104,9 +104,12 @@ A medida já foi transposta. **Juízo interpretativo:** o que falta é **avaliar
 
 ## 8. Questões para a consulta pública
 
-- **Facto a apurar:** quantas casas a mais o IVA a 6% gera, e a que preços?
-- **Escolha de valores:** é preferível perder receita fiscal para baixar o custo de construir, ou gastar o mesmo valor em habitação pública?
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
+- É preferível perder receita fiscal para baixar o custo de construir, ou gastar o mesmo valor em habitação pública?
 - O teto de 2.300 €/mês deve descer?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Quantas casas a mais gera o IVA a 6%, a que preços, e quanta receita custa ([Q16](../../referencias/questoes-em-aberto.md#q16))?
 
 ---
 

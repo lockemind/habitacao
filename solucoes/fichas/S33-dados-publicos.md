@@ -3,7 +3,7 @@
 > Parte de [Soluções](../README.md) · [Catálogo](../02-catalogo-de-opcoes.md) · [Critérios](../01-objetivos-e-criterios.md) · [Questões em aberto](../../referencias/questoes-em-aberto.md)
 
 **Eixo:** 7 — Território e governação · **Causas:** todas · **Territórios:** todos · **Objetivos:** todos (condição para medir O1–O6)
-**Força da evidência:** **D** — é um instrumento de apoio à decisão; o seu efeito não se mede diretamente. A experiência estrangeira é descritiva · **Estado:** rascunho para revisão
+**Força da evidência:** **D** — é um instrumento de apoio à decisão; o seu efeito não se mede diretamente. A experiência estrangeira é descritiva · **Estado:** revista (revisão editorial interna, out. 2026)
 
 ---
 
@@ -105,8 +105,12 @@ Alta. **Juízo interpretativo:** o modelo irlandês (registo obrigatório + índ
 
 ## 8. Questões para a consulta pública
 
+**Escolhas de valores** (não há resposta certa; dependem do que cada pessoa valoriza):
 - Que dados sobre habitação deviam ser **públicos** e com que frequência?
 - Cada nova medida deve ter uma **avaliação obrigatória**?
+
+**Factos a apurar** (têm resposta, mas faltam dados):
+- Que dados já existem na administração (AT, IHRU, RNAL, municípios) e não são publicados?
 
 ---
 
