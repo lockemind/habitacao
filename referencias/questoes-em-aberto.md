@@ -41,14 +41,14 @@ Afeta: [05](../diagnostico/05-arrendamento-e-historia-legal.md).
 - Programa Nacional de Habitação 2022–2026 (diploma de aprovação).
 - Lei n.º 56/2023 (Mais Habitação): lista completa de medidas.
 - DL 57/2024 (revogação da CEAL) e diploma que devolveu às câmaras as regras do AL.
-- Salário mínimo de 2026 (920 €).
+- ✅ Salário mínimo de 2026 (920 €): confirmado indiretamente no DL 97/2026, que fixa a renda moderada em 2.300 € = 2,5 × o salário mínimo de 2026 — [registo de verificação](verificacao-fontes-out-2026.md#parte-3--restantes-capítulos-do-diagnóstico).
 Afeta: [06](../diagnostico/06-politicas-publicas.md).
 
 <a id="q08"></a>
 ### Q08 — Séries sociais inconsistentes
 - ✅ Idade de saída de casa dos pais: a série `yth_demo_030` confirma 28,9 anos em 2024 (28,8 em 2025); o valor de 2021 (33,3) é um pico isolado — [registo de verificação](verificacao-fontes-out-2026.md#parte-2--diagnóstico).
-- Sobrecarga dos inquilinos a preço de mercado (≈ 30%) obtida via agregador.
-- Sobrelotação e condições de habitação dos imigrantes: faltam dados recentes.
+- ✅ Sobrecarga dos inquilinos a preço de mercado confirmada no Eurostat (30,3% em 2024; 27,2% em 2025) — [registo de verificação](verificacao-fontes-out-2026.md#parte-3--restantes-capítulos-do-diagnóstico).
+- ✅ Sobrelotação de imigrantes: dados do Eurostat por cidadania (≈ 29% entre cidadãos de fora da UE em 2025) — [registo de verificação](verificacao-fontes-out-2026.md#parte-3--restantes-capítulos-do-diagnóstico).
 Afeta: [07](../diagnostico/07-impactos-sociais.md).
 
 <a id="q09"></a>

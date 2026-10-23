@@ -139,10 +139,11 @@ https://euperspectives.eu/2026/08/renting-in-iberia-good-luck-and-thick-wallet/
 https://www.idealista.pt/news/node/74102
 
 <a id="f25"></a>
-**F25** — Tavares, F. O.; Pacheco, L.; Carvalho, M.; Pereira, E. T., *Evolution of the Real Estate Market in Portugal in the 21st Century*, revista *Economies* (MDPI), 2026. Relatado por: Renascença (19-06-2026), ECO (18-06-2026), Dinheiro Vivo. Primária (artigo científico) ●●● — números citados via imprensa ●●○
+**F25** — Tavares, F. O.; Pacheco, L.; Carvalho, M.; Pereira, E. T., *Evolution of the Real Estate Market in Portugal in the 21st Century*, revista *Economies* (MDPI), 2026. Relatado por: Renascença (19-06-2026), ECO (18-06-2026), Dinheiro Vivo. Primária (artigo científico) ●●● — números citados via imprensa ●●○ **Verificação (out. 2026):** lido no original. Variável explicada: **valor das transações** (curto prazo). Fatores significativos: PIB e condições de crédito. Sem efeito autónomo de curto prazo: taxas de juro de curto prazo, confiança e imigração (dados de 2009–2023). A afirmação "70% menos casas do que em 2000" **não consta do artigo**; a quebra da construção não é variável do modelo.
 https://rr.pt/noticia/economia/2026/06/19/habitacao-estudo-aponta-falta-de-casas-como-principal-causa-da-subida-dos-precos-e-desvaloriza-impacto-da-imigracao/475028/
 https://eco.sapo.pt/2026/06/18/pib-supera-euribor-como-indicador-central-na-evolucao-do-preco-das-casas/
 https://dinheirovivo.dn.pt/economia/crescimento-econmico-e-menor-oferta-pesam-mais-nos-preos-da-habitao
+https://repositorio.upt.pt/entities/publication/8a43eee6-07df-4af7-8402-ed1e487b66db
 
 <a id="f26"></a>
 **F26** — Escassez de mão de obra na construção: Renascença, *Ministro diz que falta mão de obra em Portugal para construir* (14-10-2025); ECO, *PRR. Falta de mão de obra na construção civil é risco para meta de 2026* (24-07-2024). Secundária ●●○
@@ -180,12 +181,12 @@ https://www.aiccopn.pt/wp-content/uploads/2026/04/20260323-Mercado-Imobiliario-I
 https://dinheirovivo.dn.pt/economia/preo-das-casas-aumentou-19-no-fim-de-2025
 
 <a id="f33"></a>
-**F33** — Banco de Portugal, *Relatório de Estabilidade Financeira* (maio 2026), relatado por Dinheiro Vivo/Lusa, *Estrangeiros representaram 28% das compras de casas em Portugal em 2025*. Secundária ●●○
+**F33** — Banco de Portugal, *Relatório de Estabilidade Financeira* (maio 2026), relatado por Dinheiro Vivo/Lusa, *Estrangeiros representaram 28% das compras de casas em Portugal em 2025*. Secundária ●●○ **Verificação (out. 2026):** 28% em 2025 confirmado (Relatório de Estabilidade Financeira de 27-05-2026, via imprensa); principais origens: Brasil, Angola e França.
 https://dinheirovivo.dn.pt/economia/estrangeiros-representaram-28-das-compras-de-casas-em-portugal-em-2025
 https://www.idealista.pt/news/node/75713
 
 <a id="f34"></a>
-**F34** — Observador, *Fact check: vistos gold foram só 3% do investimento na compra de casas em Portugal, como diz André Ventura?* Secundária ●●○
+**F34** — Observador, *Fact check: vistos gold foram só 3% do investimento na compra de casas em Portugal, como diz André Ventura?* Secundária ●●○ **Verificação (out. 2026):** o cálculo do Observador (≈ 6,45 mil M€ em ≈ 205 mil M€ de compras de casas) confirma os ≈ 3%; a classificação "falso" do fact-check refere-se à afirmação de que o impacto era **nulo**, não à percentagem.
 https://observador.pt/factchecks/fact-check-vistos-gold-foram-so-3-do-investimento-na-compra-de-casas-em-portugal-como-diz-andre-ventura/
 
 <a id="f35"></a>
@@ -194,9 +195,11 @@ https://ipanemapartners.com/pt/insights/portugal-nhr-replacement
 https://www.theportugalnews.com/news/2023-11-02/the-true-impact-and-implications-of-ending-the-nhr-regime/82889
 
 <a id="f36"></a>
-**F36** — População estrangeira residente (INE, estimativas 2025; AIMA, *Relatório de Migrações e Asilo 2025*): DN, *População em Portugal atinge 11,4 milhões; imigrantes são 14% dos residentes*; The Portugal News (23-06-2026). Secundária ●●○
+**F36** — População estrangeira residente (INE, estimativas 2025; AIMA, *Relatório de Migrações e Asilo 2025*): DN, *População em Portugal atinge 11,4 milhões; imigrantes são 14% dos residentes*; The Portugal News (23-06-2026). Secundária ●●○ **Verificação (out. 2026):** INE (22-06-2026): 1.597.539 estrangeiros, dos quais 574.195 brasileiros (35,9%); Grande Lisboa 546.419 (34,2%). AIMA (22-09-2026): 1.585.854, dos quais 493.622 brasileiros (31,1%); Odemira: 22.038 estrangeiros em 44.043 habitantes. O valor de "≈ 606 mil em Lisboa" não foi encontrado e foi retirado.
 https://www.dn.pt/sociedade/populao-em-portugal-atinge-114-milhes-imigrantes-so-14-dos-residentes
 https://www.theportugalnews.com/pt/noticias/2026-06-23/mais-de-um-terco-dos-estrangeiros-em-portugal-sao-brasileiros/1044397
+https://dnbrasil.dn.pt/radar-dn-brasil/qual-o-retrato-da-populao-brasileira-residente-em-portugal-nmero-atualizado-chega-a-574195-cidados
+https://postal.pt/edicaopapel/albufeira-com-416-de-residentes-estrangeiros-e-lagos-396-em-2025/
 
 <a id="f59"></a>
 **F59** — idealista, *IMT vai subir para não residentes — pesam 5% na compra de casas* (2025). Secundária ●●○
@@ -238,11 +241,13 @@ https://www.dn.pt/arquivo/diario-de-noticias/os-despejos-a-lei-cristas-e-a-demag
 https://www.idealista.pt/news/node/76456
 
 <a id="f44"></a>
-**F44** — Revisão do NRAU 2026: ECO (08-07-2026); idealista, *Novas regras podem aumentar rendas antigas com base no VPT*; dNoticias/Lusa, *Proposta do Governo para rever regime do arrendamento aprovada na generalidade* (30-09-2026); Jornal Económico. Secundária ●●○
+**F44** — Revisão do NRAU 2026: ECO (08-07-2026); idealista, *Novas regras podem aumentar rendas antigas com base no VPT*; dNoticias/Lusa, *Proposta do Governo para rever regime do arrendamento aprovada na generalidade* (30-09-2026); Jornal Económico. Secundária ●●○ **Verificação (out. 2026):** votação na generalidade de 30-09-2026 confirmada (RTP, JN, Renascença): a favor PSD, IL e CDS-PP; abstenção do Chega; contra PS, Livre, PCP, PAN, JPP e BE.
 https://eco.sapo.pt/2026/07/08/novo-regime-de-arrendamento-vai-a-conselho-de-ministros-na-quinta-feira-facilita-despejos-e-descongela-rendas-antigas/
 https://www.idealista.pt/news/node/76500
 https://www.dnoticias.pt/2026/9/30/507386-proposta-do-governo-para-rever-regime-do-arrendamento-aprovada-na-generalidade/
 https://jornaleconomico.sapo.pt/noticias/lei-do-arrendamento-proposta-aprovada-na-generalidade-apos-acordo-para-alteracoes-entre-governo-e-chega/
+https://www.rtp.pt/noticias/politica/parlamento-aprova-nova-lei-do-arrendamento-com-abstencao-do-chega_e1768638
+https://rr.pt/noticia/politica/2026/09/30/lei-das-rendas-psd-e-chega-assinam-acordo-para-alterar-proposta-do-governo/487440/
 
 ## 8. Políticas públicas e legislação
 
@@ -254,7 +259,7 @@ https://rr.pt/artigo/explicador-renascenca/2024/04/12/o-novo-governo-traz-novida
 https://rr.pt/artigo/em-nome-da-lei/2023/04/14/anuncio-do-fim-dos-vistos-gold-gera-fuga-de-investidores/327617/
 
 <a id="f46"></a>
-**F46** — Pacote fiscal da habitação 2026: Lei n.º 9-A/2026, de 6 de março (autorização legislativa); Decreto-Lei n.º 97/2026, de 20 de maio; ECO e Renascença sobre a promulgação (12-05-2026); Governo, *Pacote fiscal para habitação aprovado no Parlamento*; DECO Proteste. Primária + secundária ●●● **Verificado no original (out. 2026):** teto de venda de 660.982 € (topo do 2.º escalão do IMT), segundo a análise da AICCOPN ao DL 97/2026.
+**F46** — Pacote fiscal da habitação 2026: Lei n.º 9-A/2026, de 6 de março (autorização legislativa); Decreto-Lei n.º 97/2026, de 20 de maio; ECO e Renascença sobre a promulgação (12-05-2026); Governo, *Pacote fiscal para habitação aprovado no Parlamento*; DECO Proteste. Primária + secundária ●●● **Verificado no original (out. 2026):** teto de venda de 660.982 € (topo do 2.º escalão do IMT), segundo a análise da AICCOPN ao DL 97/2026. Condições do IVA a 6% (análise da AICCOPN ao DL 97/2026): venda para habitação própria e permanente do adquirente até 660.982 € no prazo de 24 meses, ou arrendamento até 2.300 €/mês (2,5 × salário mínimo de 2026); iniciativa procedimental entre 25-09-2025 e 31-12-2029. Não se encontrou limite mínimo de renda.
 https://diariodarepublica.pt/dr/detalhe/lei/9-a-2026-1068965400
 https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227
 https://eco.sapo.pt/2026/05/12/seguro-da-luz-verde-ao-choque-fiscal-para-a-habitacao/
@@ -292,7 +297,7 @@ https://www.idealista.pt/news/node/73197
 https://www.dnoticias.pt/2025/12/18/474382-numero-de-sem-abrigo-voltou-a-aumentar-no-ano-passado-e-chegou-a-14476/
 
 <a id="f52"></a>
-**F52** — Sobrecarga com custos de habitação: idealista, *Crise habitacional cria "desafios" sociais em Portugal, alerta Bruxelas* (nov. 2025), a citar a Comissão Europeia; série Eurostat `ilc_lvho07c` (por regime de ocupação) relatada pela Trading Economics. Secundária ●●○
+**F52** — Sobrecarga com custos de habitação: idealista, *Crise habitacional cria "desafios" sociais em Portugal, alerta Bruxelas* (nov. 2025), a citar a Comissão Europeia; série Eurostat `ilc_lvho07c` (por regime de ocupação) relatada pela Trading Economics. Secundária ●●○ **Verificação (out. 2026):** valores confirmados na série do Eurostat ([F176](#f176)).
 https://www.idealista.pt/news/node/72795
 https://ec.europa.eu/eurostat/databrowser/view/ilc_lvho07c/default/table
 
@@ -1008,3 +1013,11 @@ https://ec.europa.eu/eurostat/databrowser/view/yth_demo_030/default/table
 **F174** — BCE, decisão de política monetária de junho de 2026 (subida de 0,25 p.p.; facilidade de depósito 2,25%, a partir de 17-06-2026): resumo do Banco de España; taxas em vigor no Central Bank of Ireland. Primária ●●●
 https://www.bde.es/wbe/en/noticias-eventos/actualidad-bce/decisiones-politica-monetaria/bce-tipos-junio26.html
 https://edit.centralbank.ie/statistics/interest-rates-exchange-rates/ecb-interest-rates
+
+<a id="f175"></a>
+**F175** — AICCOPN, *Portugal Imobiliário* (nota de 20-12-2017): 114.254 habitações licenciadas em 2001, a partir de dados do INE. Secundária (associação do setor, a citar o INE) ●●○
+https://www.aiccopn.pt/wp-content/uploads/2021/10/PI_20dez20117.pdf
+
+<a id="f176"></a>
+**F176** — Eurostat, EU-SILC: taxa de sobrecarga com custos de habitação por regime de ocupação (`ilc_lvho07c`), Portugal e UE-27, 2023–2025 (consulta à API em 23-10-2026). Primária ●●●
+https://ec.europa.eu/eurostat/databrowser/view/ilc_lvho07c/default/table
