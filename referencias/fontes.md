@@ -250,13 +250,14 @@ https://rr.pt/artigo/explicador-renascenca/2024/04/12/o-novo-governo-traz-novida
 https://rr.pt/artigo/em-nome-da-lei/2023/04/14/anuncio-do-fim-dos-vistos-gold-gera-fuga-de-investidores/327617/
 
 <a id="f46"></a>
-**F46** — Pacote fiscal da habitação 2026: Lei n.º 9-A/2026, de 6 de março (autorização legislativa); Decreto-Lei n.º 97/2026, de 20 de maio; ECO e Renascença sobre a promulgação (12-05-2026); Governo, *Pacote fiscal para habitação aprovado no Parlamento*; DECO Proteste. Primária + secundária ●●●
+**F46** — Pacote fiscal da habitação 2026: Lei n.º 9-A/2026, de 6 de março (autorização legislativa); Decreto-Lei n.º 97/2026, de 20 de maio; ECO e Renascença sobre a promulgação (12-05-2026); Governo, *Pacote fiscal para habitação aprovado no Parlamento*; DECO Proteste. Primária + secundária ●●● **Verificado no original (out. 2026):** teto de venda de 660.982 € (topo do 2.º escalão do IMT), segundo a análise da AICCOPN ao DL 97/2026.
 https://diariodarepublica.pt/dr/detalhe/lei/9-a-2026-1068965400
 https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227
 https://eco.sapo.pt/2026/05/12/seguro-da-luz-verde-ao-choque-fiscal-para-a-habitacao/
 https://rr.pt/noticia/politica/2026/05/12/seguro-promulga-pacote-de-desagravamento-fiscal-para-a-habitacao/470447/
 https://portugal.gov.pt/pt/gc25/comunicacao/noticias/pacote-fiscal-para-habitacao-aprovado-no-parlamento
 https://www.deco.proteste.pt/dinheiro/impostos/noticias/habitacao-novas-medidas-governo-2025
+https://www.aiccopn.pt/wp-content/uploads/2026/05/20260626-IVA-7-IVA-reduzido-na-construcao-e-reabilitacao-HPP.pdf
 Explicador ECO em 13 pontos: https://eco.sapo.pt/descodificador/e-senhorio-inquilino-ou-promotor-imobiliario-o-pacote-fiscal-da-habitacao-explicado-em-13-pontos/02-2-o-iva-na-construcao-desce-para-6-para-toda-a-gente/
 
 <a id="f47"></a>
@@ -346,10 +347,11 @@ https://www.irishexaminer.com/news/munster/arid-41901406.html
 https://www.oireachtas.ie/ga/debates/question/2024-02-15/75/
 
 <a id="f66"></a>
-**F66** — Áustria, associações de habitação de lucro limitado (LPHA): Housing Europe, *Price dampening effect of limited-profit housing* (2025); resumo do estudo WIFO *The economic impacts of Limited-Profit Housing Associations* (encomendado com a federação do setor); CIRIEC, *Limited Profit Housing Associations in Austria* (2022). Primária (estudos) mas **parcialmente interessada** ●●○
+**F66** — Áustria, associações de habitação de lucro limitado (LPHA): Housing Europe, *Price dampening effect of limited-profit housing* (2025); resumo do estudo WIFO *The economic impacts of Limited-Profit Housing Associations* (encomendado com a federação do setor); CIRIEC, *Limited Profit Housing Associations in Austria* (2022). Primária (estudos) mas **parcialmente interessada** ●●○ **Verificado no original (out. 2026):** resumo WIFO *Research Brief* 5/2023 (Klien, Huber, Reschenhofer — WIFO; Gutheil-Knopp-Kirchwald, Kössl — GBV, federação do setor), por encomenda da Câmara de Viena: +10% de quota das GBV → rendas não reguladas −0,30 a −0,40 €/m² consoante o modelo (≈ 5%).
 https://housingeurope.eu/wp-content/uploads/2025/01/Housing%20Europe%20-%20Price%20dampening%20effect%20of%20limited-profit%20housing.pdf
 https://www.housinginternational.coop/wp-content/uploads/2022/07/Summary-WIFO-study_The-economic-impacts-of-limited-profit-housing-associations.pdf
 https://www.housinginternational.coop/wp-content/uploads/2022/07/CIRIEC-WORKING-PAPER_Limited-Profit-Housing-Associations-in-Austria_May2022-1.pdf
+https://wifo.ac.at/wp-content/uploads/upload-7477/rb_2023_005_.pdf
 
 <a id="f67"></a>
 **F67** — Dinamarca, habitação *almen* e Landsbyggefonden: BL (federação da habitação não lucrativa), parecer de 19-01-2026; IT University of Copenhagen, *Governing and financing affordable housing at the intersection of…*; Altinget (crítica ao uso político do fundo). Primária + interessada + secundária ●●○
@@ -401,11 +403,12 @@ https://vancouver.ca/news-calendar/eht-drives-housing-vacancies-record-low-dec-2
 https://ideas.repec.org/a/eee/pubeco/v185y2020ics0047272719301409.html
 
 <a id="f76"></a>
-**F76** — Portugal, IMI agravado para prédios devolutos (art. 112.º do CIMI): idealista, *IMI de casas devolutas: taxa paga a triplicar nestes 24 municípios*; idealista, *Só 22 autarquias agravam IMI…*; idealista, *Mais de 8.000 proprietários de casas devolutas recebem fatura a triplicar*; Deloitte, decisão CAAD sobre zonas de pressão urbanística. Secundária ●●○
+**F76** — Portugal, IMI agravado para prédios devolutos (art. 112.º do CIMI): idealista, *IMI de casas devolutas: taxa paga a triplicar nestes 24 municípios*; idealista, *Só 22 autarquias agravam IMI…*; idealista, *Mais de 8.000 proprietários de casas devolutas recebem fatura a triplicar*; Deloitte, decisão CAAD sobre zonas de pressão urbanística. Secundária ●●○ **Verificado no original (out. 2026):** art. 112.º-B do CIMI no Portal das Finanças (zonas de pressão urbanística: décuplo, +20%/ano, limite 20×, majorável em 50% ou 100%).
 https://www.idealista.pt/news/node/51546
 https://www.idealista.pt/news/node/35616
 https://www.idealista.pt/news/node/36182
 https://www.deloitte.com/pt/pt/services/tax/perspectives/taxlab/agravamento-imi-predios-devolutos-zonas-pressao-urbanistica-caad.html
+https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi112b.aspx
 
 ### S16 — Regulação do alojamento local
 
@@ -434,9 +437,10 @@ https://www.cuatrecasas.com/pt/portugal/imobiliario/art/alteracoes-ao-regime-do-
 ### S19 — Limites às rendas
 
 <a id="f82"></a>
-**F82** — Kholodilin, K. A. (2024), *Rent control effects through the lens of empirical research: An almost complete review of the literature*, *Journal of Housing Economics*, 63, 101983. DOI: 10.1016/j.jhe.2024.101983. Primária ●●●. **Nota:** as contagens de estudos citadas nas fichas vêm de um resumo do *Institute of Economic Affairs* (IEA), um *think tank* britânico de orientação liberal; devem ser confirmadas nas tabelas do artigo.
+**F82** — Kholodilin, K. A. (2024), *Rent control effects through the lens of empirical research: An almost complete review of the literature*, *Journal of Housing Economics*, 63, 101983. DOI: 10.1016/j.jhe.2024.101983. Primária ●●●. **Nota:** as contagens de estudos citadas nas fichas vêm de um relatório do próprio autor publicado em 2024 pelo *Institute of Economic Affairs* (IEA), *think tank* britânico de orientação liberal; **verificadas nesse relatório (out. 2026)**, incluindo a tabela só com estudos publicados.
 https://www.diw.de/de/diw_01.c.893635.de/publikationen/externe_referierte_aufsaetze/2024_0000/rent_control_effects_through_the_lens_of_empirical_research__an_almost_complete_review_of_the_literature.html
 https://iea.org.uk/review-rent-control-effects-through-the-lens-of-empirical-research-an-almost-complete-review-of-the-literature-by-konstantin-kholodilin/
+https://iea.org.uk/wp-content/uploads/2024/08/Rent-Control-Does-it-work-Dr-Konstantin-A.-Kholodilin.pdf
 
 <a id="f83"></a>
 **F83** — Diamond, R.; McQuade, T.; Qian, F. (2019), *The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality: Evidence from San Francisco*, *American Economic Review*, 109(9), 3365–3394 (versão de trabalho: NBER w24181). Primária ●●●
@@ -526,12 +530,13 @@ https://ideas.repec.org/h/eee/regchp/5-1289.html
 ### S02 — Densidade
 
 <a id="f99"></a>
-**F99** — Greenaway-McGrevy, R. & Phillips, P. C. B. (2023), *The impact of upzoning on housing construction in Auckland*, *Journal of Urban Economics*, 136. Primária ●●●
+**F99** — Greenaway-McGrevy, R. & Phillips, P. C. B. (2023), *The impact of upzoning on housing construction in Auckland*, *Journal of Urban Economics*, 136. Primária ●●● **Verificado no original (out. 2026):** 21.808 licenças adicionais em 5 anos, ≈ 4,11% do parque da região; licenças, não casas concluídas (versão publicada, Cowles Foundation Paper 1863).
 https://www.eresearch.auckland.ac.nz/project/the-impact-of-upzoing-on-housing-construction-in-auckland/
 https://cowles.yale.edu/sites/default/files/2022-08/d2330_0.pdf
+https://cowles.yale.edu/sites/default/files/2024-02/p1863.pdf
 
 <a id="f100"></a>
-**F100** — Greenaway-McGrevy, R. & So, Y., *Can Zoning Reform Reduce Housing Costs? Evidence from Rents in Auckland*, University of Auckland Economic Policy Centre, Working Paper 16 (versão 2023/2024). Primária (documento de trabalho, não revisto por pares) ●●○
+**F100** — Greenaway-McGrevy, R. & So, Y., *Can Zoning Reform Reduce Housing Costs? Evidence from Rents in Auckland*, University of Auckland Economic Policy Centre, Working Paper 16 (versão 2023/2024). Primária (documento de trabalho, não revisto por pares) ●●○ **Verificado no original (out. 2026):** resumo da versão de junho de 2023: casas de 3 quartos −26% a −33% (significativo a 5%); 2 quartos −21% a −24% (significativo só em algumas especificações).
 https://cdn.auckland.ac.nz/assets/business/about/our-research/research-institutes-and-centres/Economic-Policy-Centre--EPC-/WP016%203.pdf
 
 <a id="f101"></a>
@@ -657,10 +662,11 @@ https://www.eapn.pt/wp-content/uploads/2024/04/EAPN_ebook_Habita017-1.pdf
 ### S27 — Habitação Primeiro
 
 <a id="f122"></a>
-**F122** — Finlândia, *Housing First* e Y-Foundation: Global News, *Quebec looks to Finland's successful approach to homelessness*; Fortune, *How to end homelessness: Finland's solution* (12-07-2022); Scandinavia Standard (comentário sobre a subida recente). Secundária ●●○
+**F122** — Finlândia, *Housing First* e Y-Foundation: Global News, *Quebec looks to Finland's successful approach to homelessness*; Fortune, *How to end homelessness: Finland's solution* (12-07-2022); Scandinavia Standard (comentário sobre a subida recente). Secundária ●●○ **Verificado no original (out. 2026):** não se encontrou estudo publicado para os 15.000 €/pessoa/ano (afirmação da Y-Foundation, entidade gestora — **interessada**); os ≈ 9.600 € vêm de um estudo de caso de uma residência (Härmälä, Tampere), apresentado num seminário em 2013 (Sillanpää).
 https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model
 https://fortune.com/europe/2022/07/12/how-to-end-homelessness-finland-solution-housing-first
 https://www.scandinaviastandard.com/m-how-did-a-country-keep-homelessness-near-0-08-per-cent-roughly-a-third-of-the-equivalent-figure-in-the-united-states-finland-gave-people-the-flat-first/
+https://researchportal.tuni.fi/en/activities/cost-effects-of-housing-first-cost-savings-in-health-and-judicial/
 
 <a id="f123"></a>
 **F123** — Canadá, ensaio aleatório *At Home / Chez Soi*: Mental Health Commission of Canada, *Final Report — Executive Summary*; resultados do local de Toronto (*BMJ Open*, 2016); análise de custo-efetividade (Latimer et al., 2020). Primária ●●●
@@ -683,9 +689,10 @@ https://halshs.archives-ouvertes.fr/halshs-02539844v1/file/n18-notesIPP-june2015
 https://www.doria.fi/bitstream/handle/10024/185961/vatt-working-papers-149-the-incidence-of-housing-allowances--quasi-experimental-evidence.pdf
 
 <a id="f126"></a>
-**F126** — Porta 65 Jovem: idealista, *Porta 65 quer apoiar 22.000 jovens até 2026*; idealista, *Mais de 40% dos jovens candidatos ao Porta 65 sem apoio para arrendar casa*. Secundária ●●○
+**F126** — Porta 65 Jovem: idealista, *Porta 65 quer apoiar 22.000 jovens até 2026*; idealista, *Mais de 40% dos jovens candidatos ao Porta 65 sem apoio para arrendar casa*. Secundária ●●○. A meta de 22 mil jovens é de 2023 (Mais Habitação). **Dados mais recentes (out. 2026):** 45.686 jovens apoiados até setembro de 2025, apoio médio de 275 €/mês, segundo a ministra da tutela na audição do OE2026 (Lusa, via HR Portugal).
 https://www.idealista.pt/news/node/57425
 https://www.idealista.pt/news/node/31615
+https://hrportugal.sapo.pt/mais-de-45-600-jovens-recebem-apoio-a-renda-atraves-do-programa-porta-65/
 
 ### S20 — Garantia de renda e justiça rápida
 
@@ -809,11 +816,12 @@ https://www.savills.com/research_articles/255800/364411-0
 ### S14 — Reabilitação em troca de renda acessível
 
 <a id="f145"></a>
-**F145** — Reabilitar para Arrendar e IFRRU 2020: idealista, *Programa "Reabilitar para Arrendar – Habitação Acessível" arranca hoje com 25 milhões de euros*; *"Reabilitar para Arrendar": chegam ao mercado 359 casas com rendas condicionadas*; *IFRRU com 60 candidaturas no valor de 194 milhões em menos de cinco meses*; Observador, *Reabilitação urbana: bem prega Frei Tomás* (opinião). Secundária ●●○ (datas de alguns balanços por confirmar)
+**F145** — Reabilitar para Arrendar e IFRRU 2020: idealista, *Programa "Reabilitar para Arrendar – Habitação Acessível" arranca hoje com 25 milhões de euros*; *"Reabilitar para Arrendar": chegam ao mercado 359 casas com rendas condicionadas*; *IFRRU com 60 candidaturas no valor de 194 milhões em menos de cinco meses*; Observador, *Reabilitação urbana: bem prega Frei Tomás* (opinião). Secundária ●●○ (datas de alguns balanços por confirmar) **Verificado no original (out. 2026):** balanço de 13-03-2017 (Lusa, via ECO): 91 processos; 258 habitações que darão 359 casas; 13,8 M€ de crédito do BEI num investimento total de 20 M€.
 https://www.idealista.pt/news/node/28263
 https://www.idealista.pt/news/node/32983
 https://www.idealista.pt/news/node/35983
 https://observador.pt/opiniao/reabilitacao-urbana-bem-prega-frei-tomas/
+https://eco.sapo.pt/2017/03/13/programa-reabilitar-para-arrendar-financia-258-habitacoes
 
 ### S15 — Heranças e propriedade incerta
 
@@ -889,11 +897,12 @@ https://www.oneroof.co.nz/news/36509
 ### S26 — Regras prudenciais no crédito
 
 <a id="f157"></a>
-**F157** — Recomendação macroprudencial n.º 1/2026 do Banco de Portugal: ECO, *Banco de Portugal aperta regras do crédito a partir de agosto* (02-07-2026); Santander, *Novas regras do crédito à habitação*; Literacia Financeira, *Taxa de esforço máxima*; Banco de Portugal, relatório de acompanhamento de 2025. Primária + secundária ●●○
+**F157** — Recomendação macroprudencial n.º 1/2026 do Banco de Portugal: ECO, *Banco de Portugal aperta regras do crédito a partir de agosto* (02-07-2026); Santander, *Novas regras do crédito à habitação*; Literacia Financeira, *Taxa de esforço máxima*; Banco de Portugal, relatório de acompanhamento de 2025. Primária + secundária ●●○ DECO Proteste, *Novas regras do crédito à habitação* (prazos máximos de 40 anos até aos 35 anos e 35 anos acima; LTV de 90%/80%; exceção ao DSTI limitada a 10% dos contratos por semestre).
 https://eco.sapo.pt/2026/07/02/banco-de-portugal-aperta-regras-do-credito-a-partir-de-agosto/
 https://www.santander.pt/salto/novas-regras-credito-habitacao
 https://www.literaciafinanceira.pt/artigos/taxa-de-esforco-maxima
 https://www.bportugal.pt/sites/default/files/documents/2025-03/Relatorio_acompanhamento_medidas_macroprudenciais_Portugal%202025_versao_final.pdf
+https://www.deco.proteste.pt/dinheiro/comprar-vender-casa/noticias/novas-regras-credito-habitacao-muda-agosto
 
 <a id="f158"></a>
 **F158** — Medidas macroprudenciais sobre os mutuários: Banco de España, *A literature review on ex-ante and ex-post analysis of the implications of borrower-based macroprudential measures*; DNB, *Borrower-Based Measures, House Prices and Household Debt* (Working Paper 738, 2022); FMI, Working Paper 2026/066. Primária (bancos centrais, FMI) ●●●
@@ -904,7 +913,7 @@ https://www.imf.org/-/media/files/publications/wp/2026/english/wpiea2026066-sour
 ### S29 — Habitação indigna e sobrelotação
 
 <a id="f159"></a>
-**F159** — Sobrelotação em Portugal: idealista, *Sobrelotação habitacional afeta os mais novos (e não só) em Portugal* (INE, 2024); Renascença, *Número de alojamentos sobrelotados sobe 17,1% em 10 anos* (08-05-2024, Censos 2021, carências de 136.800 alojamentos); ECO, *Quase um quarto dos cidadãos não-europeus vive em casas sobrelotadas* (16-10-2024, Eurostat). Secundária a citar fontes oficiais ●●○
+**F159** — Sobrelotação em Portugal: idealista, *Sobrelotação habitacional afeta os mais novos (e não só) em Portugal* (INE, 2024); Renascença, *Número de alojamentos sobrelotados sobe 17,1% em 10 anos* (08-05-2024, Censos 2021, carências de 136.800 alojamentos); ECO, *Quase um quarto dos cidadãos não-europeus vive em casas sobrelotadas* (16-10-2024, Eurostat). Secundária a citar fontes oficiais ●●○ **Nota (out. 2026):** dos 136.800 alojamentos em falta, ≈ 95% correspondem a núcleos familiares a viver com outras pessoas ou outros núcleos (não "sobrelotação" em sentido estrito).
 https://www.idealista.pt/news/node/73736
 https://rr.pt/noticia/pais/2024/05/08/numero-de-alojamentos-sobrelotados-sobe-171-em-10-anos/377477/
 https://eco.sapo.pt/2024/10/16/quase-um-quarto-dos-cidadaos-nao-europeus-vivem-em-casas-sobrelotadas/
@@ -966,3 +975,21 @@ https://www.idealista.pt/news/node/76237
 https://prescrire.org/Fr/0432186440C518AD6B0D8F2D3BF8E263/Download.aspx
 https://ideas.repec.org/a/eee/socmed/v265y2020ics0277953620307000.html
 https://www.feantsa.org/public/user/Observatory/2021/EJH_15-3/EJH_15-3_A1_Rev.pdf
+
+### Verificação nas fontes originais (out. 2026)
+
+<a id="f170"></a>
+**F170** — Conselho das Finanças Públicas, *Evolução orçamental da Administração Local em 2025*, Relatório n.º 06/2026 (sumário executivo): receita de IMT ≈ 2.146 M€ (+24,2%), IMI ≈ 1.589 M€ (+5,9%), receita efetiva total dos municípios ≈ 14,4 mil M€. Primária ●●●
+https://www.cfp.pt/uploads/publicacoes_ficheiros/sumario-executivo-06-2026.pdf
+https://www.cfp.pt/uploads/publicacoes_ficheiros/cfp-rel-06-2026_al_2025.pdf
+
+<a id="f171"></a>
+**F171** — Eurostat, EU-SILC: taxa de sobrelotação (`ilc_lvho05a`), sobrelotação por cidadania (`ilc_lvho15`) e pessoas em casas subocupadas por idade (`ilc_lvho50a`), Portugal e UE-27, 2023–2025 (consulta à API em 23-10-2026). Primária ●●●
+https://ec.europa.eu/eurostat/databrowser/view/ilc_lvho05a/default/table
+https://ec.europa.eu/eurostat/databrowser/view/ilc_lvho15/default/table
+https://ec.europa.eu/eurostat/databrowser/view/ilc_lvho50a/default/table
+
+<a id="f172"></a>
+**F172** — Île-de-France, produção de habitação: INSEE, *Bilan économique 2024 — Construction* (54.300 casas autorizadas e 46.700 iniciadas em 2024); DRIEAT, *La production de logements dans les territoires de l'Île-de-France* (média de 74.580 autorizações/ano em 2018–2022, Sit@del2). Primária ●●●
+https://www.insee.fr/fr/statistiques/8354172
+https://www.drieat.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/la_production_de_logements_dans_les_territoires_de_l_ile-de-france-vdef.pdf
