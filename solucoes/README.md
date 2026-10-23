@@ -24,7 +24,7 @@ O objetivo não é defender um programa político. É dar a quem participa na co
 |---|---|---|---|
 | **S1** | Definir objetivos mensuráveis e critérios de avaliação | [01 — Objetivos e critérios](01-objetivos-e-criterios.md) | ✅ proposta para validação |
 | **S2** | Lista longa de opções, ligadas às causas e aos territórios | [02 — Catálogo de opções](02-catalogo-de-opcoes.md) | ✅ proposta para validação |
-| **S3** | Uma **ficha de evidência** por opção: onde foi testada, resultados, avaliações, transferibilidade para Portugal | [modelo](fichas/_modelo.md) | ✅ 4 lotes (33 de 33), em rascunho para revisão |
+| **S3** | Uma **ficha de evidência** por opção: onde foi testada, resultados, avaliações, transferibilidade para Portugal | [modelo](fichas/_modelo.md) | ✅ 4 lotes (33 de 33), com revisão editorial interna |
 | **S4** | Avaliação comparada de todas as opções com os mesmos critérios | [03 — Avaliação comparada](03-avaliacao-comparada.md) | ✅ primeira versão completa (33 opções) |
 | **S5** | Combinar opções em **pacotes coerentes** por horizonte temporal e tipo de território | [04 — Pacotes e cenários](04-pacotes-e-cenarios.md) | ✅ primeira versão completa (base comum + 3 pacotes) |
 | **S6** | Preparar a **consulta pública**: perguntas, escolhas em aberto, forma de participação | `05-consulta-publica.md` | ⏳ por fazer |
@@ -33,7 +33,7 @@ Cada etapa só avança depois de a anterior estar revista.
 
 ### Fichas disponíveis (1.º lote)
 
-Revistas quanto a equilíbrio e rigor: ver o [registo da revisão editorial](revisao-editorial-lote-1.md).
+Revistas quanto a equilíbrio e rigor: ver os registos da revisão editorial do [1.º lote](revisao-editorial-lote-1.md) e dos [lotes 2 a 4](revisao-editorial-lotes-2-4.md).
 
 | Ficha | Evidência | Em síntese |
 |---|---|---|
@@ -64,7 +64,7 @@ Revistas quanto a equilíbrio e rigor: ver o [registo da revisão editorial](rev
 | [S20 — Garantia de renda e justiça rápida](fichas/S20-garantia-de-renda-e-justica.md) | C / D | Em França, 2 milhões de garantias Visale abriram o mercado a quem não tem fiador; custo esperado baixo; efeito na oferta não avaliado |
 | [S21 — Subsídio de renda dirigido](fichas/S21-subsidio-de-renda.md) | A / B | Rápido e dirigido, mas com oferta rígida grande parte pode acabar nos senhorios (França 70–100%; Reino Unido 60–66%); na Finlândia não aconteceu |
 | [S27 — Habitação Primeiro](fichas/S27-habitacao-primeiro.md) | **A** | Ensaio aleatório no Canadá e experiência finlandesa: mais estabilidade habitacional; poupa noutros serviços, mas não se paga totalmente; depende de haver casas |
-| [S28 — Trabalhadores essenciais](fichas/S28-trabalhadores-essenciais.md) | D | Responde a serviços públicos sem profissionais; em Portugal, 15 casas para 388 professores selecionados; questões de equidade |
+| [S28 — Trabalhadores essenciais](fichas/S28-trabalhadores-essenciais.md) | D | Responde a serviços públicos sem profissionais; em Portugal, 388 professores candidatos para 29 casas (11 atribuídas, 2023); questões de equidade |
 | [S31 — Taxa turística para habitação](fichas/S31-taxa-turistica.md) | D | Consignar 25% (como Barcelona) daria ≈ 25–35 M€/ano: 100–230 casas/ano com subvenção ou 700–2.300 com crédito |
 | [S32 — Interior: reabilitar + emprego](fichas/S32-interior.md) | D | Casas baratas sem emprego atraem segundas habitações (Itália: só ≈ 10% passou a residir); desenhar a partir do emprego e testar em pilotos |
 

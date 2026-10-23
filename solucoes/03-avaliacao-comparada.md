@@ -2,7 +2,7 @@
 
 > Parte de [Soluções: método e roteiro](README.md) · Anterior: [S2 — Catálogo](02-catalogo-de-opcoes.md) · Base: [fichas dos quatro lotes](README.md#fichas-disponíveis-1º-lote) · Critérios: [S1](01-objetivos-e-criterios.md)
 
-**Estado:** primeira versão completa, com as **33 opções do catálogo** (o 4.º lote acrescentou S03, S04, S05, S09, S11, S14, S15, S17, S22, S23, S24, S26, S29, S30 e S33). As classificações vêm de fichas que estão todas em **rascunho para revisão**; podem mudar com a revisão editorial e com a verificação das fontes.
+**Estado:** primeira versão completa, com as **33 opções do catálogo** (o 4.º lote acrescentou S03, S04, S05, S09, S11, S14, S15, S17, S22, S23, S24, S26, S29, S30 e S33). As classificações vêm de fichas com revisão editorial interna ([lotes 2 a 4](revisao-editorial-lotes-2-4.md)); podem mudar com a verificação das fontes e com a revisão externa.
 
 ---
 
@@ -150,7 +150,7 @@ Objetivos (de [S1](01-objetivos-e-criterios.md)): **O1** acessibilidade · **O2*
 | S25 Apoios à compra | ≈ 70 mil (IMT) e ≈ 23 mil (garantia) beneficiários | ≈ 146 M€/ano (IMT) + garantias até ≥ 1.550 M€ | — |
 | S26 Regras prudenciais | Todo o crédito novo | Nulo | Imediato |
 | S27 Habitação Primeiro | ≈ 9.400 pessoas sem teto | ≈ 95–140 M€/ano brutos, parcialmente compensados | 1–5 anos |
-| S28 Trabalhadores essenciais | Experiência atual: 15 casas | ≈ 200 mil €/casa construída | Meses–5 anos |
+| S28 Trabalhadores essenciais | Experiência de 2023: 11 apartamentos atribuídos a professores (388 candidatos) | ≈ 200 mil €/casa construída | Meses–5 anos |
 | S29 Habitação indigna | ≈ 26 mil famílias na AML; ≈ 137 mil carências no país (Censos 2021) | ≈ 3,9–6,5 mil M€ para realojar as famílias da AML em construção nova | Meses–10 anos |
 | S30 Planeamento metropolitano | Metas metropolitanas (Île-de-France: 70 mil/ano) | Baixo (+ transportes) | 10–30 anos |
 | S31 Taxa turística | ≈ 100–230 casas/ano (subvenção) ou ≈ 700–2.300 (crédito) | Neutro (≈ 25–35 M€/ano realocados) | 3–5 anos |
@@ -305,13 +305,13 @@ Algumas opções aparecem bem colocadas em **mais de um perfil**: **S12** (casas
 | Ver as opções lado a lado revela padrões que as fichas isoladas não mostram (5.1–5.7) | **C5 (distribuição)** não cabe numa célula; mantém-se só nas fichas |
 | Os conflitos entre objetivos ficam visíveis (S19, S25a, S26, S11) | Classificações como "Médio" escondem incerteza; seria útil indicar **intervalos** |
 | Não somar critérios evita impor pesos | Várias ordens de grandeza assentam em pressupostos próprios ([Q14](../referencias/questoes-em-aberto.md#q14), [Q16](../referencias/questoes-em-aberto.md#q16)) |
-| A matriz territorial mostra lacunas (interior) | As fichas do 4.º lote são mais curtas e assentam em menos fontes; precisam de revisão editorial como a do 1.º lote |
+| A matriz territorial mostra lacunas (interior) | As fichas do 4.º lote são mais curtas e assentam em menos fontes |
 
 **Alterações ao método:**
 1. ✅ Campo **"Ordem de grandeza"** e nível de **risco** explícito em todas as fichas (ver [Matriz 2b](#3b-matriz-2b--ordens-de-grandeza)).
 2. 🔄 **Dependências** entre opções: primeira versão no diagrama 5.3; falta uma matriz opção × opção completa.
 3. ⏳ Substituir pressupostos próprios por dados oficiais quando disponíveis (custo por casa do IHRU, prazos de licenciamento, massa salarial).
-4. ⏳ Revisão editorial dos lotes 2 a 4 com a lista de verificação do [modelo](fichas/_modelo.md).
+4. ✅ Revisão editorial dos lotes 2 a 4 com a lista de verificação do [modelo](fichas/_modelo.md) ([registo](revisao-editorial-lotes-2-4.md)).
 
 ---
 

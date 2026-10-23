@@ -2,7 +2,7 @@
 
 > Parte de [Soluções: método e roteiro](README.md) · Anterior: [S4 — Avaliação comparada](03-avaliacao-comparada.md) · Seguinte: S6 — Consulta pública
 
-**Estado:** primeira versão completa, construída com as **33 opções** do catálogo, todas com ficha (em rascunho para revisão).
+**Estado:** primeira versão completa, construída com as **33 opções** do catálogo, todas com ficha revista internamente ([1.º lote](revisao-editorial-lote-1.md), [lotes 2 a 4](revisao-editorial-lotes-2-4.md)).
 
 ---
 
@@ -220,7 +220,7 @@ Todos os territórios têm agora opções próprias: os **territórios turístic
 
 ## 8. Limitações
 
-- Construído com as **33 opções**, mas as fichas do 4.º lote são mais curtas e assentam em menos fontes; todas estão em rascunho para revisão.
+- Construído com as **33 opções**, mas as fichas do 4.º lote são mais curtas e assentam em menos fontes; todas tiveram revisão editorial interna, mas não revisão externa.
 - Os números são **ilustrativos**, com pressupostos próprios (custo por casa) e transposições de efeitos medidos noutros países.
 - Os pacotes são **arquétipos**. Na prática, qualquer programa político combinará elementos de vários.
 - Os efeitos **macroeconómicos** (juros, crescimento, migração) não são modelados e podem alterar todas as metas.
