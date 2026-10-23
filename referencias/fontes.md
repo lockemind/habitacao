@@ -737,3 +737,224 @@ https://ww3.rics.org/uk/en/modus/built-environment/homes-and-communities/japan-e
 **F134** — Itália, casas a 1 euro: Which?, *One euro house Italy*; University of Southampton, artigo sobre programas de casas a 1 euro e despovoamento rural. Secundária + académica ●●○
 https://www.which.co.uk/news/article/one-euro-house-italy-aR0nk5Y8AiKk
 https://eprints.soton.ac.uk/505938/
+
+## 17. Fichas de soluções — 4.º lote
+
+### S03 — Incentivos fiscais à construção acessível
+
+<a id="f135"></a>
+**F135** — EUA, *Low-Income Housing Tax Credit*: GAO, *Low-Income Housing Tax Credit: Improved Data and Oversight Would Strengthen Cost Assessment and Fraud Risk Management* (GAO-18-637, 2018); Abt Associates, *Making the most of Low Income Housing Tax Credits* (custos 2011–2016); Baum-Snow, N.; Marion, J., *The effects of low income housing tax credit developments on neighborhoods*, *Journal of Public Economics* (2009). Primária (oficial e académica) ●●●
+https://www.gao.gov/assets/d18637.pdf
+https://www.abtassociates.com/insights/perspectives-blog/making-the-most-of-low-income-housing-tax-credits
+https://academicnewsletter.sufe.edu.cn/info/281815
+
+<a id="f136"></a>
+**F136** — IVA a 6% na construção (2026): ECO, *Menos IVA, mais casas? Só com licenciamento simples e fiscalização* (25-05-2026); DN, *Habitação: construção e promotores aplaudem choque fiscal mas querem rapidez na execução*; idealista, *Menos IVA na construção: Governo admite clarificar regras*. Secundária (com posições de associações do setor, interessadas) ●●○
+https://eco.sapo.pt/2026/05/25/menos-iva-mais-casas-so-com-licenciamento-simples-e-fiscalizacao/
+https://www.dn.pt/economia/habitação-construção-e-promotores-aplaudem-choque-fiscal-mas-querem-rapidez-na-execução
+https://www.idealista.pt/news/node/73781
+
+### S04 — Construção industrializada e mão de obra
+
+<a id="f137"></a>
+**F137** — Suécia, pré-fabricação: The Property Chronicle, análise de produtividade e custos da construção sueca (dados KLEMS); Broker News, *Australia urged to "pump the brakes" on Sweden-style modular housing model*. Secundária ●○○
+https://www.propertychronicle.com/?p=27580
+https://www.brokernews.com.au/news/breaking-news/australia-urged-to-pump-the-brakes-on-swedenstyle-modular-housing-model-288295.aspx
+
+<a id="f138"></a>
+**F138** — Construção modular em Portugal: Jornal de Negócios, *Governo prepara acordo para acelerar construção modular de habitação*; UPTEC, *Summary develops prefabricated solutions for public housing* (Oeiras, 48 casas). Secundária + empresa do setor (interessada) ●○○
+https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/governo-prepara-acordo-para-acelerar-construcao-modular-de-habitacao
+https://uptec.up.pt/en/news-and-media/news/summary-develops-prefabricated-solutions-for-public-housing
+
+### S05 — Construção para arrendamento com contrapartidas
+
+<a id="f139"></a>
+**F139** — Contratos de Investimento para Arrendamento (CIA): Cuatrecasas, *Regulamentação dos Contratos de Investimento para Arrendamento* e *IVA reduzido e benefícios fiscais na habitação*; CMS, nota sobre a Portaria n.º 447-A/2026/1, de 30 de setembro; Fieldfisher, análise do regime. Secundária (escritórios de advogados) ●●○
+https://www.cuatrecasas.com/pt/latam/imobiliario/art/regulamentacao-contratos-investimento-arrendamento
+https://www.cuatrecasas.com/pt/portugal/tributacao/art/iva-reduzido-beneficios-fiscais-habitacao
+https://cms.law/en/prt/news-information/procedimentos-e-requisitos-para-a-apresentacao-e-aprovacao-de-contratos-de-investimento-para-arrendamento-portaria-n.o-447-a-2026-1-de-30-de-set
+https://www.fieldfisher.com/pt-pt/locations/portugal/insights/fieldfisher-portugal-analisa-os-contratos-de-investimento-para-arrendamento
+
+### S09 — Financiamento estável e próprio
+
+<a id="f140"></a>
+**F140** — Áustria, *Wohnbauförderungsbeitrag*: Land Oberösterreich, página sobre a contribuição (0,5% + 0,5%); legislação de Viena (LGBl. 73/2025, 0,75% + 0,75% desde 2026), via resultados de pesquisa. Primária ●●○
+https://www.land-oberoesterreich.gv.at/246308.htm
+
+<a id="f141"></a>
+**F141** — Dinamarca, *Landsbyggefonden*: Housing 2030 (UNECE/Housing Europe/UN-Habitat), *Landsbyggefonden – a Danish national fund for non-profit housing*; LBF, página em inglês; Housing Europe, *Factsheet Denmark* (2025). Primária + secundária ●●○
+https://www.housing2030.org/?p=2161
+https://lbf.dk/footer/english
+https://www.housingeurope.eu/wp-content/uploads/2025/11/factsheet-4-denmark_digital.pdf
+
+### S11 — Quotas de habitação acessível
+
+<a id="f142"></a>
+**F142** — Barcelona, reserva de 30%: 3Cat, *Un 30% de pisos nous a habitatge protegit: balanç d'una mesura…*; Ara, *Radiografía de la reserva del 30%…* (2025); idealista, *El Suprem avala la norma de Barcelona…*. Secundária ●●○
+https://www.3cat.cat/3catinfo/un-30-de-pisos-nous-a-habitatge-protegit-el-balanc-duna-mesura-ara-questionada-a-barcelona/noticia-amp/3335285/
+https://es.ara.cat/economia/inmobiliario/radiografia-reserva-30-vivienda-proteccion-oficial_130_5286443.html
+https://www.idealista.com/ca/news/node/885826
+
+<a id="f143"></a>
+**F143** — Quotas de habitação acessível (*inclusionary zoning*) nos EUA: Hamilton, E., *Inclusionary Zoning and Housing Market Outcomes*, *Cityscape* 23(1), 2021; Bento, A. et al., *Housing Market Effects of Inclusionary Zoning*, *Cityscape* (2009); Wang et al., *Cities* (2025), citado nos resultados de pesquisa. Primária (académica) ●●●
+https://www.huduser.gov/PORTAL/periodicals/cityscpe/vol23num1/ch6.pdf
+https://www.mercatus.org/research/journal-articles/inclusionary-zoning-and-housing-market-outcomes
+https://planning.org/knowledgebase/resource/9162766
+
+<a id="f144"></a>
+**F144** — Inglaterra, *Section 106*: MHCLG/DLUHC, *Affordable Housing Supply in England 2020-21* e edições anteriores; Savills, análise de 2022-23. Primária (oficial) + secundária ●●●
+https://assets.publishing.service.gov.uk/media/6194ec65d3bf7f05522e2d6a/AHS_2020-21.pdf
+https://www.savills.com/research_articles/255800/364411-0
+
+### S14 — Reabilitação em troca de renda acessível
+
+<a id="f145"></a>
+**F145** — Reabilitar para Arrendar e IFRRU 2020: idealista, *Programa "Reabilitar para Arrendar – Habitação Acessível" arranca hoje com 25 milhões de euros*; *"Reabilitar para Arrendar": chegam ao mercado 359 casas com rendas condicionadas*; *IFRRU com 60 candidaturas no valor de 194 milhões em menos de cinco meses*; Observador, *Reabilitação urbana: bem prega Frei Tomás* (opinião). Secundária ●●○ (datas de alguns balanços por confirmar)
+https://www.idealista.pt/news/node/28263
+https://www.idealista.pt/news/node/32983
+https://www.idealista.pt/news/node/35983
+https://observador.pt/opiniao/reabilitacao-urbana-bem-prega-frei-tomas/
+
+### S15 — Heranças e propriedade incerta
+
+<a id="f146"></a>
+**F146** — Heranças indivisas: idealista, *Partilhas de bens: há quase 32 mil litígios de heranças por resolver*; Postal do Algarve, *Herança por dividir: um herdeiro pode passar a decidir vender casa herdada sem acordo dos outros* (2026); idealista, *Proposta para desbloquear imóveis de heranças é "para inglês ver"* (06-05-2026); Observador, *Entre casas vazias e famílias em conflito* (opinião). Secundária ●●○ (estimativas de casas sem metodologia publicada ●○○)
+https://www.idealista.pt/news/node/74434
+https://postal.pt/economia/heranca-por-dividir-um-herdeiro-pode-passar-a-decidir-vender-casa-herdada-sem-acordo-dos-outros/
+https://www.idealista.pt/news/imobiliario/habitacao/2026/05/06/75319-proposta-para-desbloquear-imoveis-de-herancas-e-para-ingles-ver
+https://observador.pt/opiniao/entre-casas-vazias-e-familias-em-conflito/
+
+<a id="f147"></a>
+**F147** — BUPi (cadastro simplificado): idealista, *Balcão Único do Prédio: um milhão de propriedades identificadas*; Renascença, *Cadastro nacional das propriedades poderá ficar completo em cinco anos* (15-12-2025). Secundária ●●○
+https://www.idealista.pt/news/node/56204
+https://rr.pt/noticia/amp/pais/2025/12/15/cadastro-nacional-das-propriedades-podera-ficar-completo-em-cinco-anos/451576/
+
+<a id="f148"></a>
+**F148** — Revogação do arrendamento coercivo: idealista, *Arrendamento forçado de casas devolutas é revogado pelo Governo* (2024); *Arrendamento coercivo chega ao fim – e promotores imobiliários aplaudem*. Secundária ●●○
+https://www.idealista.pt/news/node/64629
+https://www.idealista.pt/news/node/64207
+
+<a id="f149"></a>
+**F149** — França, *biens sans maître* e *abandon manifeste*: Maire-info, *Après constat de l'abandon d'un bâtiment, le maire dispose de divers moyens…*; Prefeitura de l'Aisne, *Fiche abandon manifeste* (2018). Primária (administração) + secundária ●●○
+https://maire-info.com/apres-constat-de-labandon-dun-batiment-le-maire-dispose-de-divers-moyens-notamment-la-procedure-dacquisition-de-biens-sans-maitre-article2-12528
+https://www.aisne.gouv.fr/content/download/20903/140813/file/Fiche_AbandonManifeste_Juin2018.pdf
+
+### S17 — Mobilidade e casas subocupadas
+
+<a id="f150"></a>
+**F150** — Mudança para casas mais pequenas: AHURI, contributo ao Parlamento de Nova Gales do Sul sobre o imposto de selo; Institute of Public Care (Oxford Brookes), *Stamp Duty and Housing for Older People* (encomendado pela McCarthy & Stone, construtora de residências séniores). Primária (académica) ●●● + interessada ●○○
+https://www.parliament.nsw.gov.au/lcdocs/submissions/79790/0013%20Australian%20Housing%20and%20Urban%20Research%20Institute%20(AHURi).pdf
+https://ipc.brookes.ac.uk/publications/stamp-duty-and-housing-for-older-people
+
+### S22 — Residências para estudantes e deslocados
+
+<a id="f151"></a>
+**F151** — PNAES: Observador, *Apenas 27% das camas do Plano Nacional para o Alojamento no Ensino Superior estão prontas* (20-07-2026); Observador, *Universidade do Algarve abre 298 novas camas…* (27-07-2026); PCP, proposta de alteração ao OE2026 (≈ 115 mil estudantes deslocados; fonte partidária). Secundária ●●○ + posicionada ●○○
+https://observador.pt/2026/07/20/apenas-27-das-camas-do-plano-nacional-para-o-alojamento-no-ensino-superior-estao-prontas-mais-de-60-dos-projetos-continuam-por-concluir/
+https://observador.pt/2026/07/27/universidade-do-algarve-abre-298-novas-camas-em-residencias-universitarias-no-proximo-ano-letivo/
+https://mail.pcp.pt/sites/default/files/documentos/oe2026propostaalteracao1363c.pdf
+
+<a id="f152"></a>
+**F152** — Residências de estudantes e rendas: NMHC Research Foundation, *Affordability in Purpose-Built Student Housing* (Liebersohn e Lee, 2023). Estudo financiado por associação do setor ●○○
+https://www.nmhc.org/globalassets/research--insight/research-reports/student-housing/2023-research-foundation-affordability-in-purpose-built-student-housing.pdf
+
+### S23 — Reforma do IMI e do IMT
+
+<a id="f153"></a>
+**F153** — Hilber, C.; Lyytikäinen, T., *Transfer taxes and household mobility: Distortion on the housing or labor market?*, *Journal of Urban Economics* (2017); versões LSE/VATT. Primária (académica) ●●●
+https://eprints.lse.ac.uk/65022/
+https://hofinet.org/documents/doc.aspx?id=2039
+
+<a id="f154"></a>
+**F154** — Austrália (ACT), transição do imposto de selo para imposto sobre o terreno: Prosper Australia (C. Murray), *The First Interval* (2016) e *The Second Interval* (2020). Interessada (organização que defende o imposto sobre o terreno) ●○○
+https://www.prosper.org.au/2016/09/the-first-interval-evaluating-acts-land-value-tax-transition-full-report/
+https://www.prosper.org.au/2020/10/the-second-interval-the-evaluation-in-brief/
+
+### S24 — Compradores não residentes
+
+<a id="f155"></a>
+**F155** — IMT de 7,5% para não residentes (DL 97/2026): RTP, *Diploma da habitação prevê IMT de 7,5% se comprador for não residente mas há exceções*; DECO Proteste, *IMT para não residentes: quem paga a nova taxa agravada de 7,5%*; Ordem dos Contabilistas Certificados, apresentação de 19-06-2026. Secundária + profissional ●●○
+https://www.rtp.pt/noticias/economia/diploma-da-habitacao-preve-imt-de-75-se-comprador-for-nao-residente-mas-ha-excecoes_n1702089
+https://www.deco.proteste.pt/dinheiro/impostos/dicas/imt-nao-residentes-quem-paga-nova-taxa-de-7-5-por-cento
+https://www.occ.pt/sites/default/files/public/2026-06/VE_SoniaLucas_19junho.pdf
+
+<a id="f156"></a>
+**F156** — Canadá e Nova Zelândia, restrições a compradores estrangeiros: Mortgage Professional (Royal LePage, interessada), *Foreign homebuyer ban fails to curb prices or boost inventory*; CBC, *Will Canada's ban on foreign homebuyers make houses more affordable?*; Global News (2025); Westpac, *NZ Home Truths* (set. 2018); OneRoof, sobre dados da Stats NZ. Secundária ●●○
+https://mpamag.com/ca/mortgage-industry/industry-trends/foreign-homebuyer-ban-fails-to-curb-prices-or-boost-inventory-royal-lepage-finds/506482
+https://www.cbc.ca/lite/story/1.6692706
+https://globalnews.ca/news/10194010/foreign-homebuyers-ban-effect-experts/
+https://westpac.co.nz/assets/Business/economic-updates/2018/Other/NZ-Home-Truths-September-2018.pdf
+https://www.oneroof.co.nz/news/36509
+
+### S26 — Regras prudenciais no crédito
+
+<a id="f157"></a>
+**F157** — Recomendação macroprudencial n.º 1/2026 do Banco de Portugal: ECO, *Banco de Portugal aperta regras do crédito a partir de agosto* (02-07-2026); Santander, *Novas regras do crédito à habitação*; Literacia Financeira, *Taxa de esforço máxima*; Banco de Portugal, relatório de acompanhamento de 2025. Primária + secundária ●●○
+https://eco.sapo.pt/2026/07/02/banco-de-portugal-aperta-regras-do-credito-a-partir-de-agosto/
+https://www.santander.pt/salto/novas-regras-credito-habitacao
+https://www.literaciafinanceira.pt/artigos/taxa-de-esforco-maxima
+https://www.bportugal.pt/sites/default/files/documents/2025-03/Relatorio_acompanhamento_medidas_macroprudenciais_Portugal%202025_versao_final.pdf
+
+<a id="f158"></a>
+**F158** — Medidas macroprudenciais sobre os mutuários: Banco de España, *A literature review on ex-ante and ex-post analysis of the implications of borrower-based macroprudential measures*; DNB, *Borrower-Based Measures, House Prices and Household Debt* (Working Paper 738, 2022); FMI, Working Paper 2026/066. Primária (bancos centrais, FMI) ●●●
+https://repositorio.bde.es/handle/123456789/41425
+https://www.dnb.nl/media/jd2kn22b/working_paper_no-_738.pdf
+https://www.imf.org/-/media/files/publications/wp/2026/english/wpiea2026066-source-pdf.pdf
+
+### S29 — Habitação indigna e sobrelotação
+
+<a id="f159"></a>
+**F159** — Sobrelotação em Portugal: idealista, *Sobrelotação habitacional afeta os mais novos (e não só) em Portugal* (INE, 2024); Renascença, *Número de alojamentos sobrelotados sobe 17,1% em 10 anos* (08-05-2024, Censos 2021, carências de 136.800 alojamentos); ECO, *Quase um quarto dos cidadãos não-europeus vive em casas sobrelotadas* (16-10-2024, Eurostat). Secundária a citar fontes oficiais ●●○
+https://www.idealista.pt/news/node/73736
+https://rr.pt/noticia/pais/2024/05/08/numero-de-alojamentos-sobrelotados-sobe-171-em-10-anos/377477/
+https://eco.sapo.pt/2024/10/16/quase-um-quarto-dos-cidadaos-nao-europeus-vivem-em-casas-sobrelotadas/
+
+<a id="f160"></a>
+**F160** — Área Metropolitana de Lisboa, carências habitacionais: idealista, *Há 26 mil famílias em situação habitacional indigna na Grande Lisboa*; idealista, *Habitação entre as prioridades da nova comissão executiva da AML* (2026). Secundária ●●○
+https://www.idealista.pt/news/node/50955
+https://www.idealista.pt/news/node/73582
+
+<a id="f161"></a>
+**F161** — Inglaterra, *selective licensing*: Universidade de Greenwich, comunicação à Housing Studies Association (2025); Stoke-on-Trent City Council, *Selective Licensing Evaluation Report* (2020); Ashfield District Council, *Selective Licensing – Evaluation and Recommendations*. Académica + autoavaliações municipais ●○○
+https://gala.gre.ac.uk/id/eprint/49415/
+https://www.stoke.gov.uk/download/downloads/id/1618/selective_licensing_evaluation_report_2020.pdf
+https://ashfield.moderngov.co.uk/documents/s20723/Selective%20Licensing%20-%20Evaluation%20and%20Recommendations.pdf
+
+### S30 — Planeamento metropolitano integrado
+
+<a id="f162"></a>
+**F162** — Copenhaga, *Plano dos Dedos*: Sørensen, E.; Torfing, J., *The Copenhagen Metropolitan "Finger Plan": A Robust Urban Planning Success…*, em *Great Policy Successes* (Oxford University Press, 2019); Knowles, R., *Transit Oriented Development in Copenhagen, Denmark: from the Finger Plan to Ørestad* (2012). Primária (académica) ●●○
+https://rucforsk.ruc.dk/ws/files/67110196/Great_Policy_Successes.pdf
+https://www.worldtransitresearch.info/research/4152
+
+<a id="f163"></a>
+**F163** — Île-de-France, meta de 70 mil casas/ano: Préfecture de la région Île-de-France, *Le Grand Paris du logement*; Banque des Territoires, sobre o SDRIF-E 2040; DRIHL, *SRHH – objetivos globais e declinação territorial*. Primária (administração) ●●○
+https://www.prefectures-regions.gouv.fr/ile-de-france/Region-et-institutions/Portrait-de-la-region/Institutions-regionales/Le-Grand-Paris/Le-Grand-Paris-du-logement
+https://www.banquedesterritoires.fr/apres-plus-de-deux-ans-de-concertation-la-region-ile-de-france-presente-son-nouveau-schema
+https://www.drihl.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/srhh_volet_2_objectifs_globaux_et_declinaison_territoriale_des_orientations.pdf
+
+<a id="f164"></a>
+**F164** — AML, planeamento e PRR: CM Jornal, *Conselho Metropolitano de Lisboa aprovou contas e plano até 2030* (23-04-2026); Notícias ao Minuto/Lusa, *Municípios da área de Lisboa entregaram um terço da habitação prevista no PRR* (2026). Secundária ●●○
+https://www.cmjornal.pt/sociedade/detalhe/conselho-metropolitano-de-lisboa-aprovou-contas-e-plano-ate-2030
+https://www.noticiasaominuto.com/pais/2952434/municipios-da-area-de-lisboa-entregaram-um-terco-da-habitacao-prevista-no-prr
+
+### S33 — Dados públicos sobre habitação
+
+<a id="f165"></a>
+**F165** — Irlanda, RTB/ESRI Rent Index. Primária ●●●
+https://rtb.ie/data-insights/rtb-research-reports/rtb-esri-rent-index/
+
+<a id="f166"></a>
+**F166** — Alemanha, *Mietspiegel*: KommunalWiki (Fundação Heinrich Böll), *Mietspiegel*; Senado de Berlim, *Berliner Mietspiegel 2024*. Primária + secundária ●●○
+https://kommunalwiki.boell.de/index.php/Mietspiegel
+https://www.berlin.de/sen/wohnen/_assets/service/mietspiegel2024.pdf
+
+<a id="f167"></a>
+**F167** — França, observatórios locais de rendas: Ministério da Transição Ecológica, *L'observatoire local des loyers*; Banque des Territoires, *Les observatoires locaux des loyers ont livré leurs nouvelles données*. Primária + secundária ●●○
+https://www.ecologie.gouv.fr/politiques-publiques/lobservatoire-local-loyers-outil-connaitre-comparer-analyser-niveaux-loyer
+https://www.banquedesterritoires.fr/les-observatoires-locaux-des-loyers-ont-livre-leurs-nouvelles-donnees
+
+<a id="f168"></a>
+**F168** — INE, estatísticas de rendas: idealista, *Novas medidas da habitação levam INE a suspender divulgação de rendas* (2025); idealista, *INE volta a divulgar dados de rendas de casas e contratos: o que muda?* (jun. 2026). Secundária a citar o INE ●●○
+https://www.idealista.pt/news/node/71915
+https://www.idealista.pt/news/node/76237
