@@ -89,5 +89,5 @@ O erro foi encontrado ao reler a fonte original durante esta revisão. Reforça 
 ## O que fica por fazer
 
 - Aplicar o novo formato das questões (factos vs. valores) às seis fichas do **1.º lote**, por coerência.
-- Confirmar nas fontes originais os pontos de [Q12–Q16](../referencias/questoes-em-aberto.md). O erro de S28 mostra que os resumos de imprensa e de pesquisa podem ter sido mal lidos.
+- Confirmar nas fontes originais os pontos de [Q12–Q16](../referencias/questoes-em-aberto.md). O erro de S28 mostra que os resumos de imprensa e de pesquisa podem ter sido mal lidos. **Feito em parte:** ver o [registo de verificação](../referencias/verificacao-fontes-out-2026.md) (6 correções em 22 pontos).
 - **Revisão externa:** esta revisão foi feita por quem escreveu as fichas. Antes da consulta pública, seria desejável uma revisão por pessoas com posições diferentes (associações de inquilinos e de proprietários, promotores, municípios, economistas de diferentes orientações).

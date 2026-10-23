@@ -66,11 +66,11 @@ Resolvida em [03](../diagnostico/03-procura-turismo-estrangeiros.md#2-compradore
 
 <a id="q12"></a>
 ### Q12 — Pontos a verificar nas fichas do 1.º lote
-- **S07:** verificar no estudo WIFO original a estimativa de efeito das LPHA nas rendas de mercado (−0,40 €/m² por +10% de parque); balanço atual do Programa de Arrendamento Acessível.
+- **S07:** ✅ estimativa WIFO verificada e corrigida (−0,30 a −0,40 €/m², ≈ 5%) — [registo de verificação](verificacao-fontes-out-2026.md). Falta: balanço atual do Programa de Arrendamento Acessível.
 - **S10:** instrumentos portugueses de perequação e cedência urbanística e o seu uso para habitação acessível.
-- **S12:** multiplicadores exatos do IMI agravado em zonas de pressão urbanística (CIMI, art. 112.º); lista atual de municípios que o aplicam.
+- **S12:** ✅ multiplicadores do art. 112.º-B confirmados — [registo de verificação](verificacao-fontes-out-2026.md). Falta: lista atual de municípios que aplicam o agravamento.
 - **S16:** resultados do estudo técnico sobre zonas de contenção de Lisboa (Tema Económico n.º 128); aplicação do regulamento europeu sobre partilha de dados das plataformas.
-- **S19:** confirmar as contagens da revisão de Kholodilin nas tabelas do artigo; reforma das zonas de pressão irlandesas de 2025–2026.
+- **S19:** ✅ contagens de Kholodilin confirmadas no relatório do autor — [registo de verificação](verificacao-fontes-out-2026.md). Falta: reforma das zonas de pressão irlandesas de 2025–2026.
 - **S25:** efeitos do *Help to Buy* fora de Londres; **não existe avaliação do efeito da garantia pública nos preços** (separada da isenção de IMT).
 - **S19:** verificar no original a revisão de Pastor et al. [F94] (literatura divergente sobre efeitos na construção).
 - **Geral:** revisão externa das fichas por pessoas com posições diferentes antes da consulta pública.
@@ -78,7 +78,7 @@ Resolvida em [03](../diagnostico/03-procura-turismo-estrangeiros.md#2-compradore
 <a id="q13"></a>
 ### Q13 — Pontos a verificar nas fichas do 2.º lote
 - **S01:** não existe estatística pública de prazos de licenciamento por município; estado da plataforma PEPU e da Proposta de Lei 48/XVII (revisão do RJUE).
-- **S02:** versão publicada do estudo de Auckland sobre rendas (intervalos variam entre versões); índices de construção dos PDM junto a estações nas áreas metropolitanas.
+- **S02:** ✅ intervalos das rendas de Auckland verificados na versão de junho de 2023 (ainda sem versão publicada em revista) — [registo de verificação](verificacao-fontes-out-2026.md); índices de construção dos PDM junto a estações nas áreas metropolitanas.
 - **S06:** avaliações dos efeitos sociais dos bairros do PER; estudos europeus sobre substituição de construção privada pela pública.
 - **S08:** número atual de cooperativas e de fogos cooperativos em Portugal (FENACHE, INE, IHRU); estudo primário sobre rendas das cooperativas de Zurique.
 - **S13:** número de casas geridas pelas agências imobiliárias sociais belgas; balanço final do "Arrendar para Subarrendar"; programas municipais equivalentes.
@@ -90,31 +90,32 @@ Resolvida em [03](../diagnostico/03-procura-turismo-estrangeiros.md#2-compradore
 - **Peso do terreno** no custo da habitação nova por região.
 - **Número total de contratos de arrendamento** registados na Autoridade Tributária (para dimensionar S18 e S19).
 - **Alojamentos familiares** na AML e na AMP (Censos 2021), em vez do distrito de Lisboa.
-- Confirmar no artigo de Greenaway-McGrevy & Phillips o número de licenças adicionais atribuíveis à reforma de Auckland.
+- ✅ Licenças adicionais em Auckland confirmadas no artigo (21.808 em 5 anos); estimativa de S02 corrigida — [registo de verificação](verificacao-fontes-out-2026.md).
+- **Alojamentos familiares na AML** (Censos 2021): não encontrado nesta verificação.
 
 <a id="q15"></a>
 ### Q15 — Pontos a verificar nas fichas do 3.º lote
 - **S20:** estatísticas atuais sobre despejos (número, duração, motivos) — os dados encontrados são de 2016–2017; nome e funcionamento atual do Balcão do Arrendamento; existência de avaliações da garantia Visale.
-- **S21:** número atual de beneficiários e custo do Porta 65 Jovem e do apoio extraordinário à renda (2023–2026).
-- **S27:** metas de *Housing First* na ENIPSSA 2025–2030; capacidade atual dos projetos portugueses; avaliações independentes; confirmar no estudo original a poupança finlandesa por pessoa (9.600 € vs. 15.000 €).
+- **S21:** ✅ Porta 65 atualizado (45.686 jovens até set. 2025; 275 €/mês) — [registo de verificação](verificacao-fontes-out-2026.md). Falta: custo total executado e balanço do apoio extraordinário à renda.
+- **S27:** metas de *Housing First* na ENIPSSA 2025–2030; capacidade atual dos projetos portugueses; avaliações independentes; poupança finlandesa por pessoa: ✅ origem esclarecida (15.000 € é afirmação da entidade gestora; 9.600 € é um estudo de caso de 2013), mas **não existe estudo publicado** que a confirme — [registo de verificação](verificacao-fontes-out-2026.md).
 - **S28:** número de lugares por preencher nos serviços públicos por falta de habitação (Algarve, Lisboa, Madeira, Açores).
 - **S31:** destino atual da receita da taxa turística nos principais municípios; aplicação efetiva da consignação nas Baleares.
 - **S32:** balanço do Emprego Interior MAIS e de outros incentivos à fixação; custos médios de reabilitação de casas devolutas no interior.
 
 <a id="q16"></a>
 ### Q16 — Pontos a verificar nas fichas do 4.º lote
-- **S03:** número de casas licenciadas e concluídas ao abrigo do IVA a 6% e receita perdida; confirmar o teto de preço (≈ 661 mil € vs. 648 mil € nas primeiras notícias).
+- **S03:** ✅ teto confirmado (660.982 €) — [registo de verificação](verificacao-fontes-out-2026.md). Falta: número de casas abrangidas pelo IVA a 6% e receita perdida.
 - **S04:** custo por casa da construção modular em Portugal; estado do acordo-quadro.
 - **S05:** número de Contratos de Investimento para Arrendamento aprovados, casas e rendas contratadas.
 - **S09:** massa salarial nacional (para dimensionar uma contribuição à austríaca); orçamento atual do *Landsbyggefonden*.
-- **S11:** contrapartidas urbanísticas já negociadas por municípios portugueses; número final de casas da regra dos 30% em Barcelona (54 a 156 consoante a fonte).
-- **S14:** data do balanço de 359 casas do Reabilitar para Arrendar; resultados atuais do programa e do IFRRU.
+- **S11:** ✅ Barcelona: 156 casas de 1.650 previstas (dados municipais, fev. 2025) — [registo de verificação](verificacao-fontes-out-2026.md). Falta: contrapartidas negociadas por municípios portugueses.
+- **S14:** ✅ balanço datado (março de 2017) e custo por casa corrigido — [registo de verificação](verificacao-fontes-out-2026.md). Falta: resultados atuais do programa e do IFRRU.
 - **S15:** contagem oficial de casas paradas por heranças indivisas; duração média dos inventários (fonte oficial).
-- **S17:** taxa de subocupação por idade (Censos 2021 ou EU-SILC, quadro ilc_lvho50c).
+- **S17:** ✅ subocupação por idade obtida no Eurostat (55,7% dos 65+, 2025) — [registo de verificação](verificacao-fontes-out-2026.md).
 - **S22:** número oficial de estudantes deslocados; balanço final do PNAES depois de agosto de 2026.
-- **S23:** receita anual de IMT e de IMI e peso nas finanças municipais.
-- **S24:** efeito do IMT a 7,5% nas compras por não residentes, por região; exceções no texto final do DL 97/2026.
-- **S26:** texto da Recomendação macroprudencial n.º 1/2026 (LTV e prazos máximos).
+- **S23:** ✅ receita de 2025 obtida no CFP (IMT 2.146 M€; IMI 1.589 M€) — [registo de verificação](verificacao-fontes-out-2026.md). Falta: peso por município.
+- **S24:** ✅ exceções confirmadas em análises jurídicas do texto final — [registo de verificação](verificacao-fontes-out-2026.md). Falta: efeito nas compras por região.
+- **S26:** ✅ conteúdo confirmado em várias fontes (DSTI 45%, prazos 40/35 anos, LTV 90% inalterado) — [registo de verificação](verificacao-fontes-out-2026.md). Falta: ler o texto do Banco de Portugal.
 - **S29:** levantamento nacional atualizado de famílias em condições indignas (1.º Direito).
-- **S30:** meta e cumprimento da construção na Île-de-France; competências de planeamento das áreas metropolitanas portuguesas.
+- **S30:** ✅ cumprimento da meta na Île-de-France obtido (INSEE, DRIEAT) — [registo de verificação](verificacao-fontes-out-2026.md). Falta: competências de planeamento das áreas metropolitanas portuguesas.
 - **S33:** número total de contratos de arrendamento ativos registados na AT.

@@ -33,7 +33,7 @@ Cada etapa só avança depois de a anterior estar revista.
 
 ### Fichas disponíveis (1.º lote)
 
-Revistas quanto a equilíbrio e rigor: ver os registos da revisão editorial do [1.º lote](revisao-editorial-lote-1.md) e dos [lotes 2 a 4](revisao-editorial-lotes-2-4.md).
+Revistas quanto a equilíbrio e rigor: ver os registos da revisão editorial do [1.º lote](revisao-editorial-lote-1.md) e dos [lotes 2 a 4](revisao-editorial-lotes-2-4.md). Os números citados foram confrontados com as fontes originais: ver o [registo de verificação](../referencias/verificacao-fontes-out-2026.md).
 
 | Ficha | Evidência | Em síntese |
 |---|---|---|
@@ -79,7 +79,7 @@ Fichas mais curtas, para completar o catálogo.
 | [S05 — Construção para arrendamento](fichas/S05-construcao-para-arrendamento.md) | D | CIA em vigor desde out. 2026: benefícios fiscais por 10–25 anos de arrendamento; teto de 2.300 €/mês |
 | [S09 — Financiamento estável](fichas/S09-financiamento-estavel.md) | C | Áustria (0,5% + 0,5% dos salários) e Dinamarca (fundo rotativo) financiam setores grandes há décadas; equivalente português ≈ 1 mil M€/ano |
 | [S11 — Quotas de habitação acessível](fichas/S11-quotas-de-habitacao-acessivel.md) | B / C | Nos EUA, sem efeito na construção e preços ≈ +2%; em Barcelona (30%), ≈ 10% das casas previstas |
-| [S14 — Reabilitação com renda acessível](fichas/S14-reabilitacao-com-renda-acessivel.md) | C | ≈ 38 mil €/casa, sobretudo crédito; adesão baixa quando a renda exigida fica longe do mercado |
+| [S14 — Reabilitação com renda acessível](fichas/S14-reabilitacao-com-renda-acessivel.md) | C | ≈ 56 mil €/casa de investimento (≈ 38 mil € em crédito); adesão baixa quando a renda exigida fica longe do mercado |
 | [S15 — Heranças e propriedade incerta](fichas/S15-herancas-e-propriedade-incerta.md) | D | ≈ 250–350 mil casas ligadas a heranças (estimativas não oficiais); arrendamento coercivo revogado; justiça lenta |
 | [S17 — Mobilidade e casas subocupadas](fichas/S17-mobilidade-e-casas-subocupadas.md) | B / D | Impostos sobre transações reduzem as mudanças ≈ 30% (Reino Unido); incentivos à mudança não testados |
 | [S22 — Residências para estudantes e deslocados](fichas/S22-residencias-estudantes-e-deslocados.md) | C / D | PNAES com 27% das camas prontas em jun. 2026; ≈ 60 mil €/cama |
