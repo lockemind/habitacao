@@ -188,18 +188,20 @@ Dos 18 números verificados no diagnóstico, **4 estavam errados ou desatualizad
 - **Lei 2030 de 1948** e período de 1974–1985 ([Q06](questoes-em-aberto.md#q06)): por documentar.
 - **Turismo** (29,9 milhões de hóspedes) e **registos de AL** em Lisboa e Porto: não verificados nesta fase.
 
-### Achado a integrar
+### Estudo do ISCTE sobre a isenção de IMT para jovens
 
-Na pesquisa encontrou-se um estudo do ISCTE segundo o qual o benefício da **isenção de IMT para jovens** foi absorvido pela subida dos preços. Se se confirmar no original, é evidência relevante para [S25 — Apoios à compra](../solucoes/fichas/S25-apoios-a-compra.md), que hoje diz que o efeito nos preços não foi avaliado. Fica registado para a próxima atualização das fichas.
+Esta parte registava como "achado a integrar" um estudo do ISCTE sobre a isenção de IMT para jovens. **Era um engano:** [S25](../solucoes/fichas/S25-apoios-a-compra.md) já o citava ([F89](fontes.md#f89)); o que a ficha diz não estar avaliado é a **garantia pública**.
+
+O estudo foi depois confirmado no resumo publicado em *Real Estate Economics* (2026). Isso revelou um **erro de leitura na ficha**: dizia que os preços pedidos "subiram 0,26% no mês seguinte ao anúncio". O valor é uma aceleração **média mensal** desde o anúncio (≈ +3,2% ao fim de um ano, segundo a imprensa). A ficha passa a descrever também onde o efeito foi mais forte (Lisboa e Porto, zonas de menor rendimento). A conclusão e a classificação de evidência (**B**) não mudam.
 
 ### Balanço das três partes
 
 | Parte | Números verificados | Erros corrigidos |
 |---|---|---|
-| 1 — Fichas de soluções | 22 | 6 |
+| 1 — Fichas de soluções (+ S25, verificada depois) | 23 | 7 |
 | 2 — Sumário executivo e números principais | 18 | 4 |
 | 3 — Restantes capítulos | 20 | 4 |
-| **Total** | **60** | **14** |
+| **Total** | **61** | **15** |
 
 Cerca de **1 em cada 4 números** verificados tinha um problema. Nenhum erro inverte uma conclusão sobre o que fazer, mas dois mudavam a forma de ler as causas da crise:
 - o efeito da imigração, que um estudo não permitia descartar como se dizia;
