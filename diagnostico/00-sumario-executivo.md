@@ -20,11 +20,11 @@
 
 1. **Os preços sobem três vezes mais depressa do que na UE e muito mais depressa do que os salários.** Os salários sobem ≈ 5–6% ao ano; os preços ≈ 16–19%. Uma renda mediana de um T2 consome ≈ 44% do salário bruto médio, e em Lisboa ≈ 78%. → [01](01-precos-e-acessibilidade.md)
 
-2. **A causa principal é estrutural: falta de oferta.** A construção colapsou depois de 2011 (≈ 9 mil fogos em 2015) e ainda está ≈ 70% abaixo de 2000. Em 2025 concluíram-se ≈ 30 mil fogos; os licenciamentos estão em máximos de 2011, mas demoram a chegar ao mercado. Faltam trabalhadores, o licenciamento é lento e a habitação pública é residual. → [02](02-oferta-e-construcao.md)
+2. **A causa principal é estrutural: falta de oferta.** A construção colapsou depois de 2011 (≈ 9 mil fogos em 2015) e o licenciamento ainda está ≈ 57% abaixo de 2001. Em 2025 concluíram-se ≈ 30 mil fogos; os licenciamentos estão em máximos de 2011, mas demoram a chegar ao mercado. Faltam trabalhadores, o licenciamento é lento e a habitação pública é residual. → [02](02-oferta-e-construcao.md)
 
 3. **A procura cresceu por várias vias ao mesmo tempo.** Crescimento económico e salarial, população em crescimento por via da imigração, turismo e alojamento local nos centros, compradores estrangeiros de alto rendimento em zonas específicas, e apoios públicos à compra. Cada fator conta, mas com pesos muito diferentes. → [03](03-procura-turismo-estrangeiros.md)
 
-4. **Alguns fatores muito debatidos pesam menos do que se pensa a nível nacional.** Compradores não residentes ≈ 5% das transações (em queda); vistos gold ≈ 3% do investimento em habitação. O alojamento local tem efeito forte mas **localizado**. O estudo académico mais recente não encontra efeito significativo da imigração nos preços, quando se controlam a economia e a construção. → [09](09-causas-e-debates.md)
+4. **Alguns fatores muito debatidos pesam menos do que se pensa a nível nacional.** Compradores não residentes ≈ 5% das transações (em queda); vistos gold ≈ 3% do investimento em habitação. O alojamento local tem efeito forte mas **localizado**. O estudo académico mais recente não encontra efeito significativo de curto prazo da imigração no valor das transações, quando se controlam a economia e o crédito; não mede o efeito nas rendas, onde a pressão é maior. → [09](09-causas-e-debates.md)
 
 5. **O arrendamento é pequeno, caro e dividido.** Sete décadas de congelamento de rendas deixaram um mercado onde os contratos antigos estão protegidos e quem chega paga o preço total da escassez. Uma revisão do NRAU está em discussão no Parlamento. → [05](05-arrendamento-e-historia-legal.md)
 

@@ -12,7 +12,7 @@
 
 - No início dos anos 2000 Portugal construía muito. A crise financeira e o programa de ajustamento (2011–2014) fizeram a construção cair a pique.
 - Em **2015** foram concluídos apenas **cerca de 9.000 fogos** (−25,7% face a 2014, que já tinha caído 21,6%) [F22](../referencias/fontes.md#f22).
-- Um estudo publicado na revista *Economies* (2026) conclui que em **2025 se construíram cerca de 70% menos casas do que em 2000** [F25](../referencias/fontes.md#f25).
+- A imprensa atribuiu a um estudo da revista *Economies* (2026) a conclusão de que em 2025 se construíram ≈ 70% menos casas do que em 2000, mas **essa afirmação não consta do artigo** [F25](../referencias/fontes.md#f25). O dado comparável que se encontrou é o do licenciamento: **≈ 114 mil habitações licenciadas em 2001** contra ≈ 49 mil em 2025, isto é, **≈ −57%** [F175](../referencias/fontes.md#f175), [F21](../referencias/fontes.md#f21).
 
 ### A situação atual (INE, ano 2025)
 

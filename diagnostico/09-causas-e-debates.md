@@ -35,10 +35,10 @@ Este documento é **interpretativo**. Junta os dados dos documentos anteriores e
 
 **Evidência: forte.** É a explicação com mais consenso entre a OCDE, o Banco de Portugal, a Comissão Europeia e a investigação académica.
 
-- Construção em 2025 ≈ 70% abaixo de 2000 [F25](../referencias/fontes.md#f25); ≈ 9 mil fogos concluídos em 2015 [F22](../referencias/fontes.md#f22).
+- Licenciamento em 2025 ≈ 57% abaixo de 2001 [F175](../referencias/fontes.md#f175); ≈ 9 mil fogos concluídos em 2015 [F22](../referencias/fontes.md#f22).
 - Défice acumulado de ≈ 300 mil casas em 2021–2025, 13 vezes a média da zona euro em % dos agregados [F23](../referencias/fontes.md#f23).
 - Habitação pública ≈ 2% [F19](../referencias/fontes.md#f19).
-- O estudo *Economies* aponta a quebra da construção, juntamente com o crescimento económico, como fator central [F25](../referencias/fontes.md#f25).
+- O estudo *Economies* identifica o **crescimento do PIB** e as **condições de crédito** como os fatores com mais peso no curto prazo; o autor principal destacou também, em declarações à imprensa, a quebra da construção (que não é uma variável do modelo) [F25](../referencias/fontes.md#f25).
 
 **Onde há discordância:** sobre *como* aumentar a oferta. Uns defendem desregular e baixar impostos (Construir Portugal, pacote fiscal 2026); outros defendem construção pública direta em grande escala (propostas de 2% → 30% de parque público [F20](../referencias/fontes.md#f20)). Detalhe em [02 — Oferta](02-oferta-e-construcao.md).
 
@@ -57,7 +57,7 @@ Este documento é **interpretativo**. Junta os dados dos documentos anteriores e
 **Evidência: mista.**
 
 - A população estrangeira duplicou desde 2021 e o número de agregados aumentou [F36](../referencias/fontes.md#f36), [F23](../referencias/fontes.md#f23).
-- Mas o estudo *Economies* não encontra efeito estatisticamente significativo da imigração nos preços quando se controlam outras variáveis [F25](../referencias/fontes.md#f25).
+- Mas o estudo *Economies* não encontra efeito estatisticamente significativo **de curto prazo** da imigração no valor das transações quando se controlam o PIB e o crédito; não mede rendas nem o longo prazo [F25](../referencias/fontes.md#f25).
 - A imigração é também a principal fonte de mão de obra para construir mais.
 
 **Juízo próprio:** a imigração aumenta a procura sobretudo no **arrendamento de entrada** (quartos, T0/T1 em periferias) e contribui para a pressão nas áreas metropolitanas. Mas não explica a subida de preços de compra, que já vinha de 2015 e afeta segmentos onde os imigrantes recém-chegados pouco compram. Reduzir a imigração dificultaria a resposta do lado da oferta. Detalhe em [03 — Procura](03-procura-turismo-estrangeiros.md#4-imigração-e-crescimento-da-população).
@@ -95,7 +95,7 @@ Este documento é **interpretativo**. Junta os dados dos documentos anteriores e
 **Evidência: efeito sobre o esforço das famílias, menos sobre o nível dos preços.**
 
 - A subida da Euribor em 2022–2023 encareceu muito as prestações (em 2026, 49% do crédito em curso ainda é de taxa variável; nos novos créditos domina a taxa mista) [F37](../referencias/fontes.md#f37).
-- Mesmo assim os preços continuaram a subir; o estudo *Economies* não encontra efeito autónomo dos juros quando se controlam rendimento e oferta [F25](../referencias/fontes.md#f25).
+- Mesmo assim os preços continuaram a subir; o estudo *Economies* não encontra efeito autónomo de curto prazo das taxas de juro de curto prazo quando se controlam o PIB e as condições de crédito (que, essas sim, pesam) [F25](../referencias/fontes.md#f25).
 
 ---
 

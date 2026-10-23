@@ -66,7 +66,7 @@ Reduzir impostos sobre a construção (IVA, IRS, IRC, IMT, IMI) **em troca de co
 
 ## 4. Já existe em Portugal?
 
-Sim, desde 2026: IVA a 6% (para obras licenciadas a partir de 23-09-2025), benefícios em IRS/IRC para rendas moderadas e isenções de IMT/IMI ([06](../../diagnostico/06-politicas-publicas.md#pacote-fiscal-2026)) [F46](../../referencias/fontes.md#f46). Houve dúvidas sobre a regularização do IVA quando o comprador muda o uso do imóvel, que o Governo admitiu clarificar [F136](../../referencias/fontes.md#f136).
+Sim, desde 2026: IVA a 6% (para obras cujo processo camarário se inicie entre 25-09-2025 e 31-12-2029), benefícios em IRS/IRC para rendas moderadas e isenções de IMT/IMI ([06](../../diagnostico/06-politicas-publicas.md#pacote-fiscal-2026)) [F46](../../referencias/fontes.md#f46). Houve dúvidas sobre a regularização do IVA quando o comprador muda o uso do imóvel, que o Governo admitiu clarificar [F136](../../referencias/fontes.md#f136).
 
 ---
 

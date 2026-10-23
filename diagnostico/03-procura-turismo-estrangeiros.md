@@ -68,12 +68,13 @@ Há **duas estatísticas diferentes** que costumam ser confundidas:
 
 - A população estrangeira residente **mais do que duplicou** entre 2021 (748 mil) e o fim de 2025 (**≈ 1,6 milhões, 14% da população**) [F36](../referencias/fontes.md#f36).
 - A população total chegou a **11,42 milhões** no fim de 2025. Sem imigração, estaria a diminuir [F36](../referencias/fontes.md#f36).
-- A maior nacionalidade é a brasileira (≈ 574 mil, 36% dos estrangeiros). Lisboa concentra ≈ 606 mil residentes estrangeiros [F36](../referencias/fontes.md#f36).
+- A maior nacionalidade é a brasileira: **574.195** (35,9% dos estrangeiros) segundo o INE; 493.622 (31,1%) segundo a AIMA, que conta apenas títulos de residência. A **Grande Lisboa** concentra 546.419 estrangeiros (34,2%) [F36](../referencias/fontes.md#f36).
+- Os totais também diferem consoante a fonte: **1.597.539** (INE) ou **1.585.854** (AIMA) no fim de 2025 [F36](../referencias/fontes.md#f36).
 
 ### Qual é o efeito nos preços?
 
 - Mais pessoas significa mais agregados e mais procura de habitação, sobretudo **arrendamento** em Lisboa, Setúbal, Porto e Algarve. O Banco de Portugal reconhece que a imigração aumentou o número de agregados [F23](../referencias/fontes.md#f23).
-- O estudo da revista *Economies* (2026, dados 2000–2025) **não encontra efeito estatisticamente significativo** dos fluxos migratórios nos preços, quando se controla o crescimento económico e a queda da construção [F25](../referencias/fontes.md#f25).
+- O estudo da revista *Economies* (2026) **não encontra efeito estatisticamente significativo de curto prazo** dos fluxos de novos imigrantes (dados de 2009–2023) no **valor das transações** de habitação, quando se controlam o PIB e as condições de crédito. Os autores admitem que o efeito possa existir **de forma indireta** (através do rendimento e do crédito). O estudo **não mede efeitos de longo prazo nem nas rendas**, onde a pressão dos imigrantes recém-chegados é maior [F25](../referencias/fontes.md#f25).
 - Os imigrantes são também **mão de obra essencial na construção** (ver [02 — Oferta](02-oferta-e-construcao.md#3-porque-se-constrói-pouco)). A OCDE alerta que conter a imigração para aliviar a habitação pode reduzir a capacidade de construir [F25](../referencias/fontes.md#f25).
 - Muitos imigrantes são **vítimas** da crise (sobrelotação, quartos arrendados a preços altos, condições indignas), não a sua causa principal. Ver [07 — Impactos sociais](07-impactos-sociais.md).
 
@@ -81,7 +82,7 @@ Há **duas estatísticas diferentes** que costumam ser confundidas:
 
 ## 5. Procura interna e rendimento
 
-O fator de procura com mais peso nos estudos é o mais simples: **a economia cresceu, os salários e o emprego subiram, e mais famílias querem e podem comprar**. O estudo *Economies* conclui que o **rendimento disponível das famílias** e o **PIB** pesam mais do que os juros ou a imigração [F25](../referencias/fontes.md#f25). Os apoios à compra por jovens (garantia pública, isenção de IMT) também aumentam a procura (ver [04 — Crédito](04-credito-e-financas.md)).
+O fator de procura com mais peso nos estudos é o mais simples: **a economia cresceu, os salários e o emprego subiram, e mais famílias querem e podem comprar**. O estudo *Economies* conclui que o **PIB** e as **condições de crédito à habitação** pesam mais, no curto prazo, do que as taxas de juro de curto prazo ou a imigração [F25](../referencias/fontes.md#f25). Os apoios à compra por jovens (garantia pública, isenção de IMT) também aumentam a procura (ver [04 — Crédito](04-credito-e-financas.md)).
 
 ---
 

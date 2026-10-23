@@ -19,8 +19,8 @@ Consequências descritas no debate público: adiamento da formação de família
 
 ## 2. Sobrecarga com custos de habitação
 
-- Segundo a Comissão Europeia (nov. 2025), a percentagem da população com **encargos excessivos** com a habitação (mais de 40% do rendimento) era de **6,9%** em Portugal, abaixo da média da UE (8,2%), mas com **um dos maiores aumentos** da União [F52](../referencias/fontes.md#f52).
-- O número médio esconde a diferença entre proprietários sem crédito (a maioria dos portugueses mais velhos) e **inquilinos a preços de mercado**. Para estes últimos, a taxa de sobrecarga em 2024 era de **≈ 30%**, contra ≈ 19% na UE (série Eurostat `ilc_lvho07c`, via agregador; a confirmar) [F52](../referencias/fontes.md#f52).
+- A percentagem da população com **encargos excessivos** com a habitação (mais de 40% do rendimento) era de **6,9%** em Portugal em 2024, abaixo da média da UE (8,2%), mas com **um dos maiores aumentos** da União (era 4,9% em 2023). Em 2025 desceu para 6,2% (UE: 7,7%) [F52](../referencias/fontes.md#f52), [F176](../referencias/fontes.md#f176).
+- O número médio esconde a diferença entre proprietários sem crédito (a maioria dos portugueses mais velhos) e **inquilinos a preços de mercado**. Para estes últimos, a taxa de sobrecarga era de **30,3% em 2024** e **27,2% em 2025**, contra 19,2% e 18,6% na UE. Entre proprietários sem crédito, é de apenas 1,3% [F176](../referencias/fontes.md#f176).
 
 **Leitura:** a crise é sobretudo uma crise **de quem entra no mercado agora** (inquilinos novos, jovens, imigrantes, quem muda de cidade). Quem comprou casa há 20 anos está protegido e até ficou mais rico.
 
@@ -51,7 +51,7 @@ Nem todas as situações de sem-abrigo resultam do custo da habitação (há fat
 - Muitos imigrantes recém-chegados vivem em **quartos arrendados, sobrelotação ou alojamentos sem condições**, em particular em Lisboa, Setúbal, Algarve e Odemira (onde os estrangeiros são ≈ 50% da população) [F36](../referencias/fontes.md#f36).
 - No debate político, os imigrantes são muitas vezes apresentados como causa da crise. Os dados sugerem que são sobretudo **trabalhadores essenciais (inclusive na construção) e vítimas** do mercado; ver [03 — Procura](03-procura-turismo-estrangeiros.md#4-imigração-e-crescimento-da-população) e [09 — Causas](09-causas-e-debates.md#3-imigração).
 
-*Lacuna:* não se encontraram dados recentes e sistemáticos sobre sobrelotação de imigrantes. Ver [questões em aberto](../referencias/questoes-em-aberto.md#q08).
+- Segundo o Eurostat, a **sobrelotação entre adultos com cidadania de fora da UE** subiu de ≈ 24% (2023) para **≈ 29% (2025)**, contra ≈ 10% entre portugueses [F171](../referencias/fontes.md#f171).
 
 ---
 

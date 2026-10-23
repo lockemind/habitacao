@@ -72,7 +72,7 @@ Depois das eleições de maio de 2025, o segundo Governo Montenegro avançou com
 
 | Medida | Detalhe | Fonte |
 |---|---|---|
-| **IVA da construção a 6%** (era 23%) | Construção e reabilitação para venda até 660.982 € ou para arrendamento com renda entre 400 € e **2.300 €**/mês; obras com licenciamento a partir de 23-09-2025, até ao fim de 2029 | [F46](../referencias/fontes.md#f46) |
+| **IVA da construção a 6%** (era 23%) | Construção e reabilitação para **venda para habitação própria e permanente** do comprador até 660.982 € (no prazo de 24 meses) ou para **arrendamento** com renda até **2.300 €**/mês; obras cujo processo camarário se inicie entre **25-09-2025 e 31-12-2029** | [F46](../referencias/fontes.md#f46) |
 | **IRS sobre rendas moderadas: 25% → 10%** | Para rendas até 2.300 €; aplica-se a contratos novos e existentes | [F46](../referencias/fontes.md#f46), [F47](../referencias/fontes.md#f47) |
 | **Isenção de mais-valias** | Quando reinvestidas em habitação para arrendamento moderado | [F46](../referencias/fontes.md#f46) |
 | **Contratos de Investimento para Arrendamento (CIA)** | Benefícios fiscais até 25 anos para investidores que construam para arrendar | [F46](../referencias/fontes.md#f46) |
