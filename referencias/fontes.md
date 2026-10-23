@@ -480,9 +480,10 @@ https://eprints.lse.ac.uk/120627
 https://www.ahuri.edu.au/sites/default/files/documents/2022-07/PES-FR381-Do-first-homebuyer-assistance-programs-work-Australian-and-international-case-studies.pdf
 
 <a id="f89"></a>
-**F89** — Clemente-Casinhas, L.; Vale, S. (ISCTE-IUL), *Exemption or illusion? The impact of a youth tax policy on house asking prices in Portugal*, *Real Estate Economics*. Relatado por Renascença (06-01-2026) e idealista. Primária ●●● — números citados via imprensa ●●○
+**F89** — Clemente-Casinhas, L.; Vale, S. (ISCTE-IUL), *Exemption or illusion? The impact of a youth tax policy on house asking prices in Portugal*, *Real Estate Economics*, 54(2), 469–503 (2026). DOI: 10.1111/1540-6229.70020. Relatado por Renascença (06-01-2026) e idealista. Primária ●●●. **Verificação (out. 2026):** o resumo do artigo confirma o método (diferenças em diferenças sintéticas, Espanha como controlo, preços pedidos de jan. 2023 a dez. 2024), a absorção em 3 a 15 meses e a heterogeneidade (Lisboa e Porto, zonas de menor rendimento). O valor de +0,26 p.p. por mês vem da imprensa; antes estava mal descrito na ficha S25 como subida "no mês seguinte ao anúncio".
 https://rr.pt/especial/pais/2026/01/06/beneficio-fiscal-para-jovens-comprarem-casa-foi-absorvido-pelo-aumento-dos-precos-em-poucos-meses/454144/
 https://www.idealista.pt/news/node/73198
+https://ideas.repec.org/a/bla/reesec/v54y2026i2p469-503.html
 https://ciencia.iscte-iul.pt/publications/assessing-the-impact-of-youth-tax-exemptions-on-housing-prices-evidence-from-portugal/107860
 
 <a id="f90"></a>
