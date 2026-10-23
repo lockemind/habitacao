@@ -80,6 +80,7 @@ nav = [
 
 [project.theme]
 language = "pt"
+custom_dir = "overrides"
 features = [
   "content.footnote.tooltips",
   "content.tooltips",
