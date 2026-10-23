@@ -4,7 +4,7 @@
 
 Reúne dados, estudos e experiências de outros países sobre a crise da habitação, com todas as fontes identificadas. Está pensado para ser lido por qualquer pessoa (cidadãos, autarcas, decisores, jornalistas, investigadores) e para servir de base a uma **consulta pública** sobre futuras reformas.
 
-**Estado:** versão de trabalho · atualizado a 22 de outubro de 2026 · dados até ao 2.º trimestre de 2026
+**Estado:** versão de trabalho · atualizado a 23 de outubro de 2026 · dados até ao 2.º trimestre de 2026
 
 ---
 
@@ -51,7 +51,7 @@ Reúne dados, estudos e experiências de outros países sobre a crise da habita�
 - [Fontes](referencias/fontes.md): todas as fontes, com tipo e grau de fiabilidade
 - [Glossário](referencias/glossario.md): siglas e termos
 - [Questões em aberto](referencias/questoes-em-aberto.md): o que falta verificar ou investigar
-- [Verificação nas fontes originais (out. 2026)](referencias/verificacao-fontes-out-2026.md): 22 números das fichas confrontados com a fonte; 6 corrigidos
+- [Verificação nas fontes originais (out. 2026)](referencias/verificacao-fontes-out-2026.md): 40 números das fichas e do diagnóstico confrontados com a fonte; 10 corrigidos
 
 ---
 
@@ -73,4 +73,4 @@ referencias/              Fontes · Glossário · Questões em aberto
 - **Factos separados de interpretação.** Cálculos próprios e juízos interpretativos estão assinalados.
 - **Contradições à vista.** Quando as fontes discordam, mostra-se a discordância. As que ficaram por resolver estão em [questões em aberto](referencias/questoes-em-aberto.md).
 - **Neutralidade nas soluções.** O catálogo inclui opções de todo o espetro político. A evidência informa; as escolhas entre objetivos ficam para o debate público.
-- **Limitação conhecida:** vários números oficiais foram obtidos através de imprensa que os cita. A verificação na fonte original está em curso: feita para os números das fichas de soluções ([registo](referencias/verificacao-fontes-out-2026.md)), por fazer para o diagnóstico ([Q01](referencias/questoes-em-aberto.md#q01)).
+- **Limitação conhecida:** vários números oficiais foram obtidos através de imprensa que os cita. A verificação na fonte original está em curso: feita para os números das fichas de soluções e do sumário executivo ([registo](referencias/verificacao-fontes-out-2026.md)); falta para os restantes números do diagnóstico ([questões em aberto](referencias/questoes-em-aberto.md)).

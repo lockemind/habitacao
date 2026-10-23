@@ -2,7 +2,9 @@
 
 > Parte da investigação [A crise da habitação em Portugal](../README.md) · Ver também [fontes](fontes.md) · [Questões em aberto](questoes-em-aberto.md) · [Revisão editorial dos lotes 2 a 4](../solucoes/revisao-editorial-lotes-2-4.md)
 
-**Data:** 23 de outubro de 2026 · **Âmbito:** números citados nas fichas de soluções que constavam de [Q12–Q16](questoes-em-aberto.md#q12) como "a verificar", com prioridade para os que entram nas ordens de grandeza, na [avaliação comparada](../solucoes/03-avaliacao-comparada.md) e nos [pacotes](../solucoes/04-pacotes-e-cenarios.md).
+**Data:** 23 de outubro de 2026 · **Duas partes:** [1 — fichas de soluções](#resumo) (22 números, 6 corrigidos) e [2 — diagnóstico](#parte-2--diagnóstico) (18 números, 4 corrigidos).
+
+**Âmbito da parte 1:** números citados nas fichas de soluções que constavam de [Q12–Q16](questoes-em-aberto.md#q12) como "a verificar", com prioridade para os que entram nas ordens de grandeza, na [avaliação comparada](../solucoes/03-avaliacao-comparada.md) e nos [pacotes](../solucoes/04-pacotes-e-cenarios.md).
 
 **Porquê:** na revisão editorial dos lotes 2 a 4 encontrou-se um erro factual (S28) que resultava de ler um resumo e não a fonte. Esta verificação procura erros do mesmo tipo.
 
@@ -89,3 +91,52 @@ Nenhuma classificação de evidência (A–D) mudou. Mudaram duas estimativas us
   2. **Números antigos apresentados como atuais** (S14, S21).
   3. **Confusão entre crédito e investimento** (S14).
 - Os pontos de [Q01–Q11](questoes-em-aberto.md) (diagnóstico) e os restantes de Q12–Q16 continuam por verificar. Dada a taxa de erro encontrada, **recomenda-se verificar os números do diagnóstico antes da consulta pública**, a começar pelos que aparecem na página inicial.
+
+---
+
+## Parte 2 — Diagnóstico
+
+**Âmbito:** os números do [sumário executivo](../diagnostico/00-sumario-executivo.md) (os mais lidos) e os pontos [Q01](questoes-em-aberto.md#q01), [Q04](questoes-em-aberto.md#q04) e [Q08](questoes-em-aberto.md#q08). Sempre que possível, consultou-se diretamente a base do Eurostat (API) ou o destaque do INE.
+
+### Correções
+
+| Documento | Antes | Depois | Fonte verificada |
+|---|---|---|---|
+| [01](../diagnostico/01-precos-e-acessibilidade.md), [08](../diagnostico/08-comparacao-internacional.md) | Preços 2015–2025: **≈ +180%** (imprensa) | **≈ +164%** (índice 263,9), 2.º maior da UE depois da Hungria; UE ≈ +62% | Eurostat `prc_hpi_a` ([F173](fontes.md#f173)) |
+| [04](../diagnostico/04-credito-e-financas.md), [00](../diagnostico/00-sumario-executivo.md), [09](../diagnostico/09-causas-e-debates.md) | "**49% dos novos créditos** são de taxa variável; 5% fixa" | Os 49% são do **crédito em curso**. Nos **novos créditos** (abril de 2026): **≈ 85% taxa mista**, ≈ 14% variável, ≈ 1,6% fixa | Banco de Portugal ([F37](fontes.md#f37)) |
+| [00](../diagnostico/00-sumario-executivo.md), [01](../diagnostico/01-precos-e-acessibilidade.md) | Renda em Lisboa: 17,42 €/m², apresentada junto da mediana nacional do 2.º trimestre; esforço ≈ 76% | 17,42 €/m² era do 1.º trimestre. No 2.º trimestre: **17,79 €/m²** → esforço de **≈ 78%** do salário bruto médio | Destaque do INE de 29-09-2026 ([F13](fontes.md#f13)) |
+| [00](../diagnostico/00-sumario-executivo.md), [01](../diagnostico/01-precos-e-acessibilidade.md), [04](../diagnostico/04-credito-e-financas.md), [06](../diagnostico/06-politicas-publicas.md) | Sobrevalorização "≈ 35% segundo a Comissão Europeia" | 35% é do relatório de out. 2025 (dados de 2024). Estimativas posteriores da Comissão: ≈ 30% e ≈ 25%. Passa a **≈ 25–35%**, a mais alta da UE em todas | [F09](fontes.md#f09) |
+
+**O que muda na leitura:** a correção do crédito é a mais relevante. Portugal **deixou de ser um país de taxa variável nos créditos novos**. O risco não desapareceu: a taxa mista passa a variável ao fim de alguns anos, e o crédito antigo ainda é metade variável. Mas o argumento de que "metade dos novos créditos" está exposto à Euribor já não é verdadeiro.
+
+### Questões em aberto resolvidas
+
+- **Q04:** o BCE subiu as taxas em 0,25 p.p. em junho de 2026 (facilidade de depósito em 2,25%) ([F174](fontes.md#f174)).
+- **Q08:** a idade de saída de casa dos pais é de 28,9 anos em 2024 (28,8 em 2025). O valor de 2021 (33,3) é um pico isolado na série do Eurostat, provavelmente ligado à pandemia ([F173](fontes.md#f173)).
+
+### Confirmados
+
+| Número | Fonte verificada |
+|---|---|
+| Preços +16,5% no 2.º trim. 2026; Portugal 1.º ou 2.º da UE em todos os trimestres de 2025 | Eurostat `prc_hpi_q` |
+| Renda mediana de 10,17 €/m² no 2.º trim. 2026 (+10,2%) | Destaque do INE |
+| 30.425 fogos concluídos em 2025; 48.844 licenciados, o máximo desde 2011 | INE, *Estatísticas da Construção e Habitação 2025* (via imprensa) |
+| ≈ 9 mil fogos concluídos em 2015 | INE (via imprensa) |
+| Compradores não residentes: 5,0% das transações em 2025 (8.471) | Quadro do INE reproduzido pela AICCOPN |
+| 14.476 pessoas em situação de sem-abrigo no fim de 2024 (+10%) | Inquérito ENIPSSA (via Lusa) |
+| Preços locais: subida em todas as 26 sub-regiões; Lezíria do Tejo +30,4%; Guimarães +41,9%; Lisboa 5.082 €/m² | Destaque do INE ([F60](fontes.md#f60)) |
+| ≈ 300 mil casas em falta, 6,6% dos agregados (zona euro 0,5%) | Números do Banco de España confirmados em várias fontes. **A metodologia não foi encontrada**; a descrição foi corrigida em [02](../diagnostico/02-oferta-e-construcao.md) |
+
+### Não verificados
+
+- **Catalunha, −36% nos novos contratos:** não se encontrou o documento da Fedea. Outra fonte (Observatório do Arrendamento) dá −33% em 2023–2025, uma ordem de grandeza semelhante. Assinalado no texto.
+- **Habitação pública ≈ 2%:** há várias fontes concordantes (ISCTE, Nova SBE/Gulbenkian, Governo), mas não se encontrou o número de fogos públicos atualizado.
+- **Balanço final do PRR** (Q02): não foi publicado nas fontes encontradas. Mantém-se o último dado: ≈ 68% em fevereiro de 2026.
+- **Vistos gold ≈ 3%:** não verificado nesta fase.
+
+### Balanço da parte 2
+
+Dos 18 números verificados no diagnóstico, **4 estavam errados ou desatualizados**. Como na parte 1, nenhum inverte uma conclusão. Os erros repetem os mesmos tipos de problema:
+- **números da imprensa** que não coincidem com a base original (+180%);
+- **confusão de universos** (crédito em curso vs. novos créditos);
+- **números antigos** misturados com números recentes (renda de Lisboa, sobrevalorização).
