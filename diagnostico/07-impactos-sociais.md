@@ -11,7 +11,7 @@
 - Em 2024, os jovens portugueses saíram de casa dos pais, em média, aos **28,9 anos**. A média da UE é **26,2 anos**; nos países nórdicos ronda os 21–22 anos [F50](../referencias/fontes.md#f50).
 - Portugal está em **7.º lugar** entre os países da UE onde se sai mais tarde de casa [F50](../referencias/fontes.md#f50).
 - O **Eurostat** associa explicitamente este atraso ao custo da habitação [F50](../referencias/fontes.md#f50).
-- Há dados anteriores que apontam valores mais altos (33,6 anos em 2021), mas a série não é consistente entre fontes — ver [questões em aberto](../referencias/questoes-em-aberto.md#q08).
+- A série do Eurostat mostra um pico em 2021 (33,3 anos), que não se repetiu (30,1 em 2022; 28,8 em 2025). É provavelmente um efeito do ano da pandemia e não uma tendência [F173](../referencias/fontes.md#f173).
 
 Consequências descritas no debate público: adiamento da formação de família e da natalidade, emigração de jovens qualificados, e dependência de apoios à compra que os endividam a 100% (ver [04 — Crédito](04-credito-e-financas.md#2-garantia-pública-para-jovens-e-isenção-de-imt)).
 

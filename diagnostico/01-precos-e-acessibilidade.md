@@ -30,11 +30,11 @@ Dois pontos a reter:
 | 3.º trim. 2025 | +17,7% | 2.º (Hungria 21,1%) | — | [F06](../referencias/fontes.md#f06) |
 | 4.º trim. 2025 | +18,9% | 2.º (Hungria 21,2%) | +5,5% | [F07](../referencias/fontes.md#f07) |
 
-Portugal está a subir **cerca de três vezes mais depressa do que a média europeia**. No acumulado de 2015 a 2025, a imprensa que cita o Eurostat dá um aumento de cerca de **180%**, o segundo maior da UE [F07](../referencias/fontes.md#f07) (valor a confirmar na base do Eurostat — ver [questões em aberto](../referencias/questoes-em-aberto.md#q01)). O idealista nota que os preços **duplicaram em 15 anos** [F08](../referencias/fontes.md#f08).
+Portugal está a subir **cerca de três vezes mais depressa do que a média europeia**. No acumulado de 2015 a 2025, os preços subiram **≈ 164%** (índice 263,9, base 2015 = 100), o **segundo maior aumento da UE**, depois da Hungria; a média da UE foi ≈ 62% [F173](../referencias/fontes.md#f173). *(A imprensa citava ≈ 180%; o valor foi corrigido com a base do Eurostat.)* O idealista nota que os preços **duplicaram em 15 anos** [F08](../referencias/fontes.md#f08).
 
 ### Sobrevalorização
 
-- A **Comissão Europeia** estima que as casas em Portugal estão cerca de **35% sobrevalorizadas**, e que Portugal foi o único país onde a sobrevalorização aumentou significativamente em 2024 [F09](../referencias/fontes.md#f09).
+- A **Comissão Europeia** estimou, no relatório *Housing in the European Union* (out. 2025, dados de 2024), que as casas em Portugal estavam cerca de **35% sobrevalorizadas**, e que Portugal foi o único país onde a sobrevalorização aumentou significativamente em 2024 [F09](../referencias/fontes.md#f09). Avaliações posteriores da Comissão, com outros dados e métodos, dão valores mais baixos (≈ 30% na análise aprofundada do país; ≈ 25% para o 2.º semestre de 2025, segundo a Lusa), mas Portugal continua no **topo da UE** [F09](../referencias/fontes.md#f09).
 - O **Banco de Portugal** e o **FMI** tratam a habitação como uma das principais vulnerabilidades do sistema financeiro (ver [04 — Crédito](04-credito-e-financas.md)).
 
 ---
@@ -46,11 +46,14 @@ Portugal está a subir **cerca de três vezes mais depressa do que a média euro
 | Período | Renda mediana nacional | Variação homóloga | Fonte |
 |---|---|---|---|
 | 1.º trim. 2026 | **9,46 €/m²** | +9,1% (aceleração) | [F12](../referencias/fontes.md#f12) |
-| 2.º trim. 2026 | **10,17 €/m²** | primeira vez acima de 10 €/m² | [F13](../referencias/fontes.md#f13) |
+| 2.º trim. 2026 | **10,17 €/m²** | +10,2%; primeira vez acima de 10 €/m² (35.407 contratos) | [F13](../referencias/fontes.md#f13) |
 
-### Diferenças territoriais (1.º trim. 2026)
+### Diferenças territoriais
 
-- **Município de Lisboa: 17,42 €/m²**, quase o dobro da mediana nacional [F14](../referencias/fontes.md#f14).
+- **Município de Lisboa: 17,79 €/m²** no 2.º trim. 2026 (+5,1%, abaixo da subida nacional), quase o dobro da mediana nacional; era 17,42 €/m² no 1.º trimestre [F13](../referencias/fontes.md#f13), [F14](../referencias/fontes.md#f14).
+- Por sub-região (2.º trim. 2026): Grande Lisboa 15,24 €/m², Madeira 12,78, Península de Setúbal 11,99, Algarve 11,56, Área Metropolitana do Porto 10,83 [F13](../referencias/fontes.md#f13).
+
+Os pontos seguintes referem-se ao 1.º trimestre de 2026:
 - Na Grande Lisboa e Península de Setúbal, **todos** os municípios com mais de 100 mil habitantes estão acima da mediana nacional; Almada chega a 13,64 €/m² (+14,9%) [F12](../referencias/fontes.md#f12).
 - Na Área Metropolitana do Porto, quase todos os municípios estão acima da mediana; as exceções são Gondomar (8,71 €/m²) e Santa Maria da Feira (6,58 €/m²) [F12](../referencias/fontes.md#f12).
 - Os **preços pedidos em anúncios** são bem mais altos do que os dos contratos efetivos: o Doutor Finanças dava 20,67 €/m² para Lisboa em março de 2026 [F58](../referencias/fontes.md#f58). Fontes com dados de anúncios e fontes com contratos medem coisas diferentes e não devem ser misturadas.
@@ -81,7 +84,7 @@ Pressupostos: T2 de 80 m², renda de novo contrato ao valor mediano.
 | Cenário | Renda mensal | % do salário bruto médio (1.835 €) | % do salário mínimo (920 €) |
 |---|---|---|---|
 | Mediana nacional (10,17 €/m²) | ≈ 814 € | ≈ 44% | ≈ 88% |
-| Município de Lisboa (17,42 €/m²) | ≈ 1.394 € | ≈ 76% | ≈ 152% |
+| Município de Lisboa (17,79 €/m²) | ≈ 1.423 € | ≈ 78% | ≈ 155% |
 
 A referência habitual para uma taxa de esforço saudável é **30% do rendimento**. Mesmo com o salário **bruto médio** de um trabalhador, uma renda mediana nacional para um T2 está acima desse limiar. Em Lisboa fica muito acima. Com rendimentos líquidos, os rácios seriam ainda piores.
 

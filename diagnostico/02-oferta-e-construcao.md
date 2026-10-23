@@ -34,7 +34,7 @@ Não existe um número oficial único. As estimativas disponíveis:
 
 | Estimativa | Quem | Método / notas | Fonte |
 |---|---|---|---|
-| **≈ 300 mil casas** em défice acumulado em 2021–2025 (6,6% dos agregados) | *Financial Times*, com metodologia do Banco de España | Compara novos agregados familiares por ano com fogos licenciados dois anos antes. **Não é uma contagem física.** Espanha: 3,7%; zona euro: 0,5% | [F23](../referencias/fontes.md#f23) |
+| **≈ 300 mil casas** em défice acumulado em 2021–2025 (6,6% dos agregados) | Relatório anual de 2025 do Banco de España, divulgado pelo *Financial Times* | Compara a formação de novos agregados com o aumento do parque disponível; a metodologia exata não está descrita nas fontes encontradas. **Não é uma contagem física.** Espanha: 3,7%; zona euro: 0,5% | [F23](../referencias/fontes.md#f23) |
 | ≈ 300 mil fogos de "défice estrutural" na última década; necessidade de **70 mil fogos/ano** até 2029 | APPII (promotores imobiliários) | Fonte **interessada** | [F24](../referencias/fontes.md#f24) |
 
 O governador do Banco de Portugal, Álvaro Santos Pereira, atribui o défice sobretudo à falta de oferta, embora reconheça que a imigração aumentou o número de agregados [F23](../referencias/fontes.md#f23). Em 2025 a construção terá acompanhado, grosso modo, a formação de novos agregados, mas sem recuperar o atraso acumulado [F23](../referencias/fontes.md#f23).

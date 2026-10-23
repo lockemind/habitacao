@@ -94,7 +94,7 @@ Este documento é **interpretativo**. Junta os dados dos documentos anteriores e
 
 **Evidência: efeito sobre o esforço das famílias, menos sobre o nível dos preços.**
 
-- A subida da Euribor em 2022–2023 encareceu muito as prestações (49% dos novos créditos são de taxa variável) [F37](../referencias/fontes.md#f37).
+- A subida da Euribor em 2022–2023 encareceu muito as prestações (em 2026, 49% do crédito em curso ainda é de taxa variável; nos novos créditos domina a taxa mista) [F37](../referencias/fontes.md#f37).
 - Mesmo assim os preços continuaram a subir; o estudo *Economies* não encontra efeito autónomo dos juros quando se controlam rendimento e oferta [F25](../referencias/fontes.md#f25).
 
 ---

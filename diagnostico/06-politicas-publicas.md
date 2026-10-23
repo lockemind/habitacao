@@ -98,7 +98,7 @@ Ver detalhe em [05 — Arrendamento](05-arrendamento-e-historia-legal.md#3-a-rev
 |---|---|---|
 | **OCDE** (*Economic Survey* 2026) | Simplificar licenciamento e planeamento; tornar o IMI e o IMT mais eficientes e justos; reequilibrar a regulação do arrendamento; mobilizar o stock subaproveitado; reforçar apoios **dirigidos** aos agregados vulneráveis | [F11](../referencias/fontes.md#f11) |
 | **FMI** (2026) | Eliminar ou sujeitar a condição de recursos a garantia pública e as isenções de IMT para jovens | [F38](../referencias/fontes.md#f38) |
-| **Comissão Europeia** | Nova estratégia de habitação; alerta para sobrevalorização de ≈ 35% e para o aumento da sobrecarga com custos de habitação | [F09](../referencias/fontes.md#f09), [F52](../referencias/fontes.md#f52) |
+| **Comissão Europeia** | Nova estratégia de habitação; alerta para sobrevalorização de ≈ 25–35% e para o aumento da sobrecarga com custos de habitação | [F09](../referencias/fontes.md#f09), [F52](../referencias/fontes.md#f52) |
 
 Há uma tensão clara: **a OCDE e o FMI defendem menos apoio genérico à procura e mais oferta e apoio dirigido**; o Governo mantém os apoios à compra por jovens.
 

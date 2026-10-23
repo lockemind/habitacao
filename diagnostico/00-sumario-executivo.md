@@ -11,14 +11,14 @@
 | | | |
 |---|---|---|
 | **+16,5%** | subida homóloga do preço das casas no 2.º trim. 2026; em 2025 Portugal foi 1.º ou 2.º da UE em todos os trimestres | [01](01-precos-e-acessibilidade.md) |
-| **10,17 €/m²** | renda mediana de novos contratos (2.º trim. 2026); **17,42 €/m²** no município de Lisboa | [01](01-precos-e-acessibilidade.md#2-rendas) |
+| **10,17 €/m²** | renda mediana de novos contratos (2.º trim. 2026); **17,79 €/m²** no município de Lisboa | [01](01-precos-e-acessibilidade.md#2-rendas) |
 | **≈ 300 mil** | casas em falta face à formação de agregados em 2021–2025 (6,6% dos agregados; zona euro 0,5%) | [02](02-oferta-e-construcao.md#2-quanto-falta-construir) |
 | **≈ 2%** | peso da habitação pública no parque habitacional, um dos mais baixos da Europa | [02](02-oferta-e-construcao.md#5-habitação-pública-cerca-de-2) |
 | **14.476** | pessoas em situação de sem-abrigo no fim de 2024 (+10% num ano) | [07](07-impactos-sociais.md#3-pessoas-em-situação-de-sem-abrigo) |
 
 ## O diagnóstico em sete pontos
 
-1. **Os preços sobem três vezes mais depressa do que na UE e muito mais depressa do que os salários.** Os salários sobem ≈ 5–6% ao ano; os preços ≈ 16–19%. Uma renda mediana de um T2 consome ≈ 44% do salário bruto médio, e em Lisboa ≈ 76%. → [01](01-precos-e-acessibilidade.md)
+1. **Os preços sobem três vezes mais depressa do que na UE e muito mais depressa do que os salários.** Os salários sobem ≈ 5–6% ao ano; os preços ≈ 16–19%. Uma renda mediana de um T2 consome ≈ 44% do salário bruto médio, e em Lisboa ≈ 78%. → [01](01-precos-e-acessibilidade.md)
 
 2. **A causa principal é estrutural: falta de oferta.** A construção colapsou depois de 2011 (≈ 9 mil fogos em 2015) e ainda está ≈ 70% abaixo de 2000. Em 2025 concluíram-se ≈ 30 mil fogos; os licenciamentos estão em máximos de 2011, mas demoram a chegar ao mercado. Faltam trabalhadores, o licenciamento é lento e a habitação pública é residual. → [02](02-oferta-e-construcao.md)
 
@@ -28,7 +28,7 @@
 
 5. **O arrendamento é pequeno, caro e dividido.** Sete décadas de congelamento de rendas deixaram um mercado onde os contratos antigos estão protegidos e quem chega paga o preço total da escassez. Uma revisão do NRAU está em discussão no Parlamento. → [05](05-arrendamento-e-historia-legal.md)
 
-6. **O crédito amplifica tudo.** Metade dos novos créditos é de taxa variável. O FMI e o Banco de Portugal alertam para sobrevalorização (≈ 35% segundo a Comissão Europeia) e para o efeito da garantia pública para jovens nos preços. → [04](04-credito-e-financas.md)
+6. **O crédito amplifica tudo.** Metade do crédito à habitação em curso é de taxa variável (nos novos créditos domina agora a taxa mista, que adia o risco). O FMI e o Banco de Portugal alertam para sobrevalorização (≈ 25–35% segundo a Comissão Europeia, a mais alta da UE) e para o efeito da garantia pública para jovens nos preços. → [04](04-credito-e-financas.md)
 
 7. **As políticas oscilaram e ainda não inverteram a tendência.** Do Mais Habitação (2023, restringir usos concorrentes) ao Construir Portugal (2024, incentivar a oferta privada e apoiar a compra) e ao pacote fiscal de 2026 (IVA 6% na construção, IRS 10% em rendas moderadas). O PRR ia em ≈ 68% da meta de 26 mil casas em fevereiro de 2026. → [06](06-politicas-publicas.md)
 

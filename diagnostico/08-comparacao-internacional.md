@@ -13,7 +13,7 @@ A crise da habitação é europeia, mas Portugal está entre os casos mais grave
 | Indicador | Portugal | Referência | Fonte |
 |---|---|---|---|
 | Subida de preços, 4.º trim. 2025 | +18,9% | UE +5,5% | [F07](../referencias/fontes.md#f07) |
-| Subida de preços, 2015–2025 | ≈ +180% (2.º maior) | — | [F07](../referencias/fontes.md#f07) |
+| Subida de preços, 2015–2025 | ≈ +164% (2.º maior, depois da Hungria) | UE ≈ +62% | [F173](../referencias/fontes.md#f173) |
 | Acessibilidade OCDE (preço/rendimento) | 157,7 (máximo desde 1995) | ≈ 36% pior que a média OCDE | [F10](../referencias/fontes.md#f10) |
 | Défice de construção 2021–2025 (% agregados) | 6,6% | Espanha 3,7%; zona euro 0,5% | [F23](../referencias/fontes.md#f23) |
 | Habitação pública (% parque) | ≈ 2% | Países Baixos e Dinamarca ≈ 30%; Áustria ≈ 25% | [F20](../referencias/fontes.md#f20), [F54](../referencias/fontes.md#f54) |
@@ -47,7 +47,7 @@ O que torna Portugal particular é a **combinação** de: salários baixos face 
 | Efeito | Dado | Fonte |
 |---|---|---|
 | Rendas | −3,7% nas zonas tensionadas da Catalunha; −6,4% em Barcelona, um ano depois | [F55](../referencias/fontes.md#f55) |
-| Oferta | Novos contratos de arrendamento habitual caíram de 167.842 (2021) para **108.057 (2025)**, ≈ −36% | [F55](../referencias/fontes.md#f55) |
+| Oferta | Novos contratos de arrendamento habitual caíram de 167.842 (2021) para **108.057 (2025)**, ≈ −36% (números não confirmados no documento original; o Observatório do Arrendamento estima uma queda de 132 mil para 88 mil, ≈ −33%, em 2023–2025) | [F55](../referencias/fontes.md#f55) |
 | Pressão | Contactos por anúncio: **462 em Barcelona** vs. 103 em Madrid (4.º trim. 2025) | [F55](../referencias/fontes.md#f55) |
 | Fuga ao regime | Passagem para arrendamento de temporada e de quartos, não abrangidos; levou a nova legislação (DL catalão 6/2024) | [F55](../referencias/fontes.md#f55) |
 
