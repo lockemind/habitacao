@@ -21,7 +21,7 @@ Limites, fixados pelo Banco de Portugal, à forma como os bancos emprestam para 
 
 | | Estimativa | Base de cálculo |
 |---|---|---|
-| Medida em vigor | Recomendação macroprudencial n.º 1/2026: **DSTI máximo desce de 50% para 45%** a partir de 1-08-2026; fim, em regra, do financiamento a 100% de imóveis dos bancos | [F157](../../referencias/fontes.md#f157) |
+| Medida em vigor | Recomendação macroprudencial n.º 1/2026: **DSTI máximo desce de 50% para 45%** a partir de 1-08-2026; prazo máximo de **40 anos** até aos 35 anos de idade e de 35 anos acima disso; uma única exceção (até 10% do crédito de cada banco por semestre pode ultrapassar os 45%); fim do financiamento a 100% de imóveis dos próprios bancos; **o LTV de 90% mantém-se** | [F157](../../referencias/fontes.md#f157) |
 | Natureza | Recomendação: os bancos aplicam ou justificam ao Banco de Portugal; o Banco já manifestou intenção de a tornar vinculativa por lei | [F157](../../referencias/fontes.md#f157) |
 | Impacto previsto pelo Banco de Portugal | **Limitado** na concessão de crédito; efeitos ligeiros no PIB a curto prazo e quase nulos a longo prazo (avaliação ex ante) | [F157](../../referencias/fontes.md#f157) |
 | Horizonte | Imediato | — |

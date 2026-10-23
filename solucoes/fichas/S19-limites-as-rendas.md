@@ -53,7 +53,7 @@
 
 ### O que a evidência mostra a favor
 
-- **Os limites cumprem o objetivo imediato:** abrandam a subida das rendas das casas abrangidas. É a conclusão da revisão mais completa da literatura [F82](../../referencias/fontes.md#f82) e dos estudos da Irlanda e da Alemanha [F86](../../referencias/fontes.md#f86), [F92](../../referencias/fontes.md#f92).
+- **Os limites cumprem o objetivo imediato:** abrandam a subida das rendas das casas abrangidas. É a conclusão da revisão mais completa da literatura (56 de 65 estudos encontram rendas mais baixas nas casas abrangidas) [F82](../../referencias/fontes.md#f82) e dos estudos da Irlanda e da Alemanha [F86](../../referencias/fontes.md#f86), [F92](../../referencias/fontes.md#f92).
 - **Estabilidade:** os inquilinos protegidos mudam menos de casa à força e são menos deslocados dos seus bairros e cidades, sobretudo os de **menor rendimento** [F83](../../referencias/fontes.md#f83), [F93](../../referencias/fontes.md#f93). A estabilidade tem valor próprio (escola dos filhos, emprego, redes de apoio, saúde), que os estudos de mercado não medem.
 - **Existe literatura divergente** que argumenta que formas bem desenhadas de regulação têm pouco efeito na construção [F94](../../referencias/fontes.md#f94) (fonte secundária, não verificada no original).
 
@@ -61,13 +61,14 @@
 
 A revisão de Kholodilin (2024) identifica efeitos secundários consistentes [F82](../../referencias/fontes.md#f82):
 
-| Efeito | Estudos com efeito negativo | Sem efeito | Positivo |
-|---|---|---|---|
-| Oferta de arrendamento | 12 | 3 | 1 (não publicado) |
-| Construção | 11 | 4 | 1 |
-| Qualidade das casas | 15 | 5 | 0 |
+| Efeito | Estudos com efeito negativo | Sem efeito | Positivo | Só estudos publicados (neg. / sem / pos.) |
+|---|---|---|---|---|
+| Oferta de arrendamento | 12 | 3 | 1 | 9 / 1 / 0 |
+| Construção | 11 | 4 | 1 | 10 / 4 / 1 |
+| Qualidade das casas | 15 | 5 | 0 | 11 / 2 / 0 |
+| Rendas das casas **não** abrangidas | 14 sobem | 2 | 1 descem | 10 sobem / 1 / 1 descem |
 
-*Contagens segundo um resumo do Institute of Economic Affairs, think tank de orientação liberal; a confirmar nas tabelas do artigo original [F82](../../referencias/fontes.md#f82).*
+*Contagens do próprio autor, num relatório de 2024 publicado pelo Institute of Economic Affairs (think tank britânico de orientação liberal), que resume o artigo científico; verificadas nesse relatório (out. 2026) [F82](../../referencias/fontes.md#f82). A seleção dos estudos é do autor; não é uma meta-análise com pesos.*
 
 - **Menos oferta** para quem procura casa e, por vezes, **rendas mais altas fora do regime** (São Francisco, Berlim) [F83](../../referencias/fontes.md#f83), [F84](../../referencias/fontes.md#f84).
 - **Pior qualidade** das casas [F82](../../referencias/fontes.md#f82), [F92](../../referencias/fontes.md#f92).

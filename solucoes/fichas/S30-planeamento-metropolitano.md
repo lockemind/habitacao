@@ -21,7 +21,7 @@ Planear a habitação **à escala da área metropolitana**, e não de cada conce
 
 | | Estimativa | Base de cálculo |
 |---|---|---|
-| Île-de-France (região de Paris) | Meta de **70 mil casas/ano** desde a lei do Grande Paris (2010), repartida por intermunicipalidades | [F163](../../referencias/fontes.md#f163) |
+| Île-de-France (região de Paris) | Meta de **70 mil casas/ano** desde a lei do Grande Paris (2010), repartida por intermunicipalidades; licenças: média de ≈ 74.600/ano em 2018–2022, mas só **54.300 em 2024** (46.700 obras iniciadas) | [F163](../../referencias/fontes.md#f163), [F172](../../referencias/fontes.md#f172) |
 | AML | Plano estratégico 2026–2030 com a habitação como prioridade; ≈ 8.500 casas entregues pelos municípios no PRR até março de 2026 (⅓ da meta) | [F164](../../referencias/fontes.md#f164) |
 | Custo | Baixo (planeamento); o custo está nas infraestruturas | — |
 | Horizonte | 10–30 anos | — |
@@ -33,7 +33,7 @@ Planear a habitação **à escala da área metropolitana**, e não de cada conce
 | Local | Desde | Modelo | Resultado | Avaliação | Fonte |
 |---|---|---|---|---|---|
 | **Copenhaga** (*Plano dos Dedos*) | 1947 | Crescimento urbano ao longo de linhas ferroviárias ("dedos"), com espaços verdes entre eles | Considerado um caso de sucesso duradouro contra a dispersão urbana; mantido por governação colaborativa | Estudo de caso | [F162](../../referencias/fontes.md#f162) |
-| **Île-de-France** | 2010 | Meta regional repartida por territórios; esquema diretor regional | Meta mantida no novo esquema 2040, com redução do consumo de solo; cumprimento por confirmar | Descritiva | [F163](../../referencias/fontes.md#f163) |
+| **Île-de-France** | 2010 | Meta regional repartida por territórios; esquema diretor regional | Meta cumprida em licenças em 2018–2022 (≈ 74.600/ano); abaixo da meta em 2023–2024, com a subida dos juros. Meta mantida no novo esquema 2040 | Descritiva | [F163](../../referencias/fontes.md#f163) |
 | **Portugal** (AML) | 2026 | Plano estratégico metropolitano 2026–2030 | Sem instrumento vinculativo de habitação metropolitana | — | [F164](../../referencias/fontes.md#f164) |
 
 ---
@@ -112,4 +112,4 @@ Média. **Juízo interpretativo:** uma versão menos exigente seria fixar **meta
 
 ---
 
-Fontes: [F162](../../referencias/fontes.md#f162), [F163](../../referencias/fontes.md#f163), [F164](../../referencias/fontes.md#f164)
+Fontes: [F162](../../referencias/fontes.md#f162), [F163](../../referencias/fontes.md#f163), [F164](../../referencias/fontes.md#f164), [F172](../../referencias/fontes.md#f172)

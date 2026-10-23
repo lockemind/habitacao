@@ -124,7 +124,7 @@ Objetivos (de [S1](01-objetivos-e-criterios.md)): **O1** acessibilidade · **O2*
 | Opção | Casas abrangidas ou criadas | Custo público | Horizonte |
 |---|---|---|---|
 | S01 Licenciamento | Antecipa parte da fila de ≈ 49 mil fogos licenciados/ano; efeito líquido não estimável | Baixo | 1–3 anos |
-| S02 Densidade | ≈ 10–12 mil casas/ano no distrito de Lisboa, *se* repetisse Auckland | Baixo (+ infraestruturas) | 3–6 anos |
+| S02 Densidade | ≈ 8–10 mil licenças/ano no distrito de Lisboa, *se* repetisse Auckland | Baixo (+ infraestruturas) | 3–6 anos |
 | S03 Incentivos fiscais | 20–30 mil casas/ano abrangidas (pressuposto); parte seria construída de qualquer forma | ≈ 15–24 mil €/casa; ≈ 0,3–0,7 mil M€/ano de receita perdida | 2–4 anos |
 | S04 Construção industrializada | Capacidade; prazo de obra até metade (fonte do setor) | Baixo–médio | 3–10 anos |
 | S05 Construção para arrendamento | Desconhecido (regime de out. 2026) | Receita perdida não estimada | 3–5 anos |
@@ -136,14 +136,14 @@ Objetivos (de [S1](01-objetivos-e-criterios.md)): **O1** acessibilidade · **O2*
 | S11 Quotas | ≈ 500–800 casas/ano em Lisboa e Porto (quota de 10%) | Baixo | 3–5 anos |
 | S12 Casas vazias | ≈ 15–20 mil casas postas em uso, *se* repetisse o efeito francês | Receita | 1–3 anos |
 | S13 Estado intermediário | Centenas a poucos milhares/ano | Até ≈ 13 mil €/casa/ano | Meses |
-| S14 Reabilitação com renda acessível | ≈ 2.500 casas/ano por cada 100 M€ de crédito | ≈ 40 mil €/casa, sobretudo crédito | 1–3 anos |
+| S14 Reabilitação com renda acessível | ≈ 2.500 casas/ano por cada 100 M€ de crédito | ≈ 38 mil € de crédito por casa (≈ 56 mil € de investimento total) | 1–3 anos |
 | S15 Heranças | ≈ 12–18 mil casas se 5% das ligadas a heranças voltassem ao uso | Baixo | 3–10 anos |
 | S16 Regulação do AL | Universo ≈ 90–126 mil registos; −2 a −3% nos preços locais | Baixo | Meses–2 anos |
 | S17 Mobilidade | Não estimável | Baixo | Curto–médio |
 | S18 Contratos longos | Universo ≈ 923 mil arrendamentos; ≈ 4% usam hoje o incentivo | Baixo–médio | 1–5 anos |
 | S19 Limites às rendas | Universo ≈ 923 mil arrendamentos; ≈ 20 €/mês a menos por ano numa renda de 900 € | Baixo | Imediato |
 | S20 Garantia e justiça rápida | Garantir 100 mil contratos | ≈ 13 M€/ano antes de recuperações | 1–2 anos |
-| S21 Subsídio de renda | 100 mil agregados | ≈ 210 M€/ano | Meses |
+| S21 Subsídio de renda | 100 mil agregados | ≈ 330 M€/ano | Meses |
 | S22 Residências e deslocados | ≈ 18.760 camas previstas (27% prontas em jun. 2026) | ≈ 60 mil €/cama | 2–5 anos |
 | S23 IMI e IMT | Mercado inteiro (mobilidade) | Neutro (se desenhada assim) | 10–20 anos |
 | S24 Não residentes | ≈ 5% das compras | Receita | Imediato |

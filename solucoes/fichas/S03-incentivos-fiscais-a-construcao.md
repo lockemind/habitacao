@@ -19,7 +19,7 @@ Reduzir impostos sobre a construção (IVA, IRS, IRC, IMT, IMI) **em troca de co
 
 | | Estimativa | Base de cálculo |
 |---|---|---|
-| Medida em vigor | IVA de 23% → **6%** em obras de construção ou reabilitação para venda até ≈ 661 mil € ou arrendamento até 2.300 €/mês | [F46](../../referencias/fontes.md#f46), [F136](../../referencias/fontes.md#f136) |
+| Medida em vigor | IVA de 23% → **6%** em obras de construção ou reabilitação para venda até **660.982 €** (topo do 2.º escalão do IMT; o valor de ≈ 648 mil € das primeiras notícias usava as tabelas de 2025) ou arrendamento até 2.300 €/mês | [F46](../../referencias/fontes.md#f46), [F136](../../referencias/fontes.md#f136) |
 | Poupança por casa | 17 p.p. de IVA sobre a empreitada: com obra de 90–140 mil € (95 m² × 950–1.500 €/m²), ≈ **15–24 mil € por casa** | Cálculo próprio |
 | Custo orçamental | Por casa abrangida, igual à poupança (≈ 15–24 mil €). Com 20–30 mil casas/ano abrangidas: ≈ **0,3–0,7 mil M€/ano** em receita perdida | Cálculo próprio; o número de casas abrangidas é pressuposto |
 | Referência internacional | EUA (LIHTC): custo de desenvolvimento mediano ≈ 165 mil $/casa; entre ≈ 126 mil $ (Texas) e ≈ 326 mil $ (Califórnia) | [F135](../../referencias/fontes.md#f135) |

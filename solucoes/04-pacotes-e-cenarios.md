@@ -66,8 +66,8 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 
 | Objetivo | Meta para 2030 | Como |
 |---|---|---|
-| O2 Oferta | **≈ 45 mil fogos concluídos/ano** (de ≈ 30 mil) | S01 + S02 (≈ 10–12 mil/ano a mais no distrito de Lisboa, *se* repetisse Auckland) |
-| O1 Acessibilidade | Rendas de novos contratos a crescer **ao ritmo dos salários** (≈ 5%/ano) | Efeito da oferta; Auckland: rendas ≈ 20–30% abaixo do contrafactual em 6 anos |
+| O2 Oferta | **≈ 45 mil fogos concluídos/ano** (de ≈ 30 mil) | S01 + S02 (≈ 8–10 mil licenças/ano a mais no distrito de Lisboa, *se* repetisse Auckland) |
+| O1 Acessibilidade | Rendas de novos contratos a crescer **ao ritmo dos salários** (≈ 5%/ano) | Efeito da oferta; Auckland: rendas ≈ 21–33% abaixo do contrafactual em 6 anos |
 | O3 Setor não lucrativo | Mantém ≈ 2–3% (só a meta já existente de 59 mil casas) | — |
 | O6 Estabilidade | Menos pressão nos preços pelo fim dos apoios generalizados | S25b |
 
@@ -148,7 +148,7 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 | O5 Sem-abrigo e habitação indigna | Inverter a subida até 2028; casa para as ≈ 9.400 pessoas sem teto; realojar as ≈ 26 mil famílias em condições indignas da AML | [S27](fichas/S27-habitacao-primeiro.md) (evidência A); [S29](fichas/S29-habitacao-indigna-e-sobrelotacao.md) |
 | O2 Oferta | **Risco de queda** no arrendamento privado | Catalunha: −36% de novos contratos; Irlanda: queda da oferta |
 
-**Custo público:** **baixo** para a regulação; o subsídio de renda dirigido custa ≈ 210 M€/ano por cada 100 mil agregados ([S21](fichas/S21-subsidio-de-renda.md)), e a Habitação Primeiro ≈ 95–140 M€/ano brutos para cobrir as pessoas sem teto ([S27](fichas/S27-habitacao-primeiro.md)), parcialmente compensados por poupanças noutros serviços. Realojar as famílias em condições indignas da AML custaria ≈ 3,9–6,5 mil M€ em construção nova, menos com reabilitação ou arrendamento ([S29](fichas/S29-habitacao-indigna-e-sobrelotacao.md)); só é viável num horizonte de vários anos. A verba de S25b (≈ 146 M€/ano) seria uma fonte possível.
+**Custo público:** **baixo** para a regulação; o subsídio de renda dirigido custa ≈ 330 M€/ano por cada 100 mil agregados ([S21](fichas/S21-subsidio-de-renda.md)), e a Habitação Primeiro ≈ 95–140 M€/ano brutos para cobrir as pessoas sem teto ([S27](fichas/S27-habitacao-primeiro.md)), parcialmente compensados por poupanças noutros serviços. Realojar as famílias em condições indignas da AML custaria ≈ 3,9–6,5 mil M€ em construção nova, menos com reabilitação ou arrendamento ([S29](fichas/S29-habitacao-indigna-e-sobrelotacao.md)); só é viável num horizonte de vários anos. A verba de S25b (≈ 146 M€/ano) seria uma fonte possível.
 
 | Ganham | Perdem |
 |---|---|
@@ -173,7 +173,7 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 | **O5 Sem-abrigo** | 0 | + | ++ (S27) |
 | **O6 Estabilidade financeira** | + | + | 0 |
 | **Primeiros efeitos** | 2–5 anos | 5–10 anos | Meses |
-| **Custo público** | Baixo em despesa; ≈ 0,3–0,7 mil M€/ano de receita perdida no IVA a 6% | **≈ 0,7–1,9 mil M€/ano** (modelo de crédito) | Baixo na regulação; ≈ 0,3–0,35 mil M€/ano com S21 (100 mil agregados) e S27 |
+| **Custo público** | Baixo em despesa; ≈ 0,3–0,7 mil M€/ano de receita perdida no IVA a 6% | **≈ 0,7–1,9 mil M€/ano** (modelo de crédito) | Baixo na regulação; ≈ 0,4–0,5 mil M€/ano com S21 (100 mil agregados) e S27 |
 | **Evidência dominante** | A/B | C | A (riscos) / B (benefícios) |
 | **Capacidade de execução exigida** | Média | **Alta** | Média |
 | **Risco principal** | Oferta só no segmento alto | Não conseguir executar | Queda da oferta de arrendamento |

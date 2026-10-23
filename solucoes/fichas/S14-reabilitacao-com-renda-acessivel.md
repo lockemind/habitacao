@@ -19,7 +19,7 @@ Apoiar a reabilitação de casas devolutas ou degradadas (crédito barato, subve
 
 | | Estimativa | Base de cálculo |
 |---|---|---|
-| Reabilitar para Arrendar (2015–) | 50 M€ disponíveis; balanço intermédio: **91 processos, 359 casas**, 13,8 M€ de investimento → **≈ 38 mil €/casa** | [F145](../../referencias/fontes.md#f145); cálculo próprio |
+| Reabilitar para Arrendar (2015–) | 50 M€ disponíveis; balanço de **março de 2017**: **91 processos, 359 casas** depois das obras; 13,8 M€ de crédito num investimento total de 20 M€ → **≈ 38 mil € de crédito e ≈ 56 mil € de investimento por casa** | [F145](../../referencias/fontes.md#f145); cálculo próprio |
 | Condições do crédito | Até 90% do custo, taxa fixa de 2,9% a 15 anos; renda condicionada ≈ 20–30% abaixo do mercado | [F145](../../referencias/fontes.md#f145) |
 | IFRRU 2020 | Instrumento de 703 M€ (fundos europeus, BEI, CEB), para reabilitação em geral, **sem obrigação de renda acessível** | [F145](../../referencias/fontes.md#f145) |
 | Exemplo de escala | 100 M€/ano em crédito a ≈ 40 mil €/casa ≈ **2.500 casas/ano** | Cálculo próprio |
@@ -31,7 +31,7 @@ Apoiar a reabilitação de casas devolutas ou degradadas (crédito barato, subve
 
 | Local | Desde | Modelo | Resultado | Fonte |
 |---|---|---|---|---|
-| **Portugal** (Reabilitar para Arrendar – Habitação Acessível, IHRU) | 2015 | Crédito para reabilitar edifícios com 30+ anos, com renda condicionada | Escala pequena: 359 casas no balanço encontrado (data por confirmar); críticas à perda de adesão | [F145](../../referencias/fontes.md#f145) |
+| **Portugal** (Reabilitar para Arrendar – Habitação Acessível, IHRU) | 2015 | Crédito para reabilitar edifícios com 30+ anos, com renda condicionada | Escala pequena: 359 casas no balanço de março de 2017 (não se encontrou balanço mais recente); críticas à perda de adesão | [F145](../../referencias/fontes.md#f145) |
 | **Portugal** (IFRRU 2020) | 2017 | Crédito para reabilitação urbana, sem condição de renda | Mais de 350 M€ contratados num balanço intermédio (fonte de opinião); sem dados sobre rendas | [F145](../../referencias/fontes.md#f145) |
 | **Espanha** | — | Citada no catálogo; **não se encontraram avaliações** nesta pesquisa | — | — |
 
@@ -40,7 +40,7 @@ Apoiar a reabilitação de casas devolutas ou degradadas (crédito barato, subve
 ## 3. O que diz a evidência
 
 **A favor:**
-- O custo público por casa é **muito mais baixo** do que na construção nova (≈ 38 mil € de investimento, em grande parte crédito, contra 150–250 mil €) e o crédito é reembolsado.
+- O custo público por casa é **muito mais baixo** do que na construção nova (≈ 56 mil € de investimento por casa, dos quais ≈ 38 mil € em crédito, contra 150–250 mil €) e o crédito é reembolsado.
 - Usa casas que já existem, em bairros com serviços; tem valor patrimonial e ambiental.
 - **Juízo interpretativo:** o contraste entre os dois programas sugere que há procura de crédito à reabilitação: o IFRRU, sem condição de renda, teve muito mais adesão (segundo um artigo de opinião).
 

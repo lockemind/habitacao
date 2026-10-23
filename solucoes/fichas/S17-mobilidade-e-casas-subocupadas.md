@@ -21,6 +21,7 @@ Facilitar que quem vive numa casa maior do que precisa (muitas vezes pessoas ido
 
 | | Estimativa | Base de cálculo |
 |---|---|---|
+| Pessoas em casas subocupadas (EU-SILC, 2025) | **55,7% das pessoas com 65 ou mais anos** (UE: 47,9%); 30,0% dos 18–64 anos; 34,5% da população total | [F171](../../referencias/fontes.md#f171) |
 | Pessoas a viver sozinhas em casa "demasiado grande" | **> 30%** de quem vive só, sobretudo idosos (Censos 2021) | [F18](../../referencias/fontes.md#f18) |
 | Efeito do imposto sobre transações nas mudanças | No Reino Unido, +2 p.p. de imposto reduziram as mudanças **≈ 30%** | [F153](../../referencias/fontes.md#f153) |
 | Peso dos custos de mudança | Na Austrália, o imposto de transação consome 8–10% do património libertado ao mudar para uma casa mais pequena | [F150](../../referencias/fontes.md#f150) |
@@ -50,7 +51,7 @@ Facilitar que quem vive numa casa maior do que precisa (muitas vezes pessoas ido
 - Faltam casas pequenas e adaptadas nos mesmos bairros.
 - Isenções fiscais têm custo e beneficiam também quem mudaria de qualquer forma.
 
-**Limitações da evidência:** não se encontrou avaliação de incentivos à mudança para casas mais pequenas; os dados portugueses de subocupação por idade não foram encontrados.
+**Limitações da evidência:** não se encontrou avaliação de incentivos à mudança para casas mais pequenas; os dados de subocupação por idade (Eurostat) medem pessoas, não casas, e não dizem quantas pessoas quereriam mudar.
 
 ### Argumentos em confronto
 
@@ -110,4 +111,4 @@ Não de forma sistemática. O IMT incide sobre todas as compras, incluindo a mud
 
 ---
 
-Fontes: [F18](../../referencias/fontes.md#f18), [F150](../../referencias/fontes.md#f150), [F153](../../referencias/fontes.md#f153), [F159](../../referencias/fontes.md#f159)
+Fontes: [F18](../../referencias/fontes.md#f18), [F150](../../referencias/fontes.md#f150), [F153](../../referencias/fontes.md#f153), [F159](../../referencias/fontes.md#f159), [F171](../../referencias/fontes.md#f171)

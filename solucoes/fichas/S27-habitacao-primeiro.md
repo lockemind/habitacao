@@ -22,7 +22,7 @@ Dar a pessoas em situação de sem-abrigo uma **casa permanente, sem condições
 | Universo | ≈ 9.400 pessoas sem teto; ≈ 14.500 em situação de sem-abrigo | [F51](../../referencias/fontes.md#f51) |
 | Capacidade atual | ≈ 340 casas em Lisboa (data incerta); 13 projetos em 10 cidades | [F124](../../referencias/fontes.md#f124) |
 | Custo bruto por pessoa | ≈ 10–15 mil €/ano (renda + apoio), **pressuposto próprio** | Ordem de grandeza das poupanças estimadas na Finlândia |
-| Poupança noutros serviços | Finlândia: ≈ 9.600–15.000 €/pessoa/ano (estimativas divergentes); Canadá: compensa parte, mas não a totalidade do custo | [F122](../../referencias/fontes.md#f122), [F123](../../referencias/fontes.md#f123) |
+| Poupança noutros serviços | Finlândia: ≈ 15.000 €/pessoa/ano segundo a Y-Foundation, que gere o programa (não se encontrou o estudo de base); ≈ 9.600 € num estudo de caso de uma só residência em Tampere (Härmälä, apresentação de 2013, não publicada em revista); Canadá: compensa parte, mas não a totalidade do custo | [F122](../../referencias/fontes.md#f122), [F123](../../referencias/fontes.md#f123) |
 | Custo para cobrir as pessoas sem teto | ≈ 9.400 × 10–15 mil € ≈ **95–140 M€/ano** brutos, parcialmente compensados | Cálculo próprio |
 | Horizonte | 1–5 anos (depende de haver casas disponíveis) | — |
 

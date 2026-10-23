@@ -51,7 +51,7 @@ Duas ideias distinguem este modelo da habitação social tradicional:
 **O que parece funcionar:**
 - Em países onde o setor tem peso (Áustria ≈ 17%, Dinamarca ≈ 20%), as rendas deste setor ficam **claramente abaixo do mercado** e os inquilinos têm segurança de longo prazo [F66](../../referencias/fontes.md#f66), [F67](../../referencias/fontes.md#f67).
 - O modelo dinamarquês mostra que, depois de décadas, o parque **financia-se a si próprio** [F67](../../referencias/fontes.md#f67).
-- Há estimativas de que um setor grande **trava também as rendas do mercado privado** (efeito de concorrência). Um estudo austríaco estima que cada aumento de 10% no parque de renda a custo baixa as rendas de mercado em ≈ 0,40 €/m² [F66](../../referencias/fontes.md#f66). **Atenção:** este estudo foi encomendado com a federação do setor, e o valor não foi verificado no estudo original.
+- Há estimativas de que um setor grande **trava também as rendas do mercado privado** (efeito de concorrência). Um estudo austríaco estima que um aumento de 10% na quota do setor de renda a custo baixa as rendas do mercado não regulado em **0,30–0,40 €/m²**, consoante o modelo (≈ 5% em média) [F66](../../referencias/fontes.md#f66). **Atenção:** o estudo foi feito pelo WIFO **em coautoria com a federação do setor** (GBV), por encomenda da Câmara de Viena; o efeito é mais fraco onde o setor tem pouco peso, como seria o caso em Portugal. O resumo não esclarece se os 10% são relativos ou pontos percentuais.
 
 **Limitações e riscos:**
 - **Demora décadas.** A Áustria levou 50 anos a passar de ≈ 8% para ≈ 17% do parque [F66](../../referencias/fontes.md#f66). Na Irlanda, o arranque foi muito lento e as previsões para algumas regiões caem depois de 2028 [F65](../../referencias/fontes.md#f65).

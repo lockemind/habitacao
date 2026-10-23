@@ -19,9 +19,9 @@ Um apoio em dinheiro para ajudar famílias de rendimento baixo ou médio a pagar
 
 | | Estimativa | Base de cálculo |
 |---|---|---|
-| Programa existente (Porta 65 Jovem) | Meta de ≈ 22 mil jovens em 2026, com ≈ 47 M€ → **≈ 2.100 €/beneficiário/ano** | [F126](../../referencias/fontes.md#f126); cálculo próprio |
+| Programa existente (Porta 65 Jovem) | **45.686 jovens** apoiados até setembro de 2025 (+32,5% face a 2024), com apoio médio de **275 €/mês** → **≈ 3.300 €/beneficiário/ano** | [F126](../../referencias/fontes.md#f126); cálculo próprio |
 | Universo potencial | ≈ 923 mil casas arrendadas; ≈ 30% dos inquilinos a preço de mercado com sobrecarga | [F118](../../referencias/fontes.md#f118), [F52](../../referencias/fontes.md#f52) |
-| Custo de um apoio a 100 mil agregados | 100 mil × ≈ 2.100 € ≈ **≈ 210 M€/ano** | Cálculo próprio |
+| Custo de um apoio a 100 mil agregados | 100 mil × ≈ 3.300 € ≈ **≈ 330 M€/ano** | Cálculo próprio |
 | Parte que pode acabar nos senhorios | De quase nada (Finlândia) a **60–100%** (Reino Unido, França) | [F125](../../referencias/fontes.md#f125) |
 | Horizonte | Meses | — |
 
@@ -66,7 +66,7 @@ Um apoio em dinheiro para ajudar famílias de rendimento baixo ou médio a pagar
 
 ## 4. Já existe em Portugal?
 
-Sim: **Porta 65 Jovem** (IHRU, 18–35 anos), com metas de ≈ 22 mil beneficiários e ≈ 47 M€ em 2026 [F126](../../referencias/fontes.md#f126); apoio extraordinário à renda criado em 2023 (balanço por confirmar — [Q15](../../referencias/questoes-em-aberto.md#q15)); dedução das rendas no IRS (900 € em 2026) ([06](../../diagnostico/06-politicas-publicas.md#pacote-fiscal-2026)).
+Sim: **Porta 65 Jovem** (IHRU, 18–35 anos), com 45.686 jovens apoiados até setembro de 2025 e apoio médio de 275 €/mês; a meta de 22 mil beneficiários fixada em 2023 já foi ultrapassada [F126](../../referencias/fontes.md#f126); apoio extraordinário à renda criado em 2023 (balanço por confirmar — [Q15](../../referencias/questoes-em-aberto.md#q15)); dedução das rendas no IRS (900 € em 2026) ([06](../../diagnostico/06-politicas-publicas.md#pacote-fiscal-2026)).
 
 ---
 
@@ -83,7 +83,7 @@ Alta: o instrumento existe. **Juízo interpretativo:** com oferta muito rígida,
 | C1 Impacto esperado | Médio no curto prazo para os beneficiários; reduzido se captado pelos senhorios | |
 | C2 Força da evidência | A/B | |
 | C3 Prazo | Curto | |
-| C4 Custo orçamental | Médio e recorrente (≈ 210 M€/ano por 100 mil agregados) | |
+| C4 Custo orçamental | Médio e recorrente (≈ 330 M€/ano por 100 mil agregados) | |
 | C5 Distribuição | Ganham inquilinos de rendimento baixo e médio; parte pode ir para senhorios | |
 | C6 Riscos (nível: **Médio**) | Captação pelos senhorios; custo crescente | |
 | C7 Viabilidade jurídica | Alta | |

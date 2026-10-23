@@ -15,7 +15,7 @@ Três peças complementares:
 2. **Realojar** as famílias afetadas (1.º Direito, habitação pública).
 3. **Prevenir** com oferta acessível para quem chega (imigrantes, trabalhadores sazonais).
 
-**Problema a que responde:** **≈ 1,2 milhões de pessoas (11,2%)** viviam em casas sobrelotadas em 2024; ≈ 20% das crianças; os alojamentos sobrelotados aumentaram 17% entre 2011 e 2021. Entre cidadãos de fora da UE, ≈ 24% viviam em sobrelotação (2023) [F159](../../referencias/fontes.md#f159). ([07](../../diagnostico/07-impactos-sociais.md))
+**Problema a que responde:** **≈ 1,2 milhões de pessoas (11,2%)** viviam em casas sobrelotadas em 2024, e **12,7% em 2025**; entre as crianças, 19,9% em 2024 e **21,4% em 2025** (UE: 16,8% e 25,3%) [F171](../../referencias/fontes.md#f171); os alojamentos sobrelotados aumentaram 17% entre 2011 e 2021. Entre adultos com cidadania de fora da UE, a sobrelotação subiu de ≈ 24% (2023) para **≈ 29% (2025)**, contra ≈ 10% entre portugueses [F171](../../referencias/fontes.md#f171). ([07](../../diagnostico/07-impactos-sociais.md))
 
 ### Ordem de grandeza
 
@@ -23,7 +23,7 @@ Três peças complementares:
 
 | | Estimativa | Base de cálculo |
 |---|---|---|
-| Carências habitacionais (Censos 2021) | **≈ 136.800 alojamentos** em falta, 95% por sobrelotação | [F159](../../referencias/fontes.md#f159) |
+| Carências habitacionais (Censos 2021) | **≈ 136.800 alojamentos** em falta (3,3% das residências habituais); ≈ 95% correspondem a famílias que vivem com outras por não terem casa própria | [F159](../../referencias/fontes.md#f159) |
 | Área Metropolitana de Lisboa | **≈ 26 mil famílias** em situação habitacional indigna (levantamento municipal) | [F160](../../referencias/fontes.md#f160) |
 | Custo de realojar 26 mil famílias | 26 mil × 150–250 mil € ≈ **3,9–6,5 mil M€** em construção nova; menos com reabilitação ou arrendamento | Pressupostos comuns; cálculo próprio |
 | Inspeção | Custo baixo; em Inglaterra, licenças de ≈ 350 £ por casa pagam a fiscalização | [F161](../../referencias/fontes.md#f161) |
@@ -114,4 +114,4 @@ Parcialmente: 1.º Direito e PRR [F48](../../referencias/fontes.md#f48); regras 
 
 ---
 
-Fontes: [F48](../../referencias/fontes.md#f48), [F159](../../referencias/fontes.md#f159), [F160](../../referencias/fontes.md#f160), [F161](../../referencias/fontes.md#f161)
+Fontes: [F48](../../referencias/fontes.md#f48), [F159](../../referencias/fontes.md#f159), [F160](../../referencias/fontes.md#f160), [F161](../../referencias/fontes.md#f161), [F171](../../referencias/fontes.md#f171)

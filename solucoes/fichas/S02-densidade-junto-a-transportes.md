@@ -22,8 +22,8 @@ Em inglês chama-se *upzoning*.
 
 | | Estimativa | Base de cálculo |
 |---|---|---|
-| Referência internacional | Auckland: alojamentos +11,9% em 5 anos (2018–2023), contra +5,4% de população; ≈ 1% do parque por ano atribuível à reforma (≈ 26.900 licenças adicionais em 5 anos, segundo uma fonte secundária; a confirmar no artigo) | [F120](../../referencias/fontes.md#f120), [F99](../../referencias/fontes.md#f99) |
-| Transposto para o distrito de Lisboa | ≈ 1% de ≈ 1,19 milhões de alojamentos ≈ **10–12 mil casas/ano** adicionais, *se* o efeito de Auckland se repetisse | [F121](../../referencias/fontes.md#f121); cálculo próprio |
+| Referência internacional | Auckland: alojamentos +11,9% em 5 anos (2018–2023), contra +5,4% de população; **≈ 21.800 licenças adicionais em 5 anos** atribuíveis à reforma, ≈ 4,1% do parque (≈ 0,8% por ano). São licenças, não casas concluídas (verificado no artigo, out. 2026) | [F120](../../referencias/fontes.md#f120), [F99](../../referencias/fontes.md#f99) |
+| Transposto para o distrito de Lisboa | ≈ 0,8% de ≈ 1,19 milhões de alojamentos ≈ **8–10 mil licenças/ano** adicionais, *se* o efeito de Auckland se repetisse | [F121](../../referencias/fontes.md#f121); cálculo próprio |
 | Custo público | Baixo (revisão de planos); custos de infraestruturas e serviços não estimados | — |
 | Horizonte | 3–6 anos | — |
 
@@ -36,7 +36,7 @@ Em inglês chama-se *upzoning*.
 | Local | Período | Medida | Resultado principal | Avaliação | Fonte |
 |---|---|---|---|---|---|
 | **Auckland** (Nova Zelândia) | Desde 2016 | Reforma do zonamento em **≈ ¾ do solo residencial**, permitindo construção mais densa | A construção **aumentou** de forma estatisticamente robusta, mesmo admitindo grande deslocação de obras de outras zonas; outro trabalho estima que **duplicou** as licenças por habitante em cinco anos | Causal (revisto por pares) | [F99](../../referencias/fontes.md#f99) |
-| **Auckland** — rendas | 6 anos depois | Mesma reforma | Rendas de novos contratos **≈ 20–30% abaixo** do que seriam sem a reforma (estimativas variam por tipo de casa e versão do estudo) | Causal (documento de trabalho, não revisto por pares) | [F100](../../referencias/fontes.md#f100) |
+| **Auckland** — rendas | 6 anos depois | Mesma reforma | Rendas das casas de 3 quartos **26–33% abaixo** do que seriam sem a reforma (estatisticamente significativo); casas de 2 quartos 21–24% abaixo, mas só significativo em algumas especificações (versão de junho de 2023, verificada no original) | Causal (documento de trabalho, não revisto por pares) | [F100](../../referencias/fontes.md#f100) |
 | **EUA** (11 cidades) | 2010s | Grandes prédios novos em bairros de rendimento baixo | Rendas nas proximidades **≈ 6% mais baixas** do que um pouco mais longe; mais pessoas de bairros pobres a mudar-se para lá | Causal | [F101](../../referencias/fontes.md#f101) |
 | **Chicago** | 2013–2015 | Aumento da construção permitida junto a estações | Nos primeiros cinco anos: **subida do valor dos terrenos** e **nenhum aumento detetável** da construção | Causal (curto prazo) | [F102](../../referencias/fontes.md#f102) |
 

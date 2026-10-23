@@ -63,7 +63,7 @@ Um imposto, ou um agravamento de um imposto existente, sobre casas que ficam **v
 
 **Sim, mas pouco usado.**
 - O **art. 112.º do Código do IMI** permite aos municípios **triplicar** a taxa de IMI em prédios devolutos há mais de um ano ou em ruínas [F76](../../referencias/fontes.md#f76).
-- Em 2019 e em 2023 foram criados agravamentos maiores para **zonas de pressão urbanística** (multiplicadores superiores ao triplo; pormenores a confirmar no CIMI) [F76](../../referencias/fontes.md#f76).
+- Nas **zonas de pressão urbanística** (art. 112.º-B, criado em 2019 e reforçado pela Lei 56/2023), a taxa é **multiplicada por dez**, com mais 20% por cada ano seguinte, até **20 vezes** a taxa normal; a assembleia municipal pode subir esse limite em 50% (casas não arrendadas nem de habitação própria) ou 100% (empresas). A receita adicional fica consignada à política municipal de habitação [F76](../../referencias/fontes.md#f76).
 - **A adesão é baixa:** consoante o ano, apenas **22 a 54 municípios** comunicaram à Autoridade Tributária a aplicação do agravamento, entre 308 [F76](../../referencias/fontes.md#f76).
 - A identificação de devolutos depende de vistorias municipais e de indicadores de consumos, o que é trabalhoso.
 - O **arrendamento coercivo** (Mais Habitação, 2023) foi revogado em 2024 sem aplicação relevante ([06](../../diagnostico/06-politicas-publicas.md)).

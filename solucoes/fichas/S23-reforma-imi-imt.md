@@ -25,7 +25,7 @@ A OCDE recomenda a Portugal tornar o IMI e o IMT "mais eficientes e justos" ([06
 |---|---|---|
 | Efeito do imposto sobre transações | Reino Unido: +2 p.p. → **−30% de mudanças** e de vendas, sobretudo mudanças curtas | [F153](../../referencias/fontes.md#f153) |
 | Transição no Território da Capital Australiana | Substituição gradual do imposto de selo por imposto sobre o valor do terreno, em **20 anos** (desde 2012) | [F154](../../referencias/fontes.md#f154) |
-| Receita em causa em Portugal | IMT e IMI valem vários milhares de milhões de euros por ano, sobretudo para os municípios | Valores exatos a confirmar ([Q16](../../referencias/questoes-em-aberto.md#q16)) |
+| Receita em causa em Portugal (2025) | **IMT ≈ 2.146 M€** (+24% num ano, máximo histórico) e **IMI ≈ 1.589 M€**, ambos receita municipal; juntos ≈ **26%** da receita efetiva total dos municípios (≈ 14,4 mil M€) | [F170](../../referencias/fontes.md#f170); cálculo próprio |
 | Horizonte | Transição de 10–20 anos | — |
 
 ---
@@ -113,4 +113,4 @@ Média. **Juízo interpretativo:** uma transição **gradual e anunciada** (como
 
 ---
 
-Fontes: [F11](../../referencias/fontes.md#f11), [F153](../../referencias/fontes.md#f153), [F154](../../referencias/fontes.md#f154)
+Fontes: [F11](../../referencias/fontes.md#f11), [F170](../../referencias/fontes.md#f170), [F153](../../referencias/fontes.md#f153), [F154](../../referencias/fontes.md#f154)
