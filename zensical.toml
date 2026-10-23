@@ -1,0 +1,134 @@
+# Configuração do site (Zensical). Pré-visualizar: .venv/bin/zensical serve
+[project]
+site_name = "A crise da habitação em Portugal"
+site_description = "Documento aberto para informar, explicar e apoiar o debate público sobre a habitação em Portugal."
+docs_dir = "docs"
+site_dir = "site"
+copyright = "Versão de trabalho · todas as fontes em Referências"
+
+nav = [
+  { "Início" = "README.md" },
+  { "Diagnóstico" = [
+    "diagnostico/00-sumario-executivo.md",
+    "diagnostico/01-precos-e-acessibilidade.md",
+    "diagnostico/02-oferta-e-construcao.md",
+    "diagnostico/03-procura-turismo-estrangeiros.md",
+    "diagnostico/04-credito-e-financas.md",
+    "diagnostico/05-arrendamento-e-historia-legal.md",
+    "diagnostico/06-politicas-publicas.md",
+    "diagnostico/07-impactos-sociais.md",
+    "diagnostico/08-comparacao-internacional.md",
+    "diagnostico/09-causas-e-debates.md",
+    "diagnostico/10-cronologia.md",
+    "diagnostico/11-retrato-territorial.md",
+  ] },
+  { "Soluções" = [
+    "solucoes/README.md",
+    "solucoes/01-objetivos-e-criterios.md",
+    "solucoes/02-catalogo-de-opcoes.md",
+    { "Fichas de evidência" = [
+      "solucoes/fichas/S01-licenciamento.md",
+      "solucoes/fichas/S02-densidade-junto-a-transportes.md",
+      "solucoes/fichas/S03-incentivos-fiscais-a-construcao.md",
+      "solucoes/fichas/S04-construcao-industrializada.md",
+      "solucoes/fichas/S05-construcao-para-arrendamento.md",
+      "solucoes/fichas/S06-construcao-publica.md",
+      "solucoes/fichas/S07-renda-a-custo.md",
+      "solucoes/fichas/S08-cooperativas.md",
+      "solucoes/fichas/S09-financiamento-estavel.md",
+      "solucoes/fichas/S10-politica-de-solos.md",
+      "solucoes/fichas/S11-quotas-de-habitacao-acessivel.md",
+      "solucoes/fichas/S12-imposto-casas-vazias.md",
+      "solucoes/fichas/S13-estado-intermediario.md",
+      "solucoes/fichas/S14-reabilitacao-com-renda-acessivel.md",
+      "solucoes/fichas/S15-herancas-e-propriedade-incerta.md",
+      "solucoes/fichas/S16-regulacao-alojamento-local.md",
+      "solucoes/fichas/S17-mobilidade-e-casas-subocupadas.md",
+      "solucoes/fichas/S18-contratos-longos.md",
+      "solucoes/fichas/S19-limites-as-rendas.md",
+      "solucoes/fichas/S20-garantia-de-renda-e-justica.md",
+      "solucoes/fichas/S21-subsidio-de-renda.md",
+      "solucoes/fichas/S22-residencias-estudantes-e-deslocados.md",
+      "solucoes/fichas/S23-reforma-imi-imt.md",
+      "solucoes/fichas/S24-compradores-nao-residentes.md",
+      "solucoes/fichas/S25-apoios-a-compra.md",
+      "solucoes/fichas/S26-regras-prudenciais-credito.md",
+      "solucoes/fichas/S27-habitacao-primeiro.md",
+      "solucoes/fichas/S28-trabalhadores-essenciais.md",
+      "solucoes/fichas/S29-habitacao-indigna-e-sobrelotacao.md",
+      "solucoes/fichas/S30-planeamento-metropolitano.md",
+      "solucoes/fichas/S31-taxa-turistica.md",
+      "solucoes/fichas/S32-interior.md",
+      "solucoes/fichas/S33-dados-publicos.md",
+    ] },
+    "solucoes/03-avaliacao-comparada.md",
+    "solucoes/04-pacotes-e-cenarios.md",
+    { "Revisões editoriais" = [
+      "solucoes/revisao-editorial-lote-1.md",
+      "solucoes/revisao-editorial-lotes-2-4.md",
+      "solucoes/fichas/_modelo.md",
+    ] },
+  ] },
+  { "Referências" = [
+    "referencias/fontes.md",
+    "referencias/questoes-em-aberto.md",
+    "referencias/verificacao-fontes-out-2026.md",
+    "referencias/glossario.md",
+  ] },
+]
+
+[project.theme]
+language = "pt"
+features = [
+  "content.footnote.tooltips",
+  "content.tooltips",
+  "navigation.footer",
+  "navigation.indexes",
+  "navigation.path",
+  "navigation.sections",
+  "navigation.tabs",
+  "navigation.top",
+  "navigation.tracking",
+  "search.highlight",
+  "toc.follow",
+]
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Mudar para modo claro"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Mudar para modo escuro"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Seguir o sistema"
+
+[project.markdown_extensions]
+abbr = {}
+admonition = {}
+attr_list = {}
+def_list = {}
+footnotes = {}
+md_in_html = {}
+tables = {}
+toc.permalink = true
+pymdownx.betterem = {}
+pymdownx.details = {}
+pymdownx.emoji.emoji_generator = "zensical.extensions.emoji.to_svg"
+pymdownx.emoji.emoji_index = "zensical.extensions.emoji.twemoji"
+pymdownx.magiclink = {}
+pymdownx.smartsymbols = {}
+pymdownx.superfences = {}
+pymdownx.tilde = {}
+
+# Identificadores dos títulos com acentos, como no GitHub (ex.: #5-habitação-pública-cerca-de-2)
+[project.markdown_extensions.toc.slugify]
+object = "pymdownx.slugs.slugify"
+kwds = { case = "lower" }
