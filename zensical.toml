@@ -1,6 +1,7 @@
 # Configuração do site (Zensical). Pré-visualizar: .venv/bin/zensical serve
 [project]
 site_name = "A crise da habitação em Portugal"
+site_url = "https://lockemind.github.io/habitacao/"
 site_description = "Documento aberto para informar, explicar e apoiar o debate público sobre a habitação em Portugal."
 docs_dir = "docs"
 site_dir = "site"
