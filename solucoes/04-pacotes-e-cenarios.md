@@ -2,7 +2,7 @@
 
 > Parte de [Soluções: método e roteiro](README.md) · Anterior: [S4 — Avaliação comparada](03-avaliacao-comparada.md) · Seguinte: S6 — Consulta pública
 
-**Estado:** versão preliminar, construída com as **18 opções que têm ficha** (de 33). Opções ainda sem ficha aparecem assinaladas com ⚪ e não têm números próprios.
+**Estado:** primeira versão completa, construída com as **33 opções** do catálogo, todas com ficha (em rascunho para revisão).
 
 ---
 
@@ -36,14 +36,15 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 
 | # | Medida | Opção | O que faz | Ordem de grandeza |
 |---|---|---|---|---|
-| N1 | **Medir** | ⚪ S33 Dados públicos | Publicar prazos de licenciamento por município, registo de rendas, inventário de imóveis públicos e de casas vazias | Custo baixo; condição para avaliar tudo o resto |
-| N2 | **Criar capacidade** | (transversal) | Técnicos municipais, entidades gestoras locais, financiamento plurianual | Não estimado; a [falta de capacidade](03-avaliacao-comparada.md#55-a-capacidade-de-execução-é-o-estrangulamento-comum) é o estrangulamento comum |
+| N1 | **Medir** | [S33](fichas/S33-dados-publicos.md) Dados públicos | Publicar prazos de licenciamento por município, registo de rendas, inventário de imóveis públicos e de casas vazias | Custo baixo; condição para avaliar tudo o resto |
+| N2 | **Criar capacidade** | [S04](fichas/S04-construcao-industrializada.md) mão de obra e industrialização · [S09](fichas/S09-financiamento-estavel.md) financiamento estável (fundo rotativo) | Técnicos municipais, entidades gestoras locais, financiamento plurianual, formação e encomendas públicas estáveis | Fundo rotativo neutro a prazo; a [falta de capacidade](03-avaliacao-comparada.md#55-a-capacidade-de-execução-é-o-estrangulamento-comum) é o estrangulamento comum |
 | N3 | **Não vender, ceder** | [S10](fichas/S10-politica-de-solos.md) (parcial) | Solo público com aptidão habitacional só é cedido em direito de superfície para habitação acessível | > 4.000 imóveis públicos identificados; custo público nulo |
 | N4 | **Casas vazias com saída** | [S12](fichas/S12-imposto-casas-vazias.md) + [S13](fichas/S13-estado-intermediario.md) | IMI agravado automático nas zonas de pressão; isenção para quem entregue a casa a uma agência local de arrendamento | ≈ 15–20 mil casas postas em uso; receita fiscal; até ≈ 13 mil €/casa/ano no intermediário |
 | N5 | **Licenciamento medido e com meios** | [S01](fichas/S01-licenciamento.md) | Prazos públicos, reforço técnico, via rápida para habitação acessível | Antecipa parte da fila de ≈ 49 mil fogos licenciados/ano |
-| N6 | **Avaliar desde o início** | (transversal) | Medidas de evidência fraca (C/D) começam como pilotos com avaliação independente | Custo baixo |
+| N6 | **Avaliar desde o início** | (transversal) | Medidas de evidência fraca (C/D) começam como pilotos com avaliação independente; medidas já em vigor sem avaliação (IVA a 6%, CIA, IMT de não residentes, garantia pública) passam a ter uma ([S4 — 5.7](03-avaliacao-comparada.md#57-muitas-medidas-já-estão-em-vigor-mas-sem-avaliação-prevista)) | Custo baixo |
+| N7 | **Pôr casas paradas em uso** | [S15](fichas/S15-herancas-e-propriedade-incerta.md) heranças + [S14](fichas/S14-reabilitacao-com-renda-acessivel.md) reabilitação com crédito | Prazos para partilhas, inventários mais rápidos; crédito à reabilitação com renda condicionada | ≈ 2.500 casas/ano por cada 100 M€ de crédito; universo ligado a heranças ≈ 250–350 mil (estimativas não oficiais) |
 
-**Quem perde na base comum:** proprietários de casas vazias em zonas de pressão (N4); municípios que contavam vender património (N3).
+**Quem perde na base comum:** proprietários de casas vazias em zonas de pressão (N4); municípios que contavam vender património (N3); herdeiros que preferem manter casas paradas (N7).
 
 ---
 
@@ -57,9 +58,9 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 
 | Horizonte | Medidas |
 |---|---|
-| 0–2 anos | [S25b](fichas/S25-apoios-a-compra.md) condicionar os apoios à compra a limites de rendimento · [S16](fichas/S16-regulacao-alojamento-local.md) manter o modelo municipal de AL · IVA a 6% na construção (já em vigor) |
-| 2–5 anos | [S02](fichas/S02-densidade-junto-a-transportes.md) reforma metropolitana da densidade junto a estações · [S18](fichas/S18-contratos-longos.md) contratos longos por **incentivo fiscal** (não por lei) |
-| 5–15 anos | Manutenção e ajuste |
+| 0–2 anos | [S25b](fichas/S25-apoios-a-compra.md) condicionar os apoios à compra a limites de rendimento · [S16](fichas/S16-regulacao-alojamento-local.md) manter o modelo municipal de AL · [S03](fichas/S03-incentivos-fiscais-a-construcao.md) IVA a 6% na construção e [S05](fichas/S05-construcao-para-arrendamento.md) Contratos de Investimento para Arrendamento (já em vigor, com avaliação) · [S26](fichas/S26-regras-prudenciais-credito.md) regras prudenciais alinhadas com os apoios |
+| 2–5 anos | [S02](fichas/S02-densidade-junto-a-transportes.md) reforma metropolitana da densidade junto a estações · [S18](fichas/S18-contratos-longos.md) contratos longos por **incentivo fiscal** (não por lei) · [S04](fichas/S04-construcao-industrializada.md) vias de imigração laboral e formação para a construção |
+| 5–15 anos | [S23](fichas/S23-reforma-imi-imt.md) transição gradual do IMT para o IMI · manutenção e ajuste |
 
 **Metas ilustrativas:**
 
@@ -70,13 +71,13 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 | O3 Setor não lucrativo | Mantém ≈ 2–3% (só a meta já existente de 59 mil casas) | — |
 | O6 Estabilidade | Menos pressão nos preços pelo fim dos apoios generalizados | S25b |
 
-**Custo público:** **baixo ou negativo**. Reforço técnico de dezenas de milhões €/ano (pressuposto); poupança até ≈ 146 M€/ano se a isenção de IMT for condicionada ou retirada; infraestruturas associadas à densificação não estimadas.
+**Custo público:** **baixo em despesa, mas com despesa fiscal relevante**. Reforço técnico de dezenas de milhões €/ano (pressuposto); poupança até ≈ 146 M€/ano se a isenção de IMT for condicionada ou retirada; o IVA a 6% custa ≈ 0,3–0,7 mil M€/ano em receita perdida ([S03](fichas/S03-incentivos-fiscais-a-construcao.md)); a receita perdida dos CIA não está estimada; infraestruturas associadas à densificação não estimadas.
 
 | Ganham | Perdem |
 |---|---|
 | Futuros compradores e inquilinos (mais oferta); promotores; proprietários de terreno junto a estações | Jovens sem poupança para a entrada (S25b); residentes de bairros densificados (obras, mudança); inquilinos atuais, sem proteção adicional no curto prazo |
 
-**Riscos principais:** oferta nova concentrada no segmento alto; valorização de terrenos sem construção no curto prazo (caso de Chicago); falta de mão de obra limita a resposta.
+**Riscos principais:** oferta nova concentrada no segmento alto (tetos de 2.300 €/mês em S03 e S05); benefícios fiscais captados por margens e preços; valorização de terrenos sem construção no curto prazo (caso de Chicago); falta de mão de obra limita a resposta.
 
 **Força da evidência:** maioritariamente **A/B**.
 
@@ -92,8 +93,8 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 
 | Horizonte | Medidas |
 |---|---|
-| 0–2 anos | [S10](fichas/S10-politica-de-solos.md) bancos de solos nas cidades médias e quotas em grandes operações · criar a entidade e o fundo rotativo de [S07](fichas/S07-renda-a-custo.md) · [S13](fichas/S13-estado-intermediario.md) agências locais · [S25b](fichas/S25-apoios-a-compra.md) reorientar a verba dos apoios à compra para S07 |
-| 2–5 anos | [S06](fichas/S06-construcao-publica.md) programa plurianual de conjuntos dispersos e para vários rendimentos · [S08](fichas/S08-cooperativas.md) cooperativas de uso em terreno público · [S18](fichas/S18-contratos-longos.md) contrato sem termo como regra, com [S20 garantia e justiça rápida](fichas/S20-garantia-de-renda-e-justica.md) |
+| 0–2 anos | [S10](fichas/S10-politica-de-solos.md) bancos de solos nas cidades médias · [S11](fichas/S11-quotas-de-habitacao-acessivel.md) quotas moderadas (10–20%) em grandes operações, com contrapartidas · criar a entidade de [S07](fichas/S07-renda-a-custo.md) e o fundo rotativo de [S09](fichas/S09-financiamento-estavel.md), capitalizado com fontes existentes (parte da [taxa turística](fichas/S31-taxa-turistica.md), receitas do IHRU, reembolsos do PRR) · [S13](fichas/S13-estado-intermediario.md) agências locais · [S25b](fichas/S25-apoios-a-compra.md) reorientar a verba dos apoios à compra para S07 |
+| 2–5 anos | [S06](fichas/S06-construcao-publica.md) programa plurianual de conjuntos dispersos e para vários rendimentos · [S08](fichas/S08-cooperativas.md) cooperativas de uso em terreno público · [S18](fichas/S18-contratos-longos.md) contrato sem termo como regra, com [S20 garantia e justiça rápida](fichas/S20-garantia-de-renda-e-justica.md) · [S30](fichas/S30-planeamento-metropolitano.md) metas metropolitanas de habitação ligadas a financiamento |
 | 5–15 anos | Crescimento do setor de renda a custo, financiado pelo fundo rotativo |
 
 **Metas ilustrativas:**
@@ -112,6 +113,7 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 | S06, meta de 59 mil casas | ≈ 5 mil M€ (se ao custo do PRR, ≈ 84 mil €/casa) a **9–15 mil M€** (se construção nova em zonas de pressão) | [S06](fichas/S06-construcao-publica.md) |
 | S07, ≈ 120 mil casas | **≈ 2–4 mil M€** com modelo de crédito (15–35 mil €/casa) + garantias; **18–30 mil M€** com subvenção total | [S07](fichas/S07-renda-a-custo.md) |
 | Total por ano | **≈ 0,7–1,9 mil M€/ano** com modelo de crédito; muito mais com subvenção total | Cálculo próprio |
+| Fonte possível | Fundo rotativo ([S09](fichas/S09-financiamento-estavel.md)); uma contribuição de 0,5% + 0,5% sobre salários, à austríaca, renderia ≈ 1,0–1,2 mil M€/ano | [S09](fichas/S09-financiamento-estavel.md) |
 
 | Ganham | Perdem |
 |---|---|
@@ -133,7 +135,7 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 
 | Horizonte | Medidas |
 |---|---|
-| 0–2 anos | [S19](fichas/S19-limites-as-rendas.md) **variante 2**: teto temporário (3 anos) às atualizações em contratos existentes nas zonas de pressão, com **isenção para construção nova** e avaliação obrigatória · [S16](fichas/S16-regulacao-alojamento-local.md) critério nacional mínimo de contenção do AL · [S18](fichas/S18-contratos-longos.md) contrato sem termo · [S25b](fichas/S25-apoios-a-compra.md) reorientar a verba para [S21 subsídio de renda dirigido](fichas/S21-subsidio-de-renda.md) · [S27 Habitação Primeiro](fichas/S27-habitacao-primeiro.md) |
+| 0–2 anos | [S19](fichas/S19-limites-as-rendas.md) **variante 2**: teto temporário (3 anos) às atualizações em contratos existentes nas zonas de pressão, com **isenção para construção nova** e avaliação obrigatória · [S16](fichas/S16-regulacao-alojamento-local.md) critério nacional mínimo de contenção do AL · [S18](fichas/S18-contratos-longos.md) contrato sem termo · [S25b](fichas/S25-apoios-a-compra.md) reorientar a verba para [S21 subsídio de renda dirigido](fichas/S21-subsidio-de-renda.md) · [S27 Habitação Primeiro](fichas/S27-habitacao-primeiro.md) · [S29](fichas/S29-habitacao-indigna-e-sobrelotacao.md) fiscalização da sobrelotação **com realojamento** · [S24](fichas/S24-compradores-nao-residentes.md) manter o IMT de 7,5% para não residentes e consignar a receita adicional |
 | 2–5 anos | Avaliar e decidir se os tetos terminam, se ajustam ou se mantêm |
 | 5–15 anos | Depende do que for combinado do lado da oferta |
 
@@ -143,10 +145,10 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 |---|---|---|
 | O4 Segurança | Atualizações nos contratos existentes ≤ inflação nas zonas de pressão | Irlanda: ≈ 1,3–1,7%/ano em vez de 3,5–4% |
 | O1 Acessibilidade (inquilinos atuais) | ≈ 20 €/mês a menos por ano de contrato numa renda de 900 € | [S19](fichas/S19-limites-as-rendas.md) |
-| O5 Sem-abrigo | Inverter a subida até 2028; casa para as ≈ 9.400 pessoas sem teto | [S27](fichas/S27-habitacao-primeiro.md) (evidência A) |
+| O5 Sem-abrigo e habitação indigna | Inverter a subida até 2028; casa para as ≈ 9.400 pessoas sem teto; realojar as ≈ 26 mil famílias em condições indignas da AML | [S27](fichas/S27-habitacao-primeiro.md) (evidência A); [S29](fichas/S29-habitacao-indigna-e-sobrelotacao.md) |
 | O2 Oferta | **Risco de queda** no arrendamento privado | Catalunha: −36% de novos contratos; Irlanda: queda da oferta |
 
-**Custo público:** **baixo** para a regulação; o subsídio de renda dirigido custa ≈ 210 M€/ano por cada 100 mil agregados ([S21](fichas/S21-subsidio-de-renda.md)), e a Habitação Primeiro ≈ 95–140 M€/ano brutos para cobrir as pessoas sem teto ([S27](fichas/S27-habitacao-primeiro.md)), parcialmente compensados por poupanças noutros serviços. A verba de S25b (≈ 146 M€/ano) seria uma fonte possível.
+**Custo público:** **baixo** para a regulação; o subsídio de renda dirigido custa ≈ 210 M€/ano por cada 100 mil agregados ([S21](fichas/S21-subsidio-de-renda.md)), e a Habitação Primeiro ≈ 95–140 M€/ano brutos para cobrir as pessoas sem teto ([S27](fichas/S27-habitacao-primeiro.md)), parcialmente compensados por poupanças noutros serviços. Realojar as famílias em condições indignas da AML custaria ≈ 3,9–6,5 mil M€ em construção nova, menos com reabilitação ou arrendamento ([S29](fichas/S29-habitacao-indigna-e-sobrelotacao.md)); só é viável num horizonte de vários anos. A verba de S25b (≈ 146 M€/ano) seria uma fonte possível.
 
 | Ganham | Perdem |
 |---|---|
@@ -171,7 +173,7 @@ Medidas que aparecem bem colocadas em **mais de um perfil de valores**, têm **c
 | **O5 Sem-abrigo** | 0 | + | ++ (S27) |
 | **O6 Estabilidade financeira** | + | + | 0 |
 | **Primeiros efeitos** | 2–5 anos | 5–10 anos | Meses |
-| **Custo público** | Baixo ou poupança | **≈ 0,7–1,9 mil M€/ano** (modelo de crédito) | Baixo na regulação; ≈ 0,3–0,35 mil M€/ano com S21 (100 mil agregados) e S27 |
+| **Custo público** | Baixo em despesa; ≈ 0,3–0,7 mil M€/ano de receita perdida no IVA a 6% | **≈ 0,7–1,9 mil M€/ano** (modelo de crédito) | Baixo na regulação; ≈ 0,3–0,35 mil M€/ano com S21 (100 mil agregados) e S27 |
 | **Evidência dominante** | A/B | C | A (riscos) / B (benefícios) |
 | **Capacidade de execução exigida** | Média | **Alta** | Média |
 | **Risco principal** | Oferta só no segmento alto | Não conseguir executar | Queda da oferta de arrendamento |
@@ -184,7 +186,7 @@ Os pacotes **não são exclusivos**. A tabela mostra onde se reforçam e onde ch
 
 | Combinação | Compatibilidade | Porquê |
 |---|---|---|
-| **A + B** | **Alta** | A densificação (S02) e as quotas de habitação acessível (S10) reforçam-se; ambos condicionam os apoios à compra (S25b). Tensão: B exige muito mais despesa pública |
+| **A + B** | **Alta** | A densificação (S02) e as quotas de habitação acessível (S11) reforçam-se; a capacidade de construir (S04) serve os dois; ambos condicionam os apoios à compra (S25b). Tensão: B exige muito mais despesa pública |
 | **B + C** | **Média** | Partilham contratos sem termo (S18) e o objetivo de segurança; o setor não lucrativo (B) depende menos do investimento privado que os limites (C) desencorajam. Tensão: os limites de C podem durar mais do que o tempo que B demora a produzir casas |
 | **A + C** | **Baixa** | Os limites às rendas (S19) desencorajam o investimento privado em arrendamento, de que A depende. A isenção da construção nova atenua, mas não elimina, o conflito |
 
@@ -194,15 +196,15 @@ Os pacotes **não são exclusivos**. A tabela mostra onde se reforçam e onde ch
 
 ## 6. Leitura territorial
 
-| Território | Base comum | A | B | C | Opções específicas (⚪ = sem ficha) |
+| Território | Base comum | A | B | C | Opções específicas |
 |---|---|---|---|---|---|
-| **A** Centros metropolitanos | N1–N6 | S02, S25b | S07, S06, S10 (quotas) | S19, S16 forte | — |
-| **B** Periferias | N1–N6 | **S02** (eixos ferroviários) | S06, S07 | S19 parcial | ⚪ S30 planeamento metropolitano |
-| **C** Turísticos (Algarve, Madeira, Açores) | N1–N6 | S16 | S06, S07, S08 | S16 forte, S19 | [S28 trabalhadores essenciais](fichas/S28-trabalhadores-essenciais.md), [S31 taxa turística](fichas/S31-taxa-turistica.md) |
-| **D** Cidades médias | N1–N6 | S02 | **S10 bancos de solos** (antes da subida de preços) | — | ⚪ S22 residências de estudantes |
-| **E** Interior | N1, N2, N4 | — | S08, S13 | — | [S32](fichas/S32-interior.md) reabilitar + emprego (evidência D: começar por pilotos) |
+| **A** Centros metropolitanos | N1–N7 | S02, S25b, S05 | S07, S06, S11 (quotas) | S19, S16 forte, S29 | [S30](fichas/S30-planeamento-metropolitano.md) planeamento metropolitano, [S17](fichas/S17-mobilidade-e-casas-subocupadas.md) mobilidade |
+| **B** Periferias | N1–N7 | **S02** (eixos ferroviários) | S06, S07 | S19 parcial | [S30](fichas/S30-planeamento-metropolitano.md) planeamento metropolitano |
+| **C** Turísticos (Algarve, Madeira, Açores) | N1–N7 | S16 | S06, S07, S08 | S16 forte, S19, S24 | [S28 trabalhadores essenciais](fichas/S28-trabalhadores-essenciais.md), [S31 taxa turística](fichas/S31-taxa-turistica.md), [S22](fichas/S22-residencias-estudantes-e-deslocados.md) alojamento de trabalhadores sazonais |
+| **D** Cidades médias | N1–N7 | S02 | **S10 bancos de solos** (antes da subida de preços) | — | [S22](fichas/S22-residencias-estudantes-e-deslocados.md) residências de estudantes, [S14](fichas/S14-reabilitacao-com-renda-acessivel.md) reabilitação de centros históricos |
+| **E** Interior | N1, N2, N4, N7 | — | S08, S13 | — | [S32](fichas/S32-interior.md) reabilitar + emprego, [S15](fichas/S15-herancas-e-propriedade-incerta.md) heranças (evidência C/D: começar por pilotos) |
 
-Com o 3.º lote, os **territórios turísticos** passam a ter opções próprias ([S28](fichas/S28-trabalhadores-essenciais.md), [S31](fichas/S31-taxa-turistica.md)) e o **interior** a sua primeira ([S32](fichas/S32-interior.md)), mas todas com evidência fraca (D). Para estes territórios, a abordagem mais prudente parece ser **pilotos com avaliação** (base comum, N6).
+Todos os territórios têm agora opções próprias: os **territórios turísticos** ([S28](fichas/S28-trabalhadores-essenciais.md), [S31](fichas/S31-taxa-turistica.md), [S22](fichas/S22-residencias-estudantes-e-deslocados.md)), as **áreas metropolitanas** ([S30](fichas/S30-planeamento-metropolitano.md)) e o **interior** ([S32](fichas/S32-interior.md), [S15](fichas/S15-herancas-e-propriedade-incerta.md)). Mas quase todas têm evidência fraca (C/D). Para estes territórios, a abordagem mais prudente parece ser **pilotos com avaliação** (base comum, N6).
 
 ---
 
@@ -211,18 +213,18 @@ Com o 3.º lote, os **territórios turísticos** passam a ter opções próprias
 1. Qual dos três pacotes, ou que combinação, está mais próxima das suas prioridades? Porquê?
 2. Quanto **custo público anual** considera aceitável para a habitação (por exemplo, ≈ 0,7–1,9 mil M€/ano no pacote B)?
 3. Que **risco para a oferta** aceita em troca de proteção imediata aos inquilinos (pacote C)?
-4. Concorda que a **base comum** (medir, criar capacidade, não vender solo público, casas vazias com saída, licenciamento com meios, avaliar desde o início) deve avançar **independentemente** do pacote escolhido?
+4. Concorda que a **base comum** (medir, criar capacidade, não vender solo público, casas vazias com saída, licenciamento com meios, avaliar desde o início, pôr casas paradas em uso) deve avançar **independentemente** do pacote escolhido?
 5. Que medidas devem ser **específicas** para o interior e para os territórios turísticos?
 
 ---
 
 ## 8. Limitações
 
-- Construído com **18 de 33 opções**. Opções ainda sem ficha (⚪ S22, S30, S33 e outras) entram sem números.
+- Construído com as **33 opções**, mas as fichas do 4.º lote são mais curtas e assentam em menos fontes; todas estão em rascunho para revisão.
 - Os números são **ilustrativos**, com pressupostos próprios (custo por casa) e transposições de efeitos medidos noutros países.
 - Os pacotes são **arquétipos**. Na prática, qualquer programa político combinará elementos de vários.
 - Os efeitos **macroeconómicos** (juros, crescimento, migração) não são modelados e podem alterar todas as metas.
 
 ---
 
-Base: [avaliação comparada](03-avaliacao-comparada.md) · fichas [S01](fichas/S01-licenciamento.md), [S02](fichas/S02-densidade-junto-a-transportes.md), [S06](fichas/S06-construcao-publica.md), [S07](fichas/S07-renda-a-custo.md), [S08](fichas/S08-cooperativas.md), [S10](fichas/S10-politica-de-solos.md), [S12](fichas/S12-imposto-casas-vazias.md), [S13](fichas/S13-estado-intermediario.md), [S16](fichas/S16-regulacao-alojamento-local.md), [S18](fichas/S18-contratos-longos.md), [S19](fichas/S19-limites-as-rendas.md), [S25](fichas/S25-apoios-a-compra.md)
+Base: [avaliação comparada](03-avaliacao-comparada.md) · as 33 fichas listadas no [catálogo](02-catalogo-de-opcoes.md)
