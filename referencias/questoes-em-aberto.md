@@ -100,3 +100,21 @@ Resolvida em [03](../diagnostico/03-procura-turismo-estrangeiros.md#2-compradore
 - **S28:** número de lugares por preencher nos serviços públicos por falta de habitação (Algarve, Lisboa, Madeira, Açores).
 - **S31:** destino atual da receita da taxa turística nos principais municípios; aplicação efetiva da consignação nas Baleares.
 - **S32:** balanço do Emprego Interior MAIS e de outros incentivos à fixação; custos médios de reabilitação de casas devolutas no interior.
+
+<a id="q16"></a>
+### Q16 — Pontos a verificar nas fichas do 4.º lote
+- **S03:** número de casas licenciadas e concluídas ao abrigo do IVA a 6% e receita perdida; confirmar o teto de preço (≈ 661 mil € vs. 648 mil € nas primeiras notícias).
+- **S04:** custo por casa da construção modular em Portugal; estado do acordo-quadro.
+- **S05:** número de Contratos de Investimento para Arrendamento aprovados, casas e rendas contratadas.
+- **S09:** massa salarial nacional (para dimensionar uma contribuição à austríaca); orçamento atual do *Landsbyggefonden*.
+- **S11:** contrapartidas urbanísticas já negociadas por municípios portugueses; número final de casas da regra dos 30% em Barcelona (54 a 156 consoante a fonte).
+- **S14:** data do balanço de 359 casas do Reabilitar para Arrendar; resultados atuais do programa e do IFRRU.
+- **S15:** contagem oficial de casas paradas por heranças indivisas; duração média dos inventários (fonte oficial).
+- **S17:** taxa de subocupação por idade (Censos 2021 ou EU-SILC, quadro ilc_lvho50c).
+- **S22:** número oficial de estudantes deslocados; balanço final do PNAES depois de agosto de 2026.
+- **S23:** receita anual de IMT e de IMI e peso nas finanças municipais.
+- **S24:** efeito do IMT a 7,5% nas compras por não residentes, por região; exceções no texto final do DL 97/2026.
+- **S26:** texto da Recomendação macroprudencial n.º 1/2026 (LTV e prazos máximos).
+- **S29:** levantamento nacional atualizado de famílias em condições indignas (1.º Direito).
+- **S30:** meta e cumprimento da construção na Île-de-France; competências de planeamento das áreas metropolitanas portuguesas.
+- **S33:** número total de contratos de arrendamento ativos registados na AT.
