@@ -50,8 +50,9 @@ https://www.essential-business.pt/2026/04/08/portugal-is-the-second-country-in-e
 https://www.idealista.pt/en/news/node/71902
 
 <a id="f09"></a>
-**F09** — ECO News, *Houses in Portugal are overvalued by 35%, warns European Commission* (2025). Secundária ●●○
+**F09** — ECO News, *Houses in Portugal are overvalued by 35%, warns European Commission* (2025). Secundária ●●○ **Verificação (out. 2026):** o valor de 35% é do relatório *Housing in the European Union* (out. 2025, dados de 2024). Avaliações posteriores da Comissão dão ≈ 30% (análise aprofundada) e ≈ 25% (2.º semestre de 2025, segundo a Lusa); este último não foi confirmado no documento original.
 https://econews.pt/?p=45560
+https://www.idealista.pt/en/news/property-for-sale-in-portugal/2025/11/04/72084-portugal-has-the-most-overvalued-house-prices-in-the-eu
 
 <a id="f10"></a>
 **F10** — idealista, *Portugal has the worst housing access among OECD countries* (2025), a citar dados da OCDE analisados pelo Expresso/Público. Secundária ●●○
@@ -78,8 +79,9 @@ Ver também: https://www.dn.pt/economia/banco-de-portugal-e-fmi-pedem-mais-ateno
 https://www.idealista.pt/news/imobiliario/habitacao/2026/06/26/76239-rendas-aceleram-e-sobem-9-1-no-arranque-do-ano
 
 <a id="f13"></a>
-**F13** — e-konomista, *Rendas a crescer em Portugal* (set. 2026), a citar o INE (2.º trim. 2026). Secundária ●●○
+**F13** — e-konomista, *Rendas a crescer em Portugal* (set. 2026), a citar o INE (2.º trim. 2026). Secundária ●●○ **Verificação (out. 2026):** destaque do INE de 29-09-2026 (via Observador): 10,17 €/m², +10,2%, 35.407 contratos; município de Lisboa 17,79 €/m² (+5,1%).
 https://www.e-konomista.pt/rendas-a-crescer-em-portugal/
+https://observador.pt/2026/09/29/rendas-medianas-em-portugal-aceleram-para-subida-de-102-em-termos-homologos-diz-ine/
 
 <a id="f14"></a>
 **F14** — Montepio, *Preços das rendas em Portugal* (2026), com tabela por município a partir do INE (1.º trim. 2026). Secundária ●●○
@@ -128,8 +130,9 @@ Séries oficiais INE: https://www.ine.pt/indicador/0013249 (fogos concluídos, a
 https://www.idealista.pt/news/node/31133
 
 <a id="f23"></a>
-**F23** — Diário de Notícias, *Portugal acumulou défice equivalente a 300 mil casas em quatro anos* (17-08-2026), a citar uma análise do *Financial Times* com metodologia do Banco de España. Secundária ●●○
+**F23** — Diário de Notícias, *Portugal acumulou défice equivalente a 300 mil casas em quatro anos* (17-08-2026), a citar uma análise do *Financial Times* com metodologia do Banco de España. Secundária ●●○ **Verificação (out. 2026):** os números (≈ 300 mil; 6,6%; Espanha 3,7%; zona euro 0,5%) vêm do relatório anual de 2025 do Banco de España; a metodologia exata não foi encontrada.
 https://www.dn.pt/economia/portugal-acumulou-dfice-equivalente-a-300-mil-casas-em-quatro-anos
+https://euperspectives.eu/2026/08/renting-in-iberia-good-luck-and-thick-wallet/
 
 <a id="f24"></a>
 **F24** — idealista, *Portugal precisa de 70 mil novas casas por ano, avisam promotores* (2026), sobre posição da APPII. Interessada ●○○
@@ -202,9 +205,10 @@ https://www.idealista.pt/news/node/71885
 ## 6. Crédito e estabilidade financeira
 
 <a id="f37"></a>
-**F37** — Montepio, *Euribor* (página atualizada a jun. 2026) e Cofidis, *O que é a Euribor*, ambos com dados do Banco de Portugal (abril 2026) sobre o tipo de taxa nos novos créditos. Secundária ●●○
+**F37** — Montepio, *Euribor* (página atualizada a jun. 2026) e Cofidis, *O que é a Euribor*, ambos com dados do Banco de Portugal (abril 2026) sobre o tipo de taxa nos novos créditos. Secundária ●●○ **Verificação (out. 2026):** **o valor de 49% refere-se ao crédito em curso, não aos novos créditos.** Nas novas operações de abril de 2026: taxa mista 84,5%, variável 13,92%, fixa 1,57% (Banco de Portugal, via Doutor Finanças).
 https://www.montepio.org/ei/pessoal/euribor/
 https://contasconnosco.cofidis.pt/credito/o-que-e-a-euribor
+https://www.doutorfinancas.pt/creditos/credito-habitacao/peso-da-taxa-variavel-no-credito-habitacao-nunca-foi-tao-baixo/
 
 <a id="f39"></a>
 **F39** — idealista, *Governo mantém garantia pública e afasta impacto no preço das casas* (2026). Secundária ●●○
@@ -279,7 +283,7 @@ https://revistas.rcaap.pt/analisesocial/article/download/44078/30028/207962
 ## 9. Impactos sociais
 
 <a id="f50"></a>
-**F50** — ECO, *Jovens portugueses só saem de casa dos pais quase aos 29 anos. Eurostat "culpa" custo da habitação* (23-09-2025), a citar o Eurostat (dados 2024). Secundária ●●○
+**F50** — ECO, *Jovens portugueses só saem de casa dos pais quase aos 29 anos. Eurostat "culpa" custo da habitação* (23-09-2025), a citar o Eurostat (dados 2024). Secundária ●●○ **Verificação (out. 2026):** confirmado na série `yth_demo_030` do Eurostat ([F173](#f173)).
 https://eco.sapo.pt/2025/09/23/jovens-portugueses-so-saem-de-casa-dos-pais-quase-aos-29-anos-eurostat-culpa-custo-da-habitacao/
 
 <a id="f51"></a>
@@ -993,3 +997,14 @@ https://ec.europa.eu/eurostat/databrowser/view/ilc_lvho50a/default/table
 **F172** — Île-de-France, produção de habitação: INSEE, *Bilan économique 2024 — Construction* (54.300 casas autorizadas e 46.700 iniciadas em 2024); DRIEAT, *La production de logements dans les territoires de l'Île-de-France* (média de 74.580 autorizações/ano em 2018–2022, Sit@del2). Primária ●●●
 https://www.insee.fr/fr/statistiques/8354172
 https://www.drieat.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/la_production_de_logements_dans_les_territoires_de_l_ile-de-france-vdef.pdf
+
+<a id="f173"></a>
+**F173** — Eurostat: índice de preços da habitação, anual (`prc_hpi_a`, base 2015 = 100) e trimestral (`prc_hpi_q`, variação homóloga); idade média de saída de casa dos pais (`yth_demo_030`). Consulta à API em 23-10-2026. Primária ●●●
+https://ec.europa.eu/eurostat/databrowser/view/prc_hpi_a/default/table
+https://ec.europa.eu/eurostat/databrowser/view/prc_hpi_q/default/table
+https://ec.europa.eu/eurostat/databrowser/view/yth_demo_030/default/table
+
+<a id="f174"></a>
+**F174** — BCE, decisão de política monetária de junho de 2026 (subida de 0,25 p.p.; facilidade de depósito 2,25%, a partir de 17-06-2026): resumo do Banco de España; taxas em vigor no Central Bank of Ireland. Primária ●●●
+https://www.bde.es/wbe/en/noticias-eventos/actualidad-bce/decisiones-politica-monetaria/bce-tipos-junio26.html
+https://edit.centralbank.ie/statistics/interest-rates-exchange-rates/ecb-interest-rates

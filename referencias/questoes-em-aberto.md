@@ -8,7 +8,7 @@ Lista de lacunas, contradições entre fontes e números que só foram obtidos v
 
 <a id="q01"></a>
 ### Q01 — Confirmar números do Eurostat e do INE na fonte original
-Vários números (preços 2015–2025 ≈ +180%; IPHab 2.º trim. 2026; rendas por município) vieram de imprensa que cita o INE ou o Eurostat. Confirmar diretamente em ine.pt e na base `prc_hpi_a` / `prc_hpi_q` do Eurostat.
+**Em grande parte resolvida** ([registo de verificação](verificacao-fontes-out-2026.md#parte-2--diagnóstico)): preços 2015–2025 corrigidos para ≈ +164% (eram ≈ +180% na imprensa); IPHab do 2.º trim. 2026 (+16,5%) e posição na UE confirmados no Eurostat; rendas do 2.º trim. 2026 confirmadas no destaque do INE (Lisboa atualizada para 17,79 €/m²); preços locais confirmados no destaque do INE. Falta: confirmar o salário mínimo de 2026 no Diário da República (ver Q07).
 Afeta: [01](../diagnostico/01-precos-e-acessibilidade.md), [08](../diagnostico/08-comparacao-internacional.md).
 
 <a id="q02"></a>
@@ -23,7 +23,7 @@ Afeta: [03](../diagnostico/03-procura-turismo-estrangeiros.md).
 
 <a id="q04"></a>
 ### Q04 — Subida de juros do BCE em junho de 2026
-Uma única fonte refere uma subida de 0,25 p.p. em junho de 2026. Confirmar no site do BCE e o efeito nas prestações.
+**Resolvida** ([registo de verificação](verificacao-fontes-out-2026.md#parte-2--diagnóstico)): subida de 0,25 p.p., com a facilidade de depósito em 2,25% a partir de 17-06-2026 ([F174](fontes.md#f174)). Falta: estimar o efeito nas prestações (a maioria dos novos créditos é de taxa mista, que adia o efeito).
 Afeta: [04](../diagnostico/04-credito-e-financas.md).
 
 <a id="q05"></a>
@@ -46,7 +46,7 @@ Afeta: [06](../diagnostico/06-politicas-publicas.md).
 
 <a id="q08"></a>
 ### Q08 — Séries sociais inconsistentes
-- Idade de saída de casa dos pais: 28,9 anos (2024) vs. 33,6 anos (2021) em fontes diferentes. Verificar a série `yth_demo_030` do Eurostat.
+- ✅ Idade de saída de casa dos pais: a série `yth_demo_030` confirma 28,9 anos em 2024 (28,8 em 2025); o valor de 2021 (33,3) é um pico isolado — [registo de verificação](verificacao-fontes-out-2026.md#parte-2--diagnóstico).
 - Sobrecarga dos inquilinos a preço de mercado (≈ 30%) obtida via agregador.
 - Sobrelotação e condições de habitação dos imigrantes: faltam dados recentes.
 Afeta: [07](../diagnostico/07-impactos-sociais.md).
