@@ -22,9 +22,9 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 |---|---|---|---|---|---|---|
 | [S01](fichas/S01-licenciamento.md) | **Licenciamento rápido e previsível** · 📄 ficha · evidência **A/C** | Prazos curtos e vinculativos, deferimento tácito, processos digitais, menos pareceres | Of | A–D | O2 | Simplex Urbanístico (PT, 2024) |
 | [S02](fichas/S02-densidade-junto-a-transportes.md) | **Mais densidade onde há transportes** · 📄 ficha · evidência **B** | Permitir mais habitação por lote, sobretudo junto a estações e eixos de transporte | Of | A, B, D | O2, O1 | Auckland (Nova Zelândia, reforma do zonamento de 2016); Japão (zonamento nacional permissivo); Califórnia |
-| S03 | **Incentivos fiscais à construção acessível** | IVA reduzido, benefícios em IRS/IRC condicionados a preços ou rendas limitados | Of | A–D | O2 | Pacote fiscal PT 2026 [F46](../referencias/fontes.md#f46); EUA (*Low-Income Housing Tax Credit*) |
-| S04 | **Construção industrializada e mão de obra** | Construção modular/pré-fabricada, formação profissional, imigração laboral para a construção | Of | todos | O2 | Suécia; Países Baixos |
-| S05 | **Construção para arrendamento com contrapartidas** | Investidores institucionais constroem para arrendar, com rendas e duração condicionadas | Of, Ar | A, B, D | O2, O4 | Contratos de Investimento para Arrendamento (PT 2026) [F46](../referencias/fontes.md#f46); Alemanha; Reino Unido |
+| [S03](fichas/S03-incentivos-fiscais-a-construcao.md) | **Incentivos fiscais à construção acessível** · 📄 ficha · evidência **B/C** | IVA reduzido, benefícios em IRS/IRC condicionados a preços ou rendas limitados | Of | A–D | O2 | Pacote fiscal PT 2026 [F46](../referencias/fontes.md#f46); EUA (*Low-Income Housing Tax Credit*) |
+| [S04](fichas/S04-construcao-industrializada.md) | **Construção industrializada e mão de obra** · 📄 ficha · evidência **C** | Construção modular/pré-fabricada, formação profissional, imigração laboral para a construção | Of | todos | O2 | Suécia; Países Baixos |
+| [S05](fichas/S05-construcao-para-arrendamento.md) | **Construção para arrendamento com contrapartidas** · 📄 ficha · evidência **D** | Investidores institucionais constroem para arrendar, com rendas e duração condicionadas | Of, Ar | A, B, D | O2, O4 | Contratos de Investimento para Arrendamento (PT 2026) [F46](../referencias/fontes.md#f46); Alemanha; Reino Unido |
 
 ## Eixo 2 — Um setor público, cooperativo e sem fins lucrativos
 
@@ -33,9 +33,9 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 | [S06](fichas/S06-construcao-publica.md) | **Construção pública em grande escala** · 📄 ficha · evidência **C** | Estado e autarquias constroem habitação para um leque largo de rendimentos, incluindo a classe média | Of | A–D | O3, O1, O2 | Viena [F54](../referencias/fontes.md#f54); Singapura |
 | [S07](fichas/S07-renda-a-custo.md) | **Renda a custo (*cost rental*)** · 📄 ficha · evidência **C** | Rendas fixadas para cobrir o custo de construção e manutenção, sem lucro; parque que se autofinancia | Of, Ar | A–D | O3, O1, O4 | Irlanda (desde 2021); Dinamarca; Áustria (associações de lucro limitado) |
 | [S08](fichas/S08-cooperativas.md) | **Cooperativas de habitação** · 📄 ficha · evidência **C/D** | Moradores constroem e gerem em conjunto, com terreno e crédito apoiados | Of | A–E | O3, O4 | Zurique; Uruguai; Dinamarca; cooperativas portuguesas pós-1974 |
-| S09 | **Financiamento estável e próprio** | Fundo ou banco público dedicado, com receitas regulares (ex.: contribuição sobre salários, fundo rotativo) | Of | todos | O3 | Áustria (0,5% dos salários [F54](../referencias/fontes.md#f54)); Dinamarca (fundo nacional); Finlândia |
+| [S09](fichas/S09-financiamento-estavel.md) | **Financiamento estável e próprio** · 📄 ficha · evidência **C** | Fundo ou banco público dedicado, com receitas regulares (ex.: contribuição sobre salários, fundo rotativo) | Of | todos | O3 | Áustria (0,5% dos salários [F54](../referencias/fontes.md#f54)); Dinamarca (fundo nacional); Finlândia |
 | [S10](fichas/S10-politica-de-solos.md) | **Política de solos públicos** · 📄 ficha · evidência **C** | O Estado compra ou mantém terrenos, cede em direito de superfície, recupera parte das mais-valias urbanísticas | Of | A–D | O3, O2 | Países Baixos; Viena; Singapura; Ulm e Munique (Alemanha) |
-| S11 | **Quotas de habitação acessível** | Novos empreendimentos de certa dimensão reservam uma % para rendas ou preços acessíveis | Of | A, B, C | O1, O3 | Barcelona (regra dos 30%); Munique; Inglaterra |
+| [S11](fichas/S11-quotas-de-habitacao-acessivel.md) | **Quotas de habitação acessível** · 📄 ficha · evidência **B/C** | Novos empreendimentos de certa dimensão reservam uma % para rendas ou preços acessíveis | Of | A, B, C | O1, O3 | Barcelona (regra dos 30%); Munique; Inglaterra |
 
 ## Eixo 3 — Usar melhor as casas que já existem
 
@@ -43,10 +43,10 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 |---|---|---|---|---|---|---|
 | [S12](fichas/S12-imposto-casas-vazias.md) | **Imposto sobre casas vazias** · 📄 ficha · evidência **B** | Tributação crescente de imóveis desocupados há longo tempo | Of | A, B, C | O2, O1 | Vancouver (Canadá); França; IMI agravado para devolutos (PT) |
 | [S13](fichas/S13-estado-intermediario.md) | **O Estado como intermediário do arrendamento** · 📄 ficha · evidência **D** | Entidade pública arrenda casas privadas com garantia de pagamento e obras, e subarrenda a preço acessível | Of, Ar | todos | O1, O4, O3 | Bélgica (agências imobiliárias sociais); França; "Arrendar para Subarrendar" (PT) |
-| S14 | **Reabilitação em troca de renda acessível** | Apoio a obras de devolutos com obrigação de arrendar a preço limitado por X anos | Of | A, C, D, E | O2, O1 | Programas portugueses de reabilitação; Espanha |
-| S15 | **Desbloquear heranças e propriedade incerta** | Procedimentos rápidos para heranças indivisas, cadastro completo, venda forçada de ruínas | Of | D, E | O2 | Cadastro BUPi (PT) |
+| [S14](fichas/S14-reabilitacao-com-renda-acessivel.md) | **Reabilitação em troca de renda acessível** · 📄 ficha · evidência **C** | Apoio a obras de devolutos com obrigação de arrendar a preço limitado por X anos | Of | A, C, D, E | O2, O1 | Programas portugueses de reabilitação; Espanha |
+| [S15](fichas/S15-herancas-e-propriedade-incerta.md) | **Desbloquear heranças e propriedade incerta** · 📄 ficha · evidência **D** | Procedimentos rápidos para heranças indivisas, cadastro completo, venda forçada de ruínas | Of | D, E | O2 | Cadastro BUPi (PT) |
 | [S16](fichas/S16-regulacao-alojamento-local.md) | **Regulação do alojamento local** · 📄 ficha · evidência **B** | Quotas por zona, limites de dias por ano, licenças temporárias, fiscalização | AL | A, C | O1, O2 | Barcelona; Amesterdão; Nova Iorque; zonas de contenção de Lisboa [F29](../referencias/fontes.md#f29) |
-| S17 | **Mobilidade e casas sub-ocupadas** | Facilitar a troca para casas mais pequenas (idosos em casas grandes, permutas de habitação social) | Of | A, B | O2 | A investigar |
+| [S17](fichas/S17-mobilidade-e-casas-subocupadas.md) | **Mobilidade e casas sub-ocupadas** · 📄 ficha · evidência **B/D** | Facilitar a troca para casas mais pequenas (idosos em casas grandes, permutas de habitação social) | Of | A, B | O2 | A investigar |
 
 ## Eixo 4 — Arrendamento estável e justo
 
@@ -56,16 +56,16 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 | [S19](fichas/S19-limites-as-rendas.md) | **Limites às rendas** · 📄 ficha · evidência **A** | Tetos ou travões à subida das rendas em zonas de pressão | Ar | A, C | O1, O4 | Catalunha [F55](../referencias/fontes.md#f55); Berlim (anulado em 2021); Escócia (2022–2024); congelamento português [F42](../referencias/fontes.md#f42) |
 | [S20](fichas/S20-garantia-de-renda-e-justica.md) | **Seguro e garantia de renda + justiça rápida** · 📄 ficha · evidência **C/D** | Garantia pública de pagamento ao senhorio e resolução rápida de litígios, com proteção social em caso de despejo | Ar | todos | O4, O2 | França; revisão do NRAU 2026 [F44](../referencias/fontes.md#f44) |
 | [S21](fichas/S21-subsidio-de-renda.md) | **Subsídio de renda dirigido** · 📄 ficha · evidência **A/B** | Apoio em dinheiro aos inquilinos de baixo rendimento | Ar | todos | O1, O5 | França; Alemanha; Finlândia |
-| S22 | **Residências para estudantes e trabalhadores deslocados** | Alojamento dedicado para quem se desloca para estudar ou trabalhar | Pr | C, D, E | O1 | Plano nacional de alojamento estudantil (PT) |
+| [S22](fichas/S22-residencias-estudantes-e-deslocados.md) | **Residências para estudantes e trabalhadores deslocados** · 📄 ficha · evidência **C/D** | Alojamento dedicado para quem se desloca para estudar ou trabalhar | Pr | C, D, E | O1 | Plano nacional de alojamento estudantil (PT) |
 
 ## Eixo 5 — Procura, fiscalidade e crédito
 
 | ID | Opção | Em que consiste | Causas | Territ. | Objetivos | Exemplos a investigar |
 |---|---|---|---|---|---|---|
-| S23 | **Reforma do IMI e do IMT** | Menos imposto na compra (IMT), mais na posse (IMI), atualização dos valores patrimoniais | Of, Es | todos | O2, O6 | Recomendação da OCDE [F11](../referencias/fontes.md#f11); Austrália (Território da Capital) |
-| S24 | **Limites a compradores não residentes** | Proibição ou imposto adicional sobre compras por não residentes | Es | A, C | O1 | Canadá; Nova Zelândia; agravamento do IMT (PT) [F59](../referencias/fontes.md#f59) |
+| [S23](fichas/S23-reforma-imi-imt.md) | **Reforma do IMI e do IMT** · 📄 ficha · evidência **B** | Menos imposto na compra (IMT), mais na posse (IMI), atualização dos valores patrimoniais | Of, Es | todos | O2, O6 | Recomendação da OCDE [F11](../referencias/fontes.md#f11); Austrália (Território da Capital) |
+| [S24](fichas/S24-compradores-nao-residentes.md) | **Limites a compradores não residentes** · 📄 ficha · evidência **C** | Proibição ou imposto adicional sobre compras por não residentes | Es | A, C | O1 | Canadá; Nova Zelândia; agravamento do IMT (PT) [F59](../referencias/fontes.md#f59) |
 | [S25](fichas/S25-apoios-a-compra.md) | **Apoios à compra: manter, ajustar ou retirar** · 📄 ficha · evidência **B** | Manter, condicionar a limites de rendimento, ligar à construção nova, reorientar ou retirar a garantia pública e a isenção de IMT | Ap | todos | O1, O6 | Recomendação do FMI [F38](../referencias/fontes.md#f38); Reino Unido (*Help to Buy*) |
-| S26 | **Regras prudenciais no crédito** | Limites ao valor financiado e à taxa de esforço | Cr | todos | O6 | Banco de Portugal [F38](../referencias/fontes.md#f38) |
+| [S26](fichas/S26-regras-prudenciais-credito.md) | **Regras prudenciais no crédito** · 📄 ficha · evidência **B** | Limites ao valor financiado e à taxa de esforço | Cr | todos | O6 | Banco de Portugal [F38](../referencias/fontes.md#f38) |
 
 ## Eixo 6 — Pessoas mais vulneráveis
 
@@ -73,16 +73,16 @@ Esta é uma **lista longa e deliberadamente abrangente**: inclui opções de tod
 |---|---|---|---|---|---|---|
 | [S27](fichas/S27-habitacao-primeiro.md) | **Habitação Primeiro (*Housing First*)** · 📄 ficha · evidência **A** | Dar casa permanente primeiro, com apoio social depois, a pessoas em situação de sem-abrigo | — | A, B | O5 | Finlândia; ENIPSSA (PT) [F51](../referencias/fontes.md#f51) |
 | [S28](fichas/S28-trabalhadores-essenciais.md) | **Habitação para trabalhadores essenciais** · 📄 ficha · evidência **D** | Casas reservadas para professores, profissionais de saúde, forças de segurança | Pr, AL | C, E | O1 | Reino Unido; Ibiza (Espanha) |
-| S29 | **Combate à habitação indigna e sobrelotação** | Inspeção, sanções a senhorios abusivos, realojamento | Pr | A, B, C | O5 | Programa 1.º Direito (PT) [F48](../referencias/fontes.md#f48) |
+| [S29](fichas/S29-habitacao-indigna-e-sobrelotacao.md) | **Combate à habitação indigna e sobrelotação** · 📄 ficha · evidência **C/D** | Inspeção, sanções a senhorios abusivos, realojamento | Pr | A, B, C | O5 | Programa 1.º Direito (PT) [F48](../referencias/fontes.md#f48) |
 
 ## Eixo 7 — Território e governação
 
 | ID | Opção | Em que consiste | Causas | Territ. | Objetivos | Exemplos a investigar |
 |---|---|---|---|---|---|---|
-| S30 | **Planeamento metropolitano integrado** | Habitação planeada em conjunto com transportes à escala das áreas metropolitanas | Of | A, B | O2 | A investigar |
+| [S30](fichas/S30-planeamento-metropolitano.md) | **Planeamento metropolitano integrado** · 📄 ficha · evidência **C** | Habitação planeada em conjunto com transportes à escala das áreas metropolitanas | Of | A, B | O2 | A investigar |
 | [S31](fichas/S31-taxa-turistica.md) | **Taxa turística afetada à habitação** · 📄 ficha · evidência **D** | Parte da receita do turismo financia habitação local | AL | A, C | O3 | Proposta discutida no Funchal [F63](../referencias/fontes.md#f63); a investigar |
 | [S32](fichas/S32-interior.md) | **Interior: reabilitar + emprego** · 📄 ficha · evidência **D** | Recuperar casas vagas para arrendamento público, articulado com incentivos à fixação | Of | E | O2 | Emprego Interior MAIS [F64](../referencias/fontes.md#f64) |
-| S33 | **Dados públicos sobre habitação** | Registo de rendas, de casas vazias e de AL, com dados abertos e atualizados | todas | todos | todos | Lacunas identificadas em [questões em aberto](../referencias/questoes-em-aberto.md) |
+| [S33](fichas/S33-dados-publicos.md) | **Dados públicos sobre habitação** · 📄 ficha · evidência **D** | Registo de rendas, de casas vazias e de AL, com dados abertos e atualizados | todas | todos | todos | Lacunas identificadas em [questões em aberto](../referencias/questoes-em-aberto.md) |
 
 ---
 
@@ -111,7 +111,7 @@ Sugere-se começar pelas opções que **(a)** respondem à causa principal, **(b
 | **1.º lote** ✅ | [S07](fichas/S07-renda-a-custo.md) renda a custo · [S10](fichas/S10-politica-de-solos.md) política de solos · [S12](fichas/S12-imposto-casas-vazias.md) imposto sobre casas vazias · [S16](fichas/S16-regulacao-alojamento-local.md) regulação do AL · [S19](fichas/S19-limites-as-rendas.md) limites às rendas · [S25](fichas/S25-apoios-a-compra.md) apoios à compra (manter, ajustar ou retirar) | Grandes debates em Portugal e boa evidência internacional |
 | **2.º lote** ✅ | [S01](fichas/S01-licenciamento.md) licenciamento · [S02](fichas/S02-densidade-junto-a-transportes.md) densidade · [S06](fichas/S06-construcao-publica.md) construção pública · [S08](fichas/S08-cooperativas.md) cooperativas · [S13](fichas/S13-estado-intermediario.md) Estado intermediário · [S18](fichas/S18-contratos-longos.md) contratos longos | Oferta e arrendamento estável |
 | **3.º lote** ✅ | [S20](fichas/S20-garantia-de-renda-e-justica.md) garantia e justiça rápida · [S21](fichas/S21-subsidio-de-renda.md) subsídio de renda · [S27](fichas/S27-habitacao-primeiro.md) Habitação Primeiro · [S28](fichas/S28-trabalhadores-essenciais.md) trabalhadores essenciais · [S31](fichas/S31-taxa-turistica.md) taxa turística · [S32](fichas/S32-interior.md) interior | Lacunas dos pacotes (S5): proteção imediata, territórios turísticos e interior |
-| 4.º lote | restantes (15) | — |
+| **4.º lote** ✅ | [S03](fichas/S03-incentivos-fiscais-a-construcao.md) · [S04](fichas/S04-construcao-industrializada.md) · [S05](fichas/S05-construcao-para-arrendamento.md) · [S09](fichas/S09-financiamento-estavel.md) · [S11](fichas/S11-quotas-de-habitacao-acessivel.md) · [S14](fichas/S14-reabilitacao-com-renda-acessivel.md) · [S15](fichas/S15-herancas-e-propriedade-incerta.md) · [S17](fichas/S17-mobilidade-e-casas-subocupadas.md) · [S22](fichas/S22-residencias-estudantes-e-deslocados.md) · [S23](fichas/S23-reforma-imi-imt.md) · [S24](fichas/S24-compradores-nao-residentes.md) · [S26](fichas/S26-regras-prudenciais-credito.md) · [S29](fichas/S29-habitacao-indigna-e-sobrelotacao.md) · [S30](fichas/S30-planeamento-metropolitano.md) · [S33](fichas/S33-dados-publicos.md) | Completar o catálogo: fichas mais curtas, para as opções menos debatidas ou instrumentais |
 
 ---
 

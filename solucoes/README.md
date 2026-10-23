@@ -24,9 +24,9 @@ O objetivo não é defender um programa político. É dar a quem participa na co
 |---|---|---|---|
 | **S1** | Definir objetivos mensuráveis e critérios de avaliação | [01 — Objetivos e critérios](01-objetivos-e-criterios.md) | ✅ proposta para validação |
 | **S2** | Lista longa de opções, ligadas às causas e aos territórios | [02 — Catálogo de opções](02-catalogo-de-opcoes.md) | ✅ proposta para validação |
-| **S3** | Uma **ficha de evidência** por opção: onde foi testada, resultados, avaliações, transferibilidade para Portugal | [modelo](fichas/_modelo.md) | 🔄 3 lotes feitos (18 de 33) |
-| **S4** | Avaliação comparada de todas as opções com os mesmos critérios | [03 — Avaliação comparada](03-avaliacao-comparada.md) | 🔄 versão preliminar (18 opções) |
-| **S5** | Combinar opções em **pacotes coerentes** por horizonte temporal e tipo de território | [04 — Pacotes e cenários](04-pacotes-e-cenarios.md) | 🔄 versão preliminar (base comum + 3 pacotes) |
+| **S3** | Uma **ficha de evidência** por opção: onde foi testada, resultados, avaliações, transferibilidade para Portugal | [modelo](fichas/_modelo.md) | ✅ 4 lotes (33 de 33), em rascunho para revisão |
+| **S4** | Avaliação comparada de todas as opções com os mesmos critérios | [03 — Avaliação comparada](03-avaliacao-comparada.md) | ✅ primeira versão completa (33 opções) |
+| **S5** | Combinar opções em **pacotes coerentes** por horizonte temporal e tipo de território | [04 — Pacotes e cenários](04-pacotes-e-cenarios.md) | ✅ primeira versão completa (base comum + 3 pacotes) |
 | **S6** | Preparar a **consulta pública**: perguntas, escolhas em aberto, forma de participação | `05-consulta-publica.md` | ⏳ por fazer |
 
 Cada etapa só avança depois de a anterior estar revista.
@@ -67,6 +67,28 @@ Revistas quanto a equilíbrio e rigor: ver o [registo da revisão editorial](rev
 | [S28 — Trabalhadores essenciais](fichas/S28-trabalhadores-essenciais.md) | D | Responde a serviços públicos sem profissionais; em Portugal, 15 casas para 388 professores selecionados; questões de equidade |
 | [S31 — Taxa turística para habitação](fichas/S31-taxa-turistica.md) | D | Consignar 25% (como Barcelona) daria ≈ 25–35 M€/ano: 100–230 casas/ano com subvenção ou 700–2.300 com crédito |
 | [S32 — Interior: reabilitar + emprego](fichas/S32-interior.md) | D | Casas baratas sem emprego atraem segundas habitações (Itália: só ≈ 10% passou a residir); desenhar a partir do emprego e testar em pilotos |
+
+### Fichas disponíveis (4.º lote)
+
+Fichas mais curtas, para completar o catálogo.
+
+| Ficha | Evidência | Em síntese |
+|---|---|---|
+| [S03 — Incentivos fiscais à construção](fichas/S03-incentivos-fiscais-a-construcao.md) | B / C | IVA a 6% poupa ≈ 15–24 mil €/casa; nos EUA, o crédito fiscal substitui parte da construção privada em mercados quentes; custo fiscal ≈ 0,3–0,7 mil M€/ano |
+| [S04 — Construção industrializada e mão de obra](fichas/S04-construcao-industrializada.md) | C | Ganho de prazo provável; na Suécia a pré-fabricação não baixou custos; exige encomendas estáveis |
+| [S05 — Construção para arrendamento](fichas/S05-construcao-para-arrendamento.md) | D | CIA em vigor desde out. 2026: benefícios fiscais por 10–25 anos de arrendamento; teto de 2.300 €/mês |
+| [S09 — Financiamento estável](fichas/S09-financiamento-estavel.md) | C | Áustria (0,5% + 0,5% dos salários) e Dinamarca (fundo rotativo) financiam setores grandes há décadas; equivalente português ≈ 1 mil M€/ano |
+| [S11 — Quotas de habitação acessível](fichas/S11-quotas-de-habitacao-acessivel.md) | B / C | Nos EUA, sem efeito na construção e preços ≈ +2%; em Barcelona (30%), ≈ 10% das casas previstas |
+| [S14 — Reabilitação com renda acessível](fichas/S14-reabilitacao-com-renda-acessivel.md) | C | ≈ 38 mil €/casa, sobretudo crédito; adesão baixa quando a renda exigida fica longe do mercado |
+| [S15 — Heranças e propriedade incerta](fichas/S15-herancas-e-propriedade-incerta.md) | D | ≈ 250–350 mil casas ligadas a heranças (estimativas não oficiais); arrendamento coercivo revogado; justiça lenta |
+| [S17 — Mobilidade e casas subocupadas](fichas/S17-mobilidade-e-casas-subocupadas.md) | B / D | Impostos sobre transações reduzem as mudanças ≈ 30% (Reino Unido); incentivos à mudança não testados |
+| [S22 — Residências para estudantes e deslocados](fichas/S22-residencias-estudantes-e-deslocados.md) | C / D | PNAES com 27% das camas prontas em jun. 2026; ≈ 60 mil €/cama |
+| [S23 — Reforma do IMI e do IMT](fichas/S23-reforma-imi-imt.md) | B | O IMT reduz a mobilidade; transição de 20 anos na Austrália (ACT); proteger proprietários de baixo rendimento |
+| [S24 — Limites a compradores não residentes](fichas/S24-compradores-nao-residentes.md) | C | IMT de 7,5% em vigor; no Canadá e na Nova Zelândia, compras caíram muito mas preços pouco |
+| [S26 — Regras prudenciais no crédito](fichas/S26-regras-prudenciais-credito.md) | B | Reduzem o endividamento e moderam o crédito; DSTI desceu para 45%; tensão com a garantia pública a 100% |
+| [S29 — Habitação indigna e sobrelotação](fichas/S29-habitacao-indigna-e-sobrelotacao.md) | C / D | 1,2 milhões de pessoas em sobrelotação; 26 mil famílias em condições indignas na AML; fiscalizar exige realojar |
+| [S30 — Planeamento metropolitano](fichas/S30-planeamento-metropolitano.md) | C | Copenhaga e Paris planeiam habitação à escala metropolitana; as áreas metropolitanas portuguesas não têm essa competência |
+| [S33 — Dados públicos](fichas/S33-dados-publicos.md) | D | Condição para avaliar tudo; o INE suspendeu as rendas 8 meses; o modelo irlandês é o mais próximo |
 
 ---
 

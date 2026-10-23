@@ -41,9 +41,9 @@ Reúne dados, estudos e experiências de outros países sobre a crise da habita�
 | — | [Método e roteiro](solucoes/README.md) | ✅ |
 | S1 | [Objetivos e critérios de avaliação](solucoes/01-objetivos-e-criterios.md) | ✅ proposta para validação |
 | S2 | [Catálogo de opções (lista longa)](solucoes/02-catalogo-de-opcoes.md) | ✅ proposta para validação |
-| S3 | Fichas de evidência por opção — [1.º](solucoes/README.md#fichas-disponíveis-1º-lote), [2.º](solucoes/README.md#fichas-disponíveis-2º-lote) e [3.º lote](solucoes/README.md#fichas-disponíveis-3º-lote) | 🔄 18 de 33 |
-| S4 | [Avaliação comparada](solucoes/03-avaliacao-comparada.md) | 🔄 preliminar (18 opções) |
-| S5 | [Pacotes e cenários](solucoes/04-pacotes-e-cenarios.md) | 🔄 preliminar |
+| S3 | Fichas de evidência por opção — [1.º](solucoes/README.md#fichas-disponíveis-1º-lote), [2.º](solucoes/README.md#fichas-disponíveis-2º-lote), [3.º](solucoes/README.md#fichas-disponíveis-3º-lote) e [4.º lote](solucoes/README.md#fichas-disponíveis-4º-lote) | ✅ 33 de 33 (rascunho para revisão) |
+| S4 | [Avaliação comparada](solucoes/03-avaliacao-comparada.md) | ✅ primeira versão (33 opções) |
+| S5 | [Pacotes e cenários](solucoes/04-pacotes-e-cenarios.md) | ✅ primeira versão |
 | S6 | Consulta pública | ⏳ |
 
 ## Referências
