@@ -2,7 +2,7 @@
 
 > Parte da investigação [A crise da habitação em Portugal](../README.md) · Ver também [fontes](fontes.md) · [Questões em aberto](questoes-em-aberto.md) · [Revisão editorial dos lotes 2 a 4](../solucoes/revisao-editorial-lotes-2-4.md)
 
-**Data:** 23 de outubro de 2026 · **Duas partes:** [1 — fichas de soluções](#resumo) (22 números, 6 corrigidos) e [2 — diagnóstico](#parte-2--diagnóstico) (18 números, 4 corrigidos).
+**Data:** 23 de outubro de 2026 · **Três partes:** [1 — fichas de soluções](#resumo) (22 números, 6 corrigidos), [2 — sumário executivo](#parte-2--diagnóstico) (18 números, 4 corrigidos) e [3 — restantes capítulos do diagnóstico](#parte-3--restantes-capítulos-do-diagnóstico) (20 números, 4 corrigidos). [Balanço das três partes](#balanço-das-três-partes).
 
 **Âmbito da parte 1:** números citados nas fichas de soluções que constavam de [Q12–Q16](questoes-em-aberto.md#q12) como "a verificar", com prioridade para os que entram nas ordens de grandeza, na [avaliação comparada](../solucoes/03-avaliacao-comparada.md) e nos [pacotes](../solucoes/04-pacotes-e-cenarios.md).
 
@@ -140,3 +140,69 @@ Dos 18 números verificados no diagnóstico, **4 estavam errados ou desatualizad
 - **números da imprensa** que não coincidem com a base original (+180%);
 - **confusão de universos** (crédito em curso vs. novos créditos);
 - **números antigos** misturados com números recentes (renda de Lisboa, sobrevalorização).
+
+---
+
+## Parte 3 — Restantes capítulos do diagnóstico
+
+**Âmbito:** números e estudos citados nos capítulos [02](../diagnostico/02-oferta-e-construcao.md), [03](../diagnostico/03-procura-turismo-estrangeiros.md), [05](../diagnostico/05-arrendamento-e-historia-legal.md), [06](../diagnostico/06-politicas-publicas.md), [07](../diagnostico/07-impactos-sociais.md) e [11](../diagnostico/11-retrato-territorial.md). Leu-se o texto integral dos dois estudos mais citados (*Economies* 2026; Franco & Santos 2021) e consultou-se o Eurostat diretamente.
+
+### Correções
+
+| Documento | Antes | Depois | Fonte verificada |
+|---|---|---|---|
+| [00](../diagnostico/00-sumario-executivo.md), [03](../diagnostico/03-procura-turismo-estrangeiros.md), [09](../diagnostico/09-causas-e-debates.md) | O estudo *Economies* "não encontra efeito da imigração **nos preços**, quando se controlam a economia e a **construção**" | O estudo mede o **valor das transações** (não os preços nem as rendas), só no **curto prazo**, com dados de imigração de 2009–2023, e controla o PIB e o **crédito**, não a construção. Os autores admitem um efeito **indireto**. O que pesa no modelo é o **PIB e as condições de crédito** | Artigo original ([F25](fontes.md#f25)) |
+| [00](../diagnostico/00-sumario-executivo.md), [02](../diagnostico/02-oferta-e-construcao.md), [09](../diagnostico/09-causas-e-debates.md) | "Em 2025 construíram-se ≈ 70% menos casas do que em 2000" (atribuído ao estudo *Economies*) | **Não consta do artigo.** Dado comparável encontrado: licenciamento de ≈ 114 mil habitações em 2001 contra ≈ 49 mil em 2025 (**≈ −57%**) | [F25](fontes.md#f25), [F175](fontes.md#f175) |
+| [06](../diagnostico/06-politicas-publicas.md), [S03](../solucoes/fichas/S03-incentivos-fiscais-a-construcao.md) | IVA a 6%: "renda entre 400 € e 2.300 €"; "obras licenciadas a partir de 23-09-2025" | Venda para **habitação própria e permanente** do comprador (até 660.982 €, em 24 meses) ou arrendamento até 2.300 €; processo camarário iniciado **entre 25-09-2025 e 31-12-2029**. Não se encontrou limite mínimo de renda | Análise da AICCOPN ao DL 97/2026 ([F46](fontes.md#f46)) |
+| [03](../diagnostico/03-procura-turismo-estrangeiros.md) | "Lisboa concentra ≈ 606 mil residentes estrangeiros" | Valor não encontrado. O INE dá **546.419 na Grande Lisboa** (34,2%) | INE, via imprensa ([F36](fontes.md#f36)) |
+
+**O que muda na leitura:** a correção do estudo *Economies* é a mais importante desta parte. O diagnóstico usava-o para dizer que a imigração não pesa nos preços. O estudo **não permite essa conclusão**: só diz que, no curto prazo, os fluxos de novos imigrantes não acrescentam explicação ao valor das transações, para além do PIB e do crédito. Fica por estudar o efeito nas **rendas** e no **longo prazo**. O texto foi reformulado sem tomar partido, e a questão volta a estar em aberto.
+
+### Precisões e dados novos
+
+| Documento | Ponto | Resultado | Fonte |
+|---|---|---|---|
+| [03](../diagnostico/03-procura-turismo-estrangeiros.md) | Brasileiros residentes (≈ 574 mil, 36%) | Confirmado pelo **INE** (574.195; 35,9%). A **AIMA**, que conta só títulos de residência, dá 493.622 (31,1%). As duas fontes passam a ser indicadas | [F36](fontes.md#f36) |
+| [07](../diagnostico/07-impactos-sociais.md) | Sobrecarga dos inquilinos a preço de mercado: ≈ 30% (via agregador) | Confirmado: **30,3% em 2024**; desce para 27,2% em 2025 (UE: 18,6%) | Eurostat ([F176](fontes.md#f176)) |
+| [07](../diagnostico/07-impactos-sociais.md) | "Não há dados recentes sobre sobrelotação de imigrantes" | Lacuna preenchida: **≈ 29%** entre adultos com cidadania de fora da UE (2025) | Eurostat ([F171](fontes.md#f171)) |
+
+### Confirmados
+
+| Número | Fonte verificada |
+|---|---|
+| Alojamento local: +1 p.p. de AL no parque → +3,7% no preço (municípios); +3,2% (freguesias de Lisboa e Porto) | Franco & Santos (2021), artigo publicado ([F27](fontes.md#f27)) |
+| 28% das compras por compradores de nacionalidade estrangeira (2025) | Banco de Portugal, *Relatório de Estabilidade Financeira* (via imprensa) |
+| Vistos gold ≈ 3% do investimento na compra de casas | Cálculo do fact-check do Observador. A classificação "falso" refere-se a outra afirmação (impacto nulo) |
+| População de 11,42 milhões; ≈ 1,6 milhões de estrangeiros (≈ 14%) | INE e AIMA (via imprensa) |
+| Odemira: cerca de metade da população é estrangeira | AIMA 2025 (22.038 em 44.043) |
+| Sobrecarga com custos de habitação: 6,9% em Portugal e 8,2% na UE (2024) | Eurostat |
+| Votação da revisão do NRAU (30-09-2026): PSD, IL e CDS a favor; abstenção do Chega; restantes partidos contra | RTP, JN, Renascença ([F44](fontes.md#f44)) |
+| Avaliação bancária nos Açores: +24,0% (junho de 2026), a maior subida do país | INE (via imprensa) |
+| Emprego Interior MAIS: ≈ 3.760 € (7 × IAS) | Guia com valores de 2026; Portaria 174/2020 |
+| Salário mínimo de 2026: 920 € | DL 97/2026 (2.300 € = 2,5 × salário mínimo) |
+
+### Não verificados
+
+- **Censos 2021:** 5.970.677 alojamentos clássicos e 723.215 vagos. Os resultados provisórios dão 723.214 vagos e 5.981.482 alojamentos no total (incluindo não clássicos), o que é consistente, mas não se encontrou o quadro definitivo.
+- **≈ 255 mil contratos com rendas antigas:** continua a ser uma estimativa de uma associação de proprietários (fonte interessada).
+- **Lei 2030 de 1948** e período de 1974–1985 ([Q06](questoes-em-aberto.md#q06)): por documentar.
+- **Turismo** (29,9 milhões de hóspedes) e **registos de AL** em Lisboa e Porto: não verificados nesta fase.
+
+### Achado a integrar
+
+Na pesquisa encontrou-se um estudo do ISCTE segundo o qual o benefício da **isenção de IMT para jovens** foi absorvido pela subida dos preços. Se se confirmar no original, é evidência relevante para [S25 — Apoios à compra](../solucoes/fichas/S25-apoios-a-compra.md), que hoje diz que o efeito nos preços não foi avaliado. Fica registado para a próxima atualização das fichas.
+
+### Balanço das três partes
+
+| Parte | Números verificados | Erros corrigidos |
+|---|---|---|
+| 1 — Fichas de soluções | 22 | 6 |
+| 2 — Sumário executivo e números principais | 18 | 4 |
+| 3 — Restantes capítulos | 20 | 4 |
+| **Total** | **60** | **14** |
+
+Cerca de **1 em cada 4 números** verificados tinha um problema. Nenhum erro inverte uma conclusão sobre o que fazer, mas dois mudavam a forma de ler as causas da crise:
+- o efeito da imigração, que um estudo não permitia descartar como se dizia;
+- o tipo de taxa nos novos créditos.
+
+A lição para a consulta pública é que **os números devem ser lidos sempre no original**, e que os estudos devem ser descritos pelo que de facto medem.

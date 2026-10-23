@@ -51,7 +51,7 @@ Reúne dados, estudos e experiências de outros países sobre a crise da habita�
 - [Fontes](referencias/fontes.md): todas as fontes, com tipo e grau de fiabilidade
 - [Glossário](referencias/glossario.md): siglas e termos
 - [Questões em aberto](referencias/questoes-em-aberto.md): o que falta verificar ou investigar
-- [Verificação nas fontes originais (out. 2026)](referencias/verificacao-fontes-out-2026.md): 40 números das fichas e do diagnóstico confrontados com a fonte; 10 corrigidos
+- [Verificação nas fontes originais (out. 2026)](referencias/verificacao-fontes-out-2026.md): 60 números das fichas e do diagnóstico confrontados com a fonte; 14 corrigidos
 
 ---
 
@@ -73,4 +73,4 @@ referencias/              Fontes · Glossário · Questões em aberto
 - **Factos separados de interpretação.** Cálculos próprios e juízos interpretativos estão assinalados.
 - **Contradições à vista.** Quando as fontes discordam, mostra-se a discordância. As que ficaram por resolver estão em [questões em aberto](referencias/questoes-em-aberto.md).
 - **Neutralidade nas soluções.** O catálogo inclui opções de todo o espetro político. A evidência informa; as escolhas entre objetivos ficam para o debate público.
-- **Limitação conhecida:** vários números oficiais foram obtidos através de imprensa que os cita. A verificação na fonte original está em curso: feita para os números das fichas de soluções e do sumário executivo ([registo](referencias/verificacao-fontes-out-2026.md)); falta para os restantes números do diagnóstico ([questões em aberto](referencias/questoes-em-aberto.md)).
+- **Limitação conhecida:** vários números oficiais foram obtidos através de imprensa que os cita. A verificação na fonte original está em curso: feita para 60 números das fichas e do diagnóstico ([registo](referencias/verificacao-fontes-out-2026.md)); os que ficaram por verificar estão nas [questões em aberto](referencias/questoes-em-aberto.md).
