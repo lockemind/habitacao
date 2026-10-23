@@ -1,8 +1,8 @@
-# S4 — Avaliação comparada (versão preliminar: 18 opções)
+# S4 — Avaliação comparada (33 opções)
 
-> Parte de [Soluções: método e roteiro](README.md) · Anterior: [S2 — Catálogo](02-catalogo-de-opcoes.md) · Base: [fichas do 1.º e 2.º lotes](README.md#fichas-disponíveis-1º-lote) · Critérios: [S1](01-objetivos-e-criterios.md)
+> Parte de [Soluções: método e roteiro](README.md) · Anterior: [S2 — Catálogo](02-catalogo-de-opcoes.md) · Base: [fichas dos quatro lotes](README.md#fichas-disponíveis-1º-lote) · Critérios: [S1](01-objetivos-e-criterios.md)
 
-**Estado:** versão preliminar, feita com as 18 opções que já têm ficha (de 33; o 3.º lote acrescentou S20, S21, S27, S28, S31 e S32). Serve para **testar o método** antes de completar o catálogo. As conclusões podem mudar quando entrarem as restantes opções.
+**Estado:** primeira versão completa, com as **33 opções do catálogo** (o 4.º lote acrescentou S03, S04, S05, S09, S11, S14, S15, S17, S22, S23, S24, S26, S29, S30 e S33). As classificações vêm de fichas que estão todas em **rascunho para revisão**; podem mudar com a revisão editorial e com a verificação das fontes.
 
 ---
 
@@ -10,8 +10,9 @@
 
 - **Os valores vêm das fichas.** Esta página não acrescenta evidência nova; junta numa só vista o que cada ficha diz. Quem discordar de um valor deve ver a justificação na ficha respetiva.
 - **Não há pontuação total nem pesos.** Somar critérios exigiria decidir quanto vale cada um (por exemplo, rapidez vs. impacto estrutural), e isso é uma **escolha de valores** que cabe à consulta pública. A secção 6 mostra como a ordenação muda consoante essas escolhas.
-- **Algumas classificações são derivadas.** Nas fichas, os riscos foram descritos em texto; aqui foram resumidos em Baixo/Médio/Alto. Essas classificações estão assinaladas com *.
+- **O nível de risco** (C6) vem indicado explicitamente em cada ficha.
 - **S25 aparece em duas linhas**, porque a ficha compara caminhos opostos: **S25a** (manter os apoios atuais) e **S25b** (condicionar a limites de rendimento ou retirar).
+- **S33 (dados públicos)** é um instrumento: não contribui diretamente para nenhum objetivo, mas é condição para medir todos.
 
 ### Escalas
 
@@ -31,53 +32,88 @@ Objetivos (de [S1](01-objetivos-e-criterios.md)): **O1** acessibilidade · **O2*
 
 | Opção | O1 | O2 | O3 | O4 | O5 | O6 | Nota |
 |---|---|---|---|---|---|---|---|
+| **Eixo 1 — Construir mais (mercado)** | | | | | | | |
 | [S01 Licenciamento](fichas/S01-licenciamento.md) | + | ++ | 0 | 0 | 0 | 0 | Mais oferta, mas não determina o segmento |
 | [S02 Densidade junto a transportes](fichas/S02-densidade-junto-a-transportes.md) | + | ++ | 0 | 0 | 0 | 0 | Efeito depende da escala da reforma |
+| [S03 Incentivos fiscais](fichas/S03-incentivos-fiscais-a-construcao.md) | ± | + | 0 | 0 | 0 | 0 | Parte do benefício pode ir para margens e preços |
+| [S04 Construção industrializada](fichas/S04-construcao-industrializada.md) | 0 | + | 0 | 0 | 0 | 0 | Ganho de prazo mais provável do que de custo |
+| [S05 Construção para arrendamento](fichas/S05-construcao-para-arrendamento.md) | 0 | + | 0 | + | 0 | 0 | Tetos de renda altos (2.300 €) |
+| **Eixo 2 — Setor público e não lucrativo** | | | | | | | |
 | [S06 Construção pública](fichas/S06-construcao-publica.md) | + | + | ++ | + | + | 0 | Parte substitui construção privada |
 | [S07 Renda a custo](fichas/S07-renda-a-custo.md) | ++ (longo prazo) | + | ++ | ++ | 0 | 0 | Precisa de décadas para ter escala |
 | [S08 Cooperativas](fichas/S08-cooperativas.md) | + | + | + | ++ | 0 | 0 | Depende de terreno e crédito |
+| [S09 Financiamento estável](fichas/S09-financiamento-estavel.md) | + (longo prazo) | + | ++ | 0 | 0 | 0 | Condição para S06–S08 terem escala |
 | [S10 Política de solos](fichas/S10-politica-de-solos.md) | + | + | ++ | 0 | 0 | 0 | Condição para S06, S07 e S08 |
+| [S11 Quotas de habitação acessível](fichas/S11-quotas-de-habitacao-acessivel.md) | ± | 0 | + | 0 | 0 | 0 | Casas acessíveis sem despesa; preços de mercado ≈ +2% |
+| **Eixo 3 — Usar melhor o que existe** | | | | | | | |
 | [S12 Imposto sobre casas vazias](fichas/S12-imposto-casas-vazias.md) | + | + | 0 | 0 | 0 | 0 | Liberta parte da vacância de longa duração |
 | [S13 Estado intermediário](fichas/S13-estado-intermediario.md) | + | + | + (temporário) | + | + | 0 | Escala limitada pela adesão dos proprietários |
+| [S14 Reabilitação com renda acessível](fichas/S14-reabilitacao-com-renda-acessivel.md) | + | + | 0 | 0 | 0 | 0 | Adesão depende da renda exigida |
+| [S15 Heranças e propriedade incerta](fichas/S15-herancas-e-propriedade-incerta.md) | 0 | + (longo prazo) | 0 | 0 | 0 | 0 | Universo grande, mas incerto e disperso |
 | [S16 Regulação do AL](fichas/S16-regulacao-alojamento-local.md) | + (local) | + (local) | 0 | 0 | 0 | 0 | Forte nos centros e zonas turísticas; pequeno a nível nacional |
+| [S17 Mobilidade e casas subocupadas](fichas/S17-mobilidade-e-casas-subocupadas.md) | 0 | + | 0 | 0 | 0 | 0 | Voluntário; efeito pequeno |
+| **Eixo 4 — Arrendamento estável e justo** | | | | | | | |
 | [S18 Contratos longos](fichas/S18-contratos-longos.md) | 0 | − ? | 0 | ++ | 0 | 0 | Risco para a oferta não medido |
 | [S19 Limites às rendas](fichas/S19-limites-as-rendas.md) | ± | − | 0 | ++ | 0 | 0 | Ganham inquilinos atuais; perde quem procura casa |
 | [S20 Garantia de renda e justiça rápida](fichas/S20-garantia-de-renda-e-justica.md) | 0 | + ? | 0 | + | 0 | 0 | Efeito na oferta não avaliado |
 | [S21 Subsídio de renda](fichas/S21-subsidio-de-renda.md) | ± | 0 | 0 | + | + | 0 | Parte pode ser captada pelos senhorios |
-| [S27 Habitação Primeiro](fichas/S27-habitacao-primeiro.md) | 0 | 0 | 0 | 0 | ++ | 0 | Depende de haver casas disponíveis |
-| [S28 Trabalhadores essenciais](fichas/S28-trabalhadores-essenciais.md) | + (local) | 0 | 0 | 0 | 0 | 0 | Escala mínima até agora |
-| [S31 Taxa turística para habitação](fichas/S31-taxa-turistica.md) | 0 | 0 | + | 0 | 0 | 0 | Financiamento; efeito depende do uso |
-| [S32 Interior: reabilitar + emprego](fichas/S32-interior.md) | + (local) | + (local) | 0 | 0 | 0 | 0 | Casa sem emprego não fixa pessoas |
+| [S22 Residências e deslocados](fichas/S22-residencias-estudantes-e-deslocados.md) | + (local) | 0 | 0 | 0 | + | 0 | Execução do PNAES atrasada |
+| **Eixo 5 — Procura, fiscalidade e crédito** | | | | | | | |
+| [S23 Reforma do IMI e do IMT](fichas/S23-reforma-imi-imt.md) | 0 | + | 0 | 0 | 0 | + | Reforma de longo prazo; mobilidade e uso do parque |
+| [S24 Não residentes](fichas/S24-compradores-nao-residentes.md) | + (local) | 0 | 0 | 0 | 0 | 0 | ≈ 5% das compras; efeito nacional pequeno |
 | [S25a Manter apoios à compra](fichas/S25-apoios-a-compra.md) | ± | 0 | 0 | 0 | 0 | − | Ajuda quem compra; sobe preços para todos |
 | [S25b Condicionar ou retirar](fichas/S25-apoios-a-compra.md) | ± | 0 | 0 | 0 | 0 | + | Menos pressão nos preços; jovens sem poupança perdem acesso |
+| [S26 Regras prudenciais no crédito](fichas/S26-regras-prudenciais-credito.md) | ± | 0 | 0 | 0 | 0 | ++ | Protege do endividamento; dificulta a compra sem poupança |
+| **Eixo 6 — Pessoas mais vulneráveis** | | | | | | | |
+| [S27 Habitação Primeiro](fichas/S27-habitacao-primeiro.md) | 0 | 0 | 0 | 0 | ++ | 0 | Depende de haver casas disponíveis |
+| [S28 Trabalhadores essenciais](fichas/S28-trabalhadores-essenciais.md) | + (local) | 0 | 0 | 0 | 0 | 0 | Escala mínima até agora |
+| [S29 Habitação indigna e sobrelotação](fichas/S29-habitacao-indigna-e-sobrelotacao.md) | 0 | 0 | 0 | + | ++ | 0 | Fiscalizar sem realojar transfere o problema |
+| **Eixo 7 — Território e governação** | | | | | | | |
+| [S30 Planeamento metropolitano](fichas/S30-planeamento-metropolitano.md) | + (longo prazo) | + | 0 | 0 | 0 | 0 | Depende de investimento em transportes |
+| [S31 Taxa turística para habitação](fichas/S31-taxa-turistica.md) | 0 | 0 | + | 0 | 0 | 0 | Financiamento; efeito depende do uso |
+| [S32 Interior: reabilitar + emprego](fichas/S32-interior.md) | + (local) | + (local) | 0 | 0 | 0 | 0 | Casa sem emprego não fixa pessoas |
+| [S33 Dados públicos](fichas/S33-dados-publicos.md) | · | · | · | · | · | · | Instrumento: condição para medir todos os objetivos |
 
 ---
 
 ## 3. Matriz 2 — Critérios práticos
 
-| Opção | Evidência (C2) | Prazo (C3) | Custo público (C4) | Risco (C6)* | Viab. jurídica (C7) | Capacidade de execução (C8) | Transferibilidade (C9) |
+| Opção | Evidência (C2) | Prazo (C3) | Custo público (C4) | Risco (C6) | Viab. jurídica (C7) | Capacidade de execução (C8) | Transferibilidade (C9) |
 |---|---|---|---|---|---|---|---|
 | S01 Licenciamento | A / C | Curto–médio | Baixo–médio | Médio | Alta | **Desigual** | Alta |
 | S02 Densidade | B | Médio | Baixo | Médio | Alta | Média | Média |
+| S03 Incentivos fiscais | B / C | Médio | Médio–alto (receita perdida) | Médio | Alta | Alta | Alta |
+| S04 Construção industrializada | C | Médio–longo | Baixo–médio | Baixo–médio | Alta | Média | Média |
+| S05 Construção para arrendamento | D | Médio | Médio (receita perdida) | Médio | Alta | Média | Alta |
 | S06 Construção pública | C / B | Médio–longo | **Alto** | Médio–alto | Alta | Baixa–média | Média |
 | S07 Renda a custo | C | **Longo** | Alto → neutro | Médio | Alta | **Baixa** | Média |
 | S08 Cooperativas | C / D | Médio–longo | Médio | Médio | Alta | **Baixa** | Média |
+| S09 Financiamento estável | C | **Longo** | Alto (contribuição) ou neutro (fundo rotativo) | Médio | Alta | Média | Média |
 | S10 Política de solos | C | **Longo** | Médio–alto (fica ativo) | Médio | Média | Baixa–média | Média |
+| S11 Quotas | B / C | Médio | Baixo | Médio | Média | Média | Média |
 | S12 Casas vazias | B | Curto | **Receita** | Baixo–médio | Alta | Média | Alta |
 | S13 Estado intermediário | D | **Curto** | Médio | Médio | Alta | **Baixa** | Alta |
+| S14 Reabilitação com renda acessível | C | Curto–médio | Baixo (crédito) | Baixo–médio | Alta | Média | Alta |
+| S15 Heranças | D | Longo | Baixo | Médio | Média | **Baixa** | Média |
 | S16 Regulação do AL | B | Curto | Baixo | Médio | Alta | Média | Alta |
+| S17 Mobilidade | B / D | Curto–médio | Baixo | Baixo | Alta | Média | Média |
 | S18 Contratos longos | C | Curto–médio | Baixo–médio | Médio | Alta | Média | Média |
 | S19 Limites às rendas | A / B | Imediato | Baixo | **Alto** | Média | Média | Média–alta |
 | S20 Garantia e justiça rápida | C / D | Curto | Baixo | Baixo–médio | Alta | Média | Alta |
 | S21 Subsídio de renda | A / B | Curto | Médio, recorrente | Médio | Alta | Alta | Alta |
-| S27 Habitação Primeiro | **A** | Curto–médio | Médio | Baixo–médio | Alta | Média | Alta |
-| S28 Trabalhadores essenciais | D | Curto–médio | Médio | Baixo–médio | Alta | Média | Alta |
-| S31 Taxa turística | D | Curto | Neutro (realocação) | Baixo | Alta | Média | Alta |
-| S32 Interior | D | Médio | Médio | Médio | Média | **Baixa** | Média |
+| S22 Residências e deslocados | C / D | Médio | Médio | Baixo | Alta | Média | Alta |
+| S23 IMI e IMT | B | Longo | Neutro | Médio | Alta | Média | Média |
+| S24 Não residentes | C | Curto | **Receita** | Baixo | Média | Alta | Alta |
 | S25a Manter apoios | B | — | ≈ 146 M€/ano (IMT) + garantias | Médio–alto | Alta | Alta | — |
 | S25b Condicionar/retirar | B | Imediato | **Poupança** | Médio | Alta | Alta | — |
-
-\* Nível de risco agora indicado explicitamente em cada ficha (critério C6).
+| S26 Regras prudenciais | B | Curto | Nulo | Baixo | Alta | Alta | Alta |
+| S27 Habitação Primeiro | **A** | Curto–médio | Médio | Baixo–médio | Alta | Média | Alta |
+| S28 Trabalhadores essenciais | D | Curto–médio | Médio | Baixo–médio | Alta | Média | Alta |
+| S29 Habitação indigna | C / D | Curto–longo | Alto (com realojamento) | Médio | Alta | Baixa–média | Média |
+| S30 Planeamento metropolitano | C | **Longo** | Baixo (+ transportes) | Baixo | Média | **Baixa** | Média |
+| S31 Taxa turística | D | Curto | Neutro (realocação) | Baixo | Alta | Média | Alta |
+| S32 Interior | D | Médio | Médio | Médio | Média | **Baixa** | Média |
+| S33 Dados públicos | D | Curto | Baixo | Baixo | Alta | Alta | Alta |
 
 ---
 
@@ -89,24 +125,39 @@ Objetivos (de [S1](01-objetivos-e-criterios.md)): **O1** acessibilidade · **O2*
 |---|---|---|---|
 | S01 Licenciamento | Antecipa parte da fila de ≈ 49 mil fogos licenciados/ano; efeito líquido não estimável | Baixo | 1–3 anos |
 | S02 Densidade | ≈ 10–12 mil casas/ano no distrito de Lisboa, *se* repetisse Auckland | Baixo (+ infraestruturas) | 3–6 anos |
+| S03 Incentivos fiscais | 20–30 mil casas/ano abrangidas (pressuposto); parte seria construída de qualquer forma | ≈ 15–24 mil €/casa; ≈ 0,3–0,7 mil M€/ano de receita perdida | 2–4 anos |
+| S04 Construção industrializada | Capacidade; prazo de obra até metade (fonte do setor) | Baixo–médio | 3–10 anos |
+| S05 Construção para arrendamento | Desconhecido (regime de out. 2026) | Receita perdida não estimada | 3–5 anos |
 | S06 Construção pública | 59 mil até 2030 (meta); 180 mil para chegar a 5% | 9–15 mil M€ (meta); 27–45 mil M€ (5%) | 3–10 anos |
 | S07 Renda a custo | ≈ 4–5 mil casas/ano (ritmo irlandês ajustado); renda ≈ 25–30% abaixo do mercado | ≈ 15–35 mil €/casa com modelo de crédito; 150–250 mil € com subvenção total | 3–30 anos |
 | S08 Cooperativas | Dezenas a centenas de casas (pilotos) | Crédito até 80% + terreno | 5–15 anos |
+| S09 Financiamento estável | ≈ 4–8 mil casas/ano com subvenção (contribuição de 1% sobre salários); várias vezes mais com crédito | ≈ 1,0–1,2 mil M€/ano (modelo austríaco) ou neutro (fundo rotativo) | 10–30 anos |
 | S10 Política de solos | > 4.000 imóveis públicos identificados; a obra é ≤ 30% do preço em Lisboa | Médio–alto (comprar); nulo (ceder) | 5–20 anos |
+| S11 Quotas | ≈ 500–800 casas/ano em Lisboa e Porto (quota de 10%) | Baixo | 3–5 anos |
 | S12 Casas vazias | ≈ 15–20 mil casas postas em uso, *se* repetisse o efeito francês | Receita | 1–3 anos |
 | S13 Estado intermediário | Centenas a poucos milhares/ano | Até ≈ 13 mil €/casa/ano | Meses |
+| S14 Reabilitação com renda acessível | ≈ 2.500 casas/ano por cada 100 M€ de crédito | ≈ 40 mil €/casa, sobretudo crédito | 1–3 anos |
+| S15 Heranças | ≈ 12–18 mil casas se 5% das ligadas a heranças voltassem ao uso | Baixo | 3–10 anos |
 | S16 Regulação do AL | Universo ≈ 90–126 mil registos; −2 a −3% nos preços locais | Baixo | Meses–2 anos |
+| S17 Mobilidade | Não estimável | Baixo | Curto–médio |
 | S18 Contratos longos | Universo ≈ 923 mil arrendamentos; ≈ 4% usam hoje o incentivo | Baixo–médio | 1–5 anos |
 | S19 Limites às rendas | Universo ≈ 923 mil arrendamentos; ≈ 20 €/mês a menos por ano numa renda de 900 € | Baixo | Imediato |
 | S20 Garantia e justiça rápida | Garantir 100 mil contratos | ≈ 13 M€/ano antes de recuperações | 1–2 anos |
 | S21 Subsídio de renda | 100 mil agregados | ≈ 210 M€/ano | Meses |
+| S22 Residências e deslocados | ≈ 18.760 camas previstas (27% prontas em jun. 2026) | ≈ 60 mil €/cama | 2–5 anos |
+| S23 IMI e IMT | Mercado inteiro (mobilidade) | Neutro (se desenhada assim) | 10–20 anos |
+| S24 Não residentes | ≈ 5% das compras | Receita | Imediato |
+| S25 Apoios à compra | ≈ 70 mil (IMT) e ≈ 23 mil (garantia) beneficiários | ≈ 146 M€/ano (IMT) + garantias até ≥ 1.550 M€ | — |
+| S26 Regras prudenciais | Todo o crédito novo | Nulo | Imediato |
 | S27 Habitação Primeiro | ≈ 9.400 pessoas sem teto | ≈ 95–140 M€/ano brutos, parcialmente compensados | 1–5 anos |
 | S28 Trabalhadores essenciais | Experiência atual: 15 casas | ≈ 200 mil €/casa construída | Meses–5 anos |
+| S29 Habitação indigna | ≈ 26 mil famílias na AML; ≈ 137 mil carências no país (Censos 2021) | ≈ 3,9–6,5 mil M€ para realojar as famílias da AML em construção nova | Meses–10 anos |
+| S30 Planeamento metropolitano | Metas metropolitanas (Île-de-France: 70 mil/ano) | Baixo (+ transportes) | 10–30 anos |
 | S31 Taxa turística | ≈ 100–230 casas/ano (subvenção) ou ≈ 700–2.300 (crédito) | Neutro (≈ 25–35 M€/ano realocados) | 3–5 anos |
 | S32 Interior | Não estimável | Médio | 2–10 anos |
-| S25 Apoios à compra | ≈ 70 mil (IMT) e ≈ 23 mil (garantia) beneficiários | ≈ 146 M€/ano (IMT) + garantias até ≥ 1.550 M€ | — |
+| S33 Dados públicos | — (instrumento) | Baixo | 1–2 anos |
 
-**O que esta tabela acrescenta:** as medidas de **custo baixo** (S01, S02, S12, S16, S18, S19) mexem com dezenas de milhares de casas ou com o mercado inteiro, mas o seu efeito líquido na acessibilidade é incerto. As medidas **estruturais** (S06, S07) custam milhares de milhões, mas o custo **público** muda muito consoante o modelo de financiamento: com crédito de longo prazo reembolsado pelas rendas (S07), o mesmo dinheiro público pode financiar **≈ 4 a 15 vezes mais casas** do que com subvenção total (150–250 mil € ÷ 15–35 mil €; cálculo a partir dos intervalos acima).
+**O que esta tabela acrescenta:** as medidas de **custo baixo** (S01, S02, S11, S12, S16, S18, S19, S26) mexem com dezenas de milhares de casas ou com o mercado inteiro, mas o seu efeito líquido na acessibilidade é incerto. As medidas **estruturais** (S06, S07, S09) custam milhares de milhões, mas o custo **público** muda muito consoante o modelo de financiamento: com crédito de longo prazo reembolsado pelas rendas (S07, S14), o mesmo dinheiro público pode financiar **≈ 4 a 15 vezes mais casas** do que com subvenção total (150–250 mil € ÷ 15–35 mil €; cálculo a partir dos intervalos acima). O 4.º lote acrescenta uma terceira categoria: **despesa fiscal** (S03, S05), cujo custo não aparece no Orçamento como despesa, mas é da mesma ordem de grandeza (≈ 0,3–0,7 mil M€/ano só no IVA a 6%).
 
 <a id="pressupostos-comuns"></a>
 ### Pressupostos comuns
@@ -132,22 +183,37 @@ Tipos de território de [11 — Retrato territorial](../diagnostico/11-retrato-t
 |---|---|---|---|---|---|
 | S01 Licenciamento | ● | ● | ● | ● | ○ |
 | S02 Densidade | ● | ● | ○ | ● | ○ |
+| S03 Incentivos fiscais | ● | ● | ● | ● | ○ |
+| S04 Construção industrializada | ● | ● | ● | ● | ● |
+| S05 Construção para arrendamento | ● | ● | ○ | ● | ○ |
 | S06 Construção pública | ● | ● | ● | ● | ○ |
 | S07 Renda a custo | ● | ● | ● | ● | ○ |
 | S08 Cooperativas | ● | ● | ● | ● | ● |
+| S09 Financiamento estável | ● | ● | ● | ● | ● |
 | S10 Política de solos | ● | ● | ● | ●● (prioritário) | ○ |
+| S11 Quotas | ●● | ● | ● | ○ | ○ |
 | S12 Casas vazias | ● | ● | ● | ○ | ○ |
 | S13 Estado intermediário | ● | ● | ● | ● | ● |
+| S14 Reabilitação com renda acessível | ● | ○ | ● | ●● | ● |
+| S15 Heranças | ○ | ○ | ○ | ● | ●● |
 | S16 Regulação do AL | ●● | ○ | ●● | ○ | ○ |
+| S17 Mobilidade | ● | ● | ○ | ○ | ○ |
 | S18 Contratos longos | ● | ● | ● | ● | ● |
 | S19 Limites às rendas | ● | ○ | ● | ○ | ○ |
 | S20 Garantia e justiça rápida | ● | ● | ● | ● | ● |
 | S21 Subsídio de renda | ● | ● | ● | ● | ● |
+| S22 Residências e deslocados | ● | ○ | ● | ●● | ● |
+| S23 IMI e IMT | ● | ● | ● | ● | ● |
+| S24 Não residentes | ● | ○ | ●● | ○ | ○ |
+| S25 Apoios à compra | ● | ● | ● | ● | ● |
+| S26 Regras prudenciais | ● | ● | ● | ● | ● |
 | S27 Habitação Primeiro | ●● | ● | ○ | ○ | ○ |
 | S28 Trabalhadores essenciais | ● | ○ | ●● | ○ | ● |
+| S29 Habitação indigna | ●● | ● | ● | ○ | ○ |
+| S30 Planeamento metropolitano | ●● | ●● | ○ | ○ | ○ |
 | S31 Taxa turística | ● | ○ | ●● | ○ | ○ |
 | S32 Interior | ○ | ○ | ○ | ○ | ●● |
-| S25 Apoios à compra | ● | ● | ● | ● | ● |
+| S33 Dados públicos | ● | ● | ● | ● | ● |
 
 ● relevante · ●● especialmente relevante · ○ pouco relevante
 
@@ -161,47 +227,60 @@ Tipos de território de [11 — Retrato territorial](../diagnostico/11-retrato-t
 
 | | Efeito pequeno ou localizado | Efeito potencialmente grande |
 |---|---|---|
-| **Rápidas (< 3 anos)** | S12 casas vazias · S13 Estado intermediário · S16 regulação do AL · S18 contratos longos · S25b condicionar apoios | S19 limites às rendas (mas com efeitos negativos na oferta) |
-| **Lentas (> 5 anos)** | S08 cooperativas | S06 construção pública · S07 renda a custo · S10 política de solos |
-| **Intermédias** | — | S01 licenciamento · S02 densidade |
+| **Rápidas (< 3 anos)** | S12 casas vazias · S13 Estado intermediário · S14 reabilitação · S16 AL · S17 mobilidade · S18 contratos longos · S20 garantia · S24 não residentes · S25b condicionar apoios · S28 trabalhadores essenciais · S31 taxa turística · S33 dados | S19 limites às rendas (com efeitos negativos na oferta) · S21 subsídio de renda (em parte captado) · S26 regras prudenciais (para a estabilidade, não para os preços) · S27 Habitação Primeiro (para O5) |
+| **Intermédias (3–5 anos)** | S11 quotas · S22 residências · S29 habitação indigna | S01 licenciamento · S02 densidade · S03 incentivos fiscais · S05 construção para arrendamento |
+| **Lentas (> 5 anos)** | S08 cooperativas · S15 heranças · S32 interior | S04 capacidade de construir · S06 construção pública · S07 renda a custo · S09 financiamento · S10 solos · S23 IMI/IMT · S30 planeamento metropolitano |
 
-**Padrão:** nenhuma opção é ao mesmo tempo **rápida, de grande impacto e sem efeitos negativos importantes**. Isto sugere que uma resposta credível terá de **combinar** medidas de curto prazo (para aliviar) com medidas estruturais (para resolver), o que é o objeto da etapa S5.
+**Padrão:** nenhuma opção é ao mesmo tempo **rápida, de grande impacto e sem efeitos negativos importantes**. Uma resposta credível terá de **combinar** medidas de curto prazo (para aliviar) com medidas estruturais (para resolver), o que é o objeto da etapa S5.
 
 ### 5.2 A evidência mais forte está nas medidas mais pequenas
 
-| Evidência forte (A/B) | Evidência fraca (C/D) |
+| Evidência forte (A/B, pelo menos em parte) | Evidência fraca (C/D) |
 |---|---|
-| S12, S16, S19, S25, S02, S01 (efeito geral), S21, S27 | S06, S07, S08, S10, S13, S18, S20, S28, S31, S32 |
+| S01 (efeito geral), S02, S03, S11, S12, S16, S17 (efeito dos impostos na mobilidade), S19, S21, S23, S25, S26, S27 | S04, S05, S06, S07, S08, S09, S10, S13, S14, S15, S18, S20, S22, S24, S28, S29, S30, S31, S32, S33 |
 
-As medidas **estruturais** (setor público e não lucrativo, solos) têm evidência sobretudo descritiva: funcionaram em Viena, na Dinamarca ou em Zurique, mas não há estudos que isolem o seu efeito. As medidas de **regulação e fiscalidade**, mais fáceis de estudar, têm evidência forte mas efeitos mais limitados. Isto **não significa** que as estruturais funcionem pior; significa que a sua avaliação é mais difícil e que, se adotadas, devem ter **avaliação incorporada desde o início**.
+As medidas **estruturais** (setor público e não lucrativo, solos, financiamento, planeamento) têm evidência sobretudo descritiva: funcionaram em Viena, na Dinamarca, em Zurique ou em Copenhaga, mas não há estudos que isolem o seu efeito. As medidas de **regulação, fiscalidade e crédito**, mais fáceis de estudar, têm evidência mais forte mas efeitos mais limitados. Isto **não significa** que as estruturais funcionem pior; significa que a sua avaliação é mais difícil e que, se adotadas, devem ter **avaliação incorporada desde o início**.
 
 ### 5.3 Dependências e complementaridades
 
 ```
-S10 Política de solos ──► S06 Construção pública
-        │            └──► S07 Renda a custo
-        └───────────────► S08 Cooperativas
-S01 Licenciamento ◄─────► S02 Densidade      (uma sem a outra rende pouco)
+S09 Financiamento ──┬──► S06 Construção pública
+S10 Política de solos ─┼──► S07 Renda a custo
+                    └──► S08 Cooperativas
+S04 Capacidade de construir ──► S06, S07, S08, S03 (sem mão de obra, os incentivos rendem pouco)
+S01 Licenciamento ◄─────► S02 Densidade ◄──── S30 Planeamento metropolitano
+S11 Quotas ◄────────────► S02 Densidade      (mais área de construção como contrapartida)
+S15 Heranças ──► S14 Reabilitação ──► S13 Estado intermediário
 S12 Casas vazias ───────► S13 Estado intermediário   (o imposto empurra, o intermediário recebe)
-S18 Contratos longos ◄──► S20 Garantia e justiça rápida   (S20 ainda sem ficha)
+S18 Contratos longos ◄──► S20 Garantia e justiça rápida
+S27 Habitação Primeiro ◄── S06, S13 (precisa de casas disponíveis)
+S33 Dados públicos ─────► todas (condição para avaliar)
 ```
 
-- **S10 é uma condição** para que S06, S07 e S08 sejam viáveis nas zonas de pressão: sem terreno barato, a habitação pública e cooperativa fica cara.
+- **S09 e S10 são condições** para que S06, S07 e S08 sejam viáveis: sem financiamento estável e terreno barato, a habitação pública e cooperativa fica cara ou para quando acaba o programa.
 - **S12 + S13**: um imposto sobre casas vazias com a alternativa de as entregar a um programa público dá ao proprietário uma "saída".
+- **S15 → S14 → S13**: muitas casas vazias só podem ser reabilitadas e arrendadas depois de resolvida a propriedade.
 
 ### 5.4 Conflitos entre opções e objetivos
 
-- **S19 (limites às rendas)** conflitua com **O2 (oferta)**, e potencialmente com S01/S02, se reduzir o interesse em construir para arrendar.
-- **S25a (manter apoios)** conflitua com **O1** para quem não é apoiado e com **O6 (estabilidade)**.
+- **S19 (limites às rendas)** conflitua com **O2 (oferta)**, e potencialmente com S01/S02/S05, se reduzir o interesse em construir para arrendar.
+- **S25a (manter apoios)** conflitua com **O1** para quem não é apoiado, com **O6 (estabilidade)** e com **S26**: a garantia pública permite crédito a 100%, contornando o limite prudencial de 90%.
 - **S18 (contratos longos)** pode conflituar com **O2** se não houver contrapartidas para os proprietários.
+- **S03 e S05** usam um teto de renda de 2.300 €/mês: ajudam a oferta (O2), mas pouco a acessibilidade (O1) das famílias de rendimento médio e baixo.
+- **S11 (quotas)** transfere parte do custo das casas acessíveis para os outros compradores (preços ≈ +2% nos EUA).
+- **S29 (fiscalizar a sobrelotação)** pode agravar O5 se não houver realojamento.
 
 ### 5.5 A capacidade de execução é o estrangulamento comum
 
-As opções com maior potencial estrutural (S06, S07, S08, S10, S13) têm **capacidade de execução baixa** em Portugal hoje. Os atrasos do PRR, a suspensão do "Arrendar para Subarrendar" e a falta de mão de obra apontam no mesmo sentido ([06](../diagnostico/06-politicas-publicas.md), [02](../diagnostico/02-oferta-e-construcao.md)). Isto sugere que **criar capacidade** (entidades gestoras, técnicos municipais, financiamento estável) pode ser uma condição prévia, não uma opção entre outras.
+As opções com maior potencial estrutural (S06, S07, S08, S10, S13, S30) têm **capacidade de execução baixa** em Portugal hoje. Os atrasos do PRR e do PNAES, a suspensão do "Arrendar para Subarrendar" e a falta de mão de obra apontam no mesmo sentido ([06](../diagnostico/06-politicas-publicas.md), [02](../diagnostico/02-oferta-e-construcao.md)). O 4.º lote confirma este padrão: três das novas opções são, elas próprias, **instrumentos de capacidade**: mão de obra e industrialização ([S04](fichas/S04-construcao-industrializada.md)), financiamento estável ([S09](fichas/S09-financiamento-estavel.md)) e dados para avaliar ([S33](fichas/S33-dados-publicos.md)). Criar capacidade parece ser uma **condição prévia**, não uma opção entre outras.
 
 ### 5.6 O interior está mal servido
 
-O 3.º lote acrescentou a primeira opção pensada para o **interior (E)**, [S32](fichas/S32-interior.md), mas com evidência **D**: os programas de casas baratas no Japão e em Itália atraíram sobretudo segundas habitações. O interior continua a ser o território com **menos evidência** sobre o que funciona.
+O interior (**E**) tem agora três opções com relevância especial ([S32](fichas/S32-interior.md), [S15](fichas/S15-herancas-e-propriedade-incerta.md), [S14](fichas/S14-reabilitacao-com-renda-acessivel.md)), mas todas com evidência **C ou D**. Os programas de casas baratas no Japão e em Itália atraíram sobretudo segundas habitações. O interior continua a ser o território com **menos evidência** sobre o que funciona.
+
+### 5.7 Muitas medidas já estão em vigor, mas sem avaliação prevista
+
+Seis das opções avaliadas foram adotadas ou revistas em Portugal entre 2024 e 2026: IVA a 6% e benefícios fiscais ([S03](fichas/S03-incentivos-fiscais-a-construcao.md)), Contratos de Investimento para Arrendamento ([S05](fichas/S05-construcao-para-arrendamento.md)), IMT de 7,5% para não residentes ([S24](fichas/S24-compradores-nao-residentes.md)), apoios à compra para jovens ([S25](fichas/S25-apoios-a-compra.md)), novas regras prudenciais ([S26](fichas/S26-regras-prudenciais-credito.md)) e Simplex Urbanístico ([S01](fichas/S01-licenciamento.md)). Nenhuma tem, que se saiba, uma **avaliação independente prevista**. Sem ela ([S33](fichas/S33-dados-publicos.md)), será difícil saber dentro de três anos se resultaram.
 
 ---
 
@@ -211,34 +290,35 @@ O 3.º lote acrescentou a primeira opção pensada para o **interior (E)**, [S32
 
 | Perfil | O que valoriza mais | Opções que sobem | Opções que descem |
 |---|---|---|---|
-| **"Alívio imediato"** | Prazo curto, acessibilidade já (O1), baixo custo | S12, S13, S16, S19, S25b | S07, S10, S08 (lentas) |
-| **"Mais oferta"** | Oferta (O2), baixo risco para o investimento, evidência forte | S01, S02, S12, S25b | S19, S18 (risco para a oferta) |
-| **"Alternativa ao mercado"** | Setor não lucrativo (O3), segurança (O4), efeito de longo prazo | S07, S10, S06, S08, S18 | S25a, S01/S02 sem condicionantes |
+| **"Alívio imediato"** | Prazo curto, acessibilidade já (O1), baixo custo | S12, S13, S16, S19, S21, S24, S25b, S27, S29 | S07, S09, S10, S08, S23, S30 (lentas) |
+| **"Mais oferta"** | Oferta (O2), baixo risco para o investimento, evidência forte | S01, S02, S03, S04, S05, S12, S14, S23, S25b | S19, S18, S11 (risco para o investimento) |
+| **"Alternativa ao mercado"** | Setor não lucrativo (O3), segurança (O4), efeito de longo prazo | S06, S07, S08, S09, S10, S11, S18, S30 | S25a, S03/S05 com tetos altos, S01/S02 sem condicionantes |
 
-Algumas opções aparecem bem colocadas em **mais de um perfil**: **S12** (casas vazias) e **S25b** (condicionar apoios) nos dois primeiros; **S10** (solos) é condição para o terceiro e compatível com o segundo. Estas opções podem ser pontos de **consenso mais fácil**; as que aparecem num perfil e descem noutro (S19, S25a) são as que exigem **escolha política explícita**.
+Algumas opções aparecem bem colocadas em **mais de um perfil**: **S12** (casas vazias) e **S25b** (condicionar apoios) nos dois primeiros; **S10** (solos) e **S14** (reabilitação com crédito) são compatíveis com o segundo e o terceiro; **S33** (dados) e **S26** (regras prudenciais) não descem em nenhum. Estas podem ser pontos de **consenso mais fácil**. As que aparecem num perfil e descem noutro (S19, S25a, S11, S03) são as que exigem **escolha política explícita**.
 
 ---
 
-## 7. O método funciona? Lições desta versão preliminar
+## 7. O método funciona? Lições
 
 | O que funcionou | O que precisa de melhorar |
 |---|---|
-| Ver as opções lado a lado revela padrões que as fichas isoladas não mostram (5.1–5.6) | **Falta ordem de grandeza.** "Impacto médio" não diz quantas casas nem quanto custa por casa. As próximas fichas devem incluir uma estimativa (casas/ano, custo/casa), mesmo que grosseira |
-| Os conflitos entre objetivos ficam visíveis (S19, S25a) | **C5 (distribuição)** não cabe numa célula; mantém-se só nas fichas |
-| Não somar critérios evita impor pesos | Classificações como "Médio" escondem incerteza; seria útil indicar **intervalos** |
-| A matriz territorial mostra lacunas (interior) | Algumas classificações tiveram de ser **derivadas** do texto (risco); as fichas devem passar a classificá-las explicitamente |
+| Ver as opções lado a lado revela padrões que as fichas isoladas não mostram (5.1–5.7) | **C5 (distribuição)** não cabe numa célula; mantém-se só nas fichas |
+| Os conflitos entre objetivos ficam visíveis (S19, S25a, S26, S11) | Classificações como "Médio" escondem incerteza; seria útil indicar **intervalos** |
+| Não somar critérios evita impor pesos | Várias ordens de grandeza assentam em pressupostos próprios ([Q14](../referencias/questoes-em-aberto.md#q14), [Q16](../referencias/questoes-em-aberto.md#q16)) |
+| A matriz territorial mostra lacunas (interior) | As fichas do 4.º lote são mais curtas e assentam em menos fontes; precisam de revisão editorial como a do 1.º lote |
 
 **Alterações ao método:**
-1. ✅ Campo **"Ordem de grandeza"** e nível de **risco** explícito acrescentados ao [modelo de ficha](fichas/_modelo.md) e às 12 fichas existentes (ver [Matriz 2b](#3b-matriz-2b--ordens-de-grandeza)).
-2. ⏳ Na versão final (33 opções), acrescentar as **dependências** de forma sistemática (matriz opção × opção).
-3. ⏳ Substituir pressupostos próprios por dados oficiais quando disponíveis (custo por casa do IHRU, prazos de licenciamento).
+1. ✅ Campo **"Ordem de grandeza"** e nível de **risco** explícito em todas as fichas (ver [Matriz 2b](#3b-matriz-2b--ordens-de-grandeza)).
+2. 🔄 **Dependências** entre opções: primeira versão no diagrama 5.3; falta uma matriz opção × opção completa.
+3. ⏳ Substituir pressupostos próprios por dados oficiais quando disponíveis (custo por casa do IHRU, prazos de licenciamento, massa salarial).
+4. ⏳ Revisão editorial dos lotes 2 a 4 com a lista de verificação do [modelo](fichas/_modelo.md).
 
 ---
 
 ## 8. Próximo passo
 
-Esta avaliação prepara a etapa **[S5 — Pacotes e cenários](04-pacotes-e-cenarios.md)**: combinar opções complementares em pacotes coerentes, por horizonte temporal e tipo de território, e explicitar os conflitos que cada pacote implica.
+Esta avaliação alimenta a etapa **[S5 — Pacotes e cenários](04-pacotes-e-cenarios.md)**, agora com as 33 opções, e prepara a etapa **S6 — Consulta pública**.
 
 ---
 
-Base: fichas [S01](fichas/S01-licenciamento.md), [S02](fichas/S02-densidade-junto-a-transportes.md), [S06](fichas/S06-construcao-publica.md), [S07](fichas/S07-renda-a-custo.md), [S08](fichas/S08-cooperativas.md), [S10](fichas/S10-politica-de-solos.md), [S12](fichas/S12-imposto-casas-vazias.md), [S13](fichas/S13-estado-intermediario.md), [S16](fichas/S16-regulacao-alojamento-local.md), [S18](fichas/S18-contratos-longos.md), [S19](fichas/S19-limites-as-rendas.md), [S25](fichas/S25-apoios-a-compra.md), [S20](fichas/S20-garantia-de-renda-e-justica.md), [S21](fichas/S21-subsidio-de-renda.md), [S27](fichas/S27-habitacao-primeiro.md), [S28](fichas/S28-trabalhadores-essenciais.md), [S31](fichas/S31-taxa-turistica.md), [S32](fichas/S32-interior.md)
+Base: as 33 fichas listadas no [roteiro](README.md#fichas-disponíveis-1º-lote) e no [catálogo](02-catalogo-de-opcoes.md).
