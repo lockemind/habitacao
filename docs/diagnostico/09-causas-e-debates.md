@@ -76,7 +76,7 @@ Este documento é **interpretativo**. Junta os dados dos documentos anteriores e
 
 **Evidência: forte nos efeitos de longo prazo.**
 
-- O congelamento português (1948–2012) contribuiu para a degradação dos centros e para um mercado de arrendamento residual [F42](../referencias/fontes.md#f42).
+- O congelamento português (de 1910 a 2012, com intermitências) contribuiu para a degradação dos centros e para um mercado de arrendamento residual [F42](../referencias/fontes.md#f42), [F177](../referencias/fontes.md#f177).
 - O caso catalão mostra rendas um pouco mais baixas mas uma queda de ≈ 36% nos novos contratos [F55](../referencias/fontes.md#f55).
 
 **Onde há discordância:** formas **moderadas** de regulação (limites aos aumentos dentro do mesmo contrato, contratos mais longos) têm custos bem menores do que um congelamento. A esquerda parlamentar defende-as; o Governo e a direita preferem liberalizar (revisão do NRAU 2026). Detalhe em [05 — Arrendamento](05-arrendamento-e-historia-legal.md) e [08 — Espanha](08-comparacao-internacional.md#espanha).

@@ -185,7 +185,8 @@ Dos 18 números verificados no diagnóstico, **4 estavam errados ou desatualizad
 
 - **Censos 2021:** 5.970.677 alojamentos clássicos e 723.215 vagos. Os resultados provisórios dão 723.214 vagos e 5.981.482 alojamentos no total (incluindo não clássicos), o que é consistente, mas não se encontrou o quadro definitivo.
 - **≈ 255 mil contratos com rendas antigas:** continua a ser uma estimativa de uma associação de proprietários (fonte interessada).
-- **Lei 2030 de 1948** e período de 1974–1985 ([Q06](questoes-em-aberto.md#q06)): por documentar.
+- **Período de 1974–1985** ([Q06](questoes-em-aberto.md#q06)): por documentar, exceto o alargamento do congelamento a todo o país em 1974 (diploma por identificar).
+- **Lei 2030 de 1948** (verificada depois): o capítulo 05 dizia que a lei "congela as rendas em Lisboa e Porto". **Era incompleto:** o congelamento vinha de 1910; a lei *manteve-o* em Lisboa e Porto e **permitiu atualizações no resto do país** com base no valor matricial. Corrigido em [05](../diagnostico/05-arrendamento-e-historia-legal.md), na [cronologia](../diagnostico/10-cronologia.md), em [09](../diagnostico/09-causas-e-debates.md) e em [S19](../solucoes/fichas/S19-limites-as-rendas.md) ([F177](fontes.md#f177)). Não foi possível ler o artigo da RCAAP citado em F42 (PDF sem texto extraível).
 - **Turismo** (29,9 milhões de hóspedes) e **registos de AL** em Lisboa e Porto: não verificados nesta fase.
 
 ### Estudo do ISCTE sobre a isenção de IMT para jovens

@@ -14,7 +14,7 @@
 
 | Geração | Em que consiste | Exemplo |
 |---|---|---|
-| **1.ª — Congelamento** | A renda nominal fica fixa durante anos ou décadas | Portugal 1948–1990 (contratos antigos) |
+| **1.ª — Congelamento** | A renda nominal fica fixa durante anos ou décadas | Portugal 1910–1990 (contratos antigos) |
 | **2.ª — Travão** | Limita a renda de novos contratos e/ou as subidas durante o contrato, normalmente por referência a um índice ou a uma renda de referência | Alemanha (*Mietpreisbremse*), Irlanda, Catalunha |
 | **3.ª — Estabilização dentro do contrato** | Renda livre na entrada; aumentos limitados enquanto o inquilino lá vive | Vários estados dos EUA, Escócia |
 
@@ -45,7 +45,7 @@
 | **Irlanda** (zonas de pressão, RPZ) | 2016–2025 | Aumentos limitados a 2% ou à inflação | **Eficaz** para quem já arrenda (≈ 1,3–1,7%/ano vs. 3,5–4% fora das zonas); mas **queda da oferta privada** e da construção; incumprimento em mais de 1/5 dos contratos | Causal (ESRI) | [F86](../../referencias/fontes.md#f86) |
 | **Berlim** (*Mietendeckel*) | 2020–2021 | Congelamento e tetos às rendas | Rendas anunciadas **caíram**; a **oferta caiu significativamente**, em parte de forma permanente; **rendas subiram** nos municípios vizinhos. Anulado em 2021 pelo Tribunal Constitucional alemão por falta de competência legislativa de Berlim | Causal | [F84](../../referencias/fontes.md#f84) |
 | **Catalunha** | Desde 2024 | Tetos em zonas tensionadas | Rendas −3,7% (−6,4% em Barcelona); **novos contratos −36%** (2021–2025); fuga para arrendamento de temporada | Descritiva | [F55](../../referencias/fontes.md#f55) |
-| **Portugal** | 1948–1990 (efeitos até 2012 e hoje) | Congelamento (1.ª geração) | Associado à degradação dos centros históricos e a um mercado de arrendamento residual; ≈ 255 mil contratos antigos ainda hoje (estimativa de parte interessada) | Histórica | [F42](../../referencias/fontes.md#f42), [F43](../../referencias/fontes.md#f43) |
+| **Portugal** | 1910–1990, com intermitências (efeitos até 2012 e hoje) | Congelamento (1.ª geração) | Associado à degradação dos centros históricos e a um mercado de arrendamento residual; ≈ 255 mil contratos antigos ainda hoje (estimativa de parte interessada) | Histórica | [F42](../../referencias/fontes.md#f42), [F43](../../referencias/fontes.md#f43), [F177](../../referencias/fontes.md#f177) |
 
 ---
 
@@ -150,4 +150,4 @@ Ordenadas da menos à mais intervencionista:
 
 ---
 
-Fontes: [F42](../../referencias/fontes.md#f42), [F43](../../referencias/fontes.md#f43), [F55](../../referencias/fontes.md#f55), [F82](../../referencias/fontes.md#f82), [F83](../../referencias/fontes.md#f83), [F84](../../referencias/fontes.md#f84), [F85](../../referencias/fontes.md#f85), [F86](../../referencias/fontes.md#f86), [F92](../../referencias/fontes.md#f92), [F93](../../referencias/fontes.md#f93), [F94](../../referencias/fontes.md#f94)
+Fontes: [F42](../../referencias/fontes.md#f42), [F43](../../referencias/fontes.md#f43), [F55](../../referencias/fontes.md#f55), [F82](../../referencias/fontes.md#f82), [F83](../../referencias/fontes.md#f83), [F84](../../referencias/fontes.md#f84), [F85](../../referencias/fontes.md#f85), [F86](../../referencias/fontes.md#f86), [F92](../../referencias/fontes.md#f92), [F93](../../referencias/fontes.md#f93), [F94](../../referencias/fontes.md#f94), [F177](../../referencias/fontes.md#f177)

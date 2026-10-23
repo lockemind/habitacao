@@ -1022,3 +1022,8 @@ https://www.aiccopn.pt/wp-content/uploads/2021/10/PI_20dez20117.pdf
 <a id="f176"></a>
 **F176** — Eurostat, EU-SILC: taxa de sobrecarga com custos de habitação por regime de ocupação (`ilc_lvho07c`), Portugal e UE-27, 2023–2025 (consulta à API em 23-10-2026). Primária ●●●
 https://ec.europa.eu/eurostat/databrowser/view/ilc_lvho07c/default/table
+
+<a id="f177"></a>
+**F177** — História do congelamento de rendas antes de 1990: DN, *118 anos de rendas congeladas* (02-06-2018), para 1910, 1948, 1966 e 1974; Aires Loureiro, "As bases filosóficas da Reforma", *Revista Portuguesa de Direito do Consumo*, n.º 47 (2006), para a Lei n.º 2030, de 22-06-1948 ("firmou o congelamento de rendas em Lisboa e Porto, admitindo actualizações no resto do país"). Secundária (imprensa) + secundária (jurídica) ●●○
+https://www.dn.pt/portugal/118-anos-de-rendas-congeladas-9403346.html
+https://vlex.pt/vid/bases-filosoficas-reforma-223350217

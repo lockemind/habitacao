@@ -12,8 +12,10 @@ O arrendamento português foi moldado por décadas de **congelamento de rendas**
 
 | Ano | Diploma | O que fez | Fonte |
 |---|---|---|---|
-| **1948** | Lei 2030 | Congela na prática as rendas em **Lisboa e Porto**: as avaliações dos imóveis ficam congeladas, impedindo atualizações | [F42](../referencias/fontes.md#f42) |
-| 1974–1985 | (pós-25 de Abril) | Manutenção e extensão do congelamento; atualizações limitadas. *Detalhe por documentar* — ver [questões em aberto](../referencias/questoes-em-aberto.md#q06) | — |
+| **1910** | (pós-5 de Outubro) | Primeiro congelamento das rendas, logo após a proclamação da República, por um ano. Seguem-se sucessivas prorrogações e alterações | [F177](../referencias/fontes.md#f177) |
+| **1948** | Lei 2030 | Mantém o congelamento em **Lisboa e Porto**: aí as avaliações fiscais dos imóveis deixam de ser feitas, o que impede atualizar as rendas. No resto do país, permite atualizações graduais com base no valor matricial | [F177](../referencias/fontes.md#f177) |
+| 1966 | Código Civil | Mantém o congelamento em Lisboa e Porto | [F177](../referencias/fontes.md#f177) |
+| 1974–1985 | (pós-25 de Abril) | Em 1974, a suspensão das avaliações fiscais é alargada a **todo o país**. Manutenção do congelamento; atualizações limitadas. *Restante detalhe por documentar* — ver [questões em aberto](../referencias/questoes-em-aberto.md#q06) | [F177](../referencias/fontes.md#f177) |
 | **1990** | RAU (DL 321-B/90) | Liberaliza as rendas dos **novos** contratos, mas não atualiza os contratos anteriores. Nasce a divisão entre "rendas antigas" e mercado livre | [F42](../referencias/fontes.md#f42) |
 | **2006** | NRAU (Lei 6/2006) | Prevê a transição das rendas antigas para valor de mercado em até 10 anos, com subsídio para inquilinos pobres e idosos. O subsídio **não chegou a ser aplicado** | [F42](../referencias/fontes.md#f42) |
 | **2012** | "Lei Cristas" (Lei 31/2012) | Revisão do NRAU sob pressão da *troika*: renda dos contratos antigos atualizável até **1/15 do valor patrimonial**; contratos mais curtos; despejo mais rápido (Balcão Nacional do Arrendamento). O descongelamento integral foi sendo **sucessivamente adiado** | [F42](../referencias/fontes.md#f42) |

@@ -33,7 +33,7 @@ Afeta: [02](../diagnostico/02-oferta-e-construcao.md).
 
 <a id="q06"></a>
 ### Q06 — Regime das rendas entre 1974 e 1990
-O período pós-25 de Abril está por documentar (congelamentos, ocupações, legislação de 1974–1985).
+O período pós-25 de Abril está por documentar (ocupações, legislação de 1974–1985). Sabe-se que em 1974 a suspensão das avaliações fiscais, até então só em Lisboa e Porto, foi alargada a todo o país [F177](fontes.md#f177); falta identificar o diploma.
 Afeta: [05](../diagnostico/05-arrendamento-e-historia-legal.md).
 
 <a id="q07"></a>

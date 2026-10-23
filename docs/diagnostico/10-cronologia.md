@@ -6,7 +6,9 @@ Cada entrada liga ao documento onde o tema é tratado e à fonte.
 
 | Data | Acontecimento | Documento | Fonte |
 |---|---|---|---|
-| 1948 | Lei 2030: congelamento das rendas em Lisboa e Porto | [05](05-arrendamento-e-historia-legal.md) | [F42](../referencias/fontes.md#f42) |
+| 1910 | Primeiro congelamento das rendas, após a proclamação da República | [05](05-arrendamento-e-historia-legal.md) | [F177](../referencias/fontes.md#f177) |
+| 1948 | Lei 2030: mantém o congelamento em Lisboa e Porto; permite atualizações no resto do país | [05](05-arrendamento-e-historia-legal.md) | [F177](../referencias/fontes.md#f177) |
+| 1974 | Congelamento alargado a todo o país (suspensão das avaliações fiscais) | [05](05-arrendamento-e-historia-legal.md) | [F177](../referencias/fontes.md#f177) |
 | 1976 | Constituição consagra o direito à habitação (art. 65.º) | [06](06-politicas-publicas.md) | [F49](../referencias/fontes.md#f49) |
 | 1990 | RAU liberaliza rendas dos novos contratos; nascem as "rendas antigas" | [05](05-arrendamento-e-historia-legal.md) | [F42](../referencias/fontes.md#f42) |
 | início 2000s | Pico de construção | [02](02-oferta-e-construcao.md) | [F25](../referencias/fontes.md#f25) |
