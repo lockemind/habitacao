@@ -606,7 +606,7 @@ https://www.parliament.scot/chamber-and-committees/research-prepared-for-parliam
 https://www.scottishhousingnews.com/articles/professor-douglas-robertson-scotlands-re-regulated-private-rented-sector
 
 <a id="f113"></a>
-**F113** — Alemanha, contratos sem termo, *Indexmiete* e *Staffelmiete* (BGB §§ 557a, 557b, 558): IW Köln, *Kurzbericht 2025 — Indexmieten*; Global Property Guide, *Germany Rental Laws*. Primária (instituto económico) + secundária ●●○
+**F113** — Alemanha, contratos sem termo, *Indexmiete* e *Staffelmiete* (BGB §§ 557a, 557b, 558): IW Köln, *Kurzbericht 2025 — Indexmieten*; Global Property Guide, *Germany Rental Laws*. Primária (instituto económico ligado às associações empresariais alemãs; posicionado) + secundária ●●○
 https://www.iwkoeln.de/fileadmin/user_upload/Studien/Kurzberichte/PDF/2025/IW-Kurzbericht_2025-Indexmieten.pdf
 https://www.globalpropertyguide.com/europe/germany/Landlord-and-Tenant
 
@@ -690,7 +690,7 @@ https://www.idealista.pt/news/node/31615
 ### S20 — Garantia de renda e justiça rápida
 
 <a id="f127"></a>
-**F127** — França, garantia Visale (Action Logement): Action Logement, *Visale, 10 ans de confiance* (2 milhões de garantias em julho de 2026); Cafpi, *La Garantie Visale dépasse le million de contrats signés*. Primária (operador) ●●○
+**F127** — França, garantia Visale (Action Logement): Action Logement, *Visale, 10 ans de confiance* (2 milhões de garantias em julho de 2026); Cafpi, *La Garantie Visale dépasse le million de contrats signés*. Primária (operador do programa; interessado) ●●○
 https://www.actionlogement.fr/proprietaire-bailleur/actualites/visale-10-ans-de-confiance
 https://www.cafpi.fr/credit-immobilier/actualites/la-garantie-visale-depasse-le-million-de-contrats-signes
 
@@ -709,7 +709,7 @@ https://www.communitycare.co.uk/?p=54232
 https://forbes.es/en/balearic/979170/the-new-housing-development-for-public-sector-employees-in-ibiza/
 
 <a id="f130"></a>
-**F130** — Portugal, casas para professores e médicos deslocados: Postal do Algarve, *Só 15 dos 388 professores selecionados para 11 casas com renda acessível em Lisboa e Portimão* (2026); *Albufeira disponibiliza T2 para atrair médicos e assegurar urgência 24 horas*. Secundária ●●○
+**F130** — Portugal, casas para professores e médicos deslocados: Postal do Algarve, *Só 15 dos 388 professores selecionados para 11 casas com renda acessível em Lisboa e Portimão* (28-09-2023: 388 candidatos, 15 selecionados, 11 apartamentos, 29 casas protocoladas); *Albufeira disponibiliza T2 para atrair médicos e assegurar urgência 24 horas*. Secundária ●●○
 https://postal.pt/nacional/so-15-dos-388-professores-selecionados-para-11-casas-com-renda-acessivel-em-lisboa-e-portimao/
 https://postal.pt/edicaopapel/albufeira-disponibiliza-t2-para-atrair-medicos-e-assegurar-urgencia-24-horas/
 
@@ -958,3 +958,11 @@ https://www.banquedesterritoires.fr/les-observatoires-locaux-des-loyers-ont-livr
 **F168** — INE, estatísticas de rendas: idealista, *Novas medidas da habitação levam INE a suspender divulgação de rendas* (2025); idealista, *INE volta a divulgar dados de rendas de casas e contratos: o que muda?* (jun. 2026). Secundária a citar o INE ●●○
 https://www.idealista.pt/news/node/71915
 https://www.idealista.pt/news/node/76237
+
+### Revisão editorial dos lotes 2 a 4
+
+<a id="f169"></a>
+**F169** — França, ensaio aleatório *Un chez-soi d'abord* (2011–2016; 703 participantes em Marselha, Lille, Toulouse e Paris): Prescrire, síntese dos resultados; Tinland, A. et al., *Social Science & Medicine* 265 (2020); *European Journal of Homelessness* 15(3), 2021. Primária (académica) ●●●
+https://prescrire.org/Fr/0432186440C518AD6B0D8F2D3BF8E263/Download.aspx
+https://ideas.repec.org/a/eee/socmed/v265y2020ics0277953620307000.html
+https://www.feantsa.org/public/user/Observatory/2021/EJH_15-3/EJH_15-3_A1_Rev.pdf
